@@ -1,0 +1,4221 @@
+﻿
+itm_no_item|INVALID ITEM 
+itm_no_item_pl|INVALID ITEM 
+itm_tutorial_spear|矛 
+itm_tutorial_spear_pl|矛 
+itm_tutorial_club|木 棒 
+itm_tutorial_club_pl|木 棒 
+itm_tutorial_battle_axe|战 斗 斧 
+itm_tutorial_battle_axe_pl|战 斗 斧 
+itm_tutorial_arrows|箭 
+itm_tutorial_arrows_pl|箭 
+itm_tutorial_bolts|弩 矢 
+itm_tutorial_bolts_pl|弩 矢 
+itm_tutorial_short_bow|短 弓 
+itm_tutorial_short_bow_pl|短 弓 
+itm_tutorial_crossbow|弩 
+itm_tutorial_crossbow_pl|弩 
+itm_tutorial_throwing_daggers|飞 刀 
+itm_tutorial_throwing_daggers_pl|飞 刀 
+itm_tutorial_saddle_horse|旅 行 马 
+itm_tutorial_saddle_horse_pl|旅 行 马 
+itm_tutorial_shield|筝 形 盾 
+itm_tutorial_shield_pl|筝 形 盾 
+itm_tutorial_staff_no_attack|杖 
+itm_tutorial_staff_no_attack_pl|杖 
+itm_tutorial_staff|杖 
+itm_tutorial_staff_pl|杖 
+itm_tutorial_sword|剑 
+itm_tutorial_sword_pl|剑 
+itm_tutorial_axe|斧 
+itm_tutorial_axe_pl|斧 
+itm_tutorial_dagger|匕 首 
+itm_tutorial_dagger_pl|匕 首 
+itm_horse_meat|马 肉 
+itm_horse_meat_pl|马 肉 
+itm_practice_sword|练 习 剑 
+itm_practice_sword_pl|练 习 剑 
+itm_heavy_practice_sword|重 型 练 习 剑 
+itm_heavy_practice_sword_pl|重 型 练 习 剑 
+itm_practice_dagger|练 习 匕 首 
+itm_practice_dagger_pl|练 习 匕 首 
+itm_practice_axe|练 习 斧 
+itm_practice_axe_pl|练 习 斧 
+itm_arena_axe|斧 
+itm_arena_axe_pl|斧 
+itm_arena_sword|剑 
+itm_arena_sword_pl|剑 
+itm_arena_sword_two_handed|双 手 剑 
+itm_arena_sword_two_handed_pl|双 手 剑 
+itm_arena_lance|骑 枪 
+itm_arena_lance_pl|骑 枪 
+itm_practice_staff|练 习 杖 
+itm_practice_staff_pl|练 习 杖 
+itm_practice_lance|练 习 骑 枪 
+itm_practice_lance_pl|练 习 骑 枪 
+itm_practice_shield|练 习 盾 
+itm_practice_shield_pl|练 习 盾 
+itm_practice_bow|练 习 弓 
+itm_practice_bow_pl|练 习 弓 
+itm_practice_crossbow|练 习 弩 
+itm_practice_crossbow_pl|练 习 弩 
+itm_practice_javelin|练 习 标 枪 
+itm_practice_javelin_pl|练 习 标 枪 
+itm_practice_javelin_melee|练 习 近 战 标 枪 
+itm_practice_javelin_melee_pl|练 习 近 战 标 枪 
+itm_practice_throwing_daggers|飞 刀 
+itm_practice_throwing_daggers_pl|飞 刀 
+itm_practice_throwing_daggers_100_amount|飞 刀 
+itm_practice_throwing_daggers_100_amount_pl|飞 刀 
+itm_practice_horse|练 习 马 
+itm_practice_horse_pl|练 习 马 
+itm_practice_arrows|练 习 箭 
+itm_practice_arrows_pl|练 习 箭 
+itm_practice_bolts|练 习 弩 矢 
+itm_practice_bolts_pl|练 习 弩 矢 
+itm_practice_arrows_10_amount|练 习 箭 
+itm_practice_arrows_10_amount_pl|练 习 箭 
+itm_practice_arrows_100_amount|练 习 箭 
+itm_practice_arrows_100_amount_pl|练 习 箭 
+itm_practice_bolts_9_amount|练 习 弩 矢 
+itm_practice_bolts_9_amount_pl|练 习 弩 矢 
+itm_practice_boots|训 练 靴 
+itm_practice_boots_pl|训 练 靴 
+itm_red_tourney_armor|红 色 竞 技 甲 
+itm_red_tourney_armor_pl|红 色 竞 技 甲 
+itm_blue_tourney_armor|蓝 色 竞 技 甲 
+itm_blue_tourney_armor_pl|蓝 色 竞 技 甲 
+itm_green_tourney_armor|绿 色 竞 技 甲 
+itm_green_tourney_armor_pl|绿 色 竞 技 甲 
+itm_gold_tourney_armor|金 色 竞 技 甲 
+itm_gold_tourney_armor_pl|金 色 竞 技 甲 
+itm_red_tourney_helmet|红 色 竞 技 盔 
+itm_red_tourney_helmet_pl|红 色 竞 技 盔 
+itm_blue_tourney_helmet|蓝 色 竞 技 盔 
+itm_blue_tourney_helmet_pl|蓝 色 竞 技 盔 
+itm_green_tourney_helmet|绿 色 竞 技 盔 
+itm_green_tourney_helmet_pl|绿 色 竞 技 盔 
+itm_gold_tourney_helmet|金 色 竞 技 盔 
+itm_gold_tourney_helmet_pl|金 色 竞 技 盔 
+itm_arena_shield_red|盾 
+itm_arena_shield_red_pl|盾 
+itm_arena_shield_blue|盾 
+itm_arena_shield_blue_pl|盾 
+itm_arena_shield_green|盾 
+itm_arena_shield_green_pl|盾 
+itm_arena_shield_yellow|盾 
+itm_arena_shield_yellow_pl|盾 
+itm_arena_armor_white|白 色 竞 技 甲 
+itm_arena_armor_white_pl|白 色 竞 技 甲 
+itm_arena_armor_red|红 色 竞 技 甲 
+itm_arena_armor_red_pl|红 色 竞 技 甲 
+itm_arena_armor_blue|蓝 色 竞 技 甲 
+itm_arena_armor_blue_pl|蓝 色 竞 技 甲 
+itm_arena_armor_green|绿 色 竞 技 甲 
+itm_arena_armor_green_pl|绿 色 竞 技 甲 
+itm_arena_armor_yellow|黄 色 竞 技 甲 
+itm_arena_armor_yellow_pl|黄 色 竞 技 甲 
+itm_arena_tunic_white|白 色 竞 技 短 袍 
+itm_arena_tunic_white_pl|白 色 竞 技 短 袍 
+itm_arena_tunic_red|红 色 竞 技 短 袍 
+itm_arena_tunic_red_pl|红 色 竞 技 短 袍 
+itm_arena_tunic_blue|蓝 色 竞 技 短 袍 
+itm_arena_tunic_blue_pl|蓝 色 竞 技 短 袍 
+itm_arena_tunic_green|绿 色 竞 技 短 袍 
+itm_arena_tunic_green_pl|绿 色 竞 技 短 袍 
+itm_arena_tunic_yellow|黄 色 竞 技 短 袍 
+itm_arena_tunic_yellow_pl|黄 色 竞 技 短 袍 
+itm_arena_helmet_red|红 色 竞 技 盔 
+itm_arena_helmet_red_pl|红 色 竞 技 盔 
+itm_arena_helmet_blue|蓝 色 竞 技 盔 
+itm_arena_helmet_blue_pl|蓝 色 竞 技 盔 
+itm_arena_helmet_green|绿 色 竞 技 盔 
+itm_arena_helmet_green_pl|绿 色 竞 技 盔 
+itm_arena_helmet_yellow|黄 色 竞 技 盔 
+itm_arena_helmet_yellow_pl|黄 色 竞 技 盔 
+itm_steppe_helmet_white|白 色 草 原 盔 
+itm_steppe_helmet_white_pl|白 色 草 原 盔 
+itm_steppe_helmet_red|红 色 草 原 盔 
+itm_steppe_helmet_red_pl|红 色 草 原 盔 
+itm_steppe_helmet_blue|蓝 色 草 原 盔 
+itm_steppe_helmet_blue_pl|蓝 色 草 原 盔 
+itm_steppe_helmet_green|绿 色 草 原 盔 
+itm_steppe_helmet_green_pl|绿 色 草 原 盔 
+itm_steppe_helmet_yellow|黄 色 草 原 盔 
+itm_steppe_helmet_yellow_pl|黄 色 草 原 盔 
+itm_tourney_helm_white|白 色 竞 技 盔 
+itm_tourney_helm_white_pl|白 色 竞 技 盔 
+itm_tourney_helm_red|红 色 竞 技 盔 
+itm_tourney_helm_red_pl|红 色 竞 技 盔 
+itm_tourney_helm_blue|蓝 色 竞 技 盔 
+itm_tourney_helm_blue_pl|蓝 色 竞 技 盔 
+itm_tourney_helm_green|绿 色 竞 技 盔 
+itm_tourney_helm_green_pl|绿 色 竞 技 盔 
+itm_tourney_helm_yellow|黄 色 竞 技 盔 
+itm_tourney_helm_yellow_pl|黄 色 竞 技 盔 
+itm_book_tactics|潘 德 军 官 回 忆 录 
+itm_book_tactics_pl|潘 德 军 官 回 忆 录 
+itm_book_persuasion|应 用 修 辞 学 － 第 一 版 
+itm_book_persuasion_pl|应 用 修 辞 学 － 第 一 版 
+itm_book_leadership|潘 德 伟 人 列 传 
+itm_book_leadership_pl|潘 德 伟 人 列 传 
+itm_book_intelligence|高 端 艺 术 第 一 卷 
+itm_book_intelligence_pl|高 端 艺 术 第 一 卷 
+itm_book_trade|银 狐 传 
+itm_book_trade_pl|银 狐 传 
+itm_book_weapon_mastery|剑 斗 谱 
+itm_book_weapon_mastery_pl|剑 斗 谱 
+itm_book_engineering|高 级 工 程 学 :达．铎 门 著 
+itm_book_engineering_pl|高 级 工 程 学 :达．铎 门 著 
+itm_book_wound_treatment_reference|潘 德 草 药 全 书 
+itm_book_wound_treatment_reference_pl|潘 德 草 药 全 书 
+itm_book_training_reference|军 团 百 夫 长 的 战 斗 生 涯 
+itm_book_training_reference_pl|军 团 百 夫 长 的 战 斗 生 涯 
+itm_book_surgery_reference|战 场 医 疗 手 册 
+itm_book_surgery_reference_pl|战 场 医 疗 手 册 
+itm_spice|香 料 
+itm_spice_pl|香 料 
+itm_salt|盐 
+itm_salt_pl|盐 
+itm_oil|油 
+itm_oil_pl|油 
+itm_pottery|陶 器 
+itm_pottery_pl|陶 器 
+itm_raw_flax|亚 麻 捆 
+itm_raw_flax_pl|亚 麻 捆 
+itm_linen|亚 麻 布 
+itm_linen_pl|亚 麻 布 
+itm_wool|羊 毛 
+itm_wool_pl|羊 毛 
+itm_wool_cloth|毛 呢 
+itm_wool_cloth_pl|毛 呢 
+itm_raw_silk|生 丝 
+itm_raw_silk_pl|生 丝 
+itm_raw_dyes|染 料 
+itm_raw_dyes_pl|染 料 
+itm_velvet|天 鹅 绒 
+itm_velvet_pl|天 鹅 绒 
+itm_iron|生 铁 
+itm_iron_pl|生 铁 
+itm_tools|工 具 
+itm_tools_pl|工 具 
+itm_raw_leather|兽 皮 
+itm_raw_leather_pl|兽 皮 
+itm_leatherwork|皮 革 制 品 
+itm_leatherwork_pl|皮 革 制 品 
+itm_raw_date_fruit|枣 肉 
+itm_raw_date_fruit_pl|枣 肉 
+itm_furs|毛 皮 
+itm_furs_pl|毛 皮 
+itm_wine|葡 萄 酒 （ 盐 矿 ） 
+itm_wine_pl|葡 萄 酒 （ 盐 矿 ） 
+itm_ale|麦 芽 酒 
+itm_ale_pl|麦 芽 酒 
+itm_smoked_fish|熏 鱼 
+itm_smoked_fish_pl|熏 鱼 
+itm_cheese|奶 酪 
+itm_cheese_pl|奶 酪 
+itm_honey|蜂 蜜 
+itm_honey_pl|蜂 蜜 
+itm_sausages|腊 肠 
+itm_sausages_pl|腊 肠 
+itm_cabbages|卷 心 菜 
+itm_cabbages_pl|卷 心 菜 
+itm_dried_meat|风 干 肉 
+itm_dried_meat_pl|风 干 肉 
+itm_apples|苹 果 
+itm_apples_pl|苹 果 
+itm_raw_grapes|葡 萄 
+itm_raw_grapes_pl|葡 萄 
+itm_raw_olives|橄 榄 
+itm_raw_olives_pl|橄 榄 
+itm_grain|小 麦 
+itm_grain_pl|小 麦 
+itm_cattle_meat|牛 肉 
+itm_cattle_meat_pl|牛 肉 
+itm_bread|面 包 
+itm_bread_pl|面 包 
+itm_chicken|鸡 肉 
+itm_chicken_pl|鸡 肉 
+itm_pork|猪 肉 
+itm_pork_pl|猪 肉 
+itm_butter|奶 油 
+itm_butter_pl|奶 油 
+itm_baggage_train|辎 重 车 
+itm_baggage_train_pl|辎 重 车 
+itm_siege_supply|补 给 品 
+itm_siege_supply_pl|补 给 品 
+itm_quest_wine|葡 萄 酒 
+itm_quest_wine_pl|葡 萄 酒 
+itm_quest_ale|麦 芽 酒 
+itm_quest_ale_pl|麦 芽 酒 
+itm_gold|金 条 
+itm_gold_pl|金 条 
+itm_qualis|龙 泪 宝 石 
+itm_qualis_pl|龙 泪 宝 石 
+itm_noldor_goods|诺 多 商 品 
+itm_noldor_goods_pl|诺 多 商 品 
+itm_loot|战 利 品 堆 
+itm_loot_pl|战 利 品 堆 
+itm_diamond_small|小 袋 钻 石 
+itm_diamond_small_pl|小 袋 钻 石 
+itm_diamond_medium|钻 石 袋 
+itm_diamond_medium_pl|钻 石 袋 
+itm_diamond_large|大 袋 钻 石 
+itm_diamond_large_pl|大 袋 钻 石 
+itm_book_heretic|异 端 法 典 
+itm_book_heretic_pl|异 端 法 典 
+itm_book_snake|拜 蛇 教 仪 式 
+itm_book_snake_pl|拜 蛇 教 仪 式 
+itm_book_noldor_1|正 义 游 侠 守 则 
+itm_book_noldor_1_pl|正 义 游 侠 守 则 
+itm_book_noldor_2|博 识 城 的 卢 西 雅 娜 的 失 窃 笔 记 
+itm_book_noldor_2_pl|博 识 城 的 卢 西 雅 娜 的 失 窃 笔 记 
+itm_book_noldor_3|论 长 河 镇 的 乌 木 骑 士 
+itm_book_noldor_3_pl|论 长 河 镇 的 乌 木 骑 士 
+itm_book_noldor_end|noldor Books End 
+itm_book_noldor_end_pl|noldor Books End 
+itm_book_old_diary|脆 弱 的 书 籍 
+itm_book_old_diary_pl|脆 弱 的 书 籍 
+itm_horse_armor|古 式 马 铠 
+itm_horse_armor_pl|古 式 马 铠 
+itm_horse_for_armor|潘 德 王 室 御 马 
+itm_horse_for_armor_pl|潘 德 王 室 御 马 
+itm_lyre|七 弦 琴 
+itm_lyre_pl|七 弦 琴 
+itm_lute|鲁 特 琴 
+itm_lute_pl|鲁 特 琴 
+itm_dedal_kufel|酒 杯 
+itm_dedal_kufel_pl|酒 杯 
+itm_dedal_lutnia|琵 琶 
+itm_dedal_lutnia_pl|琵 琶 
+itm_dedal_lira|里 拉 琴 
+itm_dedal_lira_pl|里 拉 琴 
+itm_rav_helmet_red|红 色 凛 鸦 境 盔 
+itm_rav_helmet_red_pl|红 色 凛 鸦 境 盔 
+itm_rav_helmet_blue|蓝 色 凛 鸦 境 盔 
+itm_rav_helmet_blue_pl|蓝 色 凛 鸦 境 盔 
+itm_rav_helmet_green|绿 色 凛 鸦 境 盔 
+itm_rav_helmet_green_pl|绿 色 凛 鸦 境 盔 
+itm_rav_helmet_yellow|黄 色 凛 鸦 境 盔 
+itm_rav_helmet_yellow_pl|黄 色 凛 鸦 境 盔 
+itm_empire_helmet_red|红 色 帝 国 盔 
+itm_empire_helmet_red_pl|红 色 帝 国 盔 
+itm_empire_helmet_blue|蓝 色 帝 国 盔 
+itm_empire_helmet_blue_pl|蓝 色 帝 国 盔 
+itm_empire_helmet_green|绿 色 帝 国 盔 
+itm_empire_helmet_green_pl|绿 色 帝 国 盔 
+itm_empire_helmet_yellow|黄 色 帝 国 盔 
+itm_empire_helmet_yellow_pl|黄 色 帝 国 盔 
+itm_practice_lance_red|竞 技 骑 枪 
+itm_practice_lance_red_pl|竞 技 骑 枪 
+itm_practice_lance_blue|竞 技 骑 枪 
+itm_practice_lance_blue_pl|竞 技 骑 枪 
+itm_practice_lance_green|竞 技 骑 枪 
+itm_practice_lance_green_pl|竞 技 骑 枪 
+itm_practice_lance_yellow|竞 技 骑 枪 
+itm_practice_lance_yellow_pl|竞 技 骑 枪 
+itm_sumpter_horse|驮 马 
+itm_sumpter_horse_pl|驮 马 
+itm_saddle_horse|旅 行 马 
+itm_saddle_horse_pl|旅 行 马 
+itm_dshar_saddle_horse|德 夏 旅 行 马 
+itm_dshar_saddle_horse_pl|德 夏 旅 行 马 
+itm_steppe_horse|草 原 马 
+itm_steppe_horse_pl|草 原 马 
+itm_courser|骏 马 
+itm_courser_pl|骏 马 
+itm_dark_steppe|黑 色 草 原 马 
+itm_dark_steppe_pl|黑 色 草 原 马 
+itm_grey_courser|灰 色 骏 马 
+itm_grey_courser_pl|灰 色 骏 马 
+itm_gold_courser|金 鬃 骏 马 
+itm_gold_courser_pl|金 鬃 骏 马 
+itm_grey_steppe|灰 色 草 原 马 
+itm_grey_steppe_pl|灰 色 草 原 马 
+itm_melitine_hunter2|马 里 廷 猎 马 
+itm_melitine_hunter2_pl|马 里 廷 猎 马 
+itm_hunter|猎 马 
+itm_hunter_pl|猎 马 
+itm_white_hunter|白 衣 猎 马 
+itm_white_hunter_pl|白 衣 猎 马 
+itm_red_hunter|红 衣 猎 马 
+itm_red_hunter_pl|红 衣 猎 马 
+itm_green_hunter|绿 衣 猎 马 
+itm_green_hunter_pl|绿 衣 猎 马 
+itm_dshar_courser|德 夏 骏 马 
+itm_dshar_courser_pl|德 夏 骏 马 
+itm_blue_hunter|蓝 衣 猎 马 
+itm_blue_hunter_pl|蓝 衣 猎 马 
+itm_burgundy_hunter|勃 艮 地 猎 马 
+itm_burgundy_hunter_pl|勃 艮 地 猎 马 
+itm_yellow_hunter|黄 衣 猎 马 
+itm_yellow_hunter_pl|黄 衣 猎 马 
+itm_black_hunter|黑 衣 猎 马 
+itm_black_hunter_pl|黑 衣 猎 马 
+itm_melitine_hunter|马 里 廷 驮 马 
+itm_melitine_hunter_pl|马 里 廷 驮 马 
+itm_darksteel_hunter|深 铁 色 猎 马 
+itm_darksteel_hunter_pl|深 铁 色 猎 马 
+itm_ornate_warhorse|华 丽 覆 甲 战 马 
+itm_ornate_warhorse_pl|华 丽 覆 甲 战 马 
+itm_dun_hunter|深 褐 色 猎 马 
+itm_dun_hunter_pl|深 褐 色 猎 马 
+itm_sarleon_hunter|烈 狮 境 猎 马 
+itm_sarleon_hunter_pl|烈 狮 境 猎 马 
+itm_empire_hunter|帝 国 深 色 猎 马 
+itm_empire_hunter_pl|帝 国 深 色 猎 马 
+itm_warhorse|战 马 
+itm_warhorse_pl|战 马 
+itm_melitine_arm_hunter|马 里 廷 半 披 甲 纯 种 马 
+itm_melitine_arm_hunter_pl|马 里 廷 半 披 甲 纯 种 马 
+itm_cropped_hunter|短 鬃 猎 马 
+itm_cropped_hunter_pl|短 鬃 猎 马 
+itm_empire_warbred|帝 国 混 种 猎 马 
+itm_empire_warbred_pl|帝 国 混 种 猎 马 
+itm_wellbred_hunter|良 种 猎 马 
+itm_wellbred_hunter_pl|良 种 猎 马 
+itm_jatu_hunter|迦 图 猎 马 
+itm_jatu_hunter_pl|迦 图 猎 马 
+itm_charger|军 马 
+itm_charger_pl|军 马 
+itm_horse_veccavi|菲 卡 维 亚 罩 袍 战 马 
+itm_horse_veccavi_pl|菲 卡 维 亚 罩 袍 战 马 
+itm_war_horse_ravenstern|凛 鸦 境 罩 袍 战 马 
+itm_war_horse_ravenstern_pl|凛 鸦 境 罩 袍 战 马 
+itm_draped_warhorse_brown|覆 皮 甲 战 马 
+itm_draped_warhorse_brown_pl|覆 皮 甲 战 马 
+itm_falcon_warhorse|猎 鹰 战 马 
+itm_falcon_warhorse_pl|猎 鹰 战 马 
+itm_dark_stallion|帝 国 黑 色 雄 马 
+itm_dark_stallion_pl|帝 国 黑 色 雄 马 
+itm_draped_warhorse_grey|灰 罩 袍 战 马 
+itm_draped_warhorse_grey_pl|灰 罩 袍 战 马 
+itm_phoenix_sergeants_horse|凤 凰 战 马 
+itm_phoenix_sergeants_horse_pl|凤 凰 战 马 
+itm_draped_leather_horse|皮 甲 战 马 
+itm_draped_leather_horse_pl|皮 甲 战 马 
+itm_golden_warhorse|金 鹿 战 马 
+itm_golden_warhorse_pl|金 鹿 战 马 
+itm_dshar_armored_hunter|德 夏 披 甲 猎 马 
+itm_dshar_armored_hunter_pl|德 夏 披 甲 猎 马 
+itm_draped_warhorse_green|绿 皮 甲 战 马 
+itm_draped_warhorse_green_pl|绿 皮 甲 战 马 
+itm_draped_warhorse_blue|蓝 皮 甲 战 马 
+itm_draped_warhorse_blue_pl|蓝 皮 甲 战 马 
+itm_war_horse_burgundy|勃 艮 地 罩 袍 战 马 
+itm_war_horse_burgundy_pl|勃 艮 地 罩 袍 战 马 
+itm_dark_silver_warhorse|深 色 银 甲 战 马 
+itm_dark_silver_warhorse_pl|深 色 银 甲 战 马 
+itm_draped_warhorse_white|白 罩 袍 战 马 
+itm_draped_warhorse_white_pl|白 罩 袍 战 马 
+itm_silver_stallion|帝 国 银 甲 雄 马 
+itm_silver_stallion_pl|帝 国 银 甲 雄 马 
+itm_jatu_warhorse|迦 图 战 马 
+itm_jatu_warhorse_pl|迦 图 战 马 
+itm_konigur_steed|菲 尔 兹 威 御 马 
+itm_konigur_steed_pl|菲 尔 兹 威 御 马 
+itm_warhorse_steppe|迦 图 草 原 军 马 
+itm_warhorse_steppe_pl|迦 图 草 原 军 马 
+itm_draped_warhorse_black|黑 皮 甲 战 马 
+itm_draped_warhorse_black_pl|黑 皮 甲 战 马 
+itm_draped_warhorse_yellow|黄 罩 袍 战 马 
+itm_draped_warhorse_yellow_pl|黄 罩 袍 战 马 
+itm_gryphon_warhorse|黄 衣 狮 鹫 铁 蹄 
+itm_gryphon_warhorse_pl|黄 衣 狮 鹫 铁 蹄 
+itm_larian_caspian|长 河 镇 阉 马 
+itm_larian_caspian_pl|长 河 镇 阉 马 
+itm_griffon_warhorse|狮 鹫 战 马 
+itm_griffon_warhorse_pl|狮 鹫 战 马 
+itm_marleons_highbreed|狮 湖 城 良 种 马 
+itm_marleons_highbreed_pl|狮 湖 城 良 种 马 
+itm_draped_warhorse_red|红 皮 甲 战 马 
+itm_draped_warhorse_red_pl|红 皮 甲 战 马 
+itm_phoenix_knight_horse|凤 凰 铁 蹄 
+itm_phoenix_knight_horse_pl|凤 凰 铁 蹄 
+itm_falcon_warsteed|猎 鹰 铁 蹄 
+itm_falcon_warsteed_pl|猎 鹰 铁 蹄 
+itm_timothy_steed|独 角 兽 铁 蹄 
+itm_timothy_steed_pl|独 角 兽 铁 蹄 
+itm_crimson_charger|绯 红 军 马 
+itm_crimson_charger_pl|绯 红 军 马 
+itm_lion_warhorse|狮 子 战 马 
+itm_lion_warhorse_pl|狮 子 战 马 
+itm_ironbred_stallion_1|铁 血 军 马 
+itm_ironbred_stallion_1_pl|铁 血 军 马 
+itm_ironbred_stallion_1b|黑 色 铁 血 军 马 
+itm_ironbred_stallion_1b_pl|黑 色 铁 血 军 马 
+itm_warhorse_sarranid|沙 漠 战 马 
+itm_warhorse_sarranid_pl|沙 漠 战 马 
+itm_ironbred_stallion_2|铁 血 驹 
+itm_ironbred_stallion_2_pl|铁 血 驹 
+itm_jatu_warbeast|迦 图 战 兽 
+itm_jatu_warbeast_pl|迦 图 战 兽 
+itm_armored_warhorse_ravenstern|凛 鸦 境 板 甲 战 马 
+itm_armored_warhorse_ravenstern_pl|凛 鸦 境 板 甲 战 马 
+itm_armored_warhorse_sarleon|烈 狮 境 板 甲 战 马 
+itm_armored_warhorse_sarleon_pl|烈 狮 境 板 甲 战 马 
+itm_armored_warhorse_pendor|潘 德 王 室 御 马 
+itm_armored_warhorse_pendor_pl|潘 德 王 室 御 马 
+itm_noldor_pony_horse|诺 多 草 原 幼 驹 
+itm_noldor_pony_horse_pl|诺 多 草 原 幼 驹 
+itm_noldor_dark_horse|诺 多 深 色 战 马 
+itm_noldor_dark_horse_pl|诺 多 深 色 战 马 
+itm_noldor_grey_horse|诺 多 灰 色 战 马 
+itm_noldor_grey_horse_pl|诺 多 灰 色 战 马 
+itm_noldor_gold_horse|诺 多 金 饰 战 马 
+itm_noldor_gold_horse_pl|诺 多 金 饰 战 马 
+itm_noldor_spirit_horse|诺 多 精 灵 马 
+itm_noldor_spirit_horse_pl|诺 多 精 灵 马 
+itm_hyper_horse|彗 星 骏 马 
+itm_hyper_horse_pl|彗 星 骏 马 
+itm_netherworld_charger|冥 界 军 马 
+itm_netherworld_charger_pl|冥 界 军 马 
+itm_demon_charger|恶 魔 军 马 
+itm_demon_charger_pl|恶 魔 军 马 
+itm_fallen_horse|堕 落 者 战 马 
+itm_fallen_horse_pl|堕 落 者 战 马 
+itm_pilgrim_disguise|朝 圣 者 服 
+itm_pilgrim_disguise_pl|朝 圣 者 服 
+itm_pilgrim_hood|朝 圣 者 风 帽 
+itm_pilgrim_hood_pl|朝 圣 者 风 帽 
+itm_bride_dress|新 娘 装 
+itm_bride_dress_pl|新 娘 装 
+itm_bride_crown|花 冠 
+itm_bride_crown_pl|花 冠 
+itm_bride_shoes|新 娘 鞋 
+itm_bride_shoes_pl|新 娘 鞋 
+itm_dress|连 衣 裙 
+itm_dress_pl|连 衣 裙 
+itm_blue_dress|蓝 色 连 衣 裙 
+itm_blue_dress_pl|蓝 色 连 衣 裙 
+itm_peasant_dress|农 妇 连 衣 裙 
+itm_peasant_dress_pl|农 妇 连 衣 裙 
+itm_woolen_dress|羊 毛 连 衣 裙 
+itm_woolen_dress_pl|羊 毛 连 衣 裙 
+itm_lady_dress_ruby|红 宝 石 色 仕 女 连 衣 裙 
+itm_lady_dress_ruby_pl|红 宝 石 色 仕 女 连 衣 裙 
+itm_lady_dress_green|绿 色 仕 女 连 衣 裙 
+itm_lady_dress_green_pl|绿 色 仕 女 连 衣 裙 
+itm_lady_dress_blue|蓝 色 仕 女 连 衣 裙 
+itm_lady_dress_blue_pl|蓝 色 仕 女 连 衣 裙 
+itm_red_dress|红 色 连 衣 裙 
+itm_red_dress_pl|红 色 连 衣 裙 
+itm_brown_dress|棕 色 连 衣 裙 
+itm_brown_dress_pl|棕 色 连 衣 裙 
+itm_green_dress|绿 色 连 衣 裙 
+itm_green_dress_pl|绿 色 连 衣 裙 
+itm_khergit_lady_dress|德 夏 仕 女 连 衣 裙 
+itm_khergit_lady_dress_pl|德 夏 仕 女 连 衣 裙 
+itm_khergit_lady_dress_b|德 夏 仕 女 皮 裙 
+itm_khergit_lady_dress_b_pl|德 夏 仕 女 皮 裙 
+itm_court_dress|宫 廷 连 衣 裙 
+itm_court_dress_pl|宫 廷 连 衣 裙 
+itm_orange_dress|德 夏 富 人 长 裙 
+itm_orange_dress_pl|德 夏 富 人 长 裙 
+itm_blue_sarranid_dress|蓝 色 连 衣 裙 
+itm_blue_sarranid_dress_pl|蓝 色 连 衣 裙 
+itm_gold_pattern_dress|红 色 富 人 连 衣 裙 
+itm_gold_pattern_dress_pl|红 色 富 人 连 衣 裙 
+itm_khaki_dress|黄 褐 色 连 衣 裙 
+itm_khaki_dress_pl|黄 褐 色 连 衣 裙 
+itm_fur_lined_coat_over_armor|平 民 纹 饰 华 服 
+itm_fur_lined_coat_over_armor_pl|平 民 纹 饰 华 服 
+itm_dshar_dress_1|紫 色 德 夏 连 衣 裙 
+itm_dshar_dress_1_pl|紫 色 德 夏 连 衣 裙 
+itm_dshar_dress_2|黑 色 德 夏 连 衣 裙 
+itm_dshar_dress_2_pl|黑 色 德 夏 连 衣 裙 
+itm_dshar_dress_3|棕 色 德 夏 连 衣 裙 
+itm_dshar_dress_3_pl|棕 色 德 夏 连 衣 裙 
+itm_dshar_dress_4|橙 色 德 夏 连 衣 裙 
+itm_dshar_dress_4_pl|橙 色 德 夏 连 衣 裙 
+itm_lady_dress_a_syrian1|米 色 仕 女 连 衣 裙 
+itm_lady_dress_a_syrian1_pl|米 色 仕 女 连 衣 裙 
+itm_lady_dress_a_syrian2|血 红 色 仕 女 连 衣 裙 
+itm_lady_dress_a_syrian2_pl|血 红 色 仕 女 连 衣 裙 
+itm_lady_dress_a_syrian3|绿 色 仕 女 连 衣 裙 
+itm_lady_dress_a_syrian3_pl|绿 色 仕 女 连 衣 裙 
+itm_lady_dress_a_syrian4|淡 蓝 色 仕 女 连 衣 裙 
+itm_lady_dress_a_syrian4_pl|淡 蓝 色 仕 女 连 衣 裙 
+itm_lady_dress_lysa_style_1|深 红 色 仕 女 连 衣 裙 
+itm_lady_dress_lysa_style_1_pl|深 红 色 仕 女 连 衣 裙 
+itm_lady_dress_lysa_style_2|深 绿 色 仕 女 连 衣 裙 
+itm_lady_dress_lysa_style_2_pl|深 绿 色 仕 女 连 衣 裙 
+itm_lady_dress_lysa_style_3|翠 绿 色 仕 女 连 衣 裙 
+itm_lady_dress_lysa_style_3_pl|翠 绿 色 仕 女 连 衣 裙 
+itm_lady_dress_lysa_style_4|海 蓝 宝 石 色 仕 女 连 衣 裙 
+itm_lady_dress_lysa_style_4_pl|海 蓝 宝 石 色 仕 女 连 衣 裙 
+itm_lady_dress_lysa_style_5|橙 色 仕 女 华 服 
+itm_lady_dress_lysa_style_5_pl|橙 色 仕 女 华 服 
+itm_lady_dress_lysa_style_6|深 色 仕 女 连 衣 裙 
+itm_lady_dress_lysa_style_6_pl|深 色 仕 女 连 衣 裙 
+itm_lady_dress_sansa_style_1|红 色 仕 女 连 衣 裙 
+itm_lady_dress_sansa_style_1_pl|红 色 仕 女 连 衣 裙 
+itm_lady_dress_sansa_style_2|蓝 色 仕 女 连 衣 裙 
+itm_lady_dress_sansa_style_2_pl|蓝 色 仕 女 连 衣 裙 
+itm_lady_dress_sansa_style_3|赭 色 仕 女 连 衣 裙 
+itm_lady_dress_sansa_style_3_pl|赭 色 仕 女 连 衣 裙 
+itm_lady_dress_sansa_style_4|绿 色 仕 女 连 衣 裙 
+itm_lady_dress_sansa_style_4_pl|绿 色 仕 女 连 衣 裙 
+itm_lady_dress_sansa_style_5|紫 色 仕 女 连 衣 裙 
+itm_lady_dress_sansa_style_5_pl|紫 色 仕 女 连 衣 裙 
+itm_lady_dress_sansa_style_6|仕 女 华 服 
+itm_lady_dress_sansa_style_6_pl|仕 女 华 服 
+itm_lady_dress_sansa_style_7|淡 蓝 色 仕 女 连 衣 裙 
+itm_lady_dress_sansa_style_7_pl|淡 蓝 色 仕 女 连 衣 裙 
+itm_lady_dress_margaery_style_1|红 米 双 色 仕 女 连 衣 裙 
+itm_lady_dress_margaery_style_1_pl|红 米 双 色 仕 女 连 衣 裙 
+itm_lady_dress_margaery_style_2|橙 米 双 色 仕 女 连 衣 裙 
+itm_lady_dress_margaery_style_2_pl|橙 米 双 色 仕 女 连 衣 裙 
+itm_lady_dress_margaery_style_3|翠 绿 色 仕 女 连 衣 裙 
+itm_lady_dress_margaery_style_3_pl|翠 绿 色 仕 女 连 衣 裙 
+itm_lady_dress_margaery_style_4|深 蓝 色 仕 女 连 衣 裙 
+itm_lady_dress_margaery_style_4_pl|深 蓝 色 仕 女 连 衣 裙 
+itm_lady_dress_margaery_style_5|淡 蓝 色 仕 女 连 衣 裙 
+itm_lady_dress_margaery_style_5_pl|淡 蓝 色 仕 女 连 衣 裙 
+itm_lady_dress_margaery_style_6|赤 红 色 仕 女 连 衣 裙 
+itm_lady_dress_margaery_style_6_pl|赤 红 色 仕 女 连 衣 裙 
+itm_lady_dress_margaery_style_7|翡 翠 色 仕 女 连 衣 裙 
+itm_lady_dress_margaery_style_7_pl|翡 翠 色 仕 女 连 衣 裙 
+itm_lady_dress_margaery_style_8|青 色 仕 女 连 衣 裙 
+itm_lady_dress_margaery_style_8_pl|青 色 仕 女 连 衣 裙 
+itm_lady_dress_margaery_style_9|海 洋 蓝 仕 女 连 衣 裙 
+itm_lady_dress_margaery_style_9_pl|海 洋 蓝 仕 女 连 衣 裙 
+itm_lady_dress_margaery_style_10|浅 灰 仕 女 连 衣 裙 
+itm_lady_dress_margaery_style_10_pl|浅 灰 仕 女 连 衣 裙 
+itm_lady_dress_margaery_style_11|罗 勒 色 仕 女 连 衣 裙 
+itm_lady_dress_margaery_style_11_pl|罗 勒 色 仕 女 连 衣 裙 
+itm_nobleman_outfit|贵 族 服 
+itm_nobleman_outfit_pl|贵 族 服 
+itm_leather_jacket|北 方 皮 夹 克 
+itm_leather_jacket_pl|北 方 皮 夹 克 
+itm_darkgreen_clothing1|深 绿 色 服 装 
+itm_darkgreen_clothing1_pl|深 绿 色 服 装 
+itm_leather_jacket_acok|部 落 勇 士 服 
+itm_leather_jacket_acok_pl|部 落 勇 士 服 
+itm_grey_clothing|灰 色 服 装 
+itm_grey_clothing_pl|灰 色 服 装 
+itm_bookseller_vest1|书 贩 皮 背 心 
+itm_bookseller_vest1_pl|书 贩 皮 背 心 
+itm_bookseller_vest2|书 贩 皮 背 心 
+itm_bookseller_vest2_pl|书 贩 皮 背 心 
+itm_robe|长 袍 
+itm_robe_pl|长 袍 
+itm_sarleon_clothing1|烈 狮 境 服 装 
+itm_sarleon_clothing1_pl|烈 狮 境 服 装 
+itm_sarleon_clothing2|烈 狮 境 带 徽 服 装 
+itm_sarleon_clothing2_pl|烈 狮 境 带 徽 服 装 
+itm_sarleon_clothing3|烈 狮 境 格 子 服 装 
+itm_sarleon_clothing3_pl|烈 狮 境 格 子 服 装 
+itm_tabard|短 袖 袍 
+itm_tabard_pl|短 袖 袍 
+itm_common_clothing2|平 民 服 装 
+itm_common_clothing2_pl|平 民 服 装 
+itm_merchant_outfit_2|商 人 外 衣 
+itm_merchant_outfit_2_pl|商 人 外 衣 
+itm_red_shirt|红 色 富 人 衬 衫 
+itm_red_shirt_pl|红 色 富 人 衬 衫 
+itm_red_tunic|红 色 短 袍 
+itm_red_tunic_pl|红 色 短 袍 
+itm_studded_leather_hauberk|覆 皮 镶 嵌 锁 子 甲 
+itm_studded_leather_hauberk_pl|覆 皮 镶 嵌 锁 子 甲 
+itm_sarleon_clothing4|平 民 格 子 服 装 
+itm_sarleon_clothing4_pl|平 民 格 子 服 装 
+itm_leather_coat|红 白 双 色 皮 背 心 
+itm_leather_coat_pl|红 白 双 色 皮 背 心 
+itm_leather02|棕 色 皮 背 心 
+itm_leather02_pl|棕 色 皮 背 心 
+itm_leather04|红 蓝 双 色 皮 甲 
+itm_leather04_pl|红 蓝 双 色 皮 甲 
+itm_leather_armor|皮 甲 
+itm_leather_armor_pl|皮 甲 
+itm_padded_leather|衬 垫 皮 甲 
+itm_padded_leather_pl|衬 垫 皮 甲 
+itm_leather07|皮 衬 华 服 
+itm_leather07_pl|皮 衬 华 服 
+itm_leather_sarleon|烈 狮 境 覆 皮 锁 子 甲 
+itm_leather_sarleon_pl|烈 狮 境 覆 皮 锁 子 甲 
+itm_padded_leather_brown|红 白 双 色 衬 垫 皮 甲 
+itm_padded_leather_brown_pl|红 白 双 色 衬 垫 皮 甲 
+itm_padded_striped_sar|烈 狮 境 衬 垫 皮 甲 
+itm_padded_striped_sar_pl|烈 狮 境 衬 垫 皮 甲 
+itm_ravenstern_clothing2|凛 鸦 境 服 装 
+itm_ravenstern_clothing2_pl|凛 鸦 境 服 装 
+itm_ravenstern_clothing1|凛 鸦 境 服 装 
+itm_ravenstern_clothing1_pl|凛 鸦 境 服 装 
+itm_ravenstern_clothing3|凛 鸦 境 带 徽 服 装 
+itm_ravenstern_clothing3_pl|凛 鸦 境 带 徽 服 装 
+itm_merchant_outfit|商 人 服 
+itm_merchant_outfit_pl|商 人 服 
+itm_blue_tunic|蓝 色 短 袍 
+itm_blue_tunic_pl|蓝 色 短 袍 
+itm_rawhide_coat|生 皮 外 套 
+itm_rawhide_coat_pl|生 皮 外 套 
+itm_fur_coat|毛 皮 外 套 
+itm_fur_coat_pl|毛 皮 外 套 
+itm_ragged_outfit|褶 皱 服 
+itm_ragged_outfit_pl|褶 皱 服 
+itm_tribal_warrior_outfit|部 落 勇 士 服 
+itm_tribal_warrior_outfit_pl|部 落 勇 士 服 
+itm_leather05|蓝 色 衬 垫 皮 甲 
+itm_leather05_pl|蓝 色 衬 垫 皮 甲 
+itm_leather06|蓝 白 双 色 衬 垫 皮 甲 
+itm_leather06_pl|蓝 白 双 色 衬 垫 皮 甲 
+itm_studded_leather_coat|钉 饰 皮 外 套 
+itm_studded_leather_coat_pl|钉 饰 皮 外 套 
+itm_noblefur_clothing1|贵 族 毛 皮 服 装 
+itm_noblefur_clothing1_pl|贵 族 毛 皮 服 装 
+itm_fur_clothing1|狼 毛 皮 衣 
+itm_fur_clothing1_pl|狼 毛 皮 衣 
+itm_fur_clothing2|轻 型 棕 色 毛 皮 服 装 
+itm_fur_clothing2_pl|轻 型 棕 色 毛 皮 服 装 
+itm_dshar_noble_clothing1|德 夏 贵 族 服 装 
+itm_dshar_noble_clothing1_pl|德 夏 贵 族 服 装 
+itm_dshar_clothing2|亮 色 德 夏 服 装 
+itm_dshar_clothing2_pl|亮 色 德 夏 服 装 
+itm_dshar_clothing1|德 夏 服 装 
+itm_dshar_clothing1_pl|德 夏 服 装 
+itm_nomad_vest|游 牧 背 心 
+itm_nomad_vest_pl|游 牧 背 心 
+itm_gold_purple_clothing1|金 紫 双 色 服 装 
+itm_gold_purple_clothing1_pl|金 紫 双 色 服 装 
+itm_noble_clothing2|绿 色 上 层 阶 级 服 装 
+itm_noble_clothing2_pl|绿 色 上 层 阶 级 服 装 
+itm_padded_cloth|棉 衬 袍 
+itm_padded_cloth_pl|棉 衬 袍 
+itm_steppe_armor|草 原 甲 
+itm_steppe_armor_pl|草 原 甲 
+itm_northern_clothing1|西 方 加 护 服 装 
+itm_northern_clothing1_pl|西 方 加 护 服 装 
+itm_nomad_robe|游 牧 长 袍 
+itm_nomad_robe_pl|游 牧 长 袍 
+itm_khergit_armor|德 夏 甲 
+itm_khergit_armor_pl|德 夏 甲 
+itm_nomad_armor|游 牧 甲 
+itm_nomad_armor_pl|游 牧 甲 
+itm_dshar_robe_c|棕 色 游 牧 长 袍 
+itm_dshar_robe_c_pl|棕 色 游 牧 长 袍 
+itm_dshar_robe_a|金 纹 游 牧 长 袍 
+itm_dshar_robe_a_pl|金 纹 游 牧 长 袍 
+itm_dshar_robe_d|金 纹 游 牧 长 袍 
+itm_dshar_robe_d_pl|金 纹 游 牧 长 袍 
+itm_dshar_armor_leather|德 夏 皮 衣 
+itm_dshar_armor_leather_pl|德 夏 皮 衣 
+itm_dshar_clothing_on_mail|南 方 锁 子 甲 长 袍 
+itm_dshar_clothing_on_mail_pl|南 方 锁 子 甲 长 袍 
+itm_dshar_clothing3|德 夏 条 纹 服 装 
+itm_dshar_clothing3_pl|德 夏 条 纹 服 装 
+itm_dshar_clothing4|德 夏 华 服 
+itm_dshar_clothing4_pl|德 夏 华 服 
+itm_fierdsvain_clothing1|菲 尔 兹 威 服 装 
+itm_fierdsvain_clothing1_pl|菲 尔 兹 威 服 装 
+itm_fierdsvain_clothing2|绿 色 菲 尔 兹 威 服 装 
+itm_fierdsvain_clothing2_pl|绿 色 菲 尔 兹 威 服 装 
+itm_clothing_scale_fierdsvain1|菲 尔 兹 威 锁 子 甲 服 
+itm_clothing_scale_fierdsvain1_pl|菲 尔 兹 威 锁 子 甲 服 
+itm_clothing_scale_fierdsvain3|菲 尔 兹 威 衬 垫 服 装 
+itm_clothing_scale_fierdsvain3_pl|菲 尔 兹 威 衬 垫 服 装 
+itm_common_clothing3|平 民 皮 外 套 
+itm_common_clothing3_pl|平 民 皮 外 套 
+itm_rich_outfit|华 服 
+itm_rich_outfit_pl|华 服 
+itm_green_tunic|绿 色 富 人 短 袍 
+itm_green_tunic_pl|绿 色 富 人 短 袍 
+itm_fierdsvain_clothing3|凛 鸦 境 服 装 
+itm_fierdsvain_clothing3_pl|凛 鸦 境 服 装 
+itm_aketon_green|棉 衬 袍 
+itm_aketon_green_pl|棉 衬 袍 
+itm_leather_jerkin|皮 制 短 衣 
+itm_leather_jerkin_pl|皮 制 短 衣 
+itm_clan_leather_fier|菲 尔 兹 威 部 族 皮 衣 
+itm_clan_leather_fier_pl|菲 尔 兹 威 部 族 皮 衣 
+itm_padded_tunic_1|衬 垫 短 袍 
+itm_padded_tunic_1_pl|衬 垫 短 袍 
+itm_padded_tunic_2|菲 尔 兹 威 衬 垫 皮 衣 
+itm_padded_tunic_2_pl|菲 尔 兹 威 衬 垫 皮 衣 
+itm_padded_tunic_3|菲 尔 兹 威 衬 垫 皮 衣 
+itm_padded_tunic_3_pl|菲 尔 兹 威 衬 垫 皮 衣 
+itm_padded_tunic_4|菲 尔 兹 威 衬 垫 皮 衣 
+itm_padded_tunic_4_pl|菲 尔 兹 威 衬 垫 皮 衣 
+itm_clothing_empire_citizen|帝 国 公 民 服 装 
+itm_clothing_empire_citizen_pl|帝 国 公 民 服 装 
+itm_empire_buckled_leather|帝 国 带 扣 皮 衣 
+itm_empire_buckled_leather_pl|帝 国 带 扣 皮 衣 
+itm_tabard_padded1|褐 黄 色 衬 垫 短 袖 袍 
+itm_tabard_padded1_pl|褐 黄 色 衬 垫 短 袖 袍 
+itm_short_tunic|富 人 短 袍 
+itm_short_tunic_pl|富 人 短 袍 
+itm_shirt|橄 榄 色 衬 衫
+itm_shirt_pl|橄 榄 色 衬 衫
+itm_linen_tunic|亚 麻 短 袍 
+itm_linen_tunic_pl|亚 麻 短 袍 
+itm_common_clothing4|商 人 服 装 
+itm_common_clothing4_pl|商 人 服 装 
+itm_common_clothing1|平 民 服 装 
+itm_common_clothing1_pl|平 民 服 装 
+itm_empire_padded_shirt|帝 国 衬 垫 外 衣 
+itm_empire_padded_shirt_pl|帝 国 衬 垫 外 衣 
+itm_empire_leather_vest|帝 国 皮 背 心 
+itm_empire_leather_vest_pl|帝 国 皮 背 心 
+itm_tabard_worn_red|破 旧 红 色 战 袍 
+itm_tabard_worn_red_pl|破 旧 红 色 战 袍 
+itm_empire_leather_on_fabric|帝 国 皮 背 心 
+itm_empire_leather_on_fabric_pl|帝 国 皮 背 心 
+itm_empire_leather_jacket|帝 国 皮 夹 克 
+itm_empire_leather_jacket_pl|帝 国 皮 夹 克 
+itm_common_clothing5|平 民 皮 外 套 
+itm_common_clothing5_pl|平 民 皮 外 套 
+itm_leather_vest|皮 背 心 
+itm_leather_vest_pl|皮 背 心 
+itm_gambeson|软 甲 
+itm_gambeson_pl|软 甲 
+itm_blue_gambeson|蓝 色 软 甲 
+itm_blue_gambeson_pl|蓝 色 软 甲 
+itm_red_gambeson|红 色 软 甲 
+itm_red_gambeson_pl|红 色 软 甲 
+itm_travel_clothing1|平 民 旅 行 服 
+itm_travel_clothing1_pl|平 民 旅 行 服 
+itm_coarse_tunic|背 心 短 袍 
+itm_coarse_tunic_pl|背 心 短 袍 
+itm_leather_coat_dark|黑 色 皮 背 心 
+itm_leather_coat_dark_pl|黑 色 皮 背 心 
+itm_travel_clothing_green|平 民 绿 色 旅 行 服 
+itm_travel_clothing_green_pl|平 民 绿 色 旅 行 服 
+itm_leather01|暗 冷 杉 色 皮 甲 
+itm_leather01_pl|暗 冷 杉 色 皮 甲 
+itm_leather03|绿 色 衬 垫 皮 甲 
+itm_leather03_pl|绿 色 衬 垫 皮 甲 
+itm_light_leather|轻 皮 甲 
+itm_light_leather_pl|轻 皮 甲 
+itm_leather08|棕 色 衬 垫 皮 甲 
+itm_leather08_pl|棕 色 衬 垫 皮 甲 
+itm_lamellar_plate_01|部 族 护 甲 
+itm_lamellar_plate_01_pl|部 族 护 甲 
+itm_noble_clothing1|贵 族 服 装 
+itm_noble_clothing1_pl|贵 族 服 装 
+itm_noble_clothing3|贵 族 服 装 
+itm_noble_clothing3_pl|贵 族 服 装 
+itm_leather_lady1|精 制 皮 甲 
+itm_leather_lady1_pl|精 制 皮 甲 
+itm_white_gambeson_d|白 色 衬 垫 皮 甲 
+itm_white_gambeson_d_pl|白 色 衬 垫 皮 甲 
+itm_heavy_leather|重 型 皮 甲 
+itm_heavy_leather_pl|重 型 皮 甲 
+itm_leather_apron|皮 围 裙 
+itm_leather_apron_pl|皮 围 裙 
+itm_noldor_clothing_1|诺 多 服 装 
+itm_noldor_clothing_1_pl|诺 多 服 装 
+itm_noldor_clothing_2|诺 多 贵 族 服 装 
+itm_noldor_clothing_2_pl|诺 多 贵 族 服 装 
+itm_dshar_robe_assassin|德 夏 刺 客 长 袍 
+itm_dshar_robe_assassin_pl|德 夏 刺 客 长 袍 
+itm_lamellar_vest|鳞 甲 背 心 
+itm_lamellar_vest_pl|鳞 甲 背 心 
+itm_byrnie|链 铠 
+itm_byrnie_pl|链 铠 
+itm_haubergeon|短 锁 子 甲 
+itm_haubergeon_pl|短 锁 子 甲 
+itm_brigandine_red|红 色 板 甲 衣  
+itm_brigandine_red_pl|红 色 板 甲 衣  
+itm_hera_brigandine_b|纹 章 板 甲 衣 
+itm_hera_brigandine_b_pl|纹 章 板 甲 衣 
+itm_plate_brig_armor|黑 色 板 甲 衣 
+itm_plate_brig_armor_pl|黑 色 板 甲 衣 
+itm_plate_brig_armor_cape|带 披 风 黑 色 板 甲 衣  
+itm_plate_brig_armor_cape_pl|带 披 风 黑 色 板 甲 衣  
+itm_hera_brig_plate_black|纹 章 板 甲 衣 
+itm_hera_brig_plate_black_pl|纹 章 板 甲 衣 
+itm_lamellar_armor|札 甲 背 心 锁 子 甲 
+itm_lamellar_armor_pl|札 甲 背 心 锁 子 甲 
+itm_scale_armor|鳞 甲 
+itm_scale_armor_pl|鳞 甲 
+itm_banded_armor|钉 饰 覆 皮 锁 子 甲 
+itm_banded_armor_pl|钉 饰 覆 皮 锁 子 甲 
+itm_cuir_bouilli|加 硬 皮 甲 
+itm_cuir_bouilli_pl|加 硬 皮 甲 
+itm_hera_cuir_bouilli_a|纹 章 加 硬 覆 皮 锁 子 甲 
+itm_hera_cuir_bouilli_a_pl|纹 章 加 硬 覆 皮 锁 子 甲 
+itm_coat_of_plates|板 甲 衣 
+itm_coat_of_plates_pl|板 甲 衣 
+itm_coat_of_plates_red|板 甲 衣 
+itm_coat_of_plates_red_pl|板 甲 衣 
+itm_dark_byrnie|深 色 链 铠 
+itm_dark_byrnie_pl|深 色 链 铠 
+itm_dark_reinf_jerkin|深 色 钉 饰 锁 子 甲 外 套 
+itm_dark_reinf_jerkin_pl|深 色 钉 饰 锁 子 甲 外 套 
+itm_dark_chain_armor|深 色 覆 皮 锁 子 甲 
+itm_dark_chain_armor_pl|深 色 覆 皮 锁 子 甲
+itm_coatplates|凡 斯 凯 瑞 覆 皮 札 锁 甲 
+itm_coatplates_pl|凡 斯 凯 瑞 覆 皮 札 锁 甲 
+itm_mail_archer_hauberk|弓 箭 手 覆 皮 锁 子 甲 
+itm_mail_archer_hauberk_pl|弓 箭 手 覆 皮 锁 子 甲 
+itm_plate_harness_yellow|黄 色 覆 袍 板 甲 
+itm_plate_harness_yellow_pl|黄 色 覆 袍 板 甲 
+itm_breastplate_on_plain|衬 垫 胸 甲 
+itm_breastplate_on_plain_pl|衬 垫 胸 甲 
+itm_tunic_padded1|棕 色 衬 垫 轻 型 短 袍 
+itm_tunic_padded1_pl|棕 色 衬 垫 轻 型 短 袍 
+itm_squire_outfit_northern1|北 方 扈 从 外 套 
+itm_squire_outfit_northern1_pl|北 方 扈 从 外 套 
+itm_dark_std_lthr_coat|深 色 钉 饰 覆 皮 锁 子 甲 
+itm_dark_std_lthr_coat_pl|深 色 钉 饰 覆 皮 锁 子 甲 
+itm_surcoat_brown_padded|棕 色 衬 垫 罩 袍 
+itm_surcoat_brown_padded_pl|棕 色 衬 垫 罩 袍 
+itm_tunic_padded2|衬 垫 短 袍 
+itm_tunic_padded2_pl|衬 垫 短 袍 
+itm_monk_robe_padded|黑 白 双 色 衬 垫 短 袍 
+itm_monk_robe_padded_pl|黑 白 双 色 衬 垫 短 袍 
+itm_sellsword_armor|覆 皮 锁 子 甲 短 袍 
+itm_sellsword_armor_pl|覆 皮 锁 子 甲 短 袍 
+itm_breastplate_mail_1|覆 板 护 胸 锁 子 甲 
+itm_breastplate_mail_1_pl|覆 板 护 胸 锁 子 甲 
+itm_breastplate_mail_1_cape|带 披 风 覆 板 护 胸 锁 子 甲 
+itm_breastplate_mail_1_cape_pl|带 披 风 覆 板 护 胸 锁 子 甲 
+itm_breastplate_mail_2|重 型 覆 板 护 胸 锁 子 甲 
+itm_breastplate_mail_2_pl|重 型 覆 板 护 胸 锁 子 甲 
+itm_plate_armor_northern1|北 方 板 甲 
+itm_plate_armor_northern1_pl|北 方 板 甲 
+itm_breastplate_mail_gold_ornate|金 饰 重 型 胸 甲 
+itm_breastplate_mail_gold_ornate_pl|金 饰 重 型 胸 甲 
+itm_burnished_heavy_armor|抛 光 重 型 板 甲 
+itm_burnished_heavy_armor_pl|抛 光 重 型 板 甲 
+itm_griffon_plate|狮 鹫 骑 士 板 甲 
+itm_griffon_plate_pl|狮 鹫 骑 士 板 甲 
+itm_griffon_plate_cape|带 披 风 狮 鹫 骑 士 板 甲 
+itm_griffon_plate_cape_pl|带 披 风 狮 鹫 骑 士 板 甲 
+itm_plate_armor|华 丽 重 型 板 甲 
+itm_plate_armor_pl|华 丽 重 型 板 甲 
+itm_plate_armor_polished1|抛 光 重 型 板 甲 
+itm_plate_armor_polished1_pl|抛 光 重 型 板 甲 
+itm_plate_armor_polished1_cape|带 披 风 抛 光 重 型 板 甲 
+itm_plate_armor_polished1_cape_pl|带 披 风 抛 光 重 型 板 甲 
+itm_plate_madame_light|德 夏 重 型 板 甲 
+itm_plate_madame_light_pl|德 夏 重 型 板 甲 
+itm_dawn_plate|黎 明 骑 士 重 型 板 甲 
+itm_dawn_plate_pl|黎 明 骑 士 重 型 板 甲 
+itm_dawn_plate_cape|带 披 风 黎 明 骑 士 重 型 板 甲 
+itm_dawn_plate_cape_pl|带 披 风 黎 明 骑 士 重 型 板 甲 
+itm_pendor_ornate_armor|潘 德 华 丽 板 甲 
+itm_pendor_ornate_armor_pl|潘 德 华 丽 板 甲 
+itm_pendor_ornate_armor_cape|带 披 风 潘 德 华 丽 板 甲 
+itm_pendor_ornate_armor_cape_pl|带 披 风 潘 德 华 丽 板 甲 
+itm_plate_studded_pauldron|钉 饰 覆 皮 重 型 板 甲 
+itm_plate_studded_pauldron_pl|钉 饰 覆 皮 重 型 板 甲 
+itm_plate_studded_pauldron_cape|带 披 风 钉 饰 覆 皮 重 型 板 甲 
+itm_plate_studded_pauldron_cape_pl|带 披 风 钉 饰 覆 皮 重 型 板 甲 
+itm_marleons_plate_normal|狮 湖 城 重 型 板 甲 
+itm_marleons_plate_normal_pl|狮 湖 城 重 型 板 甲 
+itm_imperial_armor|帝 国 重 型 胸 甲 
+itm_imperial_armor_pl|帝 国 重 型 胸 甲 
+itm_immortal_armor|不 朽 者 甲 
+itm_immortal_armor_pl|不 朽 者 甲 
+itm_coat_plates_black|黑 色 板 甲 衣 
+itm_coat_plates_black_pl|黑 色 板 甲 衣 
+itm_coat_plates_blue|蓝 色 板 甲 衣 
+itm_coat_plates_blue_pl|蓝 色 板 甲 衣 
+itm_coat_plates_green|绿 色 板 甲 衣 
+itm_coat_plates_green_pl|绿 色 板 甲 衣 
+itm_coat_plates_red|红 色 板 甲 衣 
+itm_coat_plates_red_pl|红 色 板 甲 衣 
+itm_coat_plates_yellow|黄 色 板 甲 衣 
+itm_coat_plates_yellow_pl|黄 色 板 甲 衣 
+itm_platemail_harness_whitegreen|西 方 重 型 板 甲 
+itm_platemail_harness_whitegreen_pl|西 方 重 型 板 甲 
+itm_red_platemail|红 色 带 甲 裙 重 型 板 甲 
+itm_red_platemail_pl|红 色 带 甲 裙 重 型 板 甲 
+itm_red_platemail_cape|带 披 风 红 色 带 甲 裙 重 型 板 甲 
+itm_red_platemail_cape_pl|带 披 风 红 色 带 甲 裙 重 型 板 甲 
+itm_dark_blue_platemail|深 蓝 色 带 甲 裙 重 型 板 甲 
+itm_dark_blue_platemail_pl|深 蓝 色 带 甲 裙 重 型 板 甲 
+itm_dark_blue_platemail_cape|带 披 风 深 蓝 色 带 甲 裙 重 型 板 甲 
+itm_dark_blue_platemail_cape_pl|带 披 风 深 蓝 色 带 甲 裙 重 型 板 甲 
+itm_plate_harness_dragon|龙 战 士 重 型 板 甲 
+itm_plate_harness_dragon_pl|龙 战 士 重 型 板 甲 
+itm_plate_harness_dragon_cape|带 披 风 龙 战 士 重 型 板 甲 
+itm_plate_harness_dragon_cape_pl|带 披 风 龙 战 士 重 型 板 甲 
+itm_plate_harness_green|绿 色 重 型 板 甲 
+itm_plate_harness_green_pl|绿 色 重 型 板 甲 
+itm_plate_harness_white|白 色 重 型 板 甲 
+itm_plate_harness_white_pl|白 色 重 型 板 甲 
+itm_plate_harness_white_cape|带 披 风 白 色 重 型 板 甲 
+itm_plate_harness_white_cape_pl|带 披 风 白 色 重 型 板 甲 
+itm_plate_harness_unicorn|独 角 兽 重 型 板 甲 
+itm_plate_harness_unicorn_pl|独 角 兽 重 型 板 甲 
+itm_plate_harness_unicorn_cape|带 披 风 独 角 兽 重 型 板 甲 
+itm_plate_harness_unicorn_cape_pl|带 披 风 独 角 兽 重 型 板 甲 
+itm_marleons_plate_ornate|狮 湖 城 华 丽 板 甲 
+itm_marleons_plate_ornate_pl|狮 湖 城 华 丽 板 甲 
+itm_marleons_plate_ornate_cape|带 披 风 狮 湖 城 华 丽 板 甲 
+itm_marleons_plate_ornate_cape_pl|带 披 风 狮 湖 城 华 丽 板 甲 
+itm_pendor_old_harness|潘 德 重 型 板 甲 
+itm_pendor_old_harness_pl|潘 德 重 型 板 甲 
+itm_pendor_old_harness_cape|带 披 风 潘 德 重 型 板 甲 
+itm_pendor_old_harness_cape_pl|带 披 风 潘 德 重 型 板 甲 
+itm_heraldic_harness|纹 章 重 型 板 甲 
+itm_heraldic_harness_pl|纹 章 重 型 板 甲 
+itm_royal_platemail|皇 室 重 型 板 甲 
+itm_royal_platemail_pl|皇 室 重 型 板 甲 
+itm_breastplate_mail_falcon|金 色 女 武 神 重 型 板 甲 
+itm_breastplate_mail_falcon_pl|金 色 女 武 神 重 型 板 甲 
+itm_ebony_gauntlet_armor|乌 木 骑 士 重 型 板 甲 
+itm_ebony_gauntlet_armor_pl|乌 木 骑 士 重 型 板 甲 
+itm_plate_armor_pendor1|潘 德 骑 士 板 甲 
+itm_plate_armor_pendor1_pl|潘 德 骑 士 板 甲 
+itm_plate_armor_pendor1_cape|带 披 风 潘 德 骑 士 板 甲 
+itm_plate_armor_pendor1_cape_pl|带 披 风 潘 德 骑 士 板 甲 
+itm_heraldic_plate|华 丽 纹 章 重 型 板 甲 
+itm_heraldic_plate_pl|华 丽 纹 章 重 型 板 甲 
+itm_pendor_old_armor|潘 德 重 型 板 甲 
+itm_pendor_old_armor_pl|潘 德 重 型 板 甲 
+itm_pendor_old_armor_cape|带 披 风 潘 德 重 型 板 甲 
+itm_pendor_old_armor_cape_pl|带 披 风 潘 德 重 型 板 甲 
+itm_plate_madame_azure|天 蓝 板 甲 
+itm_plate_madame_azure_pl|天 蓝 板 甲 
+itm_plate_madame_azure_cape|带 披 风 天 蓝 板 甲 
+itm_plate_madame_azure_cape_pl|带 披 风 天 蓝 板 甲 
+itm_breastplate_mail_silver_ornate|华 丽 银 板 甲 
+itm_breastplate_mail_silver_ornate_pl|华 丽 银 板 甲 
+itm_breastplate_mail_silver_ornate_cape|带 披 风 华 丽 银 板 甲 
+itm_breastplate_mail_silver_ornate_cape_pl|带 披 风 华 丽 银 板 甲 
+itm_mett_plate|梅 滕 海 姆 板 甲 
+itm_mett_plate_pl|梅 滕 海 姆 板 甲 
+itm_mett_plate_cape|带 披 风 梅 滕 海 姆 板 甲 
+itm_mett_plate_cape_pl|带 披 风 梅 滕 海 姆 板 甲 
+itm_full_plate_armor|全 身 板 甲 
+itm_full_plate_armor_pl|全 身 板 甲 
+itm_ebony_platemail|乌 木 骑 士 带 甲 裙 重 型 板 甲 
+itm_ebony_platemail_pl|乌 木 骑 士 带 甲 裙 重 型 板 甲 
+itm_ebony_platemail_cape|带 披 风 乌 木 骑 士 带 甲 裙 重 型 板 甲 
+itm_ebony_platemail_cape_pl|带 披 风 乌 木 骑 士 带 甲 裙 重 型 板 甲 
+itm_forlorn_plate|决 死 队 重 型 板 甲 
+itm_forlorn_plate_pl|决 死 队 重 型 板 甲 
+itm_griffon_captain_armor|狮 鹫 骑 士 长 板 甲 
+itm_griffon_captain_armor_pl|狮 鹫 骑 士 长 板 甲 
+itm_griffon_captain_armor_cape_black|黑 披 风 狮 鹫 骑 士 长 板 甲 
+itm_griffon_captain_armor_cape_black_pl|黑 披 风 狮 鹫 骑 士 长 板 甲 
+itm_griffon_captain_armor_cape_white|白 披 风 狮 鹫 骑 士 长 板 甲 
+itm_griffon_captain_armor_cape_white_pl|白 披 风 狮 鹫 骑 士 长 板 甲 
+itm_griffon_grandmaster_armor|狮 鹫 骑 士 大 团 长 板 甲 
+itm_griffon_grandmaster_armor_pl|狮 鹫 骑 士 大 团 长 板 甲 
+itm_griffon_grandmaster_armor_cape|带 披 风 狮 鹫 骑 士 大 团 长 板 甲 
+itm_griffon_grandmaster_armor_cape_pl|带 披 风 狮 鹫 骑 士 大 团 长 板 甲 
+itm_platemail_kraken|克 拉 肯 带 甲 裙 重 型 板 甲 
+itm_platemail_kraken_pl|克 拉 肯 带 甲 裙 重 型 板 甲 
+itm_platemail_26_kraken|克 拉 肯 重 型 板 甲 衣 
+itm_platemail_26_kraken_pl|克 拉 肯 重 型 板 甲 衣 
+itm_platemail_26_red|红 色 重 型 板 甲 衣 
+itm_platemail_26_red_pl|红 色 重 型 板 甲 衣 
+itm_platemail_26_blue|蓝 色 重 型 板 甲 衣 
+itm_platemail_26_blue_pl|蓝 色 重 型 板 甲 衣 
+itm_platemail_26_whiteblack|黑 白 双 色 重 型 板 甲 衣 
+itm_platemail_26_whiteblack_pl|黑 白 双 色 重 型 板 甲 衣 
+itm_platemail_26_goldpurple|金 紫 双 色 重 型 板 甲 衣 
+itm_platemail_26_goldpurple_pl|金 紫 双 色 重 型 板 甲 衣 
+itm_platemail_26_bluegrey|蓝 灰 双 色 重 型 板 甲 衣 
+itm_platemail_26_bluegrey_pl|蓝 灰 双 色 重 型 板 甲 衣 
+itm_dread_armor|恐 惧 军 团 甲 
+itm_dread_armor_pl|恐 惧 军 团 甲 
+itm_demonplate|恶 魔 板 甲 
+itm_demonplate_pl|恶 魔 板 甲
+itm_demonskin|恶 魔 之 肤 
+itm_demonskin_pl|恶 魔 之 肤 
+itm_heretic_robe|异 端 长 袍 
+itm_heretic_robe_pl|异 端 长 袍 
+itm_heretic_armor|异 端 衬 垫 外 套 
+itm_heretic_armor_pl|异 端 衬 垫 外 套 
+itm_heretic_leather|异 端 皮 甲 
+itm_heretic_leather_pl|异 端 皮 甲 
+itm_breastplate_on_red|红 色 衬 垫 胸 甲 
+itm_breastplate_on_red_pl|红 色 衬 垫 胸 甲 
+itm_breastplate_on_black|黑 白 双 色 衬 垫 胸 甲 
+itm_breastplate_on_black_pl|黑 白 双 色 衬 垫 胸 甲 
+itm_breastplate_on_black_cape|带 披 风 黑 白 双 色 衬 垫 胸 甲 
+itm_breastplate_on_black_cape_pl|带 披 风 黑 白 双 色 衬 垫 胸 甲 
+itm_breastplate_on_blue|蓝 色 衬 垫 胸 甲 
+itm_breastplate_on_blue_pl|蓝 色 衬 垫 胸 甲 
+itm_breastplate_on_green|绿 色 衬 垫 胸 甲 
+itm_breastplate_on_green_pl|绿 色 衬 垫 胸 甲 
+itm_ranger_leather|巡 林 者 板 甲 衣 
+itm_ranger_leather_pl|巡 林 者 板 甲 衣 
+itm_ranger_plate|巡 林 者 重 型 板 甲 
+itm_ranger_plate_pl|巡 林 者 重 型 板 甲 
+itm_ranger_plate_cape|带 披 风 巡 林 者 重 型 板 甲 
+itm_ranger_plate_cape_pl|带 披 风 巡 林 者 重 型 板 甲 
+itm_barclay_light_armor|巴 克 利 护 胸 皮 甲 
+itm_barclay_light_armor_pl|巴 克 利 护 胸 皮 甲 
+itm_barclay_plate|巴 克 利 板 甲 
+itm_barclay_plate_pl|巴 克 利 板 甲 
+itm_barclay_plate_1|巴 克 利 覆 袍 板 甲 
+itm_barclay_plate_1_pl|巴 克 利 覆 袍 板 甲 
+itm_barclay_armor|巴 克 利 重 型 板 甲 
+itm_barclay_armor_pl|巴 克 利 重 型 板 甲 
+itm_dead_witch_armor|巫 女 护 甲 
+itm_dead_witch_armor_pl|巫 女 护 甲 
+itm_veccavi_plate|菲 卡 维 亚 板 甲 
+itm_veccavi_plate_pl|菲 卡 维 亚 板 甲 
+itm_melitine_armor|马 里 廷 札 甲 内 衬 锁 子 甲 
+itm_melitine_armor_pl|马 里 廷 札 甲 内 衬 锁 子 甲 
+itm_melitine_armor_regular|马 里 廷 札 甲 
+itm_melitine_armor_regular_pl|马 里 廷 札 甲 
+itm_melitine_armor_plate|轰 雷 骑 士 板 甲 
+itm_melitine_armor_plate_pl|轰 雷 骑 士 板 甲 
+itm_early_transitional_heraldic|纹 章 重 型 板 甲 衣 
+itm_early_transitional_heraldic_pl|纹 章 重 型 板 甲 衣 
+itm_silvermist_plate|银 雾 重 型 板 甲 
+itm_silvermist_plate_pl|银 雾 重 型 板 甲 
+itm_fierd_berskerker_armor|狂 战 士 护 甲 
+itm_fierd_berskerker_armor_pl|狂 战 士 护 甲 
+itm_pendor_lamellar|札 甲 
+itm_pendor_lamellar_pl|札 甲 
+itm_mail_coat_red|红 色 带 甲 裙 锁 子 甲 
+itm_mail_coat_red_pl|红 色 带 甲 裙 锁 子 甲 
+itm_hauberk_chain_studded_leather|钉 饰 锁 子 甲 皮 衣 
+itm_hauberk_chain_studded_leather_pl|钉 饰 锁 子 甲 皮 衣 
+itm_plate_mail_polished|抛 光 板 甲 
+itm_plate_mail_polished_pl|抛 光 板 甲 
+itm_plate_mail_polished_cape|带 披 风 抛 光 板 甲 
+itm_plate_mail_polished_cape_pl|带 披 风 抛 光 板 甲 
+itm_plate_red_white_tabard|红 白 双 色 覆 袍 板 甲 
+itm_plate_red_white_tabard_pl|红 白 双 色 覆 袍 板 甲 
+itm_hauberk_silver_mail|银 雾 加 强 锁 子 甲 
+itm_hauberk_silver_mail_pl|银 雾 加 强 锁 子 甲 
+itm_mail_shirt|带 甲 裙 锁 子 甲 
+itm_mail_shirt_pl|带 甲 裙 锁 子 甲 
+itm_mail_hauberk|锁 子 甲 
+itm_mail_hauberk_pl|锁 子 甲 
+itm_green_garb|绿 色 外 衣 
+itm_green_garb_pl|绿 色 外 衣 
+itm_tabard_red_and_white|红 白 双 色 短 袖 袍 
+itm_tabard_red_and_white_pl|红 白 双 色 短 袖 袍 
+itm_heraldic_surcoat_over_mail_04|纹 章 锁 子 甲 罩 袍 
+itm_heraldic_surcoat_over_mail_04_pl|纹 章 锁 子 甲 罩 袍 
+itm_heraldic_mail_with_tunic|纹 章 锁 子 甲 服 
+itm_heraldic_mail_with_tunic_pl|纹 章 锁 子 甲 服 
+itm_heraldic_mail_with_tunic_b|带 护 腿 纹 章 锁 子 甲 服 
+itm_heraldic_mail_with_tunic_b_pl|带 护 腿 纹 章 锁 子 甲 服 
+itm_heraldic_mail_with_tabard|纹 章 锁 子 甲 罩 袍 
+itm_heraldic_mail_with_tabard_pl|纹 章 锁 子 甲 罩 袍 
+itm_heraldic_surcoat_over_mail_04_for_tableau|纹 章 带 甲 裙 锁 子 甲 罩 袍 
+itm_heraldic_surcoat_over_mail_04_for_tableau_pl|纹 章 带 甲 裙 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_01|黑 色 板 甲 衣 
+itm_surcoat_over_mail_01_pl|黑 色 板 甲 衣 
+itm_surcoat_over_mail_04|烈 狮 境 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_04_pl|烈 狮 境 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_05|深 绿 色 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_05_pl|锁 子 甲 罩 袍 
+itm_surcoat_over_mail_rav|凛 鸦 境 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_rav_pl|凛 鸦 境 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_06|棕 色 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_06_pl|棕 色 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_07|狮 扈 从 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_07_pl|狮 扈 从 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_08|蓝 底 白 狮 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_08_pl|蓝 底 白 狮 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_09|白 绿 双 色 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_09_pl|白 绿 双 色 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_10|白 绿 双 色 V字 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_10_pl|白 绿 双 色 V字 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_11|双 头 鹰 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_11_pl|双 头 鹰 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_12|黑 白 双 色 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_12_pl|黑 白 双 色 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_13|深 色 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_13_pl|深 色 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_14|灰 白 双 色 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_14_pl|灰 白 双 色 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_15|公 牛 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_15_pl|公 牛 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_16|黑 底 白 十 字 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_16_pl|黑 底 白 十 字 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_17|深 浅 蓝 色 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_17_pl|深 浅 蓝 色 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_18|黄 黑 双 色 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_18_pl|黄 黑 双 色 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_19|菲 尔 兹 威 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_19_pl|菲 尔 兹 威 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_20|黄 色 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_20_pl|黄 色 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_21|绿 色 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_21_pl|绿 色 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_22|蓝 色 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_22_pl|蓝 色 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_23|深 蓝 色 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_23_pl|深 蓝 色 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_24|红 色 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_24_pl|红 色 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_25|黄 金 太 阳 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_25_pl|黄 金 太 阳 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_26|红 色 蕾 丝 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_26_pl|红 色 蕾 丝 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_27|三 狮 子 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_27_pl|三 狮 子 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_28|红 色 精 制 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_28_pl|红 色 精 制 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_29|华 丽 内 甲 服 
+itm_surcoat_over_mail_29_pl|华 丽 带 甲 服 
+itm_surcoat_over_mail_30|蓝 白 狂 狮 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_30_pl|蓝 白 狂 狮 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_31|轻 型 板 链 复 合 甲 
+itm_surcoat_over_mail_31_pl|轻 型 板 链 复 合 甲 
+itm_surcoat_over_mail_32|蓝 白 双 色 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_32_pl|蓝 白 双 色 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_34|狮 鹫 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_34_pl|狮 鹫 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_heretics|异 端 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_heretics_pl|异 端 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_snakecult|蛇 教 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_snakecult_pl|蛇 教 锁 子 甲 罩 袍 
+itm_plate_armor_sarleon_kn1|烈 狮 境 骑 士 板 甲 
+itm_plate_armor_sarleon_kn1_pl|烈 狮 境 骑 士 板 甲 
+itm_plate_armor_sarleon_kn1_cape|带 披 风 烈 狮 境 骑 士 板 甲 
+itm_plate_armor_sarleon_kn1_cape_pl|带 披 风 烈 狮 境 骑 士 板 甲 
+itm_plate_armor_lion1|狮 骑 士 重 型 板 甲 
+itm_plate_armor_lion1_pl|狮 骑 士 重 型 板 甲 
+itm_plate_armor_lion1_cape|带 披 风 狮 骑 士 重 型 板 甲 
+itm_plate_armor_lion1_cape_pl|带 披 风 狮 骑 士 重 型 板 甲 
+itm_plate_armor_lion2|狮 骑 士 镌 刻 重 型 板 甲 
+itm_plate_armor_lion2_pl|狮 骑 士 镌 刻 重 型 板 甲 
+itm_plate_armor_lion2_cape|带 披 风 狮 骑 士 镌 刻 重 型 板 甲 
+itm_plate_armor_lion2_cape_pl|带 披 风 狮 骑 士 镌 刻 重 型 板 甲 
+itm_corrazina_red_armor|烈 狮 境 红 色 板 甲 衣 
+itm_corrazina_red_armor_pl|烈 狮 境 红 色 板 甲 衣 
+itm_corrazina_grey_armor|烈 狮 境 灰 色 板 甲 衣 
+itm_corrazina_grey_armor_pl|烈 狮 境 灰 色 板 甲 衣 
+itm_hera_corrazina|烈 狮 境 纹 章 板 甲 衣 
+itm_hera_corrazina_pl|烈 狮 境 纹 章 板 甲 衣 
+itm_rav_leather_kilt|北 方 皮 短 裙 
+itm_rav_leather_kilt_pl|北 方 皮 短 裙 
+itm_rav_caped_leather_kilt|带 披 风 北 方 皮 短 裙 
+itm_rav_caped_leather_kilt_pl|带 披 风 北 方 皮 短 裙 
+itm_rav_mail_kilt|北 方 锁 子 甲 短 裙 
+itm_rav_mail_kilt_pl|北 方 锁 子 甲 短 裙 
+itm_rav_caped_mail_kilt|带 披 风 北 方 锁 子 甲 短 裙 
+itm_rav_caped_mail_kilt_pl|带 披 风 北 方 锁 子 甲 短 裙 
+itm_rav_platemail|凛 鸦 境 板 链 甲 袍 
+itm_rav_platemail_pl|凛 鸦 境 板 链 甲 袍 
+itm_rav_caped_platemail|凛 鸦 境 带 披 风 板 链 甲 袍 
+itm_rav_caped_platemail_pl|凛 鸦 境 带 披 风 板 链 甲 袍 
+itm_rav_kierguard_plate|凛 鸦 境 重 型 板 甲 
+itm_rav_kierguard_plate_pl|凛 鸦 境 重 型 板 甲 
+itm_dragon_knight_plate|龙 骑 士 重 型 板 甲 
+itm_dragon_knight_plate_pl|龙 骑 士 重 型 板 甲 
+itm_rav_highlander_armor|凛 鸦 境 高 地 护 甲 
+itm_rav_highlander_armor_pl|凛 鸦 境 高 地 护 甲 
+itm_falcon_surcoat|猎 鹰 罩 袍 
+itm_falcon_surcoat_pl|猎 鹰 罩 袍 
+itm_falcon_plate|猎 鹰 板 甲 
+itm_falcon_plate_pl|猎 鹰 板 甲 
+itm_myst_warrior_armor|熊 爪 铠 
+itm_myst_warrior_armor_pl|熊 爪 铠 
+itm_dshar_robe_b|赤 红 游 牧 长 袍 
+itm_dshar_robe_b_pl|赤 红 游 牧 长 袍 
+itm_dshar_armor_studded_leather|德 夏 钉 饰 皮 甲 
+itm_dshar_armor_studded_leather_pl|德 夏 钉 饰 皮 甲 
+itm_dshar_elite_armor|德 夏 札 甲 
+itm_dshar_elite_armor_pl|德 夏 札 甲 
+itm_dshar_mail_shirt1|德 夏 札 甲 背 心 长 袍 
+itm_dshar_mail_shirt1_pl|德 夏 札 甲 背 心 长 袍 
+itm_dshar_armor_lamellar_vest|德 夏 札 甲 背 心 长 袍 
+itm_dshar_armor_lamellar_vest_pl|德 夏 札 甲 背 心 长 袍 
+itm_dshar_plate_over_mail|德 夏 护 心 镜 锁 子 甲 
+itm_dshar_plate_over_mail_pl|德 夏 护 心 镜 锁 子 甲 
+itm_dshar_heavy_mail|德 夏 带 甲 裙 锁 子 甲 
+itm_dshar_heavy_mail_pl|德 夏 带 甲 裙 锁 子 甲 
+itm_dshar_dervish_scale|德 夏 鳞 甲 
+itm_dshar_dervish_scale_pl|德 夏 鳞 甲 
+itm_dervish_lamellar_armor|德 夏 重 型 札 甲 
+itm_dervish_lamellar_armor_pl|德 夏 重 型 札 甲 
+itm_dshar_dueling_armor|德 夏 札 甲 内 衬 锁 子 甲 
+itm_dshar_dueling_armor_pl|德 夏 札 甲 内 衬 锁 子 甲 
+itm_dshar_brass_plate|德 夏 黄 铜 板 甲 
+itm_dshar_brass_plate_pl|德 夏 黄 铜 板 甲 
+itm_dshar_heavy_scale|德 夏 带 甲 裙 鳞 甲 
+itm_dshar_heavy_scale_pl|德 夏 带 甲 裙 鳞 甲 
+itm_dshar_armor_noble_scale|德 夏 贵 族 鳞 甲 
+itm_dshar_armor_noble_scale_pl|德 夏 贵 族 鳞 甲 
+itm_dshar_windrider_armor|德 夏 御 风 者 护 甲 
+itm_dshar_windrider_armor_pl|德 夏 御 风 者 护 甲 
+itm_dshar_heavy_plate|德 夏 板 甲 
+itm_dshar_heavy_plate_pl|德 夏 板 甲 
+itm_eventide_plate|黄 昏 骑 士 重 型 板 甲 
+itm_eventide_plate_pl|黄 昏 骑 士 重 型 板 甲 
+itm_fierd_kilt|菲 尔 兹 威 皮 短 裙 
+itm_fierd_kilt_pl|西 方 菲 尔 兹 威 皮 短 裙 
+itm_fierd_scale|菲 尔 兹 威 覆 皮 鳞 甲 
+itm_fierd_scale_pl|菲 尔 兹 威 覆 皮 鳞 甲 
+itm_fierd_mail_hauberk|菲 尔 兹 威 锁 子 甲 
+itm_fierd_mail_hauberk_pl|菲 尔 兹 威 锁 子 甲 
+itm_valk_stag_surcoat|女 武 神 牡 鹿 罩 袍 
+itm_valk_stag_surcoat_pl|女 武 神 牡 鹿 罩 袍 
+itm_valk_unicorn_surcoat|女 武 神 独 角 兽 罩 袍 
+itm_valk_unicorn_surcoat_pl|女 武 神 独 角 兽 罩 袍 
+itm_valdis_armor|维 迪 斯 板 甲 衣 
+itm_valdis_armor_pl|维 迪 斯 板 甲 衣 
+itm_fierd_valk_surcoat|菲 尔 兹 威 女 武 神 罩 袍 
+itm_fierd_valk_surcoat_pl|菲 尔 兹 威 女 武 神 罩 袍 
+itm_plate_armor_fierdsvain1|鹰 纹 重 型 胸 甲 
+itm_plate_armor_fierdsvain1_pl|鹰 纹 重 型 胸 甲 
+itm_valk_stag_plate|女 武 神 牡 鹿 板 甲 
+itm_valk_stag_plate_pl|女 武 神 牡 鹿 板 甲 
+itm_valk_unicorn_plate|女 武 神 独 角 兽 板 甲 
+itm_valk_unicorn_plate_pl|女 武 神 独 角 兽 板 甲 
+itm_empire_inlayed_armor|百 夫 长 护 甲 
+itm_empire_inlayed_armor_pl|百 夫 长 护 甲 
+itm_empire_leather_l_s|帝 国 分 层 皮 甲 
+itm_empire_leather_l_s_pl|帝 国 分 层 皮 甲 
+itm_empire_legionnaire_armor|帝 国 军 团 甲 
+itm_empire_legionnaire_armor_pl|帝 国 军 团 甲 
+itm_empire_consul_armor|帝 国 执 政 官 甲 
+itm_empire_consul_armor_pl|帝 国 执 政 官 甲 
+itm_empire_silk_garmet|帝 国 丝 质 外 套 
+itm_empire_silk_garmet_pl|帝 国 丝 质 外 套 
+itm_breastplate_empire|帝 国 胸 甲 
+itm_breastplate_empire_pl|帝 国 胸 甲 
+itm_breastplate_empire_cape|带 披 风 帝 国 胸 甲 
+itm_breastplate_empire_cape_pl|带 披 风 帝 国 胸 甲 
+itm_empire_hastatus_armor|帝 国 青 年 步 兵 甲 
+itm_empire_hastatus_armor_pl|帝 国 青 年 步 兵 甲 
+itm_empire_princeps_armor|帝 国 成 年 步 兵 甲 
+itm_empire_princeps_armor_pl|帝 国 成 年 步 兵 甲 
+itm_shadow_legion_armor|暗 影 军 团 甲 
+itm_shadow_legion_armor_pl|暗 影 军 团 甲 
+itm_shadow_legion_armor_cape|带 披 风 暗 影 军 团 甲 
+itm_shadow_legion_armor_cape_pl|带 披 风 暗 影 军 团 甲 
+itm_empire_triarius_armor|帝 国 后 备 兵 甲 
+itm_empire_triarius_armor_pl|帝 国 后 备 兵 甲 
+itm_empire_triarius_armor_cape|带 披 风 帝 国 后 备 兵 甲 
+itm_empire_triarius_armor_cape_pl|带 披 风 帝 国 后 备 兵 甲 
+itm_empire_primus_armor|不 朽 者 军 官 甲 
+itm_empire_primus_armor_pl|不 朽 者 军 官 甲 
+itm_imperial_radiant_plate|光 辉 十 字 骑 士 板 甲 
+itm_imperial_radiant_plate_pl|光 辉 十 字 骑 士 板 甲 
+itm_imperial_radiant_plate_cape|带 披 风 光 辉 十 字 骑 士 板 甲 
+itm_imperial_radiant_plate_cape_pl|带 披 风 光 辉 十 字 骑 士 板 甲 
+itm_empire_knight_plate|帝 国 骑 士 板 甲 
+itm_empire_knight_plate_pl|帝 国 骑 士 板 甲 
+itm_empire_knight_plate_cape|带 披 风 帝 国 骑 士 板 甲 
+itm_empire_knight_plate_cape_pl|带 披 风 帝 国 骑 士 板 甲 
+itm_empire_guardian_plate|帝 国 守 卫 骑 士 板 甲 
+itm_empire_guardian_plate_pl|帝 国 守 卫 骑 士 板 甲 
+itm_empire_guardian_plate_cape|带 披 风 帝 国 守 卫 骑 士 板 甲 
+itm_empire_guardian_plate_cape_pl|带 披 风 帝 国 守 卫 骑 士 板 甲 
+itm_empire_golden_plate_1|金 色 牛 纹 袍 板 甲 
+itm_empire_golden_plate_1_pl|金 色 牛 纹 袍 板 甲 
+itm_empire_golden_plate_1_cape|带 披 风 金 色 牛 纹 袍 板 甲 
+itm_empire_golden_plate_1_cape_pl|带 披 风 金 色 牛 纹 袍 板 甲 
+itm_empire_golden_plate_2|金 色 板 甲 
+itm_empire_golden_plate_2_pl|金 色 板 甲 
+itm_empire_golden_plate_2_cape|带 披 风 金 色 板 甲 
+itm_empire_golden_plate_2_cape_pl|带 披 风 金 色 板 甲 
+itm_empire_mortal_plate|帝 国 鳞 甲 
+itm_empire_mortal_plate_pl|帝 国 鳞 甲 
+itm_quigfen_armor|长 河 镇 贵 族 护 甲 
+itm_quigfen_armor_pl|长 河 镇 贵 族 护 甲 
+itm_sing_black_leather|辛 加 尔 札 甲 
+itm_sing_black_leather_pl|辛 加 尔 札 甲 
+itm_sing_temptress_armor|辛 加 尔 妖 妇 甲 
+itm_sing_temptress_armor_pl|辛 加 尔 妖 妇 甲 
+itm_jatu_nomad_armor|迦 图 札 甲 
+itm_jatu_nomad_armor_pl|迦 图 札 甲 
+itm_jatu_raider_armor|迦 图 钉 饰 皮 甲 
+itm_jatu_raider_armor_pl|迦 图 钉 饰 皮 甲 
+itm_jatu_nomad_coat|迦 图 板 链 甲 
+itm_jatu_nomad_coat_pl|迦 图 板 链 甲 
+itm_jatu_warrior_lamellar|迦 图 护 心 镜 锁 子 甲 
+itm_jatu_warrior_lamellar_pl|迦 图 护 心 镜 锁 子 甲 
+itm_khergit_guard_armor|迦 图 札 甲 背 心 锁 子 甲 
+itm_khergit_guard_armor_pl|迦 图 札 甲 背 心 锁 子 甲 
+itm_jatu_honor_armor|迦 图 荣 誉 布 面 甲  
+itm_jatu_honor_armor_pl|迦 图 荣 誉 布 面 甲  
+itm_jatu_noble_armor|迦 图 贵 族 布 面 甲 
+itm_jatu_noble_armor_pl|迦 图 贵 族 布 面 甲 
+itm_scorpion_armor_2|刺 客 精 制 甲 
+itm_scorpion_armor_2_pl|刺 客 精 制 甲 
+itm_scorpion_armor|天 蝎 鳞 甲 
+itm_scorpion_armor_pl|天 蝎 鳞 甲 
+itm_wolf_armor_2|猎 手 护 甲 
+itm_wolf_armor_2_pl|猎 手 护 甲 
+itm_wolf_armor_1|幽 影 狼 护 甲 
+itm_wolf_armor_1_pl|幽 影 狼 护 甲 
+itm_phoenix_armor|凤 凰 覆 皮 锁 子 甲 
+itm_phoenix_armor_pl|凤 凰 覆 皮 锁 子 甲 
+itm_phoenix_plate|凤 凰 骑 士 重 型 板 甲 
+itm_phoenix_plate_pl|凤 凰 骑 士 重 型 板 甲 
+itm_priestess_high_armor|高 阶 女 祭 司 蛇 纹 甲 
+itm_priestess_high_armor_pl|高 阶 女 祭 司 蛇 纹 甲 
+itm_priestess_armor|女 祭 司 蛇 纹 甲 
+itm_priestess_armor_pl|女 祭 司 蛇 纹 甲 
+itm_cobra_plate|眼 镜 蛇 板 甲 
+itm_cobra_plate_pl|眼 镜 蛇 板 甲 
+itm_anaconda_plate|巨 蟒 板 甲 
+itm_anaconda_plate_pl|巨 蟒 板 甲 
+itm_asp_plate|角 蝰 护 甲 
+itm_asp_plate_pl|角 蝰 护 甲 
+itm_asp_plate_supreme|至 高 角 蝰 护 甲 
+itm_asp_plate_supreme_pl|至 高 角 蝰 护 甲 
+itm_xena_leather|厄 运 引 者 皮 甲 
+itm_xena_leather_pl|厄 运 引 者 皮 甲 
+itm_noldor_archer_garb|诺 多 射 手 装 
+itm_noldor_archer_garb_pl|诺 多 射 手 装 
+itm_noldor_archer_garb_cape|带 披 风 诺 多 射 手 装 
+itm_noldor_archer_garb_cape_pl|带 披 风 诺 多 射 手 装 
+itm_noldor_ranger_garb|诺 多 游 侠 装 
+itm_noldor_ranger_garb_pl|诺 多 游 侠 装 
+itm_noldor_ranger_garb_cape|带 披 风 诺 多 游 侠 装 
+itm_noldor_ranger_garb_cape_pl|带 披 风 诺 多 游 侠 装 
+itm_noldor_female_armor|诺 多 女 甲 
+itm_noldor_female_armor_pl|诺 多 女 甲 
+itm_noldor_female_armor_cape|带 披 风 诺 多 女 甲 
+itm_noldor_female_armor_cape_pl|带 披 风 诺 多 女 甲 
+itm_noldor_rune_armor|诺 多 符 印 甲 
+itm_noldor_rune_armor_pl|诺 多 符 印 甲 
+itm_noldor_ancient_plate|诺 多 远 古 甲 
+itm_noldor_ancient_plate_pl|诺 多 远 古 甲 
+itm_noldor_noble_armor|诺 多 贵 族 甲 
+itm_noldor_noble_armor_pl|诺 多 贵 族 甲 
+itm_noldor_noble_armor_cape|带 披 风 诺 多 贵 族 甲 
+itm_noldor_noble_armor_cape_pl|带 披 风 诺 多 贵 族 甲 
+itm_rune_plate_strange|神 奇 符 印 甲 
+itm_rune_plate_strange_pl|神 奇 符 印 甲 
+itm_rune_plate_saphire|蓝 宝 石 符 印 甲 
+itm_rune_plate_saphire_pl|蓝 宝 石 符 印 甲 
+itm_rune_plate_ruby|红 宝 石 符 印 甲 
+itm_rune_plate_ruby_pl|红 宝 石 符 印 甲 
+itm_rune_plate_emerald|翡 翠 符 印 甲 
+itm_rune_plate_emerald_pl|翡 翠 符 印 甲 
+itm_rune_plate_saphire_cape|带 披 风 蓝 宝 石 符 印 甲 
+itm_rune_plate_saphire_cape_pl|带 披 风 蓝 宝 石 符 印 甲 
+itm_rune_plate_ruby_cape|带 披 风 红 宝 石 符 印 甲 
+itm_rune_plate_ruby_cape_pl|带 披 风 红 宝 石 符 印 甲 
+itm_rune_plate_emerald_cape|带 披 风 翡 翠 符 印 甲 
+itm_rune_plate_emerald_cape_pl|带 披 风 翡 翠 符 印 甲 
+itm_leather_gloves|皮 手 套 （ 分 指 ） 
+itm_leather_gloves_pl|皮 手 套 （ 分 指 ） 
+itm_mail_mittens|锁 子 甲 手 套 （ 连 指 ） 
+itm_mail_mittens_pl|锁 子 甲 手 套 （ 连 指 ） 
+itm_black_steel_mittens|钢 制 黑 色 手 套 （ 连 指 ） 
+itm_black_steel_mittens_pl|钢 制 黑 色 手 套 （ 连 指 ） 
+itm_scale_gauntlets|鳞 甲 臂 铠 （ 连 指 ） 
+itm_scale_gauntlets_pl|鳞 甲 臂 铠 （ 连 指 ） 
+itm_lamellar_gauntlets|鳞 甲 手 套 （ 分 指 ） 
+itm_lamellar_gauntlets_pl|鳞 甲 手 套 （ 分 指 ） 
+itm_gauntlets_normal|臂 铠 （ 分 指 ） 
+itm_gauntlets_normal_pl|臂 铠 （ 分 指 ） 
+itm_dark_leather_gloves|深 色 皮 手 套 （ 分 指 ） 
+itm_dark_leather_gloves_pl|深 色 皮 手 套 （ 分 指 ） 
+itm_scorpion_gauntlets|天 蝎 臂 铠 （ 分 指 ） 
+itm_scorpion_gauntlets_pl|天 蝎 臂 铠 （ 分 指 ） 
+itm_wolf_mittens|钢 制 手 套 （ 连 指 ） 
+itm_wolf_mittens_pl|钢 制 手 套 （ 连 指 ） 
+itm_wolf_gauntlets|幽 影 狼 爪 （ 分 指 ） 
+itm_wolf_gauntlets_pl|幽 影 狼 爪 （ 分 指 ） 
+itm_snake_gloves|蛇 教 皮 手 套 （ 分 指 ） 
+itm_snake_gloves_pl|蛇 教 皮 手 套 （ 分 指 ） 
+itm_snake_gauntlets|蛇 教 臂 铠 （ 连 指 ） 
+itm_snake_gauntlets_pl|蛇 教 臂 铠 （ 连 指 ） 
+itm_asp_gauntlets|角 蝰 臂 铠 （ 分 指 ） 
+itm_asp_gauntlets_pl|角 蝰 臂 铠 （ 分 指 ） 
+itm_black_steel_gauntlets|黑 色 钢 制 臂 铠 （ 分 指 ） 
+itm_black_steel_gauntlets_pl|黑 色 钢 制 臂 铠 （ 分 指 ） 
+itm_hourglass_gauntlets_black|黑 色 沙 漏 型 臂 铠 （ 分 指 ） 
+itm_hourglass_gauntlets_black_pl|黑 色 沙 漏 型 臂 铠 （ 分 指 ） 
+itm_hourglass_gauntlets|沙 漏 型 臂 铠 （ 分 指 ） 
+itm_hourglass_gauntlets_pl|沙 漏 型 臂 铠 （ 分 指 ） 
+itm_hourglass_gauntlets_ornate|金 色 钢 制 手 套 （ 连 指 ） 
+itm_hourglass_gauntlets_ornate_pl|金 色 钢 制 手 套 （ 连 指 ） 
+itm_mett_mittens|梅 滕 海 姆 钢 制 手 套 （ 连 指 ） 
+itm_mett_mittens_pl|梅 滕 海 姆 钢 制 手 套 （ 连 指 ） 
+itm_myst_gauntlets|熊 爪 （ 分 指 ） 
+itm_myst_gauntlets_pl|熊 爪 （ 分 指 ） 
+itm_iron_gold_gauntlets|金 铁 双 色 臂 铠 （ 分 指 ） 
+itm_iron_gold_gauntlets_pl|金 铁 双 色 臂 铠 （ 分 指 ） 
+itm_steel_gauntlets|钢 制 臂 铠 （ 连 指 ） 
+itm_steel_gauntlets_pl|钢 制 臂 铠 （ 连 指 ） 
+itm_iron_gauntlets|铁 制 臂 铠 （ 分 指 ） 
+itm_iron_gauntlets_pl|铁 制 臂 铠 （ 分 指 ） 
+itm_silver_gauntlets|银 臂 铠 （ 分 指 ） 
+itm_silver_gauntlets_pl|银 臂 铠 （ 分 指 ） 
+itm_black_iron_gauntlets|黑 色 铁 制 臂 铠 （ 分 指 ） 
+itm_black_iron_gauntlets_pl|黑 色 铁 制 臂 铠 （ 分 指 ） 
+itm_clarion_gauntlets|号 角 臂 铠 （ 连 指 ） 
+itm_clarion_gauntlets_pl|号 角 臂 铠 （ 连 指 ） 
+itm_green_gauntlets|绿 色 臂 铠 （ 分 指 ） 
+itm_green_gauntlets_pl|绿 色 臂 铠 （ 分 指 ） 
+itm_azure_gauntlets|天 蓝 色 臂 铠 （ 分 指 ） 
+itm_azure_gauntlets_pl|天 蓝 色 臂 铠 （ 分 指 ） 
+itm_azure_gold_gauntlets|天 蓝 金 双 色 臂 铠 （ 连 指 ） 
+itm_azure_gold_gauntlets_pl|天 蓝 金 双 色 臂 铠 （ 连 指 ） 
+itm_black_gold_gauntlets|黑 色 金 纹 臂 铠 （ 分 指 ） 
+itm_black_gold_gauntlets_pl|黑 色 金 纹 臂 铠 （ 分 指 ） 
+itm_black_ebony_gauntlets|乌 木 臂 铠 （ 连 指 ） 
+itm_black_ebony_gauntlets_pl|乌 木 臂 铠 （ 连 指 ） 
+itm_reinforced_steel_gauntlets|至 高 钢 臂 铠 （ 分 指 ） 
+itm_reinforced_steel_gauntlets_pl|至 高 钢 臂 铠 （ 分 指 ） 
+itm_reinforced_silver_gauntlets|至 高 银 臂 铠 （ 连 指 ） 
+itm_reinforced_silver_gauntlets_pl|至 高 银 臂 铠 （ 连 指 ） 
+itm_noldor_silver_gauntlets|诺 多 华 丽 银 护 手 （ 连 指 ） 
+itm_noldor_silver_gauntlets_pl|诺 多 华 丽 银 护 手 （ 连 指 ） 
+itm_noldor_leather_gloves|诺 多 华 丽 皮 手 套 （ 分 指 ） 
+itm_noldor_leather_gloves_pl|诺 多 华 丽 皮 手 套 （ 分 指 ） 
+itm_ghost_woolen_hose|幽 灵 羊 毛 长 袜 
+itm_ghost_woolen_hose_pl|幽 灵 羊 毛 长 袜 
+itm_ghost_pilgrim_disguise|幽 灵 朝 圣 者 长 袍 
+itm_ghost_pilgrim_disguise_pl|幽 灵 朝 圣 者 长 袍 
+itm_ghost_head|幽 灵 头 
+itm_ghost_head_pl|幽 灵 头 
+itm_ghost_hands|幽 灵 手 
+itm_ghost_hands_pl|幽 灵 手 
+itm_mail_boots_for_tableau|退 役 锁 子 甲 靴 
+itm_mail_boots_for_tableau_pl|退 役 锁 子 甲 靴 
+itm_wrapping_boots|绑 腿 
+itm_wrapping_boots_pl|绑 腿 
+itm_woolen_hose|羊 毛 裤 
+itm_woolen_hose_pl|羊 毛 裤 
+itm_blue_hose|蓝 羊 毛 裤 
+itm_blue_hose_pl|蓝 羊 毛 裤 
+itm_hide_boots|兽 皮 靴 
+itm_hide_boots_pl|兽 皮 靴 
+itm_common_rus_shoes|平 民 鞋 
+itm_common_rus_shoes_pl|平 民 鞋 
+itm_hunter_boots|猎 靴 
+itm_hunter_boots_pl|猎 靴 
+itm_ankle_boots|短 靴 
+itm_ankle_boots_pl|短 靴 
+itm_looter_boots|劫 匪 靴 
+itm_looter_boots_pl|劫 匪 靴 
+itm_nomad_boots|游 牧 靴 
+itm_nomad_boots_pl|游 牧 靴 
+itm_light_leather_boots|轻 皮 靴 
+itm_light_leather_boots_pl|轻 皮 靴 
+itm_leather_boots|皮 靴 
+itm_leather_boots_pl|皮 靴 
+itm_leather_boots2|皮 靴 
+itm_leather_boots2_pl|皮 靴 
+itm_melitine_greaves|深 色 皮 护 胫 
+itm_melitine_greaves_pl|深 色 皮 护 胫 
+itm_splinted_leather_greaves|皮 制 夹 板 护 胫 
+itm_splinted_leather_greaves_pl|皮 制 夹 板 护 胫 
+itm_mail_chausses|锁 子 甲 护 腿 
+itm_mail_chausses_pl|锁 子 甲 护 腿 
+itm_myst_boots|熊 爪 靴 
+itm_myst_boots_pl|熊 爪 靴 
+itm_splinted_greaves|夹 板 护 胫 
+itm_splinted_greaves_pl|夹 板 护 胫 
+itm_ranger_boots|巡 林 者 皮 靴 
+itm_ranger_boots_pl|巡 林 者 皮 靴 
+itm_rav_highlander_boots|凛 鸦 境 高 地 靴 
+itm_rav_highlander_boots_pl|凛 鸦 境 高 地 靴
+itm_greaves_empire_consul|帝 国 执 政 官 护 胫 
+itm_greaves_empire_consul_pl|帝 国 执 政 官 护 胫 
+itm_brass_plated_boots|德 夏 铜 制 板 甲 靴 
+itm_brass_plated_boots_pl|德 夏 铜 制 板 甲 靴 
+itm_mail_boots|锁 子 甲 靴 
+itm_mail_boots_pl|锁 子 甲 靴 
+itm_greaves_soft_soled_plate|软 底 板 甲 护 胫 
+itm_greaves_soft_soled_plate_pl|软 底 板 甲 护 胫 
+itm_soft_greaves|软 底 华 丽 护 胫 
+itm_soft_greaves_pl|软 底 华 丽 护 胫 
+itm_silvered_boots|华 丽 镀 银 靴 
+itm_silvered_boots_pl|华 丽 镀 银 靴 
+itm_iron_greaves|铁 制 护 胫 
+itm_iron_greaves_pl|铁 制 护 胫 
+itm_plate_boots|板 甲 靴 
+itm_plate_boots_pl|板 甲 靴 
+itm_melitine_plate_boots|马 里 廷 板 甲 靴 
+itm_melitine_plate_boots_pl|马 里 廷 板 甲 靴 
+itm_dshar_orange_boots|德 夏 夹 板 护 胫 
+itm_dshar_orange_boots_pl|德 夏 夹 板 护 胫 
+itm_greaves_ornate_plate|华 丽 板 甲 靴 
+itm_greaves_ornate_plate_pl|华 丽 板 甲 靴 
+itm_greaves_polished_plate|抛 光 板 甲 靴 
+itm_greaves_polished_plate_pl|抛 光 板 甲 靴 
+itm_black_steel_boots|深 色 板 甲 护 胫 
+itm_black_steel_boots_pl|深 色 板 甲 护 胫 
+itm_shynbaulds|板 甲 护 胫 
+itm_shynbaulds_pl|板 甲 护 胫 
+itm_steel_greaves_black|黑 钢 护 胫 
+itm_steel_greaves_black_pl|黑 钢 护 胫 
+itm_decurion_boots|分 队 长 靴 
+itm_decurion_boots_pl|分 队 长 靴 
+itm_khergit_guard_boots|迦 图 护 靴 
+itm_khergit_guard_boots_pl|迦 图 护 靴 
+itm_steel_boots_new|抛 光 钢 靴 
+itm_steel_boots_new_pl|抛 光 钢 靴 
+itm_steel_greaves|钢 护 胫 
+itm_steel_greaves_pl|钢 护 胫 
+itm_steel_greaves_dark|深 色 铁 护 腿 
+itm_steel_greaves_dark_pl|深 色 铁 护 腿 
+itm_black_greaves|黑 护 腿 
+itm_black_greaves_pl|黑 护 腿 
+itm_greaves_shadow_legion|暗 影 军 团 靴 
+itm_greaves_shadow_legion_pl|暗 影 军 团 靴 
+itm_heavy_iron_greaves|重 型 铁 护 胫 
+itm_heavy_iron_greaves_pl|重 型 铁 护 胫 
+itm_greaves_heavy_plate|重 型 板 甲 护 胫 
+itm_greaves_heavy_plate_pl|重 型 板 甲 护 胫 
+itm_noldor_boots|诺 多 附 魔 靴 
+itm_noldor_boots_pl|诺 多 附 魔 靴 
+itm_noldor_plate_greaves|诺 多 板 甲 护 胫 
+itm_noldor_plate_greaves_pl|诺 多 板 甲 护 胫 
+itm_only_sandals|凉 鞋 
+itm_only_sandals_pl|凉 鞋 
+itm_ebony_greaves|乌 木 护 胫 
+itm_ebony_greaves_pl|乌 木 护 胫 
+itm_empire_shynbaulds|帝 国 板 甲 护 胫 
+itm_empire_shynbaulds_pl|帝 国 板 甲 护 胫 
+itm_azure_greaves|天 蓝 色 护 胫 
+itm_azure_greaves_pl|天 蓝 色 护 胫 
+itm_silver_gold_greaves|金 银 双 色 护 胫 
+itm_silver_gold_greaves_pl|金 银 双 色 护 胫 
+itm_dark_leather_boots|深 色 皮 靴 
+itm_dark_leather_boots_pl|深 色 皮 靴 
+itm_wolf_greaves_1|幽 影 狼 护 胫 
+itm_wolf_greaves_1_pl|幽 影 狼 护 胫 
+itm_priestess_boots|女 祭 司 蛇 纹 靴 
+itm_priestess_boots_pl|女 祭 司 蛇 纹 靴 
+itm_xena_boots|华 丽 皮 靴 
+itm_xena_boots_pl|华 丽 皮 靴 
+itm_asp_greaves|角 蝰 护 胫 
+itm_asp_greaves_pl|角 蝰 护 胫 
+itm_female_hood|女 士 头 巾 
+itm_female_hood_pl|女 士 头 巾 
+itm_khergit_lady_hat|德 夏 女 式 帽 
+itm_khergit_lady_hat_pl|德 夏 女 式 帽 
+itm_khergit_lady_hat_b|德 夏 女 式 皮 帽 
+itm_khergit_lady_hat_b_pl|德 夏 女 式 皮 帽 
+itm_head_wrappings|包 头 巾 
+itm_head_wrappings_pl|包 头 巾 
+itm_turret_hat_ruby|硬 边 女 帽 
+itm_turret_hat_ruby_pl|硬 边 女 帽 
+itm_turret_hat_blue|硬 边 女 帽 
+itm_turret_hat_blue_pl|硬 边 女 帽 
+itm_turret_hat_green|炮 台 帽 
+itm_turret_hat_green_pl|炮 台 帽 
+itm_court_hat|硬 边 女 帽 
+itm_court_hat_pl|硬 边 女 帽 
+itm_wimple_a|包 头 巾 
+itm_wimple_a_pl|包 头 巾 
+itm_wimple_with_veil|带 面 纱 头 巾 
+itm_wimple_with_veil_pl|带 面 纱 头 巾 
+itm_straw_hat|草 帽 
+itm_straw_hat_pl|草 帽 
+itm_common_hood|风 帽 
+itm_common_hood_pl|风 帽 
+itm_black_hood|黑 风 帽 
+itm_black_hood_pl|黑 风 帽 
+itm_empire_hood|帝 国 兜 帽 
+itm_empire_hood_pl|帝 国 兜 帽 
+itm_headcloth|包 头 巾 
+itm_headcloth_pl|包 头 巾 
+itm_arming_cap|战 士 帽 
+itm_arming_cap_pl|战 士 帽 
+itm_fur_hat|毛 皮 帽 
+itm_fur_hat_pl|毛 皮 帽 
+itm_nomad_cap|游 牧 帽 
+itm_nomad_cap_pl|游 牧 帽 
+itm_nomad_cap_b|游 牧 帽 
+itm_nomad_cap_b_pl|游 牧 帽 
+itm_woolen_cap|羊 毛 帽 
+itm_woolen_cap_pl|羊 毛 帽 
+itm_felt_hat|毡 帽 
+itm_felt_hat_pl|毡 帽 
+itm_felt_hat_b|毡 帽 
+itm_felt_hat_b_pl|毡 帽 
+itm_leather_cap|皮 帽 
+itm_leather_cap_pl|皮 帽 
+itm_padded_coif|垫 肩 头 巾 
+itm_padded_coif_pl|垫 肩 头 巾 
+itm_nordic_archer_helmet|菲 尔 兹 威 皮 盔 
+itm_nordic_archer_helmet_pl|菲 尔 兹 威 皮 盔 
+itm_leather_warrior_cap|皮 勇 士 帽 
+itm_leather_warrior_cap_pl|皮 勇 士 帽 
+itm_leather_steppe_cap_b|草 原 帽 
+itm_leather_steppe_cap_b_pl|草 原 帽 
+itm_leather_steppe_cap_c|草 原 帽 
+itm_leather_steppe_cap_c_pl|草 原 帽 
+itm_leather_steppe_cap_a|草 原 帽 
+itm_leather_steppe_cap_a_pl|草 原 帽 
+itm_nordic_veteran_archer_helmet|菲 尔 兹 威 老 兵 皮 盔 
+itm_nordic_veteran_archer_helmet_pl|菲 尔 兹 威 老 兵 皮 盔 
+itm_skullcap|无 边 便 帽 
+itm_skullcap_pl|无 边 便 帽  
+itm_mail_coif|垫 肩 锁 子 甲 头 巾 
+itm_mail_coif_pl|垫 肩 锁 子 甲 头 巾 
+itm_footman_helmet|步 兵 盔 
+itm_footman_helmet_pl|步 兵 盔 
+itm_nasal_helmet|护 鼻 盔 
+itm_nasal_helmet_pl|护 鼻 盔 
+itm_leather_neck_helmet|覆 铁 皮 盔 
+itm_leather_neck_helmet_pl|覆 铁 皮 盔 
+itm_sipahi_helmet_a|西 帕 希 盔 
+itm_sipahi_helmet_a_pl|西 帕 希 盔 
+itm_norman_helmet|诺 曼 盔 
+itm_norman_helmet_pl|诺 曼 盔 
+itm_spiked_helmet|尖 顶 盔 
+itm_spiked_helmet_pl|尖 顶 盔 
+itm_nordic_footman_helmet|菲 尔 兹 威 步 兵 盔 
+itm_nordic_footman_helmet_pl|菲 尔 兹 威 步 兵 盔 
+itm_dshar_war_helmet|德 夏 战 盔 
+itm_dshar_war_helmet_pl|德 夏 战 盔 
+itm_segmented_helmet|组 合 盔 
+itm_segmented_helmet_pl|组 合 盔 
+itm_helmet_empire_conscript|帝 国 征 召 兵 盔 
+itm_helmet_empire_conscript_pl|帝 国 征 召 兵 盔 
+itm_mail_neck_helmet|锁 子 甲 护 颈 盔 
+itm_mail_neck_helmet_pl|锁 子 甲 护 颈 盔 
+itm_nordic_fighter_helmet|菲 尔 兹 威 斗 士 盔 
+itm_nordic_fighter_helmet_pl|菲 尔 兹 威 斗 士 盔 
+itm_helmet_with_neckguard|护 颈 盔 
+itm_helmet_with_neckguard_pl|护 颈 盔 
+itm_helmet_shahi|沙 希 盔 
+itm_helmet_shahi_pl|沙 希 盔 
+itm_melitine_helmet|马 里 廷 盔 
+itm_melitine_helmet_pl|马 里 廷 盔 
+itm_kettle_hat|锅 盔 
+itm_kettle_hat_pl|锅 盔 
+itm_nordic_helmet|凡 斯 凯 瑞 盔 
+itm_nordic_helmet_pl|凡 斯 凯 瑞 盔 
+itm_flat_topped_helmet|平 顶 盔 
+itm_flat_topped_helmet_pl|平 顶 盔 
+itm_visorless_sallet|无 沿 轻 盔 
+itm_visorless_sallet_pl|无 沿 轻 盔 
+itm_jacok_morion_pop|高 顶 盔 
+itm_jacok_morion_pop_pl|高 顶 盔 
+itm_helmet_cap_and_chain|锁 子 甲 帽 盔 
+itm_helmet_cap_and_chain_pl|锁 子 甲 帽 盔 
+itm_skull_helm|萨 满 骷 髅 盔 
+itm_skull_helm_pl|萨 满 骷 髅 盔 
+itm_spangenhelm|夹 铁 盔 
+itm_spangenhelm_pl|夹 铁 盔 
+itm_barclay_pot_helm|巴 克 利 罐 盔 
+itm_barclay_pot_helm_pl|巴 克 利 罐 盔 
+itm_helmet_chain_mask_kettlehelm|锁 子 甲 覆 面 锅 盔 
+itm_helmet_chain_mask_kettlehelm_pl|锁 子 甲 覆 面 锅 盔 
+itm_bascinet|中 头 盔 
+itm_bascinet_pl|中 头 盔 
+itm_bascinet_2|护 颈 锁 子 甲 中 头 盔 
+itm_bascinet_2_pl|护 颈 锁 子 甲 中 头 盔 
+itm_bascinet_3|护 鼻 中 头 盔 
+itm_bascinet_3_pl|护 鼻 中 头 盔 
+itm_vaegir_noble_helmet|凛 鸦 境 贵 族 盔 
+itm_vaegir_noble_helmet_pl|凛 鸦 境 贵 族 盔 
+itm_armet_normal|活 动 面 罩 盔 
+itm_armet_normal_pl|活 动 面 罩 盔 
+itm_armet_plumed|饰 羽 活 动 面 罩 盔 
+itm_armet_plumed_pl|饰 羽 活 动 面 罩 盔 
+itm_armet_open|活 动 面 罩 盔 （ 打 开 ） 
+itm_armet_open_pl|活 动 面 罩 盔 （ 打 开 ） 
+itm_armet_open_plumed|饰 羽 活 动 面 罩 盔 （ 打 开 ） 
+itm_armet_open_plumed_pl|饰 羽 活 动 面 罩 盔 （ 打 开 ） 
+itm_faceplate_iron|铁 制 护 面 盔 
+itm_faceplate_iron_pl|铁 制 护 面 盔 
+itm_guard_helmet|护 卫 盔 
+itm_guard_helmet_pl|护 卫 盔 
+itm_vaegir_war_helmet|凛 鸦 境 战 盔 
+itm_vaegir_war_helmet_pl|凛 鸦 境 战 盔 
+itm_nemean_helm|尼 米 亚 狂 狮 盔 
+itm_nemean_helm_pl|尼 米 亚 狂 狮 盔 
+itm_helmet_empire_legion|军 团 盔 
+itm_helmet_empire_legion_pl|军 团 盔 
+itm_fluted_helmet|凹 槽 圆 盔 
+itm_fluted_helmet_pl|凹 槽 圆 盔 
+itm_nordic_huscarl_helmet|菲 尔 兹 威 近 卫 盔 
+itm_nordic_huscarl_helmet_pl|菲 尔 兹 威 近 卫 盔 
+itm_dshar_spiked_helmet|德 夏 尖 顶 盔 
+itm_dshar_spiked_helmet_pl|德 夏 尖 顶 盔 
+itm_bear_helm|熊 爪 盔 
+itm_bear_helm_pl|熊 爪 盔 
+itm_helmet_mercenary|佣 兵 盔 
+itm_helmet_mercenary_pl|佣 兵 盔 
+itm_helmet_vanskerry_warleader|凡 斯 凯 瑞 首 领 盔 
+itm_helmet_vanskerry_warleader_pl|凡 斯 凯 瑞 首 领 盔 
+itm_helm_dshar_warrior|德 夏 战 士 盔 
+itm_helm_dshar_warrior_pl|德 夏 战 士 盔 
+itm_helmet_torbah_warrior|托 巴 战 士 盔 
+itm_helmet_torbah_warrior_pl|托 巴 战 士 盔 
+itm_helmet_marinus|帝 国 步 战 兵 盔 
+itm_helmet_marinus_pl|帝 国 步 战 兵 盔 
+itm_empire_steel_helmet|帝 国 钢 盔 
+itm_empire_steel_helmet_pl|帝 国 钢 盔 
+itm_vendel|菲 尔 兹 威 海 盗 盔 
+itm_vendel_pl|菲 尔 兹 威 海 盗 盔 
+itm_nordic_warlord_helmet|菲 尔 兹 威 军 阀 盔 
+itm_nordic_warlord_helmet_pl|菲 尔 兹 威 军 阀 盔 
+itm_faceplate_mail_helmet|覆 面 板 链 复 合 盔 
+itm_faceplate_mail_helmet_pl|覆 面 板 链 复 合 盔 
+itm_helmet_faceplate|覆 面 盔 
+itm_helmet_faceplate_pl|覆 面 盔 
+itm_adventurer_heume|冒 险 者 盔 
+itm_adventurer_heume_pl|冒 险 者 盔 
+itm_adventurer_helm|冒 险 者 开 面 盔 
+itm_adventurer_helm_pl|冒 险 者 开 面 盔 
+itm_vecc_helm_tail|菲 卡 维 亚 盔 
+itm_vecc_helm_tail_pl|菲 卡 维 亚 盔 
+itm_vecc_helm_tail_open|菲 卡 维 亚 开 面 盔 
+itm_vecc_helm_tail_open_pl|菲 卡 维 亚 开 面 盔 
+itm_helmet_vanskerry_snouz|凡 斯 凯 瑞 遮 面 锁 子 甲 盔 
+itm_helmet_vanskerry_snouz_pl|凡 斯 凯 瑞 遮 面 锁 子 甲 盔 
+itm_jarl_helmet|菲 尔 兹 威 雅 尔 盔 
+itm_jarl_helmet_pl|菲 尔 兹 威 雅 尔 盔 
+itm_iron_simple_sallet|铁 制 简 易 夏 雷 尔 盔 
+itm_iron_simple_sallet_pl|铁 制 简 易 夏 雷 尔 盔 
+itm_iron_sallet_with_yellow_feather|饰 黄 羽 铁 制 夏 雷 尔 盔 （ 单 羽 ） 
+itm_iron_sallet_with_yellow_feather_pl|饰 黄 羽 铁 制 夏 雷 尔 盔 （ 单 羽 ） 
+itm_helmet_ravenstern|凛 鸦 境 盔 
+itm_helmet_ravenstern_pl|凛 鸦 境 盔 
+itm_steel_barbutte|巴 布 塔 盔 
+itm_steel_barbutte_pl|巴 布 塔 盔 
+itm_iron_sallet|铁 制 夏 雷 尔 盔 
+itm_iron_sallet_pl|铁 制 夏 雷 尔 盔 
+itm_steel_simple_sallet|钢 制 简 易 夏 雷 尔 盔 
+itm_steel_simple_sallet_pl|钢 制 简 易 夏 雷 尔 盔 
+itm_steel_simple_sallet_with_red_feather|饰 红 羽 钢 制 简 易 夏 雷 尔 盔 （ 单 羽 ） 
+itm_steel_simple_sallet_with_red_feather_pl|饰 红 羽 钢 制 简 易 夏 雷 尔 盔 （ 单 羽 ） 
+itm_steel_sallet_with_red_feathers|饰 红 羽 钢 制 夏 雷 尔 盔 （ 三 羽 ） 
+itm_steel_sallet_with_red_feathers_pl|饰 红 羽 钢 制 夏 雷 尔 盔 （ 三 羽 ） 
+itm_steel_sallet_with_yellow_feathers|饰 黄 羽 钢 制 夏 雷 尔 盔 （ 三 羽 ） 
+itm_steel_sallet_with_yellow_feathers_pl|饰 黄 羽 钢 制 夏 雷 尔 盔 （ 三 羽 ） 
+itm_full_helm|全 盔 
+itm_full_helm_pl|全 盔 
+itm_empire_blacksteel_helmet|帝 国 守 卫 盔 
+itm_empire_blacksteel_helmet_pl|帝 国 守 卫 盔 
+itm_dread_helm|恐 惧 军 团 盔 
+itm_dread_helm_pl|恐 惧 军 团 盔 
+itm_valsgarde|菲 尔 兹 威 侍 卫 盔 
+itm_valsgarde_pl|菲 尔 兹 威 侍 卫 盔 
+itm_kiergard_helm_with_mail|铁 甲 卫 士 锁 子 甲 盔 
+itm_kiergard_helm_with_mail_pl|铁 甲 卫 士 锁 子 甲 盔 
+itm_kiergard_helm|铁 甲 卫 士 盔 
+itm_kiergard_helm_pl|铁 甲 卫 士 盔 
+itm_strange_steel_simple_sallet|怪 异 钢 制 简 易 夏 雷 尔 盔
+itm_strange_steel_simple_sallet_pl|怪 异 钢 制 简 易 夏 雷 尔 盔
+itm_helmet_torbah_mask|托 巴 面 罩 盔 
+itm_helmet_torbah_mask_pl|托 巴 面 罩 盔 
+itm_kiergard_helm_silver_with_mail|银 雾 锁 子 甲 盔 
+itm_kiergard_helm_silver_with_mail_pl|银 雾 锁 子 甲 盔 
+itm_kiergard_helm_silver|银 雾 游 侠 盔 
+itm_kiergard_helm_silver_pl|银 雾 游 侠 盔 
+itm_maciejowski_helmet|带 翼 桶 盔 
+itm_maciejowski_helmet_pl|带 翼 桶 盔 
+itm_great_helmet|桶 盔 
+itm_great_helmet_pl|桶 盔 
+itm_fierd_helm_2|菲 尔 兹 威 夹 铁 盔 
+itm_fierd_helm_2_pl|菲 尔 兹 威 夹 铁 盔 
+itm_fierd_helm_1|菲 尔 兹 威 重 型 夹 铁 盔 
+itm_fierd_helm_1_pl|菲 尔 兹 威 重 型 夹 铁 盔 
+itm_fierd_helm_1_horned|菲 尔 兹 威 夹 铁 角 盔 
+itm_fierd_helm_1_horned_pl|菲 尔 兹 威 夹 铁 角 盔 
+itm_immortal_helmet|不 朽 冠 军 盔 
+itm_immortal_helmet_pl|不 朽 冠 军 盔 
+itm_immortal_helmet_a|不 朽 者 盔 
+itm_immortal_helmet_a_pl|不 朽 者 盔 
+itm_empire_gold_helmet|金 色 帝 国 盔 
+itm_empire_gold_helmet_pl|金 色 帝 国 盔 
+itm_helmet_empire_immortal|百 夫 长 盔 
+itm_helmet_empire_immortal_pl|百 夫 长 盔 
+itm_steel_sallet|钢 制 夏 雷 尔 盔 
+itm_steel_sallet_pl|钢 制 夏 雷 尔 盔 
+itm_ishkam_helm|艾 希 科 曼 盔 
+itm_ishkam_helm_pl|艾 希 科 曼 盔 
+itm_helmet_torbah_chieftain|托 巴 酋 长 盔 
+itm_helmet_torbah_chieftain_pl|托 巴 酋 长 盔 
+itm_barclay_helm|巴 克 利 桶 盔 
+itm_barclay_helm_pl|巴 克 利 桶 盔 
+itm_great_sugarloaf_helm|骑 士 巨 盔 
+itm_great_sugarloaf_helm_pl|骑 士 巨 盔 
+itm_melitine_mask_bronze|马 里 廷 铜 制 面 罩 盔 
+itm_melitine_mask_bronze_pl|马 里 廷 铜 制 面 罩 盔 
+itm_maximilian_helmet|马 克 西 米 利 安 盔 
+itm_maximilian_helmet_pl|马 克 西 米 利 安 盔 
+itm_maximilian_helmet_open|马 克 西 米 利 安 盔 
+itm_maximilian_helmet_open_pl|马 克 西 米 利 安 盔 
+itm_maximilian_helmet_horned|马 克 西 米 利 安 角 盔 
+itm_maximilian_helmet_horned_pl|马 克 西 米 利 安 角 盔 
+itm_maximilian_helmet_horned2|马 克 西 米 利 安 角 盔 
+itm_maximilian_helmet_horned2_pl|马 克 西 米 利 安 角 盔 
+itm_zitta_bascinet|吉 塔 中 头 盔 
+itm_zitta_bascinet_pl|吉 塔 中 头 盔 
+itm_zitta_bascinet_horned|吉 塔 带 角 中 头 盔 
+itm_zitta_bascinet_horned_pl|吉 塔 带 角 中 头 盔 
+itm_khergit_helmet|迦 图 盔 
+itm_khergit_helmet_pl|迦 图 盔 
+itm_khergit_cavalry_helmet|迦 图 骑 兵 盔 
+itm_khergit_cavalry_helmet_pl|迦 图 骑 兵 盔 
+itm_khergit_war_helmet|迦 图 战 盔 
+itm_khergit_war_helmet_pl|迦 图 战 盔 
+itm_khergit_guard_helmet|迦 图 护 盔 
+itm_khergit_guard_helmet_pl|迦 图 护 盔 
+itm_jatu_mask_helm|迦 图 面 具 盔 
+itm_jatu_mask_helm_pl|迦 图 面 具 盔 
+itm_jatu_faceless_helm|迦 图 无 面 盔 
+itm_jatu_faceless_helm_pl|迦 图 无 面 盔 
+itm_rav_footman_helm|凛 鸦 境 步 兵 盔 （ 无 面 甲 ） 
+itm_rav_footman_helm_pl|凛 鸦 境 步 兵 盔 （ 无 面 甲 ） 
+itm_rav_bascinet|凛 鸦 境 武 装 盔 
+itm_rav_bascinet_pl|凛 鸦 境 武 装 盔 
+itm_rav_open_bascinet|凛 鸦 境 武 装 盔 （ 打 开 ） 
+itm_rav_open_bascinet_pl|凛 鸦 境 武 装 盔 （ 打 开 ） 
+itm_sarleon_greathelm|烈 狮 境 圆 顶 中 头 盔
+itm_sarleon_greathelm_pl|烈 狮 境 圆 顶 中 头 盔
+itm_helmet_sarleon_knight_plume|烈 狮 境 圆 顶 中 头 盔 （ 打 开 ） 
+itm_helmet_sarleon_knight_plume_pl|烈 狮 境 圆 顶 中 头 盔 （ 打 开 ） 
+itm_great_helm|掀 面 桶 盔 
+itm_great_helm_pl|掀 面 桶 盔 
+itm_feather_bascinet_1|饰 黑 羽 尖 面 盔 （ 三 羽 ） 
+itm_feather_bascinet_1_pl|饰 黑 羽 尖 面 盔 （ 三 羽 ） 
+itm_helmet_hounskull_royal_open|皇 家 尖 面 盔 （ 打 开 ） 
+itm_helmet_hounskull_royal_open_pl|皇 家 尖 面 盔 （ 打 开 ） 
+itm_helmet_hounskull_bascinet|饰 彩 羽 尖 面 盔 （ 三 羽 ） 
+itm_helmet_hounskull_bascinet_pl|饰 彩 羽 尖 面 盔 （ 三 羽 ） 
+itm_visored_bascinet|覆 面 武 装 盔 
+itm_visored_bascinet_pl|覆 面 武 装 盔 
+itm_visored_bascinet_tailed|垂 饰 覆 面 武 装 盔 
+itm_visored_bascinet_tailed_pl|垂 饰 覆 面 武 装 盔 
+itm_visored_bascinet_open|覆 面 武 装 盔 （ 打 开 ） 
+itm_visored_bascinet_open_pl|覆 面 武 装 盔 （ 打 开 ） 
+itm_helmet_hounskull_bascinet_open_a|巴 克 利 尖 面 盔 （ 打 开 ） 
+itm_helmet_hounskull_bascinet_open_a_pl|巴 克 利 尖 面 盔 （ 打 开 ） 
+itm_helmet_hounskull_bascinet_open_b|巴 克 利 饰 羽 尖 面 盔 （ 打 开 ） 
+itm_helmet_hounskull_bascinet_open_b_pl|巴 克 利 饰 羽 尖 面 盔 （ 打 开 ） 
+itm_helmet_hounskull_bascinet_open_c|圆 顶 中 头 盔 （ 打 开 ） 
+itm_helmet_hounskull_bascinet_open_c_pl|圆 顶 中 头 盔 （ 打 开 ） 
+itm_feather_bascinet_2|饰 黑 羽 圆 顶 中 头 盔 （ 单 羽 ） 
+itm_feather_bascinet_2_pl|饰 黑 羽 圆 顶 中 头 盔 （ 单 羽 ） 
+itm_open_bascinet_irb|饰 羽 中 头 盔 （ 无 面 甲 ） 
+itm_open_bascinet_irb_pl|饰 羽 中 头 盔 （ 无 面 甲 ） 
+itm_flat_bascinet_tailed_open_irb|带 顶 翎 掀 面 桶 盔 （ 打 开 ） 
+itm_flat_bascinet_tailed_open_irb_pl|带 顶 翎 掀 面 桶 盔 （ 打 开 ） 
+itm_flat_bascinet_tailed_irb|带 顶 翎 掀 面 桶 盔
+itm_flat_bascinet_tailed_irb_pl|带 顶 翎 掀 面 桶 盔
+itm_black_rounded_bascinet|垂 饰 圆 顶 中 头 盔 
+itm_black_rounded_bascinet_pl|垂 饰 圆 顶 中 头 盔 
+itm_black_rounded_bascinet_open|垂 饰 圆 顶 中 头 盔 （ 打 开 ） 
+itm_black_rounded_bascinet_open_pl|垂 饰 圆 顶 中 头 盔 （ 打 开 ） 
+itm_hounskull_bascinet_tailed_irb|锤 饰 尖 面 盔 
+itm_hounskull_bascinet_tailed_irb_pl|锤 饰 尖 面 盔 
+itm_silver_7_helmet|银 色 黎 明 武 装 盔 
+itm_silver_7_helmet_pl|银 色 黎 明 武 装 盔 
+itm_silver_3_helmet|银 色 黎 明 武 装 盔 （ 打 开 ） 
+itm_silver_3_helmet_pl|银 色 黎 明 武 装 盔 （ 打 开 ） 
+itm_silver_4_helmet|银 色 掀 面 桶 盔 （ 打 开 ） 
+itm_silver_4_helmet_pl|银 色 掀 面 桶 盔 （ 打 开 ） 
+itm_silver_9_helmet|银 色 尖 面 盔 
+itm_silver_9_helmet_pl|银 色 尖 面 盔 
+itm_silver_10_helmet|银 色 圆 顶 中 头 盔 
+itm_silver_10_helmet_pl|银 色 圆 顶 中 头 盔 
+itm_silver_1_helmet|银 色 垂 饰 圆 顶 中 头 盔 
+itm_silver_1_helmet_pl|银 色 垂 饰 圆 顶 中 头 盔 
+itm_silver_2_helmet|银 色 饰 羽 掀 面 桶 盔 
+itm_silver_2_helmet_pl|银 色 饰 羽 掀 面 桶 盔 
+itm_silver_1b_helmet|银 色 中 头 盔 （ 无 面 甲 ） 
+itm_silver_1b_helmet_pl|银 色 中 头 盔 （ 无 面 甲 ） 
+itm_silver_2b_helmet|银 色 垂 饰 尖 面 盔 （ 打 开 ） 
+itm_silver_2b_helmet_pl|银 色 垂 饰 尖 面 盔 （ 打 开 ） 
+itm_silver_3b_helmet|银 色 武 装 盔 
+itm_silver_3b_helmet_pl|银 色 武 装 盔 
+itm_silver_4b_helmet|银 色 圆 顶 中 头 盔 
+itm_silver_4b_helmet_pl|银 色 圆 顶 中 头 盔 
+itm_azure_6_helmet|天 蓝 色 中 头 盔 （ 无 面 甲 ） 
+itm_azure_6_helmet_pl|天 蓝 色 中 头 盔 （ 无 面 甲 ） 
+itm_azure_7_helmet|饰 羽 天 蓝 色 武 装 盔（ 打 开 ） 
+itm_azure_7_helmet_pl|饰 羽 天 蓝 色 武 装 盔（ 打 开 ） 
+itm_azure_8_helmet|天 蓝 色 掀 面 桶 盔 
+itm_azure_8_helmet_pl|天 蓝 色 掀 面 桶 盔 
+itm_azure_9_helmet|天 蓝 色 尖 面 盔 （ 打 开 ） 
+itm_azure_9_helmet_pl|天 蓝 色 尖 面 盔 （ 打 开 ） 
+itm_azure_10_helmet|天 蓝 色 圆 顶 中 头 盔 
+itm_azure_10_helmet_pl|天 蓝 色 圆 顶 中 头 盔 
+itm_outrider_helm|巡 狩 中 头 盔 （ 无 面 甲 ） 
+itm_outrider_helm_pl|巡 狩 中 头 盔 （ 无 面 甲 ） 
+itm_green_2_helmet|巡 林 者 垂 饰 中 头 盔 （ 无 面 甲 ） 
+itm_green_2_helmet_pl|巡 林 者 垂 饰 中 头 盔 （ 无 面 甲 ） 
+itm_green_1_helmet|巡 林 者 饰 羽 掀 面 桶 盔 （ 打 开 ） 
+itm_green_1_helmet_pl|巡 林 者 饰 羽 掀 面 桶 盔 （ 打 开 ） 
+itm_green_4_helmet|绿 色 圆 顶 中 头 盔 （ 打 开 ） 
+itm_green_4_helmet_pl|绿 色 圆 顶 中 头 盔 （ 打 开 ） 
+itm_green_3_helmet|绿 色 饰 羽 尖 面 盔 
+itm_green_3_helmet_pl|绿 色 饰 羽 尖 面 盔 
+itm_black_1_helmet|黑 色 饰 羽 盔 （ 无 面 甲 ） 
+itm_black_1_helmet_pl|黑 色 饰 羽 盔 （ 无 面 甲 ） 
+itm_helmet_knight_unicorn_open|独 角 兽 盔 （ 打 开 ） 
+itm_helmet_knight_unicorn_open_pl|独 角 兽 盔 （ 打 开 ） 
+itm_helmet_knight_unicorn|独 角 兽 盔 
+itm_helmet_knight_unicorn_pl|独 角 兽 盔 
+itm_black_2_helmet|黑 色 饰 红 羽 掀 面 桶 盔 （ 单 羽 ） 
+itm_black_2_helmet_pl|黑 色 饰 红 羽 掀 面 桶 盔 （ 单 羽 ） 
+itm_black_3_helmet|黑 色 垂 饰 圆 顶 中 头 盔 （ 单 羽 ） 
+itm_black_3_helmet_pl|黑 色 垂 饰 圆 顶 中 头 盔 （ 单 羽 ） 
+itm_helmet_black_hounskull_a|黑 色 圆 顶 中 头 盔 
+itm_helmet_black_hounskull_a_pl|黑 色 圆 顶 中 头 盔 
+itm_helmet_black_hounskull_b|黑 色 饰 黑 羽 圆 顶 中 头 盔 （ 三 羽 ） 
+itm_helmet_black_hounskull_b_pl|黑 色 饰 黑 羽 圆 顶 中 头 盔 （ 三 羽 ） 
+itm_black_7_helmet|乌 木 饰 羽 武 装 盔 （ 三 羽 ） 
+itm_black_7_helmet_pl|乌 木 饰 羽 武 装 盔 （ 三 羽 ） 
+itm_black_8_helmet|乌 鸦 掀 面 桶 盔 
+itm_black_8_helmet_pl|乌 鸦 掀 面 桶 盔 
+itm_supreme_raven_helm|至 高 乌 鸦 掀 面 桶 盔 
+itm_supreme_raven_helm_pl|至 高 乌 鸦 掀 面 桶 盔 
+itm_black_9_helmet|狮 鹫 中 头 盔 （ 无 面 甲 ） 
+itm_black_9_helmet_pl|狮 鹫 中 头 盔 （ 无 面 甲 ） 
+itm_steel_1_helmet|饰 羽 中 头 盔 （ 无 面 甲 ） 
+itm_steel_1_helmet_pl|饰 羽 中 头 盔 （ 无 面 甲 ） 
+itm_steel_2_helmet|武 装 盔 （ 打 开 ） 
+itm_steel_2_helmet_pl|武 装 盔 （ 打 开 ） 
+itm_steel_3_helmet|掀 面 桶 盔 
+itm_steel_3_helmet_pl|掀 面 桶 盔 
+itm_darkhelm|黑 色 骑 士 盔 （ 打 开 ） 
+itm_darkhelm_pl|黑 色 骑 士 盔 （ 打 开 ） 
+itm_helmet_hounskull_sarleon|烈 狮 境 尖 面 盔 
+itm_helmet_hounskull_sarleon_pl|烈 狮 境 尖 面 盔 
+itm_helmet_hounskull_sarleon_open|烈 狮 境 尖 面 盔 （ 打 开 ） 
+itm_helmet_hounskull_sarleon_open_pl|烈 狮 境 尖 面 盔 （ 打 开 ） 
+itm_helmet_rounded_bascinet|圆 顶 中 头 盔 
+itm_helmet_rounded_bascinet_pl|圆 顶 中 头 盔 
+itm_steel_4_helmet|钢 制 圆 顶 中 头 盔 
+itm_steel_4_helmet_pl|钢 制 圆 顶 中 头 盔 
+itm_steel_5_helmet|狮 纹 中 头 盔 （ 打 开 ） 
+itm_steel_5_helmet_pl|狮 纹 中 头 盔 （ 打 开 ） 
+itm_helmet_great_gold_plated|带 黑 白 饰 翼 桶 盔 
+itm_helmet_great_gold_plated_pl|带 黑 白 饰 翼 桶 盔 
+itm_helmet_knight_helm|骑 士 尖 顶 桶 盔 
+itm_helmet_knight_helm_pl|骑 士 尖 顶 桶 盔 
+itm_helmet_horned_01|龙 纹 带 角 桶 盔 
+itm_helmet_horned_01_pl|龙 纹 带 角 桶 盔 
+itm_great_helm_2|龙 纹 桶 盔 
+itm_great_helm_2_pl|龙 纹 桶 盔 
+itm_winged_great_helmet|狮 鹫 桶 盔 
+itm_winged_great_helmet_pl|狮 鹫 桶 盔 
+itm_helmet_molded_great|铸 造 桶 盔 
+itm_helmet_molded_great_pl|铸 造 桶 盔 
+itm_great_helm_1|桶 盔 
+itm_great_helm_1_pl|桶 盔 
+itm_winged_great_helmet_1|红 绿 双 色 带 翼 巨 盔 
+itm_winged_great_helmet_1_pl|红 绿 双 色 带 翼 巨 盔 
+itm_great_helmet_silver_1|银 色 桶 盔 
+itm_great_helmet_silver_1_pl|银 色 桶 盔 
+itm_great_helmet_silver_3|银 色 桶 盔 
+itm_great_helmet_silver_3_pl|银 色 桶 盔 
+itm_great_helmet_silver_6|带 角 桶 盔 
+itm_great_helmet_silver_6_pl|带 角 桶 盔 
+itm_great_helmet_silver_7|带 蓝 黄 双 色 翼 桶 盔 
+itm_great_helmet_silver_7_pl|带 蓝 黄 双 色 翼 桶 盔 
+itm_great_helmet_silver_8|银 色 带 角 巨 盔 
+itm_great_helmet_silver_8_pl|银 色 带 角 巨 盔 
+itm_great_helmet_silver_5|黎 明 带 翼 桶 盔 
+itm_great_helmet_silver_5_pl|黎 明 带 翼 桶 盔 
+itm_great_helmet_silver_2|银 色 桶 盔 
+itm_great_helmet_silver_2_pl|银 色 桶 盔 
+itm_helmet_knight_helm_black|黑 色 骑 士 巨 盔 
+itm_helmet_knight_helm_black_pl|黑 色 骑 士 巨 盔 
+itm_helmet_knight_helm_black|黑 色 骑 士 巨 盔 
+itm_helmet_knight_helm_black_pl|黑 色 骑 士 巨 盔 
+itm_eventide_helm_cape|带 披 风 黄 昏 骑 士 桶 盔 
+itm_eventide_helm_cape_pl|带 披 风 黄 昏 骑 士 桶 盔 
+itm_eventide_helm|黄 昏 骑 士 桶 盔 
+itm_eventide_helm_pl|黄 昏 骑 士 桶 盔 
+itm_great_horned_helm_3|白 绿 双 色 骑 士 桶 盔 
+itm_great_horned_helm_3_pl|白 绿 双 色 骑 士 桶 盔 
+itm_great_helmet_black_1|黑 色 桶 盔 
+itm_great_helmet_black_1_pl|黑 色 桶 盔 
+itm_great_helmet_black_3|红 黄 双 色 骑 士 桶 盔 
+itm_great_helmet_black_3_pl|红 黄 双 色 骑 士 桶 盔 
+itm_helmet_horned_02|黑 色 带 角 桶 盔 
+itm_helmet_horned_02_pl|黑 色 带 角 桶 盔 
+itm_hood_white_silver_1|白 兜 帽 银 色 桶 盔 
+itm_hood_white_silver_1_pl|白 兜 帽 银 色 桶 盔 
+itm_hood_white_silver_2|白 兜 帽 银 色 尖 面 盔 
+itm_hood_white_silver_2_pl|白 兜 帽 银 色 尖 面 盔 
+itm_hood_white_black_1|白 兜 帽 黑 色 桶 盔 
+itm_hood_white_black_1_pl|白 兜 帽 黑 色 桶 盔 
+itm_hood_white_black_2|白 兜 帽 黑 色 尖 面 盔 
+itm_hood_white_black_2_pl|白 兜 帽 黑 色 尖 面 盔 
+itm_hood_white_iron_1|白 兜 帽 桶 盔 
+itm_hood_white_iron_1_pl|白 兜 帽 桶 盔 
+itm_hood_white_iron_2|白 兜 帽 圆 顶 中 头 盔 
+itm_hood_white_iron_2_pl|白 兜 帽 圆 顶 中 头 盔 
+itm_hood_white_silver_3|白 兜 帽 金 银 双 色 桶 盔 
+itm_hood_white_silver_3_pl|白 兜 帽 金 银 双 色 桶 盔 
+itm_hood_white_silver_4|白 兜 帽 银 色 圆 顶 中 头 盔
+itm_hood_white_silver_4_pl|白 兜 帽 银 色 圆 顶 中 头 盔
+itm_hood_white_iron_3|白 兜 帽 金 色 桶 盔 
+itm_hood_white_iron_3_pl|白 兜 帽 金 色 桶 盔 
+itm_hood_white_iron_4|白 兜 帽 尖 面 盔 
+itm_hood_white_iron_4_pl|白 兜 帽 尖 面 盔 
+itm_hood_black_black_1|黑 兜 帽 暗 金 双 色 桶 盔 
+itm_hood_black_black_1_pl|黑 兜 帽 暗 金 双 色 桶 盔 
+itm_hood_black_black_2|黑 兜 帽 暗 色 尖 面 盔 
+itm_hood_black_black_2_pl|黑 兜 帽 暗 色 尖 面 盔 
+itm_hood_black_black_3|黑 兜 帽 暗 色 桶 盔 
+itm_hood_black_black_3_pl|黑 兜 帽 暗 色 桶 盔 
+itm_hood_black_black_4|黑 兜 帽 暗 色 圆 顶 中 头 盔 
+itm_hood_black_black_4_pl|黑 兜 帽 暗 色 圆 顶 中 头 盔 
+itm_hood_black_black_5|黑 兜 帽 黑 色 桶 盔 
+itm_hood_black_black_5_pl|黑 兜 帽 黑 色 桶 盔 
+itm_hood_black_iron_1|黑 兜 帽 金 色 桶 盔 
+itm_hood_black_iron_1_pl|黑 兜 帽 金 色 桶 盔 
+itm_hood_black_iron_2|黑 兜 帽 金 色 圆 顶 中 头 盔 
+itm_hood_black_iron_2_pl|黑 兜 帽 金 色 圆 顶 中 头 盔 
+itm_hood_black_iron_3|黑 兜 帽 桶 盔 
+itm_hood_black_iron_3_pl|黑 兜 帽 桶 盔 
+itm_hood_black_iron_4|黑 兜 帽 圆 顶 中 头 盔 
+itm_hood_black_iron_4_pl|黑 兜 帽 圆 顶 中 头 盔 
+itm_hood_black_iron_5|黑 兜 帽 黑 色 铁 盔 
+itm_hood_black_iron_5_pl|黑 兜 帽 黑 色 铁 盔 
+itm_hood_red_iron_1|红 兜 帽 金 色 桶 盔 
+itm_hood_red_iron_1_pl|红 兜 帽 金 色 桶 盔 
+itm_hood_red_iron_2|红 兜 帽 金 色 尖 面 盔 
+itm_hood_red_iron_2_pl|红 兜 帽 金 色 尖 面 盔 
+itm_hood_red_black_1|红 兜 帽 黑 色 桶 盔 
+itm_hood_red_black_1_pl|红 兜 帽 黑 色 桶 盔 
+itm_hood_red_black_2|红 兜 帽 金 色 圆 顶 中 头 盔 
+itm_hood_red_black_2_pl|红 兜 帽 金 色 圆 顶 中 头 盔 
+itm_hood_red_iron_3|红 兜 帽 桶 盔 
+itm_hood_red_iron_3_pl|红 兜 帽 桶 盔 
+itm_hood_red_steel_1|红 兜 帽 烈 狮 境 尖 面 盔 
+itm_hood_red_steel_1_pl|红 兜 帽 烈 狮 境 尖 面 盔 
+itm_hood_red_steel_2|红 兜 帽 烈 狮 境 圆 顶 中 头 盔 
+itm_hood_red_steel_2_pl|红 兜 帽 烈 狮 境 圆 顶 中 头 盔 
+itm_hood_green_iron_1|绿 兜 帽 桶 盔 
+itm_hood_green_iron_1_pl|绿 兜 帽 桶 盔 
+itm_hood_green_iron_2|绿 兜 帽 圆 顶 中 头 盔 
+itm_hood_green_iron_2_pl|绿 兜 帽 圆 顶 中 头 盔 
+itm_hood_blue_iron_1|蓝 兜 帽 桶 盔 
+itm_hood_blue_iron_1_pl|蓝 兜 帽 桶 盔 
+itm_hood_blue_iron_2|蓝 兜 帽 圆 顶 中 头 盔 
+itm_hood_blue_iron_2_pl|蓝 兜 帽 圆 顶 中 头 盔 
+itm_hood_purple_iron_1|紫 兜 帽 桶 盔 
+itm_hood_purple_iron_1_pl|紫 兜 帽 桶 盔 
+itm_hood_purple_iron_2|紫 兜 帽 圆 顶 中 头 盔 
+itm_hood_purple_iron_2_pl|紫 兜 帽 圆 顶 中 头 盔 
+itm_hood_purple_blue_1|紫 兜 帽 蓝 色 尖 面 盔 
+itm_hood_purple_blue_1_pl|紫 兜 帽 蓝 色 尖 面 盔 
+itm_hood_purple_blue_2|紫 兜 帽 圆 顶 中 头 盔 
+itm_hood_purple_blue_2_pl|紫 兜 帽 圆 顶 中 头 盔 
+itm_hood_green_cyan_1|青 兜 帽 绿 色 尖 面 盔 
+itm_hood_green_cyan_1_pl|青 兜 帽 绿 色 尖 面 盔 
+itm_hood_green_cyan_2|青 兜 帽 绿 色 圆 顶 中 头 盔 
+itm_hood_green_cyan_2_pl|青 兜 帽 绿 色 圆 顶 中 头 盔 
+itm_hood_yellow_silver_1|黄 兜 帽 银 色 桶 盔 
+itm_hood_yellow_silver_1_pl|黄 兜 帽 银 色 桶 盔 
+itm_hood_yellow_silver_2|黄 兜 帽 银 色 圆 顶 中 头 盔 
+itm_hood_yellow_silver_2_pl|黄 兜 帽 银 色 圆 顶 中 头 盔 
+itm_hood_yellow_iron_1|黄 兜 帽 桶 盔 
+itm_hood_yellow_iron_1_pl|黄 兜 帽 桶 盔 
+itm_hood_yellow_iron_2|黄 兜 帽 尖 面 盔 
+itm_hood_yellow_iron_2_pl|黄 兜 帽 尖 面 盔 
+itm_hood_yellow_black_1|黄 兜 帽 黑 色 桶 盔 
+itm_hood_yellow_black_1_pl|黄 兜 帽 黑 色 桶 盔 
+itm_hood_yellow_black_2|黄 兜 帽 黑 色 圆 顶 中 头 盔 
+itm_hood_yellow_black_2_pl|黄 兜 帽 黑 色 圆 顶 中 头 盔 
+itm_hood_rav_iron_1|凛 鸦 境 带 兜 帽 桶 盔 
+itm_hood_rav_iron_1_pl|凛 鸦 境 带 兜 帽 桶 盔 
+itm_hood_rav_iron_2|凛 鸦 境 带 兜 帽 金 色 桶 盔 
+itm_hood_rav_iron_2_pl|凛 鸦 境 带 兜 帽 金 色 桶 盔 
+itm_hood_rav_iron_3|凛 鸦 境 带 兜 帽 骑 士 桶 盔 
+itm_hood_rav_iron_3_pl|凛 鸦 境 带 兜 帽 骑 士 桶 盔 
+itm_hood_rav_iron_4|凛 鸦 境 带 兜 帽 尖 面 盔 
+itm_hood_rav_iron_4_pl|凛 鸦 境 带 兜 帽 尖 面 盔 
+itm_hood_rav_iron_5|凛 鸦 境 带 兜 帽 圆 顶 中 头 盔 
+itm_hood_rav_iron_5_pl|凛 鸦 境 带 兜 帽 圆 顶 中 头 盔 
+itm_empire_helmet_open_1|红 翎 绿 头 盔 
+itm_empire_helmet_open_1_pl|红 翎 绿 头 盔 
+itm_empire_helmet_open_2|红 翎 钢 盔 
+itm_empire_helmet_open_2_pl|红 翎 钢 盔 
+itm_empire_helmet_open_3|黑 翎 黑 头 盔 
+itm_empire_helmet_open_3_pl|黑 翎 黑 头 盔 
+itm_empire_helmet_closed_1|黑 白 翎 铁 盔 
+itm_empire_helmet_closed_1_pl|黑 白 翎 铁 盔 
+itm_empire_helmet_closed_2|黄 翎 头 盔 
+itm_empire_helmet_closed_2_pl|黄 翎 头 盔 
+itm_empire_helmet_closed_3|绿 白 翎 银 盔 
+itm_empire_helmet_closed_3_pl|绿 白 翎 银 盔 
+itm_empire_helmet_closed_4|紫 金 翎 羽 蓝 头 盔 
+itm_empire_helmet_closed_4_pl|紫 金 翎 羽 蓝 头 盔 
+itm_empire_helmet_closed_5|红 黑 翎 羽 黑 头 盔 
+itm_empire_helmet_closed_5_pl|红 黑 翎 羽 黑 头 盔 
+itm_empire_helmet_closed_6|橙 翎 头 盔 
+itm_empire_helmet_closed_6_pl|橙 翎 头 盔 
+itm_royal_crown|皇 冠 
+itm_royal_crown_pl|皇 冠 
+itm_sarleon_king_helm|新 王 王 冠 盔 
+itm_sarleon_king_helm_pl|新 王 王 冠 盔 
+itm_ravenstern_king_helm|北 方 王 冠 盔 
+itm_ravenstern_king_helm_pl|北 方 王 冠 盔 
+itm_dshar_king_helm|南 方 国 王 盔 
+itm_dshar_king_helm_pl|南 方 国 王 盔 
+itm_fierdsvain_crown_helm|西 方 国 王 盔 
+itm_fierdsvain_crown_helm_pl|西 方 国 王 盔 
+itm_marius_helmet|帝 国 皇 冠 盔 
+itm_marius_helmet_pl|帝 国 皇 冠 盔 
+itm_pendor_king_helm|古 式 王 冠 盔 
+itm_pendor_king_helm_pl|古 式 王 冠 盔 
+itm_sarleon_pret_helm|黑 色 王 冠 盔 
+itm_sarleon_pret_helm_pl|黑 色 王 冠 盔 
+itm_ravenstern_pret_helm|银 色 王 冠 盔 
+itm_ravenstern_pret_helm_pl|银 色 王 冠 盔 
+itm_dshar_pert_helm|德 夏 可 汗 盔 
+itm_dshar_pert_helm_pl|德 夏 可 汗 盔 
+itm_fierdsvain_pret_helm|菲 尔 兹 威 王 冠 盔 
+itm_fierdsvain_pret_helm_pl|菲 尔 兹 威 王 冠 盔 
+itm_empire_pret_helmet|帝 国 元 首 盔 
+itm_empire_pret_helmet_pl|帝 国 元 首 盔 
+itm_noldor_inf_helm|诺 多 步 兵 盔 
+itm_noldor_inf_helm_pl|诺 多 步 兵 盔 
+itm_noldor_capt_helm|诺 多 队 长 盔 
+itm_noldor_capt_helm_pl|诺 多 队 长 盔 
+itm_noldor_knight_helm|诺 多 骑 士 盔 
+itm_noldor_knight_helm_pl|诺 多 骑 士 盔 
+itm_noldor_inf_helm_hooded|带 兜 帽 诺 多 步 兵 盔 
+itm_noldor_inf_helm_hooded_pl|带 兜 帽 诺 多 步 兵 盔 
+itm_noldor_capt_helm_hooded|带 兜 帽 诺 多 队 长 盔 
+itm_noldor_capt_helm_hooded_pl|带 兜 帽 诺 多 队 长 盔 
+itm_noldor_knight_helm_hooded|带 兜 帽 诺 多 骑 士 盔 
+itm_noldor_knight_helm_hooded_pl|带 兜 帽 诺 多 骑 士 盔 
+itm_scorpion_helmet_2|刺 客 兜 帽 
+itm_scorpion_helmet_2_pl|刺 客 兜 帽 
+itm_assassin_helmet|刺 客 头 盔 
+itm_assassin_helmet_pl|刺 客 头 盔 
+itm_wolf_helmet_2|狼 头 骨 盔 
+itm_wolf_helmet_2_pl|狼 头 骨 盔 
+itm_wolf_helmet_1|幽 影 狼 抛 光 开 面 盔 
+itm_wolf_helmet_1_pl|幽 影 狼 抛 光 开 面 盔 
+itm_phoenix_barbutte_helmet|凤 凰 开 面 盔 
+itm_phoenix_barbutte_helmet_pl|凤 凰 开 面 盔 
+itm_phoenix_helmet|至 高 凤 凰 开 面 盔 
+itm_phoenix_helmet_pl|至 高 凤 凰 开 面 盔 
+itm_phoenix_helmet_a|凤 凰 骑 士 开 面 盔 
+itm_phoenix_helmet_a_pl|凤 凰 骑 士 开 面 盔 
+itm_valkyrie_helmet|女 武 神 盔 
+itm_valkyrie_helmet_pl|女 武 神 盔 
+itm_kraken_helm|克 拉 肯 面 具 盔 
+itm_kraken_helm_pl|克 拉 肯 面 具 盔 
+itm_demon_helmet|恶 魔 盔 
+itm_demon_helmet_pl|恶 魔 盔 
+itm_snake_helm|蛇 教 面 具 盔 
+itm_snake_helm_pl|蛇 教 面 具 盔 
+itm_cobra_helm|眼 镜 蛇 巨 盔 
+itm_cobra_helm_pl|眼 镜 蛇 巨 盔 
+itm_helmet_fel_great|巨 蟒 巨 盔 
+itm_helmet_fel_great_pl|巨 蟒 巨 盔 
+itm_anaconda_snake_helm|巨 蟒 骑 士 盔 
+itm_anaconda_snake_helm_pl|巨 蟒 骑 士 盔 
+itm_asp_helm|角 蝰 盔 
+itm_asp_helm_pl|角 蝰 盔 
+itm_asp_helm_supreme|至 高 角 蝰 盔 
+itm_asp_helm_supreme_pl|至 高 角 蝰 盔 
+itm_hood_white|白 色 兜 帽 
+itm_hood_white_pl|白 色 兜 帽 
+itm_hood_dark|暗 色 兜 帽 
+itm_hood_dark_pl|暗 色 兜 帽 
+itm_hood_rav|凛 鸦 境 兜 帽 
+itm_hood_rav_pl|凛 鸦 境 兜 帽 
+itm_hood_silver|银 色 兜 帽 
+itm_hood_silver_pl|银 色 兜 帽 
+itm_hood_cyan|青 色 兜 帽 
+itm_hood_cyan_pl|青 色 兜 帽 
+itm_practice_bow_2|练 习 弓 
+itm_practice_bow_2_pl|练 习 弓 
+itm_hunting_bow|猎 弓 
+itm_hunting_bow_pl|猎 弓 
+itm_short_bow|短 弓 
+itm_short_bow_pl|短 弓 
+itm_nomad_bow|游 牧 弓 
+itm_nomad_bow_pl|游 牧 弓 
+itm_long_bow|长 弓 
+itm_long_bow_pl|长 弓 
+itm_khergit_bow|德 夏 弓 
+itm_khergit_bow_pl|德 夏 弓 
+itm_strong_bow|短 复 合 弓 
+itm_strong_bow_pl|短 复 合 弓 
+itm_war_bow|长 复 合 弓 
+itm_war_bow_pl|长 复 合 弓 
+itm_melitine_bow|马 里 廷 骑 手 弓 
+itm_melitine_bow_pl|马 里 廷 骑 手 弓 
+itm_melitine_longbow|马 里 廷 军 团 弓 
+itm_melitine_longbow_pl|马 里 廷 军 团 弓 
+itm_hawkstorm_bow|鹰 击 弓 
+itm_hawkstorm_bow_pl|鹰 击 弓 
+itm_pendor_bow|乌 木 弓 
+itm_pendor_bow_pl|乌 木 弓 
+itm_dshar_horn_bow|角 弓 
+itm_dshar_horn_bow_pl|角 弓 
+itm_heretic_bow|暗 木 弓 
+itm_heretic_bow_pl|暗 木 弓 
+itm_noldor_bow|诺 多 复 合 弓 
+itm_noldor_bow_pl|诺 多 复 合 弓 
+itm_kadan_bow|祖 传 战 弓 
+itm_kadan_bow_pl|祖 传 战 弓 
+itm_duskfall_bow|落 暮 弓 
+itm_duskfall_bow_pl|落 暮 弓 
+itm_strange_rune_bow|神 奇 符 印 弓 
+itm_strange_rune_bow_pl|神 奇 符 印 弓 
+itm_ullrvetr_manifest|乌 尔 维 特 之 证 
+itm_ullrvetr_manifest_pl|乌 尔 维 特 之 证 
+itm_saphire_rune_bow|蓝 宝 石 符 印 弓 
+itm_saphire_rune_bow_pl|蓝 宝 石 符 印 弓 
+itm_ruby_rune_bow|红 宝 石 符 印 弓 
+itm_ruby_rune_bow_pl|红 宝 石 符 印 弓 
+itm_emerald_rune_bow|翡 翠 符 印 弓 
+itm_emerald_rune_bow_pl|翡 翠 符 印 弓 
+itm_hunting_crossbow|猎 弩 
+itm_hunting_crossbow_pl|猎 弩 
+itm_light_crossbow|轻 弩 
+itm_light_crossbow_pl|轻 弩 
+itm_balanced_crossbow|弩 
+itm_balanced_crossbow_pl|弩 
+itm_maiden_crossbow|女 式 弩 
+itm_maiden_crossbow_pl|女 式 弩 
+itm_heavy_crossbow|重 弩 
+itm_heavy_crossbow_pl|重 弩 
+itm_sniper_crossbow|攻 城 弩 
+itm_sniper_crossbow_pl|攻 城 弩 
+itm_arbalest|梅 滕 海 姆 劲 弩 
+itm_arbalest_pl|梅 滕 海 姆 劲 弩 
+itm_arquebus_1|火 绳 枪 
+itm_arquebus_1_pl|火 绳 枪 
+itm_practice_arrows_2|练 习 箭 
+itm_practice_arrows_2_pl|练 习 箭 
+itm_arrows|箭 
+itm_arrows_pl|箭 
+itm_barbed_arrows|倒 刺 箭 
+itm_barbed_arrows_pl|倒 刺 箭 
+itm_singalian_arrows|辛 加 尔 箭 
+itm_singalian_arrows_pl|辛 加 尔 箭 
+itm_melitine_arrows|马 里 廷 箭 
+itm_melitine_arrows_pl|马 里 廷 箭 
+itm_bodkin_arrows|锥 头 箭 
+itm_bodkin_arrows_pl|锥 头 箭 
+itm_melitine_arrows2|马 里 廷 骑 手 箭 
+itm_melitine_arrows2_pl|马 里 廷 骑 手 箭 
+itm_khergit_arrows|德 夏 箭 
+itm_khergit_arrows_pl|德 夏 箭 
+itm_dshar_superior_arrows|上 等 德 夏 箭 
+itm_dshar_superior_arrows_pl|上 等 德 夏 箭 
+itm_dshar_elite_arrows|加 齐 箭 
+itm_dshar_elite_arrows_pl|加 齐 箭 
+itm_jatu_arrows|迦 图 箭 
+itm_jatu_arrows_pl|迦 图 箭 
+itm_ranger_arrows|巡 林 者 箭 
+itm_ranger_arrows_pl|巡 林 者 箭 
+itm_heretic_arrows|暗 木 箭 
+itm_heretic_arrows_pl|暗 木 箭 
+itm_noldor_arrows|诺 多 箭 
+itm_noldor_arrows_pl|诺 多 箭 
+itm_bolts|弩 矢 
+itm_bolts_pl|弩 矢 
+itm_light_bolts|轻 弩 矢 
+itm_light_bolts_pl|轻 弩 矢 
+itm_balanced_bolts|平 衡 弩 矢 
+itm_balanced_bolts_pl|平 衡 弩 矢 
+itm_steel_bolts|钢 弩 矢 
+itm_steel_bolts_pl|钢 弩 矢 
+itm_elite_bolts|攻 城 弩 矢 
+itm_elite_bolts_pl|攻 城 弩 矢 
+itm_mettenheim_bolts|梅 滕 海 姆 弩 矢 
+itm_mettenheim_bolts_pl|梅 滕 海 姆 弩 矢 
+itm_bullets_1|弹 药 包 
+itm_bullets_1_pl|弹 药 包 
+itm_stones|石 头 
+itm_stones_pl|石 头 
+itm_throwing_knives|飞 刀 
+itm_throwing_knives_pl|飞 刀 
+itm_throwing_daggers|飞 刃 
+itm_throwing_daggers_pl|飞 刃 
+itm_assassin_knives|刺 客 飞 刀 
+itm_assassin_knives_pl|刺 客 飞 刀 
+itm_darts|镖 
+itm_darts_pl|镖 
+itm_war_darts|战 镖 
+itm_war_darts_pl|战 镖 
+itm_javelin|标 枪 
+itm_javelin_pl|标 枪 
+itm_throwing_spears|投 矛 
+itm_throwing_spears_pl|投 矛 
+itm_broadhead_spears|阔 刃 投 掷 矛 
+itm_broadhead_spears_pl|阔 刃 投 掷 矛 
+itm_jarid|长 投 枪 
+itm_jarid_pl|长 投 枪 
+itm_hasta_spear|古 帝 国 长 矛 
+itm_hasta_spear_pl|古 帝 国 长 矛 
+itm_pilum_light_spear|古 帝 国 轻 标 枪 
+itm_pilum_light_spear_pl|古 帝 国 轻 标 枪 
+itm_pilum_spear|古 帝 国 标 枪 
+itm_pilum_spear_pl|古 帝 国 标 枪 
+itm_ring_of_keys_throwing_axes|钥 匙 环 
+itm_ring_of_keys_throwing_axes_pl|钥 匙 环 
+itm_light_throwing_axes|轻 型 飞 斧 
+itm_light_throwing_axes_pl|轻 型 飞 斧 
+itm_light_throwing_axes_melee|轻 型 飞 斧 
+itm_light_throwing_axes_melee_pl|轻 型 飞 斧 
+itm_throwing_axes|飞 斧 
+itm_throwing_axes_pl|飞 斧 
+itm_throwing_axes_melee|飞 斧 
+itm_throwing_axes_melee_pl|飞 斧 
+itm_heavy_throwing_axes|重 型 飞 斧 
+itm_heavy_throwing_axes_pl|重 型 飞 斧 
+itm_heavy_throwing_axes_melee|重 型 飞 斧 
+itm_heavy_throwing_axes_melee_pl|重 型 飞 斧 
+itm_asp_throwing_axes|角 蝰 飞 斧 
+itm_asp_throwing_axes_pl|角 蝰 飞 斧 
+itm_asp_throwing_axes_melee|角 蝰 飞 斧 
+itm_asp_throwing_axes_melee_pl|角 蝰 飞 斧 
+itm_long_throw_spear|巨 型 标 枪 
+itm_long_throw_spear_pl|巨 型 标 枪 
+itm_long_throw_spear_melee|巨 型 标 枪 
+itm_long_throw_spear_melee_pl|巨 型 标 枪 
+itm_long_spiked_club|长 钉 棒 
+itm_long_spiked_club_pl|长 钉 棒 
+itm_iron_staff|铁 杖 
+itm_iron_staff_pl|铁 杖 
+itm_quarter_staff|铁 头 杖 
+itm_quarter_staff_pl|铁 头 杖 
+itm_long_hafted_knobbed_mace|长 柄 圆 头 锤 
+itm_long_hafted_knobbed_mace_pl|长 柄 圆 头 锤 
+itm_long_hafted_spiked_mace|长 柄 尖 头 锤 
+itm_long_hafted_spiked_mace_pl|长 柄 尖 头 锤 
+itm_polehammer_1|长 柄 锤 
+itm_polehammer_1_pl|长 柄 锤 
+itm_sarranid_two_handed_mace_1|钢 制 锤 
+itm_sarranid_two_handed_mace_1_pl|钢 制 锤 
+itm_torch|火 把 
+itm_torch_pl|火 把 
+itm_sword_medieval_a|剑 
+itm_sword_medieval_a_pl|剑 
+itm_sword_medieval_b|铁 剑 
+itm_sword_medieval_b_pl|铁 剑 
+itm_sword_medieval_b_small|短 剑 
+itm_sword_medieval_b_small_pl|短 剑 
+itm_sword_medieval_c|军 用 剑 
+itm_sword_medieval_c_pl|军 用 剑 
+itm_sword_medieval_c_small|钢 制 短 剑 
+itm_sword_medieval_c_small_pl|钢 制 短 剑 
+itm_sword_medieval_c_long|钢 剑 
+itm_sword_medieval_c_long_pl|钢 剑 
+itm_sword_medieval_d_long|钢 制 长 剑 
+itm_sword_medieval_d_long_pl|钢 制 长 剑 
+itm_empire_broadsword|帝 国 阔 剑 
+itm_empire_broadsword_pl|帝 国 阔 剑 
+itm_silvered_longsword|镀 银 长 剑 
+itm_silvered_longsword_pl|镀 银 长 剑 
+itm_crosshilt_sword|贵 族 十 字 护 手 剑 
+itm_crosshilt_sword_pl|贵 族 十 字 护 手 剑 
+itm_knight_war_axe|骑 士 战 争 斧 
+itm_knight_war_axe_pl|骑 士 战 争 斧 
+itm_vecc_bloodsword|菲 卡 维 亚 血 剑 
+itm_vecc_bloodsword_pl|菲 卡 维 亚 血 剑 
+itm_barclay_sword|巴 克 利 贵 族 剑 
+itm_barclay_sword_pl|巴 克 利 贵 族 剑 
+itm_ebony_duel_sword|乌 木 决 斗 剑 
+itm_ebony_duel_sword_pl|乌 木 决 斗 剑 
+itm_ebony_noble_sword|乌 木 贵 族 剑 
+itm_ebony_noble_sword_pl|乌 木 贵 族 剑 
+itm_ebony_knight_sword|乌 木 骑 士 剑 
+itm_ebony_knight_sword_pl|乌 木 骑 士 剑 
+itm_ebony_arming_sword|乌 木 军 用 剑 
+itm_ebony_arming_sword_pl|乌 木 军 用 剑 
+itm_ebony_long_sword|乌 木 长 剑 
+itm_ebony_long_sword_pl|乌 木 长 剑 
+itm_noldor_longsword|诺 多 长 剑 
+itm_noldor_longsword_pl|诺 多 长 剑 
+itm_noldor_runesword|诺 多 符 印 剑 
+itm_noldor_runesword_pl|诺 多 符 印 剑 
+itm_hidden_dagger|潜 入 者 匕 首 
+itm_hidden_dagger_pl|潜 入 者 匕 首 
+itm_wooden_stick|木 枝 
+itm_wooden_stick_pl|木 枝 
+itm_cudgel|短 棍 
+itm_cudgel_pl|短 棍 
+itm_hammer|锤 子 
+itm_hammer_pl|锤 子 
+itm_club|木 棒 
+itm_club_pl|木 棒 
+itm_winged_mace|带 翼 锤 
+itm_winged_mace_pl|带 翼 锤 
+itm_spiked_mace|带 刺 锤 
+itm_spiked_mace_pl|带 刺 锤 
+itm_military_hammer|军 用 锤 
+itm_military_hammer_pl|军 用 锤 
+itm_pickaxe|鹤 嘴 锄 
+itm_pickaxe_pl|鹤 嘴 锄 
+itm_fighting_pick|格 斗 锄 
+itm_fighting_pick_pl|格 斗 锄 
+itm_military_pick|军 用 锄 
+itm_military_pick_pl|军 用 锄 
+itm_sickle|镰 刀 
+itm_sickle_pl|镰 刀 
+itm_cleaver|砍 刀 
+itm_cleaver_pl|砍 刀 
+itm_knife|菜 刀 
+itm_knife_pl|菜 刀 
+itm_butchering_knife|屠 宰 刀 
+itm_butchering_knife_pl|屠 宰 刀 
+itm_dagger|匕 首 
+itm_dagger_pl|匕 首 
+itm_falchion|单 刀 
+itm_falchion_pl|单 刀 
+itm_hatchet|短 斧 
+itm_hatchet_pl|短 斧 
+itm_hand_axe|手 斧 
+itm_hand_axe_pl|手 斧 
+itm_fighting_axe|格 斗 斧 
+itm_fighting_axe_pl|格 斗 斧 
+itm_military_cleaver_b|士 兵 直 刃 砍 刀 
+itm_military_cleaver_b_pl|士 兵 直 刃 砍 刀 
+itm_military_cleaver_c|军 用 直 刃 砍 刀 
+itm_military_cleaver_c_pl|军 用 直 刃 砍 刀 
+itm_military_sickle_a|军 用 镰 
+itm_military_sickle_a_pl|军 用 镰 
+itm_one_handed_battle_axe_a|单 手 斧 
+itm_one_handed_battle_axe_a_pl|单 手 斧 
+itm_one_handed_war_axe_b|单 手 战 争 斧 
+itm_one_handed_war_axe_b_pl|单 手 战 争 斧 
+itm_one_handed_battle_axe_b|单 手 战 斗 斧 
+itm_one_handed_battle_axe_b_pl|单 手 战 斗 斧 
+itm_one_handed_battle_axe_c|单 手 老 兵 斧 
+itm_one_handed_battle_axe_c_pl|单 手 老 兵 斧 
+itm_sword_khergit_1|游 牧 马 刀 
+itm_sword_khergit_1_pl|游 牧 马 刀 
+itm_sword_khergit_3|马 刀 
+itm_sword_khergit_3_pl|马 刀 
+itm_sword_khergit_4|重 型 马 刀 
+itm_sword_khergit_4_pl|重 型 马 刀 
+itm_melitine_sabre|马 里 廷 马 刀 
+itm_melitine_sabre_pl|马 里 廷 马 刀 
+itm_mace_1|短 柄 带 刺 棒 
+itm_mace_1_pl|短 柄 带 刺 棒 
+itm_mace_2|锤 
+itm_mace_2_pl|锤 
+itm_mace_4|步 兵 锤 
+itm_mace_4_pl|步 兵 锤 
+itm_sarranid_mace_1|铁 锤 
+itm_sarranid_mace_1_pl|铁 锤 
+itm_cavalry_mace|骑 兵 锤 
+itm_cavalry_mace_pl|骑 兵 锤 
+itm_cavalry_club|骑 兵 带 刺 棒 
+itm_cavalry_club_pl|骑 兵 带 刺 棒 
+itm_steel_hammer|钢 锤 
+itm_steel_hammer_pl|钢 锤 
+itm_doom_mace|灾 厄 翼 锤 
+itm_doom_mace_pl|灾 厄 翼 锤 
+itm_sarranid_axe_a|铁 制 战 斗 斧 
+itm_sarranid_axe_a_pl|铁 制 战 斗 斧 
+itm_sarranid_axe_b|铁 制 战 斧 
+itm_sarranid_axe_b_pl|铁 制 战 斧 
+itm_warhammer_talek|战 锤 
+itm_warhammer_talek_pl|战 锤 
+itm_dragonspine_axe|龙 骨 斧 
+itm_dragonspine_axe_pl|龙 骨 斧 
+itm_bastard_sword_b|烈 狮 境 军 用 长 剑 
+itm_bastard_sword_b_pl|烈 狮 境 军 用 长 剑 
+itm_sarleon_sword|烈 狮 境 长 剑 
+itm_sarleon_sword_pl|烈 狮 境 长 剑 
+itm_rav_battle_axe|凛 鸦 境 战 斗 斧 
+itm_rav_battle_axe_pl|凛 鸦 境 战 斗 斧 
+itm_rav_sword|凛 鸦 境 剑 
+itm_rav_sword_pl|凛 鸦 境 剑 
+itm_rav_longsword|凛 鸦 境 长 剑 
+itm_rav_longsword_pl|凛 鸦 境 长 剑 
+itm_arabian_sword_a|沙 漠 剑 
+itm_arabian_sword_a_pl|沙 漠 剑 
+itm_arabian_sword_b|沙 漠 军 用 剑 
+itm_arabian_sword_b_pl|沙 漠 军 用 剑 
+itm_sarranid_cavalry_sword|沙 漠 骑 兵 剑 
+itm_sarranid_cavalry_sword_pl|沙 漠 骑 兵 剑 
+itm_arabian_sword_d|沙 漠 护 卫 剑 
+itm_arabian_sword_d_pl|沙 漠 护 卫 剑 
+itm_eventide_longsword|黄 昏 骑 士 长 剑 
+itm_eventide_longsword_pl|黄 昏 骑 士 长 剑 
+itm_scimitar|弯 刀 
+itm_scimitar_pl|弯 刀 
+itm_scimitar_b|袭 击 者 弯 刀 
+itm_scimitar_b_pl|袭 击 者 弯 刀 
+itm_dshar_sabre|德 夏 马 刀 
+itm_dshar_sabre_pl|德 夏 马 刀 
+itm_heavy_dshar_sabre|德 夏 重 型 马 刀 
+itm_heavy_dshar_sabre_pl|德 夏 重 型 马 刀 
+itm_sing_death_sabre|辛 加 尔 死 亡 马 刀 
+itm_sing_death_sabre_pl|辛 加 尔 死 亡 马 刀
+itm_sing_noble_sabre|辛 加 尔 贵 族 马 刀 
+itm_sing_noble_sabre_pl|辛 加 尔 贵 族 马 刀 
+itm_dshar_short_sabre|德 夏 短 马 刀 
+itm_dshar_short_sabre_pl|德 夏 短 马 刀 
+itm_dshar_scimitar|德 夏 弯 刀 
+itm_dshar_scimitar_pl|德 夏 弯 刀 
+itm_sword_viking_1|铁 剑 
+itm_sword_viking_1_pl|铁 剑 
+itm_sword_viking_2|重 型 铁 剑 
+itm_sword_viking_2_pl|重 型 铁 剑 
+itm_sword_viking_2_small|铁 制 短 剑 
+itm_sword_viking_2_small_pl|铁 制 短 剑 
+itm_sword_viking_3|凡 斯 凯 瑞 剑 
+itm_sword_viking_3_pl|凡 斯 凯 瑞 剑 
+itm_sword_viking_3_small|凡 斯 凯 瑞 战 争 短 剑 
+itm_sword_viking_3_small_pl|凡 斯 凯 瑞 战 争 短 剑 
+itm_fierd_leaf_sword|菲 尔 兹 威 叶 形 剑 
+itm_fierd_leaf_sword_pl|菲 尔 兹 威 叶 形 剑 
+itm_fierd_long_sword|菲 尔 兹 威 长 剑 
+itm_fierd_long_sword_pl|菲 尔 兹 威 长 剑 
+itm_vanskerry_sword|凡 斯 凯 瑞 贵 族 剑 
+itm_vanskerry_sword_pl|凡 斯 凯 瑞 贵 族 剑 
+itm_fierd_war_axe|菲 尔 兹 威 战 争 斧 
+itm_fierd_war_axe_pl|菲 尔 兹 威 战 争 斧 
+itm_fierd_war_axe_new|菲 尔 兹 威 曲 刃 战 斧 
+itm_fierd_war_axe_new_pl|菲 尔 兹 威 曲 刃 战 斧 
+itm_jatu_sabre|迦 图 马 刀 
+itm_jatu_sabre_pl|迦 图 马 刀 
+itm_jatu_hsabre|迦 图 重 型 马 刀 
+itm_jatu_hsabre_pl|迦 图 重 型 马 刀 
+itm_spiked_club|尖 头 棒 
+itm_spiked_club_pl|尖 头 棒 
+itm_viper_sabre|毒 蛇 马 刀 
+itm_viper_sabre_pl|毒 蛇 马 刀 
+itm_scorpion_sword|天 蝎 剑 
+itm_scorpion_sword_pl|天 蝎 剑 
+itm_wolf_sword|狼 之 利 剑 
+itm_wolf_sword_pl|狼 之 利 剑 
+itm_phoenix_broadsword|凤 凰 阔 剑 
+itm_phoenix_broadsword_pl|凤 凰 阔 剑 
+itm_phoenix_sword|凤 凰 长 剑 
+itm_phoenix_sword_pl|凤 凰 长 剑 
+itm_strange_short_sword|异 邦 短 军 刀 
+itm_strange_short_sword_pl|异 邦 短 军 刀 
+itm_heretic_sabre|乌 木 奇 形 军 刀 
+itm_heretic_sabre_pl|乌 木 奇 形 军 刀 
+itm_strange_rune_axe|神 奇 符 印 斧 
+itm_strange_rune_axe_pl|神 奇 符 印 斧 
+itm_saphire_rune_axe|蓝 宝 石 符 印 斧 
+itm_saphire_rune_axe_pl|蓝 宝 石 符 印 斧 
+itm_ruby_rune_axe|红 宝 石 符 印 斧 
+itm_ruby_rune_axe_pl|红 宝 石 符 印 斧 
+itm_emerald_rune_axe|翡 翠 符 印 斧 
+itm_emerald_rune_axe_pl|翡 翠 符 印 斧 
+itm_strange_rune_sword|神 奇 符 印 剑 
+itm_strange_rune_sword_pl|神 奇 符 印 剑 
+itm_saphire_rune_sword|蓝 宝 石 符 印 剑 
+itm_saphire_rune_sword_pl|蓝 宝 石 符 印 剑 
+itm_ruby_rune_sword|红 宝 石 符 印 剑 
+itm_ruby_rune_sword_pl|红 宝 石 符 印 剑 
+itm_emerald_rune_sword|翡 翠 符 印 剑 
+itm_emerald_rune_sword_pl|翡 翠 符 印 剑 
+itm_marius_sword|巴 克 斯 雄 辩 家 之 剑 
+itm_marius_sword_pl|巴 克 斯 雄 辩 家 之 剑 
+itm_maul|木 锤 
+itm_maul_pl|木 锤 
+itm_sledgehammer|攻 城 锤
+itm_sledgehammer_pl|攻 城 锤
+itm_warhammer|巨 锤 
+itm_warhammer_pl|巨 锤 
+itm_club_with_spike_head|带 刺 棒 
+itm_club_with_spike_head_pl|带 刺 棒 
+itm_morningstar|钉 头 锤 
+itm_morningstar_pl|钉 头 锤 
+itm_battle_hammer|战 斗 锤 
+itm_battle_hammer_pl|战 斗 锤 
+itm_axe|斧 
+itm_axe_pl|斧 
+itm_voulge|枪 斧 
+itm_voulge_pl|枪 斧 
+itm_battle_axe|战 斗 斧 
+itm_battle_axe_pl|战 斗 斧 
+itm_war_axe|战 争 斧 
+itm_war_axe_pl|战 争 斧 
+itm_double_axe|双 刃 斧
+itm_double_axe_pl|双 刃 斧
+itm_thunder_double_axe|雷 霆 双 刃 斧 
+itm_thunder_double_axe_pl|雷 霆 双 刃 斧 
+itm_two_handed_cleaver|战 争 砍 刀 
+itm_two_handed_cleaver_pl|战 争 砍 刀 
+itm_two_handed_axe|双 手 斧 
+itm_two_handed_axe_pl|双 手 斧 
+itm_two_handed_battle_axe_2|双 手 战 争 斧 
+itm_two_handed_battle_axe_2_pl|双 手 战 争 斧 
+itm_two_handed_battle_axe_3|枪 斧 
+itm_two_handed_battle_axe_3_pl|枪 斧 
+itm_shortened_voulge|短 柄 枪 斧 
+itm_shortened_voulge_pl|短 柄 枪 斧 
+itm_great_axe|巨 斧 
+itm_great_axe_pl|巨 斧 
+itm_long_axe|长 斧 
+itm_long_axe_pl|长 斧 
+itm_long_axe_alt|长 斧 
+itm_long_axe_alt_pl|长 斧 
+itm_long_axe_b|加 长 战 争 斧 
+itm_long_axe_b_pl|加 长 战 争 斧 
+itm_long_axe_b_alt|加 长 战 争 斧 
+itm_long_axe_b_alt_pl|加 长 战 争 斧 
+itm_long_axe_c|巨 型 长 斧 
+itm_long_axe_c_pl|巨 型 长 斧 
+itm_long_axe_c_alt|巨 型 长 斧 
+itm_long_axe_c_alt_pl|巨 型 长 斧 
+itm_bardiche|月 刃 斧 
+itm_bardiche_pl|月 刃 斧 
+itm_great_bardiche|巨 型 月 刃 斧 
+itm_great_bardiche_pl|巨 型 月 刃 斧 
+itm_shortened_military_scythe|短 柄 军 用 长 刃 镰 
+itm_shortened_military_scythe_pl|短 柄 军 用 长 刃 镰 
+itm_sarranid_two_handed_axe_a|沙 漠 战 斗 斧 
+itm_sarranid_two_handed_axe_a_pl|沙 漠 战 斗 斧 
+itm_sarranid_two_handed_axe_b|沙 漠 战 争 斧 
+itm_sarranid_two_handed_axe_b_pl|沙 漠 战 争 斧 
+itm_raider_axe|掠 夺 者 斧 
+itm_raider_axe_pl|掠 夺 者 斧 
+itm_northern_battle_axe|北 方 战 斗 斧 
+itm_northern_battle_axe_pl|北 方 战 斗 斧 
+itm_ancient_rune_axe|远 古 符 印 斧 
+itm_ancient_rune_axe_pl|远 古 符 印 斧 
+itm_dire_axe|恐 惧 斧 
+itm_dire_axe_pl|恐 惧 斧 
+itm_valdis_axe|菲 尔 兹 威 国 王 战 斧 
+itm_valdis_axe_pl|菲 尔 兹 威 国 王 战 斧 
+itm_silver_axe|符 印 银 斧 
+itm_silver_axe_pl|符 印 银 斧 
+itm_sword_of_war|战 剑 
+itm_sword_of_war_pl|战 剑 
+itm_sword_two_handed_a|双 手 大 剑 
+itm_sword_two_handed_a_pl|双 手 大 剑 
+itm_great_sword|双 手 大 剑 
+itm_great_sword_pl|双 手 大 剑 
+itm_khergit_sword_two_handed_a|双 手 马 刀 
+itm_khergit_sword_two_handed_a_pl|双 手 马 刀 
+itm_silver_claymore|镀 银 巨 型 阔 剑 
+itm_silver_claymore_pl|镀 银 巨 型 阔 剑 
+itm_khergit_sword_two_handed_b|双 手 马 刀 
+itm_khergit_sword_two_handed_b_pl|双 手 马 刀 
+itm_sword_two_handed_b|梅 滕 海 姆 决 斗 剑 
+itm_sword_two_handed_b_pl|梅 滕 海 姆 决 斗 剑 
+itm_fierd_berserker_sword|菲 尔 兹 威 狂 战 士 剑 
+itm_fierd_berserker_sword_pl|菲 尔 兹 威 狂 战 士 剑 
+itm_empire_great_sword|帝 国 大 剑 
+itm_empire_great_sword_pl|帝 国 大 剑 
+itm_flame_sword|焰 形 剑 
+itm_flame_sword_pl|焰 形 剑 
+itm_ebony_bastard_sword|乌 木 混 种 剑 
+itm_ebony_bastard_sword_pl|乌 木 混 种 剑 
+itm_noldor_bastard|诺 多 战 剑 
+itm_noldor_bastard_pl|诺 多 战 剑 
+itm_runed_bastard|符 印 混 种 剑 
+itm_runed_bastard_pl|符 印 混 种 剑 
+itm_claymore|双 手 阔 剑 
+itm_claymore_pl|双 手 阔 剑 
+itm_bastard_sword_a|混 种 剑 
+itm_bastard_sword_a_pl|混 种 剑 
+itm_strange_rune_two_h_sword|神 奇 符 印 双 手 剑 
+itm_strange_rune_two_h_sword_pl|神 奇 符 印 双 手 剑 
+itm_saphire_rune_two_h_sword|蓝 宝 石 符 印 双 手 剑 
+itm_saphire_rune_two_h_sword_pl|蓝 宝 石 符 印 双 手 剑 
+itm_ruby_rune_two_h_sword|红 宝 石 符 印 双 手 剑 
+itm_ruby_rune_two_h_sword_pl|红 宝 石 符 印 双 手 剑 
+itm_emerald_rune_two_h_sword|翡 翠 符 印 双 手 剑 
+itm_emerald_rune_two_h_sword_pl|翡 翠 符 印 双 手 剑 
+itm_gregory_sword|龙 之 利 牙 
+itm_gregory_sword_pl|龙 之 利 牙 
+itm_havathang|精 灵 弯 刀 
+itm_havathang_pl|精 灵 弯 刀 
+itm_strange_sword|异 邦 军 刀 
+itm_strange_sword_pl|异 邦 军 刀 
+itm_strange_great_sword|异 邦 双 手 军 刀 
+itm_strange_great_sword_pl|异 邦 双 手 军 刀 
+itm_rav_great_sword|凛 鸦 境 大 剑 
+itm_rav_great_sword_pl|凛 鸦 境 大 剑 
+itm_pendor_greatsword|潘 德 大 剑 
+itm_pendor_greatsword_pl|潘 德 大 剑 
+itm_zweihander|双 手 剑 
+itm_zweihander_pl|双 手 剑 
+itm_ebony_great_sword|乌 木 焰 形 剑 
+itm_ebony_great_sword_pl|乌 木 焰 形 剑 
+itm_jousting_lance|钝 头 骑 枪 
+itm_jousting_lance_pl|钝 头 骑 枪 
+itm_double_sided_lance|双 头 骑 枪 
+itm_double_sided_lance_pl|双 头 骑 枪 
+itm_light_lance|轻 型 骑 枪 
+itm_light_lance_pl|轻 型 骑 枪 
+itm_lance|骑 枪 
+itm_lance_pl|骑 枪 
+itm_heavy_lance|重 型 骑 枪 
+itm_heavy_lance_pl|重 型 骑 枪 
+itm_great_lance|巨 型 骑 枪 
+itm_great_lance_pl|巨 型 骑 枪 
+itm_long_knight_lance|深 色 加 长 骑 士 枪 
+itm_long_knight_lance_pl|深 色 加 长 骑 士 枪 
+itm_long_knight_lance2|加 长 骑 士 枪 
+itm_long_knight_lance2_pl|加 长 骑 士 枪 
+itm_long_knight_lance_dawn|加 长 黎 明 骑 士 枪 
+itm_long_knight_lance_dawn_pl|加 长 黎 明 骑 士 枪 
+itm_long_knight_lance_blue|蓝 色 加 长 骑 士 枪 
+itm_long_knight_lance_blue_pl|蓝 色 加 长 骑 士 枪 
+itm_long_knight_lance_green|绿 色 加 长 骑 士 枪 
+itm_long_knight_lance_green_pl|绿 色 加 长 骑 士 枪 
+itm_long_knight_lance_red|红 色 加 长 骑 士 枪 
+itm_long_knight_lance_red_pl|红 色 加 长 骑 士 枪 
+itm_long_cavalry_lance|加 长 骑 兵 枪 
+itm_long_cavalry_lance_pl|加 长 骑 兵 枪 
+itm_long_cavalry_lance_white|白 色 加 长 骑 兵 枪 
+itm_long_cavalry_lance_white_pl|白 色 加 长 骑 兵 枪 
+itm_long_cavalry_lance_blue|蓝 色 加 长 骑 兵 枪 
+itm_long_cavalry_lance_blue_pl|蓝 色 加 长 骑 兵 枪 
+itm_long_cavalry_lance_green|绿 色 加 长 骑 兵 枪 
+itm_long_cavalry_lance_green_pl|绿 色 加 长 骑 兵 枪 
+itm_long_cavalry_lance_red|红 色 加 长 骑 兵 枪 
+itm_long_cavalry_lance_red_pl|红 色 加 长 骑 兵 枪 
+itm_jatu_lance|迦 图 荣 誉 骑 枪 
+itm_jatu_lance_pl|迦 图 荣 誉 骑 枪 
+itm_melitine_lance|马 里 廷 骑 枪 
+itm_melitine_lance_pl|马 里 廷 骑 枪 
+itm_melitine_impaler|马 里 廷 刺 枪 
+itm_melitine_impaler_pl|马 里 廷 刺 枪 
+itm_sarleon_banner|烈 狮 境 旗 帜 枪 
+itm_sarleon_banner_pl|烈 狮 境 旗 帜 枪 
+itm_long_bardiche|加 长 月 刃 斧 
+itm_long_bardiche_pl|加 长 月 刃 斧 
+itm_great_long_bardiche|巨 型 加 长 月 刃 斧 
+itm_great_long_bardiche_pl|巨 型 加 长 月 刃 斧 
+itm_hafted_blade_b|长 柄 刀 
+itm_hafted_blade_b_pl|长 柄 刀 
+itm_hafted_blade_a|长 柄 刀 
+itm_hafted_blade_a_pl|长 柄 刀 
+itm_scythe|镰 刀 
+itm_scythe_pl|镰 刀 
+itm_pitch_fork|干 草 叉 
+itm_pitch_fork_pl|干 草 叉 
+itm_boar_spear|野 猪 矛 
+itm_boar_spear_pl|野 猪 矛 
+itm_glaive|沙 漠 宽 刃 刀 
+itm_glaive_pl|沙 漠 宽 刃 刀 
+itm_poleaxe|长 柄 斧 
+itm_poleaxe_pl|长 柄 斧 
+itm_spear|矛 
+itm_spear_pl|矛 
+itm_bamboo_spear|德 夏 矛 
+itm_bamboo_spear_pl|德 夏 矛 
+itm_war_spear|战 矛 
+itm_war_spear_pl|战 矛 
+itm_trident|三 叉 戟 
+itm_trident_pl|三 叉 戟 
+itm_pike|长 矛 
+itm_pike_pl|长 矛 
+itm_ashwood_pike|灰 木 枪 
+itm_ashwood_pike_pl|灰 木 枪 
+itm_awlpike|短 锥 枪 
+itm_awlpike_pl|短 锥 枪 
+itm_awlpike_long|锥 枪 
+itm_awlpike_long_pl|锥 枪 
+itm_bec_de_corbin_a|鸦 嘴 战 锤 
+itm_bec_de_corbin_a_pl|鸦 嘴 战 锤 
+itm_black_iron_spear|黑 铁 矛 
+itm_black_iron_spear_pl|黑 铁 矛 
+itm_southern_glaive|南 方 宽 刃 刀 
+itm_southern_glaive_pl|南 方 宽 刃 刀 
+itm_empire_halberd|帝 国 长 戟 
+itm_empire_halberd_pl|帝 国 长 戟 
+itm_sarleon_halberd|烈 狮 境 长 戟 
+itm_sarleon_halberd_pl|烈 狮 境 长 戟 
+itm_polehammer_2|钢 制 长 柄 钝 锤 
+itm_polehammer_2_pl|钢 制 长 柄 钝 锤 
+itm_melitine_spear|马 里 廷 矛 
+itm_melitine_spear_pl|马 里 廷 矛 
+itm_melitine_spear2|马 里 廷 破 胆 者 
+itm_melitine_spear2_pl|马 里 廷 破 胆 者 
+itm_strange_rune_glaive|神 奇 符 印 宽 刃 刀 
+itm_strange_rune_glaive_pl|神 奇 符 印 宽 刃 刀 
+itm_saphire_rune_glaive|蓝 宝 石 符 印 宽 刃 刀 
+itm_saphire_rune_glaive_pl|蓝 宝 石 符 印 宽 刃 刀 
+itm_ruby_rune_glaive|红 宝 石 符 印 宽 刃 刀 
+itm_ruby_rune_glaive_pl|红 宝 石 符 印 宽 刃 刀 
+itm_emerald_rune_glaive|翡 翠 符 印 宽 刃 刀 
+itm_emerald_rune_glaive_pl|翡 翠 符 印 宽 刃 刀 
+itm_manopener|切 人 长 刀 
+itm_manopener_pl|切 人 长 刀 
+itm_wolf_halberd|幽 影 狼 长 戟 
+itm_wolf_halberd_pl|幽 影 狼 长 戟 
+itm_tab_shield_small_round_a|简 易 德 夏 盾 
+itm_tab_shield_small_round_a_pl|简 易 德 夏 盾 
+itm_tab_shield_small_round_b|骑 兵 圆 盾 
+itm_tab_shield_small_round_b_pl|骑 兵 圆 盾 
+itm_tab_shield_small_round_c|精 锐 骑 兵 盾 
+itm_tab_shield_small_round_c_pl|精 锐 骑 兵 盾 
+itm_tab_shield_round_a|旧 圆 盾 
+itm_tab_shield_round_a_pl|旧 圆 盾 
+itm_tab_shield_round_b|简 易 圆 盾 
+itm_tab_shield_round_b_pl|简 易 圆 盾 
+itm_tab_shield_round_c|圆 盾 
+itm_tab_shield_round_c_pl|圆 盾 
+itm_tab_shield_round_d|重 型 圆 盾 
+itm_tab_shield_round_d_pl|重 型 圆 盾 
+itm_tab_shield_round_e|侍 卫 圆 盾 
+itm_tab_shield_round_e_pl|侍 卫 圆 盾 
+itm_round_shield_big_1|金 黑 双 色 圆 盾 
+itm_round_shield_big_1_pl|金 黑 双 色 圆 盾 
+itm_round_shield_big_2|银 黑 双 色 圆 盾 
+itm_round_shield_big_2_pl|银 黑 双 色 圆 盾 
+itm_kraken_round_shield|克 拉 肯 战 士 盾 
+itm_kraken_round_shield_pl|克 拉 肯 战 士 盾 
+itm_kraken_round_shield_medium|克 拉 肯 圆 盾 
+itm_kraken_round_shield_medium_pl|克 拉 肯 圆 盾 
+itm_steel_shield|钢 制 圆 盾 
+itm_steel_shield_pl|钢 制 圆 盾 
+itm_plate_covered_round_shield|覆 板 圆 盾 
+itm_plate_covered_round_shield_pl|覆 板 圆 盾 
+itm_leather_covered_round_shield|蒙 皮 圆 盾 
+itm_leather_covered_round_shield_pl|蒙 皮 圆 盾 
+itm_hide_covered_round_shield|兽 皮 圆 盾 
+itm_hide_covered_round_shield_pl|兽 皮 圆 盾 
+itm_wooden_shield|木 盾 
+itm_wooden_shield_pl|木 盾 
+itm_nordic_shield|凡 斯 凯 瑞 盾 
+itm_nordic_shield_pl|凡 斯 凯 瑞 盾 
+itm_noldor_inf_shield|诺 多 步 兵 盾 
+itm_noldor_inf_shield_pl|诺 多 步 兵 盾 
+itm_noldor_noble_shield|诺 多 贵 族 盾 
+itm_noldor_noble_shield_pl|诺 多 贵 族 盾 
+itm_shield_round_26|凡 斯 凯 瑞 重 型 盾 
+itm_shield_round_26_pl|凡 斯 凯 瑞 重 型 盾 
+itm_shield_round_27|异 端 圆 盾 
+itm_shield_round_27_pl|异 端 圆 盾 
+itm_shield_round_28|镌 刻 圆 盾 
+itm_shield_round_28_pl|镌 刻 圆 盾 
+itm_shield_round_29|蛇 纹 圆 盾 
+itm_shield_round_29_pl|蛇 纹 圆 盾
+itm_shield_round_30|镀 金 金 属 圆 盾 
+itm_shield_round_30_pl|镀 金 金 属 圆 盾 
+itm_shield_round_01|龙 纹 圆 盾 
+itm_shield_round_01_pl|龙 纹 圆 盾 
+itm_shield_round_02|浮 雕 圆 盾 
+itm_shield_round_02_pl|浮 雕 圆 盾 
+itm_shield_round_03|凡 斯 凯 瑞 掠 夺 者 盾 
+itm_shield_round_03_pl|凡 斯 凯 瑞 掠 夺 者 盾 
+itm_shield_round_04|金 属 圆 盾 
+itm_shield_round_04_pl|金 属 圆 盾 
+itm_shield_round_05|雅 尔 盾 
+itm_shield_round_05_pl|雅 尔 盾 
+itm_shield_round_06|深 色 金 属 圆 盾 
+itm_shield_round_06_pl|深 色 金 属 圆 盾 
+itm_shield_round_07|古 式 帝 国 盾 
+itm_shield_round_07_pl|古 式 帝 国 盾 
+itm_shield_round_08|贴 身 卫 士 盾 
+itm_shield_round_08_pl|贴 身 卫 士 盾 
+itm_shield_round_09|迦 图 游 牧 盾 
+itm_shield_round_09_pl|迦 图 游 牧 盾 
+itm_shield_round_10|迦 图 酋 长 盾 
+itm_shield_round_10_pl|迦 图 酋 长 盾 
+itm_shield_round_11|迦 图 军 阀 盾 
+itm_shield_round_11_pl|迦 图 军 阀 盾 
+itm_shield_round_12|迷 雾 山 蛮 族 盾 
+itm_shield_round_12_pl|迷 雾 山 蛮 族 盾 
+itm_shield_round_13|托 巴 沙 漠 盾 
+itm_shield_round_13_pl|托 巴 沙 漠 盾 
+itm_shield_round_14|德 夏 圆 盾 
+itm_shield_round_14_pl|德 夏 圆 盾 
+itm_shield_round_15|蛇 纹 浮 雕 圆 盾 
+itm_shield_round_15_pl|蛇 纹 浮 雕 圆 盾 
+itm_shield_round_16|强 化 木 制 圆 盾 
+itm_shield_round_16_pl|强 化 木 制 圆 盾 
+itm_shield_round_17|星 型 浮 雕 金 属 盾 
+itm_shield_round_17_pl|星 型 浮 雕 金 属 盾 
+itm_shield_round_18|北 方 圆 盾 
+itm_shield_round_18_pl|北 方 圆 盾 
+itm_shield_round_19|德 夏 十 字 圆 盾 
+itm_shield_round_19_pl|德 夏 十 字 圆 盾 
+itm_shield_round_20|冥 界 盾 
+itm_shield_round_20_pl|冥 界 盾 
+itm_shield_round_21|巨 蟒 盾 
+itm_shield_round_21_pl|巨 蟒 盾 
+itm_shield_round_22|衔 尾 蛇 盾 
+itm_shield_round_22_pl|衔 尾 蛇 盾 
+itm_shield_round_23|贤 者 盾 
+itm_shield_round_23_pl|贤 者 盾 
+itm_shield_round_24|福 音 盾 
+itm_shield_round_24_pl|福 音 盾 
+itm_shield_heater_c|战 盾 
+itm_shield_heater_c_pl|战 盾 
+itm_shield_battle_01|黄 底 黑 狮 战 盾 
+itm_shield_battle_01_pl|黄 底 黑 狮 战 盾 
+itm_shield_battle_03|蓝 底 白 花 战 盾 
+itm_shield_battle_03_pl|蓝 底 白 花 战 盾 
+itm_shield_battle_04|黑 白 双 色 铃 铛 战 盾 
+itm_shield_battle_04_pl|黑 白 双 色 铃 铛 战 盾 
+itm_shield_battle_05|异 端 战 盾 
+itm_shield_battle_05_pl|异 端 战 盾 
+itm_shield_battle_02|狮 骑 士 战 盾 
+itm_shield_battle_02_pl|狮 骑 士 战 盾 
+itm_tab_shield_kite_a|旧 筝 形 盾 
+itm_tab_shield_kite_a_pl|旧 筝 形 盾 
+itm_tab_shield_kite_b|简 易 筝 形 盾 
+itm_tab_shield_kite_b_pl|简 易 筝 形 盾 
+itm_tab_shield_kite_c|筝 形 盾 
+itm_tab_shield_kite_c_pl|筝 形 盾 
+itm_tab_shield_kite_d|重 型 筝 形 盾 
+itm_tab_shield_kite_d_pl|重 型 筝 形 盾 
+itm_tab_shield_kite_cav_a|骑 手 筝 形 盾 
+itm_tab_shield_kite_cav_a_pl|骑 手 筝 形 盾 
+itm_tab_shield_kite_cav_b|骑 士 筝 形 盾 
+itm_tab_shield_kite_cav_b_pl|骑 士 筝 形 盾 
+itm_norman_shield_7|筝 形 盾 
+itm_norman_shield_7_pl|筝 形 盾 
+itm_norman_shield_8|筝 形 盾 
+itm_norman_shield_8_pl|筝 形 盾 
+itm_fur_covered_shield|蒙 皮 盾 
+itm_fur_covered_shield_pl|蒙 皮 盾 
+itm_norman_shield_1|金 色 海 马 筝 形 盾 
+itm_norman_shield_1_pl|金 色 海 马 筝 形 盾 
+itm_norman_shield_2|金 红 双 色 筝 形 盾 
+itm_norman_shield_2_pl|金 红 双 色 筝 形 盾 
+itm_norman_shield_3|金 黑 双 色 筝 形 盾 
+itm_norman_shield_3_pl|金 黑 双 色 筝 形 盾 
+itm_shield_kite_ornate|华 丽 筝 形 盾 
+itm_shield_kite_ornate_pl|华 丽 筝 形 盾 
+itm_norman_shield_4|蓝 底 十 字 筝 形 盾 
+itm_norman_shield_4_pl|蓝 底 十 字 筝 形 盾 
+itm_norman_shield_5|蓝 底 白 狮 筝 形 盾 
+itm_norman_shield_5_pl|蓝 底 白 狮 筝 形 盾 
+itm_norman_shield_6|金 底 蓝 龙 筝 形 盾 
+itm_norman_shield_6_pl|金 底 蓝 龙 筝 形 盾 
+itm_shield_tear_simple|泪 形 盾 
+itm_shield_tear_simple_pl|泪 形 盾 
+itm_shield_empire_infantry|帝 国 军 团 筝 形 盾 
+itm_shield_empire_infantry_pl|帝 国 军 团 筝 形 盾 
+itm_noldor_ench_shield|诺 多 附 魔 盾 牌 
+itm_noldor_ench_shield_pl|诺 多 附 魔 盾 牌 
+itm_tab_shield_pavise_a|旧 阔 盾 
+itm_tab_shield_pavise_a_pl|旧 阔 盾 
+itm_tab_shield_pavise_b|简 易 阔 盾 
+itm_tab_shield_pavise_b_pl|简 易 阔 盾 
+itm_tab_shield_pavise_c|阔 盾 
+itm_tab_shield_pavise_c_pl|阔 盾 
+itm_tab_shield_pavise_d|重 型 阔 盾 
+itm_tab_shield_pavise_d_pl|重 型 阔 盾 
+itm_tab_shield_heater_a|旧 扇 形 盾 
+itm_tab_shield_heater_a_pl|旧 扇 形 盾 
+itm_tab_shield_heater_b|简 易 扇 形 盾 
+itm_tab_shield_heater_b_pl|简 易 扇 形 盾 
+itm_tab_shield_heater_c|扇 形 盾 
+itm_tab_shield_heater_c_pl|扇 形 盾 
+itm_tab_shield_heater_d|重 型 扇 形 盾 
+itm_tab_shield_heater_d_pl|重 型 扇 形 盾 
+itm_tab_shield_heater_cav_a|骑 手 扇 形 盾 
+itm_tab_shield_heater_cav_a_pl|骑 手 扇 形 盾 
+itm_tab_shield_heater_cav_b|骑 士 扇 形 盾 
+itm_tab_shield_heater_cav_b_pl|骑 士 扇 形 盾 
+itm_heater_shield_01|红 底 白 鹰 扇 形 盾 
+itm_heater_shield_01_pl|红 底 白 鹰 扇 形 盾 
+itm_heater_shield_02|蓝 白 双 色 扇 形 盾 
+itm_heater_shield_02_pl|蓝 白 双 色 扇 形 盾 
+itm_heater_shield_03|金 色 酢 浆 草 扇 形 盾 
+itm_heater_shield_03_pl|金 色 酢 浆 草 扇 形 盾 
+itm_heater_shield_04|绿 底 金 色 狂 狮 扇 形 盾 
+itm_heater_shield_04_pl|绿 底 金 色 狂 狮 扇 形 盾 
+itm_heater_shield_05|白 底 黑 色 飞 马 扇 形 盾 
+itm_heater_shield_05_pl|白 底 黑 色 飞 马 扇 形 盾 
+itm_heater_shield_06|绿 底 白 色 狮 鹫 扇 形 盾 
+itm_heater_shield_06_pl|绿 底 白 色 狮 鹫 扇 形 盾 
+itm_heater_shield_07|龙 纹 扇 形 盾 
+itm_heater_shield_07_pl|龙 纹 扇 形 盾 
+itm_heater_shield_08|白 底 黑 色 独 角 兽 扇 形 盾 
+itm_heater_shield_08_pl|白 底 黑 色 独 角 兽 扇 形 盾 
+itm_heater_shield_09|红 蓝 四 分 扇 形 盾 
+itm_heater_shield_09_pl|红 蓝 四 分 扇 形 盾 
+itm_heater_shield_10|红 底 野 猪 扇 形 盾 
+itm_heater_shield_10_pl|红 底 野 猪 扇 形 盾 
+itm_heater_shield_11|蓝 底 白 花 扇 形 盾 
+itm_heater_shield_11_pl|蓝 底 白 花 扇 形 盾 
+itm_heater_shield_12|帝 国 扇 形 盾 
+itm_heater_shield_12_pl|帝 国 扇 形 盾 
+itm_heater_shield_13|飞 龙 骑 士 扇 形 盾 
+itm_heater_shield_13_pl|飞 龙 骑 士 扇 形 盾 
+itm_heater_shield_14|黑 白 底 红 鹰 扇 形 盾 
+itm_heater_shield_14_pl|黑 白 底 红 鹰 扇 形 盾 
+itm_heater_shield_15|蓝 底 金 狮 扇 形 盾 
+itm_heater_shield_15_pl|蓝 底 金 狮 扇 形 盾 
+itm_heater_shield_16|狮 鹫 扇 形 盾 
+itm_heater_shield_16_pl|狮 鹫 扇 形 盾 
+itm_heater_shield_17|黄 底 黑 鹰 扇 形 盾 
+itm_heater_shield_17_pl|黄 底 黑 鹰 扇 形 盾 
+itm_heater_shield_18|黑 白 四 分 扇 形 盾 
+itm_heater_shield_18_pl|黑 白 四 分 扇 形 盾 
+itm_heater_shield_19|黑 白 双 色 扇 形 盾 
+itm_heater_shield_19_pl|黑 白 双 色 扇 形 盾 
+itm_heater_shield_20|黑 黄 四 分 扇 形 盾 
+itm_heater_shield_20_pl|黑 黄 四 分 扇 形 盾 
+itm_heater_shield_21|红 底 金 狮 扇 形 盾 
+itm_heater_shield_21_pl|红 底 金 狮 扇 形 盾 
+itm_heater_shield_22|异 端 扇 形 盾 
+itm_heater_shield_22_pl|异 端 扇 形 盾 
+itm_heater_shield_23|皇 室 黑 鹿 扇 形 盾 
+itm_heater_shield_23_pl|皇 室 黑 鹿 扇 形 盾 
+itm_heater_shield_24|红 底 白 色 飞 龙 扇 形 盾 
+itm_heater_shield_24_pl|红 底 白 色 飞 龙 扇 形 盾 
+itm_heater_shield_25|黑 底 双 头 鹰 啸 扇 形 盾 
+itm_heater_shield_25_pl|黑 底 双 头 鹰 啸 扇 形 盾 
+itm_heater_shield_26|蓝 底 金 色 十 字 盾 
+itm_heater_shield_26_pl|蓝 底 金 色 十 字 盾 
+itm_heater_shield_27|红 金 双 色 底 白 狮 扇 形 盾 
+itm_heater_shield_27_pl|红 金 双 色 底 白 狮 扇 形 盾 
+itm_heater_shield_28|黑 白 双 头 鹰 扇 形 盾 
+itm_heater_shield_28_pl|黑 白 双 头 鹰 扇 形 盾 
+itm_heater_shield_29|黎 明 骑 士 扇 形 盾 
+itm_heater_shield_29_pl|黎 明 骑 士 扇 形 盾 
+itm_heater_shield_30|狮 鹫 之 剑 扇 形 盾 
+itm_heater_shield_30_pl|狮 鹫 之 剑 扇 形 盾 
+itm_heater_shield_31|乌 木 护 手 扇 形 盾 
+itm_heater_shield_31_pl|乌 木 护 手 扇 形 盾 
+itm_heater_shield_32|凡 卫 扇 形 盾 
+itm_heater_shield_32_pl|凡 卫 扇 形 盾 
+itm_heater_shield_33|白 花 冒 险 团 扇 形 盾 
+itm_heater_shield_33_pl|白 花 冒 险 团 扇 形 盾 
+itm_heater_shield_34|艾 格 雷 姆 扇 形 盾 
+itm_heater_shield_34_pl|艾 格 雷 姆 扇 形 盾 
+itm_heater_shield_35|号 角 召 唤 扇 形 盾 
+itm_heater_shield_35_pl|号 角 召 唤 扇 形 盾 
+itm_heater_shield_36|鸦 矛 骑 士 扇 形 盾 
+itm_heater_shield_36_pl|鸦 矛 骑 士 扇 形 盾 
+itm_heater_shield_37|三 贤 者 扇 形 盾 
+itm_heater_shield_37_pl|三 贤 者 扇 形 盾 
+itm_heater_shield_38|拜 蛇 教 盾 
+itm_heater_shield_38_pl|拜 蛇 教 盾 
+itm_heater_shield_39|海 蛇 扇 形 盾 
+itm_heater_shield_39_pl|海 蛇 扇 形 盾 
+itm_heater_shield_40|红 底 金 龙 纹 扇 形 盾 
+itm_heater_shield_40_pl|红 底 金 龙 纹 扇 形 盾 
+itm_heater_shield_42|狮 湖 城 扇 形 盾 
+itm_heater_shield_42_pl|狮 湖 城 扇 形 盾 
+itm_wolf_round_shield_1|幽 影 狼 圆 盾 
+itm_wolf_round_shield_1_pl|幽 影 狼 圆 盾 
+itm_scorpion_round_shield_2|天 蝎 圆 盾 
+itm_scorpion_round_shield_2_pl|天 蝎 圆 盾 
+itm_phoenix_heater_shield|凤 凰 扇 形 盾 
+itm_phoenix_heater_shield_pl|凤 凰 扇 形 盾 
+itm_phoenix_battle_shield|凤 凰 战 盾 
+itm_phoenix_battle_shield_pl|凤 凰 战 盾 
+itm_talon_shield|猎 鹰 利 爪 筝 形 盾 
+itm_talon_shield_pl|猎 鹰 利 爪 筝 形 盾 
+itm_shield_kite_falcon|猎 鹰 骑 士 筝 形 盾 
+itm_shield_kite_falcon_pl|猎 鹰 骑 士 筝 形 盾 
+itm_eventide_shield|黄 昏 骑 士 盾 
+itm_eventide_shield_pl|黄 昏 骑 士 盾 
+itm_anaconda_shield|巨 蟒 带 刺 盾 
+itm_anaconda_shield_pl|巨 蟒 带 刺 盾 
+itm_asp_shield|角 蝰 盾 
+itm_asp_shield_pl|角 蝰 盾 
+itm_myst_shield|熊 爪 盾 
+itm_myst_shield_pl|熊 爪 盾 
+itm_melitine_shield|马 里 廷 泪 形 盾 
+itm_melitine_shield_pl|马 里 廷 泪 形 盾 
+itm_melitine_metal_shield|马 里 廷 骑 手 盾 
+itm_melitine_metal_shield_pl|马 里 廷 骑 手 盾 
+itm_shield_empire_immortal|不 朽 者 盾 
+itm_shield_empire_immortal_pl|不 朽 者 盾 
+itm_shield_ancient_engraved|远 古 铭 文 盾 
+itm_shield_ancient_engraved_pl|远 古 铭 文 盾 
+itm_shield_heretics_1|异 端 泪 型 盾 
+itm_shield_heretics_1_pl|异 端 泪 型 盾 
+itm_shield_heretics_2|红 色 巨 力 战 士 盾 
+itm_shield_heretics_2_pl|红 色 巨 力 战 士 盾 
+itm_shield_heretics_3|金 色 巨 力 战 士 盾 
+itm_shield_heretics_3_pl|金 色 巨 力 战 士 盾 
+itm_demon_body|带 翼 恶 魔 之 躯 
+itm_demon_body_pl|带 翼 恶 魔 之 躯 
+itm_demon_legs|恶 魔 之 腿 
+itm_demon_legs_pl|恶 魔 之 腿 
+itm_demon_hands|恶 魔 之 手 
+itm_demon_hands_pl|恶 魔 之 手 
+itm_demon_head|恶 魔 之 头 （ 四 角 ） 
+itm_demon_head_pl|恶 魔 之 头 （ 四 角 ） 
+itm_demon_shield|恶 魔 之 盾 
+itm_demon_shield_pl|恶 魔 之 盾 
+itm_demon_1h_sword|恶 魔 之 剑 
+itm_demon_1h_sword_pl|恶 魔 之 剑 
+itm_demon_throwing_axes|恶 魔 飞 斧 
+itm_demon_throwing_axes_pl|恶 魔 飞 斧 
+itm_wolfbode_armor|沃 夫 伯 德 甲 
+itm_wolfbode_armor_pl|沃 夫 伯 德 甲 
+itm_wolfbode_axe|沃 夫 伯 德 斧 
+itm_wolfbode_axe_pl|沃 夫 伯 德 斧 
+itm_wolfbode_boots|沃 夫 伯 德 护 腿 
+itm_wolfbode_boots_pl|沃 夫 伯 德 护 腿 
+itm_wolfbode_gloves|沃 夫 伯 德 护 手 
+itm_wolfbode_gloves_pl|沃 夫 伯 德 护 手 
+itm_wolfbode_helmet|沃 夫 伯 德 盔 
+itm_wolfbode_helmet_pl|沃 夫 伯 德 盔 
+itm_seeress_helm|女 先 知 光 环 
+itm_seeress_helm_pl|女 先 知 光 环 
+itm_ebony_knight_sword_rusty|黑 剑 
+itm_ebony_knight_sword_rusty_pl|黑 剑 
+itm_heater_shield_16_rusty|乌 木 扇 形 盾 
+itm_heater_shield_16_rusty_pl|乌 木 扇 形 盾 
+itm_Cavalas_helm|卡 瓦 拉 之 盔 
+itm_Cavalas_helm_pl|卡 瓦 拉 之 盔 
+itm_Cavalas_armor|卡 瓦 拉 之 甲 
+itm_Cavalas_armor_pl|卡 瓦 拉 之 甲 
+itm_Elite_chimera_armor|堕 落 近 卫 板 甲 
+itm_Elite_chimera_armor_pl|堕 落 近 卫 板 甲 
+itm_Elite_chimera_helm|堕 落 近 卫 角 盔 
+itm_Elite_chimera_helm_pl|堕 落 近 卫 角 盔 
+itm_Elite_chimera_boots|堕 落 近 卫 护 腿 
+itm_Elite_chimera_boots_pl|堕 落 近 卫 护 腿 
+itm_Elite_chimera_gauntlet|堕 落 近 卫 臂 铠 （ 连 指 ） 
+itm_Elite_chimera_gauntlet_pl|堕 落 近 卫 臂 铠 （ 连 指 ） 
+itm_Cavalas_sword|卡 瓦 拉 之 剑 
+itm_Cavalas_sword_pl|卡 瓦 拉 之 剑 
+itm_Elite_chimera_shield|堕 落 近 卫 扇 形 盾 
+itm_Elite_chimera_shield_pl|堕 落 近 卫 扇 形 盾 
+itm_Elite_chimera_warhorse|堕 落 近 卫 战 马 
+itm_Elite_chimera_warhorse_pl|堕 落 近 卫 战 马 
+itm_Cavalas_warhorse|卡 瓦 拉 战 马 
+itm_Cavalas_warhorse_pl|卡 瓦 拉 战 马 
+itm_Chimera_helm|奇 美 拉 头 盔 
+itm_Chimera_helm_pl|奇 美 拉 头 盔 
+itm_Chimera_armor|奇 美 拉 板 甲 
+itm_Chimera_armor_pl|奇 美 拉 板 甲 
+itm_Chimera_shield|奇 美 拉 扇 形 盾 
+itm_Chimera_shield_pl|奇 美 拉 扇 形 盾 
+itm_Chimera_gauntlet|奇 美 拉 臂 铠 （ 连 指 ） 
+itm_Chimera_gauntlet_pl|奇 美 拉 臂 铠 （ 连 指 ） 
+itm_Chimera_boots|奇 美 拉 护 胫 
+itm_Chimera_boots_pl|奇 美 拉 护 胫 
+itm_Chimera_lance|奇 美 拉 骑 士 枪 
+itm_Chimera_lance_pl|奇 美 拉 骑 士 枪 
+itm_Dire_sickle|恐 惧 镰 刀 
+itm_Dire_sickle_pl|恐 惧 镰 刀 
+itm_Demon_ebonysword|诅 咒 乌 木 剑 
+itm_Demon_ebonysword_pl|诅 咒 乌 木 剑 
+itm_Demon_morningstar|诅 咒 钉 锤 
+itm_Demon_morningstar_pl|诅 咒 钉 锤 
+itm_Chimera_warhorse|奇 美 拉 重 装 战 马 
+itm_Chimera_warhorse_pl|奇 美 拉 重 装 战 马 
+itm_Chimera_warhorse2|奇 美 拉 战 马 
+itm_Chimera_warhorse2_pl|奇 美 拉 战 马 
+itm_Demon_spirit_horse|堕 落 精 灵 马 
+itm_Demon_spirit_horse_pl|堕 落 精 灵 马 
+itm_Cavalas_shield|卡 瓦 拉 之 盾 
+itm_Cavalas_shield_pl|卡 瓦 拉 之 盾 
+itm_Death_armor|亡 灵 军 团 甲 
+itm_Death_armor_pl|亡 灵 军 团 甲 
+itm_Death_shield|亡 灵 军 团 盾 
+itm_Death_shield_pl|亡 灵 军 团 盾 
+itm_eunomia_manifest|尤 诺 米 亚 之 证 
+itm_eunomia_manifest_pl|尤 诺 米 亚 之 证 
+itm_book_Rane|长 歌 港 守 城 记 
+itm_book_Rane_pl|长 歌 港 守 城 记 
+itm_griffon_grandmaster_full_plate_armor|狮 鹫 骑 士 大 团 长 全 身 板 甲 
+itm_griffon_grandmaster_full_plate_armor_pl|狮 鹫 骑 士 大 团 长 全 身 板 甲 
+itm_dshar_warhorse_sarranid|德 夏 沙 漠 战 马 
+itm_dshar_warhorse_sarranid_pl|德 夏 沙 漠 战 马 
+itm_sarleon_sergeant_heavy_armor|烈 狮 境 军 士 板 甲 
+itm_sarleon_sergeant_heavy_armor_pl|烈 狮 境 军 士 板 甲 
+itm_sarleon_sergeant_heavy_armor_cape|带 披 风 烈 狮 境 军 士 板 甲 
+itm_sarleon_sergeant_heavy_armor_cape_pl|带 披 风 烈 狮 境 军 士 板 甲 
+itm_griffon_banner_red|狮 鹫 旗 帜 枪 
+itm_griffon_banner_red_pl|狮 鹫 旗 帜 枪 
+itm_heavy_knight_helm_1|重 装 骑 士 头 盔 
+itm_heavy_knight_helm_1_pl|重 装 骑 士 头 盔 
+itm_light_silver_sword|轻 银 剑 
+itm_light_silver_sword_pl|轻 银 剑 
+itm_cavalas_bow|卡 瓦 拉 之 弓 
+itm_cavalas_bow_pl|卡 瓦 拉 之 弓 
+itm_undead_arrows|恶 魔 咒 箭 
+itm_undead_arrows_pl|恶 魔 咒 箭 
+itm_empire_short_broadsword|帝 国 短 阔 剑 
+itm_empire_short_broadsword_pl|帝 国 短 阔 剑 
+itm_awlpike_overlong|长 锥 枪 
+itm_awlpike_overlong_pl|长 锥 枪 
+itm_heavy_knight_armor_2_cape|带 披 风 重 装 骑 士 板 甲 
+itm_heavy_knight_armor_2_cape_pl|带 披 风 重 装 骑 士 板 甲 
+itm_horse4b|灰 色 板 甲 战 马 
+itm_horse4b_pl|灰 色 板 甲 战 马 
+itm_helmet_faceplate_with_red_feather|饰 红 羽 掀 面 桶 盔 
+itm_helmet_faceplate_with_red_feather_pl|饰 红 羽 掀 面 桶 盔 
+itm_armet_red_plumed|饰 红 羽 活 动 面 罩 盔 
+itm_armet_red_plumed_pl|饰 红 羽 活 动 面 罩 盔 
+itm_armet_open_red_plumed|饰 红 羽 活 动 面 罩 盔 （ 打 开 ） 
+itm_armet_open_red_plumed_pl|饰 红 羽 活 动 面 罩 盔 （ 打 开 ） 
+itm_helmet_marinus_gold|帝 国 金 色 步 战 兵 盔 
+itm_helmet_marinus_gold_pl|帝 国 金 色 步 战 兵 盔 
+itm_knight_heavy_halberd|骑 士 重 戟 
+itm_knight_heavy_halberd_pl|骑 士 重 戟 
+itm_empire_inlayed_armor_2|百 夫 长 护 甲 
+itm_empire_inlayed_armor_2_pl|百 夫 长 护 甲 
+itm_fierd_berskerker_armor_with_furs|狂 战 士 毛 皮 护 甲 
+itm_fierd_berskerker_armor_with_furs_pl|狂 战 士 毛 皮 护 甲 
+itm_horse2gc|灰 片 甲 军 马 I
+itm_horse2gc_pl|灰 片 甲 军 马 I
+itm_melitine_heavyarmor_3_a|马 里 廷 重 型 札 甲 
+itm_melitine_heavyarmor_3_a_pl|马 里 廷 重 型 札 甲 
+itm_melitine_heavyhelm_c|马 里 廷 垂 饰 锁 子 甲 覆 面 盔 
+itm_melitine_heavyhelm_c_pl|马 里 廷 垂 饰 锁 子 甲 覆 面 盔 
+itm_melitine_heavyboot|马 里 廷 夹 板 护 胫 
+itm_melitine_heavyboot_pl|马 里 廷 夹 板 护 胫 
+itm_surcoat_over_mail_viper|蝮 蛇 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_viper_pl|蝮 蛇 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_snakecult_enhance|眼 镜 蛇 锁 子 甲 罩 袍 
+itm_surcoat_over_mail_snakecult_enhance_pl|眼 镜 蛇 锁 子 甲 罩 袍 
+itm_viper_scimitar|蝮 蛇 弯 刀 
+itm_viper_scimitar_pl|蝮 蛇 弯 刀 
+itm_cobra_venomblades_throwing_axes|眼 镜 蛇 投 斧 
+itm_cobra_venomblades_throwing_axes_pl|眼 镜 蛇 投 斧 
+itm_aqs_magbow_fifth|七 彩 符 印 弓 
+itm_aqs_magbow_fifth_pl|七 彩 符 印 弓 
+itm_rune_plate_diamond|钻 石 符 印 甲 
+itm_rune_plate_diamond_pl|钻 石 符 印 甲 
+itm_shield_shadow_centurion|百 夫 长 盾 
+itm_shield_shadow_centurion_pl|百 夫 长 盾 
+itm_viper_great_sword|毒 蛇 大 剑 
+itm_viper_great_sword_pl|毒 蛇 大 剑 
+itm_reflex_bow|马 里 廷 反 曲 弓 
+itm_reflex_bow_pl|马 里 廷 反 曲 弓 
+itm_hera_brig_plate_purple|马 里 廷 板 甲 衣 
+itm_hera_brig_plate_purple_pl|马 里 廷 板 甲 衣 
+itm_snake_plate_light_green|拜 蛇 教 重 型 胸 甲 
+itm_snake_plate_light_green_pl|拜 蛇 教 重 型 胸 甲 
+itm_snake_plate_light_red|拜 蛇 教 重 型 胸 甲 
+itm_snake_plate_light_red_pl|拜 蛇 教 重 型 胸 甲 
+itm_ancient_rune_double_axe|远 古 符 印 双 刃 斧 
+itm_ancient_rune_double_axe_pl|远 古 符 印 双 刃 斧 
+itm_ulf_axe|乌 尔 夫 战 斧 
+itm_ulf_axe_pl|乌 尔 夫 战 斧 
+itm_north_spear|北 方 矛 
+itm_north_spear_pl|北 方 矛 
+itm_north_long_spear|北 方 长 矛 
+itm_north_long_spear_pl|北 方 长 矛 
+itm_bascinet_4|暗 红 色 护 颈 锁 子 甲 中 头 盔 
+itm_bascinet_4_pl|暗 红 色 护 颈 锁 子 甲 中 头 盔 
+itm_bascinet_5|暗 红 色 护 鼻 中 头 盔 
+itm_bascinet_5_pl|暗 红 色 护 鼻 中 头 盔 
+itm_bascinet_6|墨 绿 色 护 颈 锁 子 甲 中 头 盔 
+itm_bascinet_6_pl|墨 绿 色 护 颈 锁 子 甲 中 头 盔 
+itm_bascinet_7|墨 绿 色 护 鼻 中 头 盔 
+itm_bascinet_7_pl|墨 绿 色 护 鼻 中 头 盔 
+itm_horse5ga|重 装 灰 片 甲 军 马 I 
+itm_horse5ga_pl|重 装 灰 片 甲 军 马 I 
+itm_melitine_long_impaler|马 里 廷 加 长 刺 枪 
+itm_melitine_long_impaler_pl|马 里 廷 加 长 刺 枪 
+itm_melitine_long_spear|马 里 廷 长 矛 
+itm_melitine_long_spear_pl|马 里 廷 长 矛 
+itm_melitine_hsabre|马 里 廷 重 型 马 刀 
+itm_melitine_hsabre_pl|马 里 廷 重 型 马 刀 
+itm_melitine_round_shield_a|马 里 廷 圆 盾 
+itm_melitine_round_shield_a_pl|马 里 廷 圆 盾 
+itm_melitine_round_shield_b|马 里 廷 圆 盾 
+itm_melitine_round_shield_b_pl|马 里 廷 圆 盾 
+itm_melitine_round_shield_c|马 里 廷 圆 盾 
+itm_melitine_round_shield_c_pl|马 里 廷 圆 盾 
+itm_melitine_round_shield_d|马 里 廷 圆 盾 
+itm_melitine_round_shield_d_pl|马 里 廷 圆 盾 
+itm_melitine_heavyhelm_d|马 里 廷 垂 饰 锁 子 甲 护 颈 盔 
+itm_melitine_heavyhelm_d_pl|马 里 廷 垂 饰 锁 子 甲 护 颈 盔 
+itm_melitine_heavyhelm_e|马 里 廷 锁 子 甲 覆 面 盔 
+itm_melitine_heavyhelm_e_pl|马 里 廷 锁 子 甲 覆 面 盔 
+itm_melitine_heavyarmor_3_b|带 披 风 马 里 廷 重 型 札 甲 
+itm_melitine_heavyarmor_3_b_pl|带 披 风 马 里 廷 重 型 札 甲 
+itm_melitine_scale_armor|马 里 廷 鳞 甲 
+itm_melitine_scale_armor_pl|马 里 廷 鳞 甲 
+itm_melitine_heavy_padded_leather_armor_mail_a|马 里 廷 棉 甲 内 衬 锁 子 甲 
+itm_melitine_heavy_padded_leather_armor_mail_a_pl|马 里 廷 棉 甲 内 衬 锁 子 甲 
+itm_melitine_heavy_padded_leather_armor_mail_b|马 里 廷 棉 甲 内 衬 锁 子 甲 
+itm_melitine_heavy_padded_leather_armor_mail_b_pl|马 里 廷 棉 甲 内 衬 锁 子 甲 
+itm_melitine_padded_leather|马 里 廷 棉 甲 内 衬 皮 甲 
+itm_melitine_padded_leather_pl|马 里 衬 棉 甲 内 衬 皮 甲 
+itm_melitine_leather|马 里 廷 皮 甲 
+itm_melitine_leather_pl|马 里 廷 皮 甲 
+itm_melitine_padded_cloth|马 里 廷 棉 布 衣 
+itm_melitine_padded_cloth_pl|马 里 廷 棉 布 衣 
+itm_melitine_heavyhelm_a|马 里 廷 锁 子 甲 覆 面 盔 
+itm_melitine_heavyhelm_a_pl|马 里 廷 锁 子 甲 覆 面 盔 
+itm_melitine_heavyhelm_b|马 里 廷 锁 子 甲 护 颈 盔 
+itm_melitine_heavyhelm_b_pl|马 里 廷 锁 子 甲 护 颈 盔 
+itm_melitine_heavyarmor_1_a|马 里 廷 重 型 札 甲 
+itm_melitine_heavyarmor_1_a_pl|马 里 廷 重 型 札 甲 
+itm_melitine_heavyarmor_1_b|带 披 风 马 里 廷 重 型 札 甲 
+itm_melitine_heavyarmor_1_b_pl|带 披 风 马 里 廷 重 型 札 甲 
+itm_melitine_heavyarmor_2_a|马 里 廷 重 型 札 甲 
+itm_melitine_heavyarmor_2_a_pl|马 里 廷 重 型 札 甲 
+itm_melitine_heavyarmor_2_b|带 披 风 马 里 廷 重 型 札 甲 
+itm_melitine_heavyarmor_2_b_pl|带 披 风 马 里 廷 重 型 札 甲 
+itm_melitine_heavy_padded_leather_armor_mail_c|马 里 廷 衬 棉 锁 子 甲 
+itm_melitine_heavy_padded_leather_armor_mail_c_pl|马 里 廷 衬 棉 锁 子 甲 
+itm_melitine_heavy_padded_leather_armor_mail_d|马 里 廷 衬 棉 锁 子 甲 
+itm_melitine_heavy_padded_leather_armor_mail_d_pl|马 里 廷 衬 棉 锁 子 甲 
+itm_melitine_battle_axe|马 里 廷 战 斧 
+itm_melitine_battle_axe_pl|马 里 廷 战 斧 
+itm_astraea_manifest|阿 丝 塔 莉 娅 之 证 
+itm_astraea_manifest_pl|阿 丝 塔 莉 娅 之 证 
+itm_sarleon_short_halberd|烈 狮 境 短 戟 
+itm_sarleon_short_halberd_pl|烈 狮 境 短 戟 
+itm_full_plate_armor_2|全 身 板 甲 
+itm_full_plate_armor_2_pl|全 身 板 甲 
+itm_full_plate_armor_2|全 身 板 甲 
+itm_full_plate_armor_2_pl|全 身 板 甲 
+itm_full_plate_armor_2|全 身 板 甲 
+itm_full_plate_armor_2_pl|全 身 板 甲 
+itm_full_plate_armor_3|带 护 喉 全 身 板 甲 
+itm_full_plate_armor_3_pl|带 护 喉 全 身 板 甲 
+itm_full_plate_armor_4|带 护 喉 全 身 板 甲 
+itm_full_plate_armor_4_pl|带 护 喉 全 身 板 甲 
+itm_anaconda_heavy_plate|巨 蟒 重 型 板 甲 
+itm_anaconda_heavy_plate_pl|巨 蟒 重 型 板 甲 
+itm_cobra_plate_enhance|眼 镜 蛇 骑 士 板 甲 
+itm_cobra_plate_enhance_pl|眼 镜 蛇 骑 士 板 甲 
+itm_one_handed_long_battle_axe|巨 蟒 长 柄 斧 
+itm_one_handed_long_battle_axe_pl|巨 蟒 长 柄 斧 
+itm_melitine_scale_armor_with_cape|带 披 风 马 里 廷 鳞 甲 
+itm_melitine_scale_armor_with_cape_pl|带 披 风 马 里 廷 鳞 甲 
+itm_melitine_imperial_guard_shield|马 里 廷 大 盾 
+itm_melitine_imperial_guard_shield_pl|马 里 廷 大 盾 
+itm_phoenix_helmet_3|饰 羽 凤 凰 夏 雷 尔 盔 （ 带 喉 甲 ） 
+itm_phoenix_helmet_3_pl|饰 羽 凤 凰 夏 雷 尔 盔 （ 带 喉 甲 ） 
+itm_phoenix_helmet_4|饰 羽 凤 凰 夏 雷 尔 盔 
+itm_phoenix_helmet_4_pl|饰 羽 凤 凰 夏 雷 尔 盔 
+itm_phoenix_helmet_5|饰 羽 凤 凰 简 易 夏 雷 尔 盔 
+itm_phoenix_helmet_5_pl|饰 羽 凤 凰 简 易 夏 雷 尔 盔 
+itm_phoenix_helmet_6|凤 凰 夏 雷 尔 盔 （ 带 喉 甲 ） 
+itm_phoenix_helmet_6_pl|凤 凰 夏 雷 尔 盔 （ 带 喉 甲 ） 
+itm_phoenix_helmet_7|凤 凰 夏 雷 尔 盔 
+itm_phoenix_helmet_7_pl|凤 凰 夏 雷 尔 盔 
+itm_phoenix_helmet_8|简 易 凤 凰 夏 雷 尔 盔 
+itm_phoenix_helmet_8_pl|简 易 凤 凰 夏 雷 尔 盔 
+itm_phoenix_helmet_9|饰 羽 凤 凰 开 面 夏 雷 尔 盔 （ 带 喉 甲 ） 
+itm_phoenix_helmet_9_pl|饰 羽 凤 凰 开 面 夏 雷 尔 盔 （ 带 喉 甲 ） 
+itm_phoenix_helmet_10|饰 羽 凤 凰 开 面 夏 雷 尔 盔 
+itm_phoenix_helmet_10_pl|饰 羽 凤 凰 开 面 夏 雷 尔 盔 
+itm_phoenix_helmet_11|饰 羽 简 易 凤 凰 开 面 夏 雷 尔 盔 
+itm_phoenix_helmet_11_pl|饰 羽 简 易 凤 凰 开 面 夏 雷 尔 盔 
+itm_phoenix_helmet_12|凤 凰 开 面 夏 雷 尔 盔 （ 带 喉 甲 ） 
+itm_phoenix_helmet_12_pl|凤 凰 开 面 夏 雷 尔 盔 （ 带 喉 甲 ） 
+itm_phoenix_helmet_13|凤 凰 开 面 夏 雷 尔 盔 
+itm_phoenix_helmet_13_pl|凤 凰 开 面 夏 雷 尔 盔 
+itm_phoenix_helmet_14|简 易 凤 凰 开 面 夏 雷 尔 盔 
+itm_phoenix_helmet_14_pl|简 易 凤 凰 开 面 夏 雷 尔 盔 
+itm_long_phoenix_knight_lance|凤 凰 加 长 骑 士 枪 
+itm_long_phoenix_knight_lance_pl|凤 凰 加 长 骑 士 枪 
+itm_melitine_long_battle_axe|马 里 廷 长 柄 战 斧 
+itm_melitine_long_battle_axe_pl|马 里 廷 长 柄 战 斧 
+itm_veccavia_white_eagle_surcoat|菲 卡 维 亚 白 鹰 罩 袍 
+itm_veccavia_white_eagle_surcoat_pl|菲 卡 维 亚 白 鹰 罩 袍 
+itm_byz_cavalry_breastplate_a|马 里 廷 重 型 胸 甲 
+itm_byz_cavalry_breastplate_a_pl|马 里 廷 重 型 胸 甲 
+itm_byz_cavalry_breastplate_b|马 里 廷 重 型 胸 甲 
+itm_byz_cavalry_breastplate_b_pl|马 里 廷 重 型 胸 甲 
+itm_byz_cavalry_breastplate_c|马 里 廷 重 型 胸 甲 
+itm_byz_cavalry_breastplate_c_pl|马 里 廷 重 型 胸 甲 
+itm_byz_cavalry_breastplate_d|马 里 廷 重 型 胸 甲 
+itm_byz_cavalry_breastplate_d_pl|马 里 廷 重 型 胸 甲 
+itm_barclay_pikeman_light_breastplate|巴 克 利 轻 型 胸 甲 
+itm_barclay_pikeman_light_breastplate_pl|巴 克 利 轻 型 胸 甲 
+itm_barclay_pikeman_breastplate|巴 克 利 胸 甲 
+itm_barclay_pikeman_breastplate_pl|巴 克 利 胸 甲 
+itm_empire_halberd_2|帝 国 长 戟 
+itm_empire_halberd_2_pl|帝 国 长 戟 
+itm_halberd|长 戟 
+itm_halberd_pl|长 戟 
+itm_horse5gc|重 装 灰 片 甲 军 马 II 
+itm_horse5gc_pl|重 装 灰 片 甲 军 马 II 
+itm_koningur's_armor|菲 尔 兹 威 国 王 战 铠 
+itm_koningur's_armor_pl|菲 尔 兹 威 国 王 战 铠 
+itm_full_plate_armor_5|金 饰 全 身 板 甲 
+itm_full_plate_armor_5_pl|金 饰 全 身 板 甲 
+itm_full_plate_armor_6|黑 色 全 身 板 甲 
+itm_full_plate_armor_6_pl|黑 色 全 身 板 甲 
+itm_priestess_high_armor_2|高 阶 毒 刃 手 护 甲 
+itm_priestess_high_armor_2_pl|高 阶 毒 刃 手 护 甲 
+itm_priestess_armor_2|毒 刃 手 护 甲 
+itm_priestess_armor_2_pl|毒 刃 手 护 甲 
+itm_priestess_boots_2|毒 刃 手 靴 
+itm_priestess_boots_2_pl|毒 刃 手 靴 
+itm_foreign_cavalry_mask_helmet_1|外 族 垂 饰 面 具 盔 
+itm_foreign_cavalry_mask_helmet_1_pl|外 族 垂 饰 面 具 盔 
+itm_foreign_cavalry_mask_helmet_2|外 族 骑 兵 面 具 盔 
+itm_foreign_cavalry_mask_helmet_2_pl|外 族 骑 兵 面 具 盔 
+itm_Wind_GM_helm|托 巴 酋 长 面 巾 盔 
+itm_Wind_GM_helm_pl|托 巴 酋 长 面 巾 盔 
+itm_Wind_GM_cape|带 披 风 德 夏 御 风 者 护 甲 
+itm_Wind_GM_cape_pl|带 披 风 德 夏 御 风 者 护 甲 
+itm_Silver_GM|圣 辉 银 板 甲 
+itm_Silver_GM_pl|圣 辉 银 板 甲 
+itm_Silver_GM_cape|带 披 风 圣 辉 银 板 甲 
+itm_Silver_GM_cape_pl|带 披 风 圣 辉 银 板 甲 
+itm_hafted_blade_c|外 族 骑 兵 长 刀
+itm_hafted_blade_c_pl|外 族 骑 兵 长 刀
+itm_iron_simple_sallet_with_yellow_feather|饰 黄 羽 铁 制 简 易 夏 雷 尔 盔 （ 单 羽 ） 
+itm_iron_simple_sallet_with_yellow_feather_pl|饰 黄 羽 铁 制 简 易 夏 雷 尔 盔 （ 单 羽 ） 
+itm_iron_simple_sallet_with_yellow_feathers|饰 黄 羽 铁 制 简 易 夏 雷 尔 盔 （ 三 羽 ） 
+itm_iron_simple_sallet_with_yellow_feathers_pl|饰 黄 羽 铁 制 简 易 夏 雷 尔 盔 （ 三 羽 ） 
+itm_iron_sallet_with_yellow_feathers|饰 黄 羽 铁 制 夏 雷 尔 盔 （ 三 羽 ） 
+itm_iron_sallet_with_yellow_feathers_pl|饰 黄 羽 铁 制 夏 雷 尔 盔 （ 三 羽 ） 
+itm_iron_simple_sallet_with_red_feather|饰 红 羽 铁 制 简 易 夏 雷 尔 盔 （ 单 羽 ） 
+itm_iron_simple_sallet_with_red_feather_pl|饰 红 羽 铁 制 简 易 夏 雷 尔 盔 （ 单 羽 ） 
+itm_iron_simple_sallet_with_red_feathers|饰 红 羽 铁 制 简 易 夏 雷 尔 盔 （ 三 羽 ） 
+itm_iron_simple_sallet_with_red_feathers_pl|饰 红 羽 铁 制 简 易 夏 雷 尔 盔 （ 三 羽 ） 
+itm_iron_sallet_with_red_feather|饰 红 羽 铁 制 夏 雷 尔 盔 （ 单 羽 ） 
+itm_iron_sallet_with_red_feather_pl|饰 红 羽 铁 制 夏 雷 尔 盔 （ 单 羽 ） 
+itm_iron_sallet_with_red_feathers|饰 红 羽 铁 制 夏 雷 尔 盔 （ 三 羽 ） 
+itm_iron_sallet_with_red_feathers_pl|饰 红 羽 铁 制 夏 雷 尔 盔 （ 三 羽 ） 
+itm_steel_simple_sallet_with_yellow_feather|饰 黄 羽 钢 制 简 易 夏 雷 尔 盔 （ 单 羽 ） 
+itm_steel_simple_sallet_with_yellow_feather_pl|饰 黄 羽 钢 制 简 易 夏 雷 尔 盔 （ 单 羽 ） 
+itm_steel_simple_sallet_with_yellow_feathers|饰 黄 羽 钢 制 简 易 夏 雷 尔 盔 （ 三 羽 ） 
+itm_steel_simple_sallet_with_yellow_feathers_pl|饰 黄 羽 钢 制 简 易 夏 雷 尔 盔 （ 三 羽 ） 
+itm_steel_sallet_with_yellow_feather|饰 黄 羽 钢 制 夏 雷 尔 盔 （ 单 羽 ） 
+itm_steel_sallet_with_yellow_feather_pl|饰 黄 羽 钢 制 夏 雷 尔 盔 （ 单 羽 ） 
+itm_steel_simple_sallet_with_red_feathers|饰 红 羽 钢 制 简 易 夏 雷 尔 盔 （ 三 羽 ） 
+itm_steel_simple_sallet_with_red_feathers_pl|饰 红 羽 钢 制 简 易 夏 雷 尔 盔 （ 三 羽 ） 
+itm_steel_sallet_with_red_feather|饰 红 羽 钢 制 夏 雷 尔 盔 （ 单 羽 ） 
+itm_steel_sallet_with_red_feather_pl|饰 红 羽 钢 制 夏 雷 尔 盔 （ 单 羽 ）
+itm_snake_reflex_bow|蛇 教 反 曲 弓 
+itm_snake_reflex_bow_pl|蛇 教 反 曲 弓 
+itm_surcoat_18|黑 黄 四 分 锁 子 甲 罩 袍 
+itm_surcoat_18_pl|黑 黄 四 分 锁 子 甲 罩 袍 
+itm_griffon_plate_1|狮 鹫 骑 士 板 甲 
+itm_griffon_plate_1_pl|狮 鹫 骑 士 板 甲 
+itm_griffon_plate_cape_1|带 披 风 狮 鹫 骑 士 板 甲 
+itm_griffon_plate_cape_1_pl|带 披 风 狮 鹫 骑 士 板 甲 
+itm_gryphon_warhorse_black|黑 衣 狮 鹫 铁 蹄 
+itm_gryphon_warhorse_black_pl|黑 衣 狮 鹫 铁 蹄 
+itm_helmet_molded_great_griffon|铸 造 狮 鹫 桶 盔 
+itm_helmet_molded_great_griffon_pl|铸 造 狮 鹫 桶 盔 
+itm_ebony_winged_great_helmet|乌 木 狮 鹫 桶 盔 
+itm_ebony_winged_great_helmet_pl|乌 木 狮 鹫 桶 盔 
+itm_griffon_warbeast|狮 鹫 板 甲 战 马 
+itm_griffon_warbeast_pl|狮 鹫 板 甲 战 马 
+itm_ebony_armored_warhorse|乌 木 板 甲 战 马 
+itm_ebony_armored_warhorse_pl|乌 木 板 甲 战 马 
+itm_griffon_banner_black|狮 鹫 旗 帜 枪 
+itm_griffon_banner_black_pl|狮 鹫 旗 帜 枪 
+itm_ebony_griffon_plate_armor|乌 木 狮 鹫 板 甲 
+itm_ebony_griffon_plate_armor_pl|乌 木 狮 鹫 板 甲 
+itm_ebony_griffon_plate_armor_cape|带 披 风 乌 木 狮 鹫 板 甲 
+itm_ebony_griffon_plate_armor_cape_pl|带 披 风 乌 木 狮 鹫 板 甲 
+itm_shield_kite_griffon_ornate|华 丽 狮 鹫 筝 形 盾 
+itm_shield_kite_griffon_ornate_pl|华 丽 狮 鹫 筝 形 盾 
+itm_heater_shield_41|金 色 狮 鹫 扇 形 盾 
+itm_heater_shield_41_pl|金 色 狮 鹫 扇 形 盾 
+itm_strange_rune_dagger|神 奇 符 印 匕 首 
+itm_strange_rune_dagger_pl|神 奇 符 印 匕 首 
+itm_sapphire_rune_dagger|蓝 宝 石 符 印 匕 首 
+itm_sapphire_rune_dagger_pl|蓝 宝 石 符 印 匕 首 
+itm_ruby_rune_dagger|红 宝 石 符 印 匕 首 
+itm_ruby_rune_dagger_pl|红 宝 石 符 印 匕 首 
+itm_emerald_rune_dagger|翡 翠 符 印 匕 首 
+itm_emerald_rune_dagger_pl|翡 翠 符 印 匕 首 
+itm_strange_rune_bastard_sword|神 奇 符 印 手 半 剑 
+itm_strange_rune_bastard_sword_pl|神 奇 符 印 手 半 剑 
+itm_saphire_rune_bastard_sword|蓝 宝 石 符 印 手 半 剑 
+itm_saphire_rune_bastard_sword_pl|蓝 宝 石 符 印 手 半 剑 
+itm_ruby_rune_bastard_sword|红 宝 石 符 印 手 半 剑 
+itm_ruby_rune_bastard_sword_pl|红 宝 石 符 印 手 半 剑 
+itm_emerald_rune_bastard_sword|翡 翠 符 印 手 半 剑 
+itm_emerald_rune_bastard_sword_pl|翡 翠 符 印 手 半 剑 
+itm_strange_rune_two-handed_axe|神 奇 符 印 双 手 斧 
+itm_strange_rune_two-handed_axe_pl|神 奇 符 印 双 手 斧 
+itm_sapphire_rune_two-handed_axe|蓝 宝 石 符 印 双 手 斧 
+itm_sapphire_rune_two-handed_axe_pl|蓝 宝 石 符 印 双 手 斧 
+itm_ruby_rune_two-handed_axe|红 宝 石 符 印 双 手 斧 
+itm_ruby_rune_two-handed_axe_pl|红 宝 石 符 印 双 手 斧 
+itm_emerald_rune_two-handed_axe|翡 翠 符 印 双 手 斧 
+itm_emerald_rune_two-handed_axe_pl|翡 翠 符 印 双 手 斧 
+itm_strange_rune_hammer|神 奇 符 印 战 锤 
+itm_strange_rune_hammer_pl|神 奇 符 印 战 锤 
+itm_saphire_rune_hammer|蓝 宝 石 符 印 战 锤 
+itm_saphire_rune_hammer_pl|蓝 宝 石 符 印 战 锤 
+itm_ruby_rune_hammer|红 宝 石 符 印 战 锤 
+itm_ruby_rune_hammer_pl|红 宝 石 符 印 战 锤 
+itm_emerald_rune_hammer|翡 翠 符 印 战 锤 
+itm_emerald_rune_hammer_pl|翡 翠 符 印 战 锤 
+itm_strange_rune_lance|神 奇 符 印 骑 枪 
+itm_sapphire_rune_lance|蓝 宝 石 符 印 骑 枪 
+itm_ruby_rune_lance|红 宝 石 符 印 骑 枪 
+itm_emerald_rune_lance|翡 翠 符 印 骑 枪 
+itm_strange_rune_spear|神 奇 符 印 矛 
+itm_strange_rune_spear_pl|神 奇 符 印 矛 
+itm_sapphire_rune_spear|蓝 宝 石 符 印 矛 
+itm_sapphire_rune_spear_pl|蓝 宝 石 符 印 矛 
+itm_ruby_rune_spear|红 宝 石 符 印 矛 
+itm_ruby_rune_spear_pl|红 宝 石 符 印 矛 
+itm_emerald_rune_spear|翡 翠 符 印 矛 
+itm_emerald_rune_spear_pl|翡 翠 符 印 矛 
+itm_strange_rune_throwing_spears|神 奇 符 印 投 矛 
+itm_strange_rune_throwing_spears_pl|神 奇 符 印 投 矛 
+itm_sapphire_rune_throwing_spears|蓝 宝 石 符 印 投 矛 
+itm_sapphire_rune_throwing_spears_pl|蓝 宝 石 符 印 投 矛 
+itm_ruby_rune_throwing_spears|红 宝 石 符 印 投 矛 
+itm_ruby_rune_throwing_spears_pl|红 宝 石 符 印 投 矛 
+itm_emerald_rune_throwing_spears|翡 翠 符 印 投 矛 
+itm_emerald_rune_throwing_spears_pl|翡 翠 符 印 投 矛 
+itm_strange_rune_throwing_daggers|神 奇 符 印 投 掷 匕 首 
+itm_strange_rune_throwing_daggers_pl|神 奇 符 印 投 掷 匕 首 
+itm_sapphire_rune_throwing_daggers|蓝 宝 石 符 印 投 掷 匕 首 
+itm_sapphire_rune_throwing_daggers_pl|蓝 宝 石 符 印 投 掷 匕 首 
+itm_ruby_rune_throwing_daggers|红 宝 石 符 印 投 掷 匕 首 
+itm_ruby_rune_throwing_daggers_pl|红 宝 石 符 印 投 掷 匕 首 
+itm_emerald_rune_throwing_daggers|翡 翠 符 印 投 掷 匕 首 
+itm_emerald_rune_throwing_daggers_pl|翡 翠 符 印 投 掷 匕 首 
+itm_strange_rune_throwing_dirks|神 奇 符 印 飞 刀 
+itm_strange_rune_throwing_dirks_pl|神 奇 符 印 飞 刀 
+itm_sapphire_rune_throwing_dirks|蓝 宝 石 符 印 飞 刀 
+itm_sapphire_rune_throwing_dirks_pl|蓝 宝 石 符 印 飞 刀 
+itm_ruby_rune_throwing_dirks|红 宝 石 符 印 飞 刀 
+itm_ruby_rune_throwing_dirks_pl|红 宝 石 符 印 飞 刀 
+itm_emerald_rune_throwing_dirks|翡 翠 符 印 飞 刀 
+itm_emerald_rune_throwing_dirks_pl|翡 翠 符 印 飞 刀 
+itm_strange_rune_crossbow|神 奇 符 印 弩 
+itm_strange_rune_crossbow_pl|神 奇 符 印 弩 
+itm_saphire_rune_crossbow|蓝 宝 石 符 印 弩 
+itm_saphire_rune_crossbow_pl|蓝 宝 石 符 印 弩 
+itm_ruby_rune_crossbow|红 宝 石 符 印 弩 
+itm_ruby_rune_crossbow_pl|红 宝 石 符 印 弩 
+itm_emerald_rune_crossbow|翡 翠 符 印 弩 
+itm_emerald_rune_crossbow_pl|翡 翠 符 印 弩 
+itm_sharpshooter_bolts|蛇 教 淬 毒 弩 矢 
+itm_sharpshooter_bolts_pl|蛇 教 淬 毒 弩 矢 
+itm_sentinel_arrows|蛇 教 淬 毒 箭 
+itm_sentinel_arrows_pl|蛇 教 淬 毒 箭 
+itm_strange_rune_shield|神 奇 符 印 盾 
+itm_strange_rune_shield_pl|神 奇 符 印 盾 
+itm_sapphire_rune_shield|蓝 宝 石 符 印 盾 
+itm_sapphire_rune_shield_pl|蓝 宝 石 符 印 盾 
+itm_ruby_rune_shield|红 宝 石 符 印 盾 
+itm_ruby_rune_shield_pl|红 宝 石 符 印 盾 
+itm_emerald_rune_shield|翡 翠 符 印 盾 
+itm_emerald_rune_shield_pl|翡 翠 符 印 盾 
+itm_strange_rune_horse|神 奇 符 印 甲 战 马 
+itm_strange_rune_horse_pl|神 奇 符 印 甲 战 马 
+itm_sapphire_rune_horse|蓝 宝 石 符 印 甲 战 马 
+itm_sapphire_rune_horse_pl|蓝 宝 石 符 印 甲 战 马 
+itm_ruby_rune_horse|红 宝 石 符 印 甲 战 马 
+itm_ruby_rune_horse_pl|红 宝 石 符 印 甲 战 马 
+itm_emerald_rune_horse|翡 翠 符 印 甲 战 马 
+itm_emerald_rune_horse_pl|翡 翠 符 印 甲 战 马 
+itm_silver_rune_plate|神 奇 符 印 银 甲 
+itm_silver_rune_plate_pl|神 奇 符 印 银 甲 
+itm_silver_sapphire_rune_plate|蓝 宝 石 符 印 银 甲 
+itm_silver_sapphire_rune_plate_pl|蓝 宝 石 符 印 银 甲 
+itm_silver_ruby_rune_plate|红 宝 石 符 印 银 甲 
+itm_silver_ruby_rune_plate_pl|红 宝 石 符 印 银 甲 
+itm_silver_emerald_rune_plate|翡 翠 符 印 银 甲 
+itm_silver_emerald_rune_plate_pl|翡 翠 符 印 银 甲 
+itm_silver_rune_plate_cape|带 披 风 神 奇 符 印 银 甲 
+itm_silver_rune_plate_cape_pl|带 披 风 神 奇 符 印 银 甲 
+itm_silver_sapphire_rune_plate_cape|带 披 风 蓝 宝 石 符 印 银 甲 
+itm_silver_sapphire_rune_plate_cape_pl|带 披 风 蓝 宝 石 符 印 银 甲 
+itm_silver_ruby_rune_plate_cape|带 披 风 红 宝 石 符 印 银 甲 
+itm_silver_ruby_rune_plate_cape_pl|带 披 风 红 宝 石 符 印 银 甲 
+itm_silver_emerald_rune_plate_cape|带 披 风 翡 翠 符 印 银 甲 
+itm_silver_emerald_rune_plate_cape_pl|带 披 风 翡 翠 符 印 银 甲 
+itm_ebony_rune_plate|神 奇 符 印 乌 木 甲 
+itm_ebony_rune_plate_pl|神 奇 符 印 乌 木 甲 
+itm_ebony_sapphire_rune_plate|蓝 宝 石 符 印 乌 木 甲 
+itm_ebony_sapphire_rune_plate_pl|蓝 宝 石 符 印 乌 木 甲 
+itm_ebony_ruby_rune_plate|红 宝 石 符 印 乌 木 甲 
+itm_ebony_ruby_rune_plate_pl|红 宝 石 符 印 乌 木 甲 
+itm_ebony_emerald_rune_plate|翡 翠 符 印 乌 木 甲 
+itm_ebony_emerald_rune_plate_pl|翡 翠 符 印 乌 木 甲 
+itm_ebony_rune_plate_cape|带 披 风 神 奇 符 印 乌 木 甲 
+itm_ebony_rune_plate_cape_pl|带 披 风 神 奇 符 印 乌 木 甲 
+itm_ebony_sapphire_rune_plate_cape|带 披 风 蓝 宝 石 符 印 乌 木 甲 
+itm_ebony_sapphire_rune_plate_cape_pl|带 披 风 蓝 宝 石 符 印 乌 木 甲 
+itm_ebony_ruby_rune_plate_cape|带 披 风 红 宝 石 符 印 乌 木 甲 
+itm_ebony_ruby_rune_plate_cape_pl|带 披 风 红 宝 石 符 印 乌 木 甲 
+itm_ebony_emerald_rune_plate_cape|带 披 风 翡 翠 符 印 乌 木 甲 
+itm_ebony_emerald_rune_plate_cape_pl|带 披 风 翡 翠 符 印 乌 木 甲 
+itm_azure_sapphire_rune_plate|蓝 宝 石 符 印 天 蓝 甲 
+itm_azure_sapphire_rune_plate_pl|蓝 宝 石 符 印 天 蓝 甲 
+itm_bronze_ruby_rune_plate|红 宝 石 符 印 黄 铜 甲 
+itm_bronze_ruby_rune_plate_pl|红 宝 石 符 印 黄 铜 甲 
+itm_viridian_emerald_rune_plate|翡 翠 符 印 墨 玉 甲 
+itm_viridian_emerald_rune_plate_pl|翡 翠 符 印 墨 玉 甲 
+itm_azure_sapphire_rune_plate_cape|带 披 风 蓝 宝 石 符 印 天 蓝 甲 
+itm_azure_sapphire_rune_plate_cape_pl|带 披 风 蓝 宝 石 符 印 天 蓝 甲 
+itm_bronze_ruby_rune_plate_cape|带 披 风 红 宝 石 符 印 黄 铜 甲 
+itm_bronze_ruby_rune_plate_cape_pl|带 披 风 红 宝 石 符 印 黄 铜 甲 
+itm_viridian_emerald_rune_plate_cape|带 披 风 翡 翠 符 印 墨 玉 甲 
+itm_viridian_emerald_rune_plate_cape_pl|带 披 风 翡 翠 符 印 墨 玉 甲 
+itm_amethyst_rune_plate|紫 水 晶 符 印 甲 
+itm_amethyst_rune_plate_pl|紫 水 晶 符 印 甲 
+itm_amber_rune_plate|绛 琥 珀 符 印 甲 
+itm_amber_rune_plate_pl|绛 琥 珀 符 印 甲 
+itm_jade_rune_plate|绿 松 石 符 印 甲 
+itm_jade_rune_plate_pl|绿 松 石 符 印 甲 
+itm_amethyst_rune_plate_cape|带 披 风 紫 水 晶 符 印 甲 
+itm_amethyst_rune_plate_cape_pl|带 披 风 紫 水 晶 符 印 甲 
+itm_amber_rune_plate_cape|带 披 风 琥 珀 符 印 甲 
+itm_amber_rune_plate_cape_pl|带 披 风 琥 珀 符 印 甲 
+itm_jade_rune_plate_cape|带 披 风 绿 松 石 符 印 甲 
+itm_jade_rune_plate_cape_pl|带 披 风 绿 松 石 符 印 甲 
+itm_Kraken_platemail|克 拉 肯 带 甲 裙 重 型 板 甲 
+itm_Kraken_platemail_pl|克 拉 肯 带 甲 裙 重 型 板 甲 
+itm_Kraken_platemail_cape|带 披 风 克 拉 肯 带 甲 裙 重 型 板 甲 
+itm_Kraken_platemail_cape_pl|带 披 风 克 拉 肯 带 甲 裙 重 型 板 甲 
+itm_phoenix_plate_with_cape|带 披 风 凤 凰 骑 士 重 型 板 甲 
+itm_phoenix_plate_with_cape_pl|带 披 风 凤 凰 骑 士 重 型 板 甲 
+itm_Phoenix_GM|凤 凰 骑 士 长 重 型 板 甲 
+itm_Phoenix_GM_pl|凤 凰 骑 士 长 重 型 板 甲 
+itm_Phoenix_GM_cape|带 披 风 凤 凰 骑 士 长 重 型 板 甲 
+itm_Phoenix_GM_cape_pl|带 披 风 凤 凰 骑 士 长 重 型 板 甲 
+itm_Phoenix_GM_bl|凤 凰 骑 士 大 团 长 重 型 板 甲 
+itm_Phoenix_GM_bl_pl|凤 凰 骑 士 大 团 长 重 型 板 甲 
+itm_Phoenix_GM_bl_cape|带 披 风 凤 凰 骑 士 大 团 长 重 型 板 甲 
+itm_Phoenix_GM_bl_cape_pl|带 披 风 凤 凰 骑 士 大 团 长 重 型 板 甲 
+itm_Phoenix_GM_helm_bl|浴 火 凤 凰 开 面 盔 
+itm_Phoenix_GM_helm_bl_pl|浴 火 凤 凰 开 面 盔 
+itm_Scorpion_GM|天 蝎 札 甲 
+itm_Scorpion_GM_pl|天 蝎 札 甲 
+itm_Scorpion_GM_helm|带 兜 帽 刺 客 头 盔 
+itm_Scorpion_GM_helm_pl|带 兜 帽 刺 客 头 盔 
+itm_Wolf_GM|幽 影 狼 毛 皮 护 甲 
+itm_Wolf_GM_pl|幽 影 狼 毛 皮 护 甲 
+itm_Wolf_GM2|幽 影 狼 毛 皮 护 甲 
+itm_Wolf_GM2_pl|幽 影 狼 毛 皮 护 甲 
+itm_sorry_im_berserk_helm|幽 影 狼 抛 光 覆 面 盔 
+itm_sorry_im_berserk_helm_pl|幽 影 狼 抛 光 覆 面 盔 
+itm_Wolf_GM2_helm|幽 影 狼 覆 面 盔 
+itm_Wolf_GM2_helm_pl|幽 影 狼 覆 面 盔 
+itm_Wolf_GM_helm_open|幽 影 狼 开 面 盔 
+itm_Wolf_GM_helm_open_pl|幽 影 狼 开 面 盔 
+itm_Hammer_GM|乌 木 骑 士 金 饰 重 型 板 甲 
+itm_Hammer_GM_pl|乌 木 骑 士 金 饰 重 型 板 甲 
+itm_Hammer_GM_cape|带 披 风 乌 木 骑 士 金 饰 重 型 板 甲 
+itm_Hammer_GM_cape_pl|带 披 风 乌 木 骑 士 金 饰 重 型 板 甲 
+itm_Eventide_GM|黄 昏 骑 士 带 甲 裙 重 型 板 甲 
+itm_Eventide_GM_pl|黄 昏 骑 士 带 甲 裙 重 型 板 甲 
+itm_Eventide_GM_cape|带 披 风 黄 昏 骑 士 带 甲 裙 重 型 板 甲 
+itm_Eventide_GM_cape_pl|带 披 风 黄 昏 骑 士 带 甲 裙 重 型 板 甲 
+itm_Hammer_GM_helm|黑 色 饰 黑 羽 圆 顶 中 头 盔 （ 打 开 ） 
+itm_Hammer_GM_helm_pl|黑 色 饰 黑 羽 圆 顶 中 头 盔 （ 打 开 ） 
+itm_Eventide_GM_helm|黄 昏 骑 士 兜 帽 桶 盔 
+itm_Eventide_GM_helm_pl|黄 昏 骑 士 兜 帽 桶 盔 
+itm_Eventide_GM_helm_cape|带 披 风 黄 昏 骑 士 兜 帽 桶 盔 
+itm_Eventide_GM_helm_cape_pl|带 披 风 黄 昏 骑 士 兜 帽 桶 盔 
+itm_Clarion_GM|巡 林 者 精 锐 重 型 板 甲 
+itm_Clarion_GM_pl|巡 林 者 精 锐 重 型 板 甲 
+itm_Clarion_GM_cape|带 披 风 巡 林 者 精 锐 重 型 板 甲 
+itm_Clarion_GM_cape_pl|带 披 风 巡 林 者 精 锐 重 型 板 甲 
+itm_Clarion_Silver|巡 林 者 板 甲 
+itm_Clarion_Silver_pl|巡 林 者 板 甲 
+itm_Clarion_GM_helm|绿 色 垂 饰 圆 顶 中 头 盔 （ 打 开 ） 
+itm_Clarion_GM_helm_pl|绿 色 垂 饰 圆 顶 中 头 盔 （ 打 开 ） 
+itm_Raven_GM|深 蓝 色 华 丽 带 甲 裙 重 型 板 甲 
+itm_Raven_GM_pl|深 蓝 色 华 丽 带 甲 裙 重 型 板 甲 
+itm_Raven_GM_cape|带 披 风 深 蓝 色 华 丽 带 甲 裙 重 型 板 甲 
+itm_Raven_GM_cape_pl|带 披 风 深 蓝 色 华 丽 带 甲 裙 重 型 板 甲 
+itm_Raven_GM_helm|饰 羽 掀 面 桶 盔 （ 打 开 ） 
+itm_Raven_GM_helm_pl|饰 羽 掀 面 桶 盔 （ 打 开 ） 
+itm_Dragon_GM|龙 骑 士 乌 木 重 型 板 甲 
+itm_Dragon_GM_pl|龙 骑 士 乌 木 重 型 板 甲 
+itm_Dragon_GM_helm_1|凛 鸦 境 乌 木 武 装 盔 
+itm_Dragon_GM_helm_1_pl|凛 鸦 境 乌 木 武 装 盔 
+itm_Dragon_GM_helm_2|凛 鸦 境 乌 木 武 装 盔 （ 打 开 ） 
+itm_Dragon_GM_helm_2_pl|凛 鸦 境 乌 木 武 装 盔 （ 打 开 ） 
+itm_Dragon_GM_Shield|乌 木 龙 纹 扇 形 盾 
+itm_Dragon_GM_Shield_pl|乌 木 龙 纹 扇 形 盾 
+itm_Drake_armor|凛 鸦 境 乌 木 重 型 板 甲 
+itm_Drake_armor_pl|凛 鸦 境 乌 木 重 型 板 甲 
+itm_Falcon_GM|猎 鹰 板 甲 
+itm_Falcon_GM_pl|猎 鹰 板 甲 
+itm_Falcon_GM_cape|带 披 风 猎 鹰 板 甲 
+itm_Falcon_GM_cape_pl|带 披 风 猎 鹰 板 甲 
+itm_Falcon_GM_helm|垂 饰 冒 险 者 开 面 盔 
+itm_Falcon_GM_helm_pl|垂 饰 冒 险 者 开 面 盔 
+itm_Shadow_Ori_cape|带 披 风 暗 影 军 团 甲 
+itm_Shadow_Ori_cape_pl|带 披 风 暗 影 军 团 甲 
+itm_Shadow_Ori_helm_1|暗 影 百 夫 长 盔 
+itm_Shadow_Ori_helm_1_pl|暗 影 百 夫 长 盔 
+itm_Shadow_Ori_helm_2|暗 影 百 夫 长 盔 
+itm_Shadow_Ori_helm_2_pl|暗 影 百 夫 长 盔 
+itm_Shadow_GM|紫 内 衬 暗 影 军 团 甲 
+itm_Shadow_GM_pl|紫 内 衬 暗 影 军 团 甲 
+itm_Shadow_GM_cape|带 披 风 紫 内 衬 暗 影 军 团 甲 
+itm_Shadow_GM_cape_pl|带 披 风 紫 内 衬 暗 影 军 团 甲 
+itm_Shadow_GM_helm_1|紫 翎 暗 影 百 夫 长 盔 
+itm_Shadow_GM_helm_1_pl|紫 翎 暗 影 百 夫 长 盔 
+itm_Shadow_GM_helm_2|紫 翎 暗 影 百 夫 长 盔 
+itm_Shadow_GM_helm_2_pl|紫 翎 暗 影 百 夫 长 盔 
+itm_Shadow_orange|橙 内 衬 暗 影 军 团 甲 
+itm_Shadow_orange_pl|橙 内 衬 暗 影 军 团 甲 
+itm_Shadow_orange_cape|带 披 风 橙 内 衬 暗 影 军 团 甲 
+itm_Shadow_orange_cape_pl|带 披 风 橙 内 衬 暗 影 军 团 甲 
+itm_Shadow_purple_1|紫 内 衬 帝 国 成 年 步 兵 甲 
+itm_Shadow_purple_1_pl|紫 内 衬 帝 国 成 年 步 兵 甲 
+itm_Shadow_purple_2|紫 内 衬 帝 国 镶 钉 锁 子 甲 
+itm_Shadow_purple_2_pl|紫 内 衬 帝 国 镶 钉 锁 子 甲 
+itm_Immo_gold_GM_cape|带 披 风 不 朽 者 军 官 甲 
+itm_Immo_gold_GM_cape_pl|带 披 风 不 朽 者 军 官 甲 
+itm_ashen_phoe_helmet_2_im_b|不 朽 冠 军 盔 
+itm_ashen_phoe_helmet_2_im_b_pl|不 朽 冠 军 盔 
+itm_Immo_GM_helm_1|不 朽 乌 木 冠 军 盔 
+itm_Immo_GM_helm_1_pl|不 朽 乌 木 冠 军 盔 
+itm_Immo_GM_helm_2|不 朽 乌 木 冠 军 盔 
+itm_Immo_GM_helm_2_pl|不 朽 乌 木 冠 军 盔 
+itm_Radiant_GM|光 辉 十 字 骑 士 板 甲 
+itm_Radiant_GM_pl|光 辉 十 字 骑 士 板 甲 
+itm_Radiant_GM_cape|带 披 风 光 辉 十 字 骑 士 板 甲 
+itm_Radiant_GM_cape_pl|带 披 风 光 辉 十 字 骑 士 板 甲 
+itm_breastplate_mail_falcon_cape|带 披 风 金 色 女 武 神 重 型 板 甲 
+itm_breastplate_mail_falcon_cape_pl|带 披 风 金 色 女 武 神 重 型 板 甲 
+itm_Valk_GM|金 银 双 色 女 武 神 重 型 板 甲 
+itm_Valk_GM_pl|金 银 双 色 女 武 神 重 型 板 甲 
+itm_Valk_GM_cape|带 披 风 金 银 双 色 女 武 神 重 型 板 甲 
+itm_Valk_GM_cape_pl|带 披 风 金 银 双 色 女 武 神 重 型 板 甲 
+itm_Valk_GM_helm|金 银 双 色 女 武 神 盔 
+itm_Valk_GM_helm_pl|金 银 双 色 女 武 神 盔 
+itm_Lion_GM|狮 骑 士 长 重 型 板 甲 
+itm_Lion_GM_pl|狮 骑 士 长 重 型 板 甲 
+itm_Lion_GM_cape|带 披 风 狮 骑 士 长 重 型 板 甲 
+itm_Lion_GM_cape_pl|带 披 风 狮 骑 士 长 重 型 板 甲 
+itm_Lions_GM|狮 骑 士 大 团 长 板 甲 
+itm_Lions_GM_pl|狮 骑 士 大 团 长 板 甲 
+itm_Lions_GM_cape|带 披 风 狮 骑 士 大 团 长 板 甲 
+itm_Lions_GM_cape_pl|带 披 风 狮 骑 士 大 团 长 板 甲 
+itm_Dawn_GM_0|黎 明 骑 士 重 型 板 甲 
+itm_Dawn_GM_0_pl|黎 明 骑 士 重 型 板 甲 
+itm_Dawn_GM_0_cape|带 披 风 黎 明 骑 士 重 型 板 甲 
+itm_Dawn_GM_0_cape_pl|带 披 风 黎 明 骑 士 重 型 板 甲 
+itm_Dawn_TA|黎 明 骑 士 长 重 型 板 甲 
+itm_Dawn_TA_pl|黎 明 骑 士 长 重 型 板 甲 
+itm_Dawn_TA_cape|带 披 风 黎 明 骑 士 长 重 型 板 甲 
+itm_Dawn_TA_cape_pl|带 披 风 黎 明 骑 士 长 重 型 板 甲 
+itm_Dawn_GM|黎 明 骑 士 长 重 型 板 甲 
+itm_Dawn_GM_pl|黎 明 骑 士 长 重 型 板 甲 
+itm_Dawn_GM_cape|带 披 风 黎 明 骑 士 长 重 型 板 甲 
+itm_Dawn_GM_cape_pl|带 披 风 黎 明 骑 士 长 重 型 板 甲 
+itm_Dawn_white|黎 明 骑 士 大 团 长 重 型 板 甲 衣 
+itm_Dawn_white_pl|黎 明 骑 士 大 团 长 重 型 板 甲 衣 
+itm_Dawn_white_cape|带 披 风 黎 明 骑 士 大 团 长 重 型 板 甲 衣 
+itm_Dawn_white_cape_pl|带 披 风 黎 明 骑 士 大 团 长 重 型 板 甲 衣 
+itm_Dawn_GM_helm|黎 明 金 翼 桶 盔 
+itm_Dawn_GM_helm_pl|黎 明 金 翼 桶 盔 
+itm_Drake_armor_cape|凛 鸦 境 乌 木 重 型 板 甲 
+itm_Drake_armor_cape_pl|凛 鸦 境 乌 木 重 型 板 甲 
+itm_Rose_KHO|玫 瑰 骑 士 重 型 板 甲 
+itm_Rose_KHO_pl|玫 瑰 骑 士 重 型 板 甲 
+itm_Rose_KHO_cape|带 披 风 玫 瑰 骑 士 重 型 板 甲 
+itm_Rose_KHO_cape_pl|带 披 风 玫 瑰 骑 士 重 型 板 甲 
+itm_Rose2_KHO|玫 瑰 纹 章 重 型 板 甲 
+itm_Rose2_KHO_pl|玫 瑰 纹 章 重 型 板 甲 
+itm_Rose2_KHO_cape|带 披 风 玫 瑰 纹 章 重 型 板 甲 
+itm_Rose2_KHO_cape_pl|带 披 风 玫 瑰 纹 章 重 型 板 甲 
+itm_Melitine_Platemail|马 里 廷 板 甲 
+itm_Melitine_Platemail_pl|马 里 廷 板 甲 
+itm_Barclay_GM|巴 克 利 覆 袍 板 甲 
+itm_Barclay_GM_pl|巴 克 利 覆 袍 板 甲 
+itm_Mettenheim_GM|决 死 队 后 备 板 甲 
+itm_Mettenheim_GM_pl|决 死 队 后 备 板 甲 
+itm_Mettenheim_GM_cape|带 披 风 决 死 队 后 备 板 甲 
+itm_Mettenheim_GM_cape_pl|带 披 风 决 死 队 后 备 板 甲 
+itm_Mettenheim_GM_Shield|梅 滕 海 姆 扇 形 盾 
+itm_Mettenheim_GM_Shield_pl|梅 滕 海 姆 扇 形 盾 
+itm_Mettenheim_helm_1|梅 滕 海 姆 圆 顶 中 头 盔 （ 打 开 ） 
+itm_Mettenheim_helm_1_pl|梅 滕 海 姆 圆 顶 中 头 盔 （ 打 开 ） 
+itm_Mettenheim_helm_2|梅 滕 海 姆 圆 顶 中 头 盔 
+itm_Mettenheim_helm_2_pl|梅 滕 海 姆 圆 顶 中 头 盔 
+itm_Unicorn_Armor|独 角 兽 重 型 板 甲 
+itm_Unicorn_Armor_pl|独 角 兽 重 型 板 甲 
+itm_horse2g|灰 片 甲 军 马 II 
+itm_horse2g_pl|灰 片 甲 军 马 II 
+itm_horse2gb|金 片 甲 军 马 
+itm_horse2gb_pl|金 片 甲 军 马 
+itm_horse2p|黑 片 甲 军 马 
+itm_horse2p_pl|黑 片 甲 军 马 
+itm_horse5g|重 装 灰 片 甲 军 马 III 
+itm_horse5g_pl|重 装 灰 片 甲 军 马 III 
+itm_horse5gb|重 装 金 片 甲 军 马 
+itm_horse5gb_pl|重 装 灰 片 甲 军 马 
+itm_horse5p|重 装 黑 片 甲 军 马 
+itm_horse5p_pl|重 装 黑 片 甲 军 马 
+itm_horse4gb|金 色 板 甲 战 马 
+itm_horse4gb_pl|金 色 板 甲 战 马 
+itm_horse4a|灰 色 金 边 板 甲 战 马 I 
+itm_horse4a_pl|灰 色 金 边 板 甲 战 马 I 
+itm_horse4g|灰 色 金 边 板 甲 战 马 II 
+itm_horse4g_pl|灰 色 金 边 板 甲 战 马 II 
+itm_horse4w|银 色 板 甲 战 马 
+itm_horse4w_pl|银 色 板 甲 战 马 
+itm_horse4p|黑 色 板 甲 战 马 
+itm_horse4p_pl|黑 色 板 甲 战 马 
+itm_armored_warhorse_pendor_2|潘 德 王 室 御 马 
+itm_armored_warhorse_pendor_2_pl|潘 德 王 室 御 马 
+itm_armored_warhorse_pendor_3|潘 德 王 室 御 马 
+itm_armored_warhorse_pendor_3_pl|潘 德 王 室 御 马 
+itm_armored_warhorse_pendor_4|潘 德 王 室 御 马 
+itm_armored_warhorse_pendor_4_pl|潘 德 王 室 御 马 
+itm_armored_warhorse_pendor_5|潘 德 王 室 御 马 
+itm_armored_warhorse_pendor_5_pl|潘 德 王 室 御 马 
+itm_armored_warhorse_pendor_6|潘 德 王 室 御 马 
+itm_armored_warhorse_pendor_6_pl|潘 德 王 室 御 马 
+itm_rose_warhorse|玫 瑰 战 马 
+itm_rose_warhorse_pl|玫 瑰 战 马 
+itm_sallet_a_open1|新 式 开 面 夏 雷 尔 盔 （ 带 喉 甲 ） 
+itm_sallet_a_open1_pl|新 式 开 面 夏 雷 尔 盔 （ 带 喉 甲 ） 
+itm_sallet_a_open2|新 式 开 面 夏 雷 尔 盔 
+itm_sallet_a_open2_pl|新 式 开 面 夏 雷 尔 盔 
+itm_sallet_a_closed1|新 式 夏 雷 尔 盔 （ 带 喉 甲 ）
+itm_sallet_a_closed1_pl|新 式 夏 雷 尔 盔 （ 带 喉 甲 ） 
+itm_sallet_a_closed2|新 式 夏 雷 尔 盔 
+itm_sallet_a_closed2_pl|新 式 夏 雷 尔 盔 
+itm_heavy_knight_helm_2|重 装 骑 士 头 盔 
+itm_heavy_knight_helm_2_pl|重 装 骑 士 头 盔 
+itm_heavy_knight_armor_1|重 装 骑 士 板 甲 
+itm_heavy_knight_armor_1_pl|重 装 骑 士 板 甲 
+itm_heavy_knight_armor_1_cape|带 披 风 重 装 骑 士 板 甲 
+itm_heavy_knight_armor_1_cape_pl|带 披 风 重 装 骑 士 板 甲 
+itm_heavy_knight_armor_2|重 装 骑 士 板 甲 
+itm_heavy_knight_armor_2_pl|重 装 骑 士 板 甲 
+itm_heavy_knight_armor_3|重 装 骑 士 板 甲 
+itm_heavy_knight_armor_3_pl|重 装 骑 士 板 甲 
+itm_heavy_knight_armor_3_cape|带 披 风 重 装 骑 士 板 甲 
+itm_heavy_knight_armor_3_cape_pl|带 披 风 重 装 骑 士 板 甲 
+itm_heavy_knight_armor_4|重 装 骑 士 板 甲 
+itm_heavy_knight_armor_4_pl|重 装 骑 士 板 甲 
+itm_heavy_knight_armor_4_cape|带 披 风 重 装 骑 士 板 甲 
+itm_heavy_knight_armor_4_cape_pl|带 披 风 重 装 骑 士 板 甲 
+itm_heavy_knight_armor_5|重 装 骑 士 板 甲 
+itm_heavy_knight_armor_5_pl|重 装 骑 士 板 甲 
+itm_heavy_knight_armor_5_cape|带 披 风 重 装 骑 士 板 甲 
+itm_heavy_knight_armor_5_cape_pl|带 披 风 重 装 骑 士 板 甲 
+itm_heavy_knight_armor_6|重 装 骑 士 板 甲 
+itm_heavy_knight_armor_6_pl|重 装 骑 士 板 甲 
+itm_heavy_knight_armor_6_cape|带 披 风 重 装 骑 士 板 甲 
+itm_heavy_knight_armor_6_cape_pl|带 披 风 重 装 骑 士 板 甲 
+itm_demon_body_without_wings|恶 魔 之 躯 
+itm_demon_body_without_wings_pl|恶 魔 之 躯 
+itm_warhorse_chain|黄 铜 锁 甲 战 马 
+itm_warhorse_chain_pl|黄 铜 锁 甲 战 马 
+itm_spak_charger_plate|恶 魔 军 马 
+itm_spak_charger_plate_pl|恶 魔 军 马 
+itm_ripper_chain|恶 魔 战 兽 
+itm_ripper_chain_pl|恶 魔 战 兽 
+itm_heavy_riper|重 装 恶 魔 战 兽 
+itm_heavy_riper_pl|重 装 恶 魔 战 兽 
+itm_arch_demon_head_01|下 级 恶 魔 之 头 （ 竖 角 ） 
+itm_arch_demon_head_01_pl|下 级 恶 魔 之 头 （ 竖 角 ） 
+itm_arch_demon_head_02|下 级 恶 魔 之 头 （ 弯 角 ） 
+itm_arch_demon_head_02_pl|下 级 恶 魔 之 头 （ 弯 角 ） 
+itm_arch_demon_head_03|下 级 恶 魔 之 头 （ 四 角 ） 
+itm_arch_demon_head_03_pl|下 级 恶 魔 之 头 （ 四 角 ） 
+itm_arch_demon_head_04|下 级 恶 魔 之 头 （ 戴 冠 ） 
+itm_arch_demon_head_04_pl|下 级 恶 魔 之 头 （ 戴 冠 ） 
+itm_pa_pop_demon_head_1|恶 魔 之 头 （ 双 角 ） 
+itm_pa_pop_demon_head_1_pl|恶 魔 之 头 （ 双 角 ） 
+itm_pa_pop_demon_head_2|恶 魔 之 头 （ 双 角 ） 
+itm_pa_pop_demon_head_2_pl|恶 魔 之 头 （ 双 角 ） 
+itm_pa_pop_demon_lord_head|恶 魔 领 主 之 头 
+itm_pa_pop_demon_lord_head_pl|恶 魔 领 主 之 头 
+itm_pa_pop_demon_lord_head_1|恶 魔 领 主 之 头 
+itm_pa_pop_demon_lord_head_1_pl|恶 魔 领 主 之 头 
+itm_pa_pop_demon_lord_head_2|恶 魔 领 主 之 头 
+itm_pa_pop_demon_lord_head_2_pl|恶 魔 领 主 之 头 
+itm_pa_pop_demon_lord_head_3|恶 魔 领 主 之 头 （ 戴 冠 ） 
+itm_pa_pop_demon_lord_head_3_pl|恶 魔 领 主 之 头 （ 戴 冠 ） 
+itm_female_demon_head|女 恶 魔 之 头 （ 双 角 ） 
+itm_female_demon_head_pl|女 恶 魔 之 头 （ 双 角 ） 
+itm_female_demon_head_2|女 恶 魔 之 头 （ 双 角 ） 
+itm_female_demon_head_2_pl|女 恶 魔 之 头 （ 双 角 ） 
+itm_arch_demon_legs|下 级 恶 魔 之 腿 
+itm_arch_demon_legs_pl|下 级 恶 魔 之 腿 
+itm_arch_demon_legs_2|下 级 恶 魔 之 腿 
+itm_arch_demon_legs_2_pl|下 级 恶 魔 之 腿 
+itm_demon_lord_legs|恶 魔 领 主 之 腿 
+itm_demon_lord_legs_pl|恶 魔 领 主 之 腿 
+itm_arch_demon_hand_L|下 级 恶 魔 之 手 
+itm_arch_demon_hand_L_pl|下 级 恶 魔 之 手 
+itm_demon_lord_handL|恶 魔 领 主 之 手 
+itm_demon_lord_handL_pl|恶 魔 领 主 之 手 
+itm_Heretic_Platemail|恶 魔 符 印 甲 
+itm_Heretic_Platemail_pl|恶 魔 符 印 甲 
+itm_arch_demon_body_wingless|下 级 恶 魔 之 躯 
+itm_arch_demon_body_wingless_pl|下 级 恶 魔 之 躯 
+itm_arch_demon_armor_wingless|下 级 恶 魔 之 躯 （ 符 印 甲 ） 
+itm_arch_demon_armor_wingless_pl|下 级 恶 魔 之 躯 （ 符 印 甲 ） 
+itm_arch_demon_armor_elite_wingless|下 级 恶 魔 之 躯 （ 符 印 甲 ） 
+itm_arch_demon_armor_elite_wingless_pl|下 级 恶 魔 之 躯 （ 符 印 甲 ） 
+itm_arch_demon_body|带 翼 下 级 恶 魔 之 躯 
+itm_arch_demon_body_pl|带 翼 下 级 恶 魔 之 躯 
+itm_arch_demon_armor|带 翼 下 级 恶 魔 之 躯 （ 符 印 甲 ） 
+itm_arch_demon_armor_pl|带 翼 下 级 恶 魔 之 躯 （ 符 印 甲 ） 
+itm_arch_demon_armor_elite|带 翼 下 级 恶 魔 之 躯 （ 符 印 甲 ） 
+itm_arch_demon_armor_elite_pl|带 翼 下 级 恶 魔 之 躯 （ 符 印 甲 ） 
+itm_demon_lady_body|女 恶 魔 之 躯 
+itm_demon_lady_body_pl|女 恶 魔 之 躯 
+itm_demon_lady_armor|女 恶 魔 之 躯 （ 符 印 甲 ） 
+itm_demon_lady_armor_pl|女 恶 魔 之 躯 （ 符 印 甲 ） 
+itm_demon_lady_armor_2|女 恶 魔 之 躯 （ 板 甲 ） 
+itm_demon_lady_armor_2_pl|女 恶 魔 之 躯 （ 板 甲 ） 
+itm_demon_lord_body_wingless|恶 魔 领 主 之 躯 
+itm_demon_lord_body_wingless_pl|恶 魔 领 主 之 躯 
+itm_demon_lord_armor_wingless_1|恶 魔 领 主 之 躯 （ 下 身 甲 ） 
+itm_demon_lord_armor_wingless_1_pl|恶 魔 领 主 之 躯 （ 下 身 甲 ） 
+itm_demon_lord_armor_wingless_2|恶 魔 领 主 之 躯 （ 半 身 甲 ） 
+itm_demon_lord_armor_wingless_2_pl|恶 魔 领 主 之 躯 （ 半 身 甲 ） 
+itm_demon_lord_armor_wingless_3|恶 魔 领 主 之 躯 （ 符 印 甲 ） 
+itm_demon_lord_armor_wingless_3_pl|恶 魔 领 主 之 躯 （ 符 印 甲 ） 
+itm_demon_lord_armor_wingless_4|恶 魔 领 主 之 躯 （ 板 甲 ） 
+itm_demon_lord_armor_wingless_4_pl|恶 魔 领 主 之 躯 （ 板 甲 ） 
+itm_demon_lord_body|带 翼 恶 魔 领 主 之 躯 
+itm_demon_lord_body_pl|带 翼 恶 魔 领 主 之 躯 
+itm_demon_lord_armor|带 翼 恶 魔 领 主 之 躯 （ 下 身 甲 ） 
+itm_demon_lord_armor_pl|带 翼 恶 魔 领 主 之 躯 （ 下 身 甲 ） 
+itm_demon_lord_armor_2|带 翼 恶 魔 领 主 之 躯 （ 半 身 甲 ） 
+itm_demon_lord_armor_2_pl|带 翼 恶 魔 领 主 之 躯 （ 半 身 甲 ） 
+itm_demon_lord_armor_3|带 翼 恶 魔 领 主 之 躯 （ 符 印 甲 ） 
+itm_demon_lord_armor_3_pl|带 翼 恶 魔 领 主 之 躯 （ 符 印 甲 ） 
+itm_demon_lord_armor_4|带 翼 恶 魔 领 主 之 躯 （ 板 甲 ） 
+itm_demon_lord_armor_4_pl|带 翼 恶 魔 领 主 之 躯 （ 板 甲 ） 
+itm_narf_steel_greaves_1_a|恶 魔 符 印 护 腿 
+itm_narf_steel_greaves_1_a_pl|恶 魔 符 印 护 腿 
+itm_narf_steel_greaves_1_b|恶 魔 护 腿 
+itm_narf_steel_greaves_1_b_pl|恶 魔 护 腿 
+itm_Demon_Bastard_Sword|恶 魔 符 印 剑 
+itm_Demon_Bastard_Sword_pl|恶 魔 符 印 剑 
+itm_Demon_Dual_Axe|恶 魔 符 印 斧 
+itm_Demon_Dual_Axe_pl|恶 魔 符 印 斧 
+itm_Demon_Dual_Axe_Shield|恶 魔 符 印 斧 盾 
+itm_Demon_Dual_Axe_Shield_pl|恶 魔 符 印 斧 盾 
+itm_Demon_Great_Axe|恶 魔 符 印 双 手 斧 
+itm_Demon_Great_Axe_pl|恶 魔 符 印 双 手 斧 
+itm_Short_Demon_Bow|恶 魔 符 印 短 弓 
+itm_Short_Demon_Bow_pl|恶 魔 符 印 短 弓 
+itm_Long_Demon_Bow|恶 魔 符 印 长 弓 
+itm_Long_Demon_Bow_pl|恶 魔 符 印 长 弓 
+itm_Cursed_Demon_Bow|恶 魔 符 印 复 合 弓 
+itm_Cursed_Demon_Bow_pl|恶 魔 符 印 复 合 弓 
+itm_zombie_axes|堕 落 者 飞 斧 
+itm_zombie_axes_pl|堕 落 者 飞 斧 
+itm_zombie_shield|堕 落 者 之 盾 
+itm_zombie_shield_pl|堕 落 者 之 盾 
+itm_zombie_helmet|堕 落 者 盔 
+itm_zombie_helmet_pl|堕 落 者 盔 
+itm_zombie_lord_armor_1|堕 落 者 之 肤 （ 下 身 甲 ） 
+itm_zombie_lord_armor_1_pl|堕 落 者 之 肤 （ 下 身 甲 ） 
+itm_zombie_lord_armor_2|堕 落 者 之 肤 （ 肩 甲 ） 
+itm_zombie_lord_armor_2_pl|堕 落 者 之 肤 （ 肩 甲 ） 
+itm_zombie_lord_armor_3|堕 落 者 之 肤 （ 上 身 甲 ） 
+itm_zombie_lord_armor_3_pl|堕 落 者 之 肤 （ 上 身 甲 ） 
+itm_zombie_lord_armor_4|堕 落 者 之 肤 （ 半 甲 ） 
+itm_zombie_lord_armor_4_pl|堕 落 者 之 肤 （ 半 甲 ） 
+itm_zombie_armor_1|光 辉 十 字 骑 士 板 甲 （ 伤 痕 ） 
+itm_zombie_armor_1_pl|光 辉 十 字 骑 士 板 甲 （ 伤 痕 ） 
+itm_zombie_armor_2|全 身 板 甲 （ 伤 痕 ） 
+itm_zombie_armor_2_pl|全 身 板 甲 （ 伤 痕 ） 
+itm_zombie_armor_3|抛 光 重 型 板 甲 （ 伤 痕 ） 
+itm_zombie_armor_3_pl|抛 光 重 型 板 甲 （ 伤 痕 ） 
+itm_zombie_armor_4|华 丽 重 型 板 甲 （ 伤 痕 ） 
+itm_zombie_armor_4_pl|华 丽 重 型 板 甲 （ 伤 痕 ） 
+itm_zombie_armor_5|潘 德 重 型 板 甲 （ 伤 痕 ） 
+itm_zombie_armor_5_pl|潘 德 重 型 板 甲 （ 伤 痕 ） 
+itm_zombie_gauntlets_01irL|连 指 钢 制 臂 铠 （ 伤 痕 ） 
+itm_zombie_gauntlets_01irL_pl|连 指 钢 制 臂 铠 （ 伤 痕 ） 
+itm_zombie_gauntlets_02irL|分 指 铁 制 臂 铠 （ 伤 痕 ） 
+itm_zombie_gauntlets_02irL_pl|分 指 铁 制 臂 铠 （ 伤 痕 ） 
+itm_zombie_greaves_1_a|板 甲 护 胫 （ 伤 痕 ） 
+itm_zombie_greaves_1_a_pl|板 甲 护 胫 （ 伤 痕 ） 
+itm_zombie_greaves_1_b|钢 护 胫 （ 伤 痕 ） 
+itm_zombie_greaves_1_b_pl|钢 护 胫 （ 伤 痕 ） 
+itm_Eventide_TA_1|黄 昏 骑 士 长 重 型 板 甲 
+itm_Eventide_TA_1_pl|黄 昏 骑 士 长 重 型 板 甲 
+itm_Eventide_TA_1_cape|带 披 风 黄 昏 骑 士 长 重 型 板 甲 
+itm_Eventide_TA_1_cape_pl|带 披 风 黄 昏 骑 士 长 重 型 板 甲 
+itm_Eventide_TA_2|黄 昏 骑 士 长 带 甲 裙 重 型 板 甲 
+itm_Eventide_TA_2_pl|黄 昏 骑 士 长 带 甲 裙 重 型 板 甲 
+itm_Eventide_TA_2_cape|带 披 风 黄 昏 骑 士 长 带 甲 裙 重 型 板 甲 
+itm_Eventide_TA_2_cape_pl|带 披 风 黄 昏 骑 士 长 带 甲 裙 重 型 板 甲 
+itm_eventide_plate_cape|带 披 风 黄 昏 骑 士 重 型 板 甲 
+itm_eventide_plate_cape_pl|带 披 风 黄 昏 骑 士 重 型 板 甲 
+itm_kraken_plate_harness_2|克 拉 肯 重 型 板 甲 
+itm_kraken_plate_harness_2_pl|克 拉 肯 重 型 板 甲 
+itm_kraken_plate_harness_2_cape|带 披 风 克 拉 肯 重 型 板 甲 
+itm_kraken_plate_harness_2_cape_pl|带 披 风 克 拉 肯 重 型 板 甲 
+itm_reinforced_long_poleaxe|加 固 长 柄 战 斧 
+itm_reinforced_long_poleaxe_pl|加 固 长 柄 战 斧 
+itm_rmored_warhorse_phoenix|凤 凰 骑 士 板 甲 战 马 
+itm_rmored_warhorse_phoenix_pl|凤 凰 骑 士 板 甲 战 马 
+itm_rmored_warhorse_dragon_knight|龙 骑 士 板 甲 战 马 
+itm_rmored_warhorse_dragon_knight_pl|龙 骑 士 板 甲 战 马 
+itm_rmored_warhorse_dawn|黎 明 骑 士 板 甲 战 马 
+itm_rmored_warhorse_dawn_pl|黎 明 骑 士 板 甲 战 马 
+itm_rmored_warhorse_lion|狮 骑 士 板 甲 战 马 
+itm_rmored_warhorse_lion_pl|狮 骑 士 板 甲 战 马 
+itm_strange_horse_for_armor|神 奇 符 印 甲 王 室 御 马 
+itm_strange_horse_for_armor_pl|神 奇 符 印 甲 王 室 御 马 
+itm_sapphire_horse_for_armor|蓝 宝 石 符 印 甲 王 室 御 马 
+itm_sapphire_horse_for_armor_pl|蓝 宝 石 符 印 甲 王 室 御 马 
+itm_ruby_horse_for_armor|红 宝 石 符 印 甲 王 室 御 马 
+itm_ruby_horse_for_armor_pl|红 宝 石 符 印 甲 王 室 御 马 
+itm_emerald_horse_for_armor|翡 翠 符 印 甲 王 室 御 马 
+itm_emerald_horse_for_armor_pl|翡 翠 符 印 甲 王 室 御 马 
+itm_pendor_improve_read_first|潘 德 百 科 辞 典（ 上 卷 ）
+itm_pendor_improve_read_first_pl|潘 德 百 科 辞 典（ 上 卷 ）
+itm_pendor_improve_read_second|潘 德 百 科 辞 典（ 下 卷 ）
+itm_pendor_improve_read_second_pl|潘 德 百 科 辞 典（ 下 卷 ）
+itm_sprint|疾 行 法 
+itm_sprint_pl|疾 行 法 
+itm_xuan_feng|狂 岚 术 
+itm_xuan_feng_pl|狂 岚 术 
+itm_powerful_strike|光 逐 术 
+itm_powerful_strike_pl|光 逐 术 
+itm_prairie_fire|焚 炎 术 
+itm_prairie_fire_pl|焚 炎 术 
+itm_darkness_thund|奔 雷 术 
+itm_darkness_thund_pl|奔 雷 术 
+itm_doomsday_storm|虚 湮 术 
+itm_doomsday_storm_pl|虚 湮 术 
+itm_bleach_kiss|死 之 吻 
+itm_bleach_kiss_pl|死 之 吻 
+itm_energy_attach|气 击 法 
+itm_energy_attach_pl|气 击 法 
+itm_critical_strike|爆 气 法 
+itm_critical_strike_pl|爆 气 法 
+itm_multishot_arro|连 射 法 
+itm_multishot_arro_pl|连 射 法 
+itm_multiple_shot|齐 射 法 
+itm_multiple_shot_pl|齐 射 法 
+itm_rmored_warhorse_raven_spear_knight_1|鸦 矛 骑 士 板 甲 战 马 
+itm_rmored_warhorse_raven_spear_knight_1_pl|鸦 矛 骑 士 板 甲 战 马 
+itm_rmored_warhorse_raven_spear_knight_2|鸦 矛 骑 士 板 甲 战 马 
+itm_rmored_warhorse_raven_spear_knight_2_pl|鸦 矛 骑 士 板 甲 战 马 
+itm_armet_normal_raven_spear|鸦 矛 活 动 面 罩 盔 
+itm_armet_normal_raven_spear_pl|鸦 矛 活 动 面 罩 盔 
+itm_armet_plumed_raven_spear|鸦 矛 饰 羽 活 动 面 罩 盔 
+itm_armet_plumed_raven_spear_pl|鸦 矛 饰 羽 活 动 面 罩 盔 
+itm_armet_open_raven_spear|鸦 矛 活 动 面 罩 盔 （ 打 开 ） 
+itm_armet_open_raven_spear_pl|鸦 矛 活 动 面 罩 盔 （ 打 开 ） 
+itm_armet_open_plumed_raven_spear|鸦 矛 饰 羽 活 动 面 罩 盔 （ 打 开 ） 
+itm_armet_open_plumed_raven_spear_pl|鸦 矛 饰 羽 活 动 面 罩 盔 （ 打 开 ） 
+itm_raven_spear_grandmaster_full_plate_armor|鸦 矛 骑 士 大 团 长 全 身 板 甲 
+itm_raven_spear_grandmaster_full_plate_armor_pl|鸦 矛 骑 士 大 团 长 全 身 板 甲 
+itm_full_plate_armor_dragon|凛 鸦 境 全 身 板 甲 
+itm_full_plate_armor_dragon_pl|凛 鸦 境 全 身 板 甲 
+itm_full_plate_armor_lion_1|烈 狮 境 全 身 板 甲 
+itm_full_plate_armor_lion_1_pl|烈 狮 境 全 身 板 甲 
+itm_full_plate_armor_lion_2|烈 狮 境 全 身 板 甲 
+itm_full_plate_armor_lion_2_pl|烈 狮 境 全 身 板 甲 
+itm_full_plate_armor_empire|帝 国 全 身 板 甲 
+itm_full_plate_armor_empire_pl|帝 国 全 身 板 甲 
+itm_full_plate_armor_dshar|德 夏 全 身 板 甲 
+itm_full_plate_armor_dshar_pl|德 夏 全 身 板 甲 
+itm_full_plate_armor_valkyrie|女 武 神 全 身 板 甲 
+itm_full_plate_armor_valkyrie_pl|女 武 神 全 身 板 甲 
+itm_full_plate_armor_griffon|狮 鹫 骑 士 全 身 板 甲 
+itm_full_plate_armor_griffon_pl|狮 鹫 骑 士 全 身 板 甲 
+itm_full_plate_armor_falcon|猎 鹰 骑 士 全 身 板 甲 
+itm_full_plate_armor_falcon_pl|猎 鹰 骑 士 全 身 板 甲 
+itm_full_plate_armor_raven_spear|鸦 矛 骑 士 全 身 板 甲 
+itm_full_plate_armor_raven_spear_pl|鸦 矛 骑 士 全 身 板 甲 
+itm_full_plate_armor_radiant_cross|光 辉 十 字 骑 士 全 身 板 甲 
+itm_full_plate_armor_radiant_cross_pl|光 辉 十 字 骑 士 全 身 板 甲 
+itm_full_plate_armor_dawn_1|黎 明 骑 士 全 身 板 甲 
+itm_full_plate_armor_dawn_1_pl|黎 明 骑 士 全 身 板 甲 
+itm_full_plate_armor_dawn_2|黎 明 骑 士 全 身 板 甲 
+itm_full_plate_armor_dawn_2_pl|黎 明 骑 士 全 身 板 甲 
+itm_full_plate_armor_ebony_gauntlet|乌 木 护 手 骑 士 全 身 板 甲 
+itm_full_plate_armor_ebony_gauntlet_pl|乌 木 护 手 骑 士 全 身 板 甲 
+itm_full_plate_armor_dusk|黄 昏 骑 士 全 身 板 甲 
+itm_full_plate_armor_dusk_pl|黄 昏 骑 士 全 身 板 甲 
+itm_full_plate_armor_phoenix|凤 凰 骑 士 全 身 板 甲 
+itm_full_plate_armor_phoenix_pl|凤 凰 骑 士 全 身 板 甲 
+itm_full_plate_armor_wolf|幽 影 狼 全 身 板 甲 
+itm_full_plate_armor_wolf_pl|幽 影 狼 全 身 板 甲 
+itm_full_plate_armor_kraken|克 拉 肯 全 身 板 甲 
+itm_full_plate_armor_kraken_pl|克 拉 肯 全 身 板 甲 
+itm_full_plate_armor_melitine|马 里 廷 全 身 板 甲 
+itm_full_plate_armor_melitine_pl|马 里 廷 全 身 板 甲 
+itm_full_plate_armor_forlorn_hope|决 死 队 全 身 板 甲 
+itm_full_plate_armor_forlorn_hope_pl|决 死 队 全 身 板 甲 
+itm_full_plate_armor_unicorn|独 角 兽 全 身 板 甲 
+itm_full_plate_armor_unicorn_pl|独 角 兽 全 身 板 甲 
+itm_full_plate_armor_white_eagle|白 鹰 全 身 板 甲 
+itm_full_plate_armor_white_eagle_pl|白 鹰 全 身 板 甲 
+itm_full_plate_armor_rose|玫 瑰 骑 士 全 身 板 甲 
+itm_full_plate_armor_rose_pl|玫 瑰 骑 士 全 身 板 甲 
+itm_valkyrie_sword|女 武 神 之 剑 
+itm_valkyrie_sword_pl|女 武 神 之 剑 
+itm_heavy_knight_helm_3|重 装 骑 士 头 盔 
+itm_heavy_knight_helm_3_pl|重 装 骑 士 头 盔 
+itm_heavy_knight_helm_4|重 装 骑 士 头 盔 
+itm_heavy_knight_helm_4_pl|重 装 骑 士 头 盔 
+itm_heavy_knight_helm_5|重 装 骑 士 头 盔 
+itm_heavy_knight_helm_5_pl|重 装 骑 士 头 盔 
+itm_heavy_knight_helm_6|重 装 骑 士 头 盔 
+itm_heavy_knight_helm_6_pl|重 装 骑 士 头 盔 
+itm_hoplite_helmet1|帝 国 鹰 旗 禁 军 盔 
+itm_hoplite_helmet1_pl|帝 国 鹰 旗 禁 军 盔 
+itm_hoplite_helmet2|帝 国 鹰 旗 禁 军 盔 
+itm_hoplite_helmet2_pl|帝 国 鹰 旗 禁 军 盔 
+itm_hoplite_helmet3|帝 国 精 锐 骑 兵 盔 
+itm_hoplite_helmet3_pl|帝 国 精 锐 骑 兵 盔 
+itm_hoplite_helmet4|帝 国 精 锐 骑 兵 盔 
+itm_hoplite_helmet4_pl|帝 国 精 锐 骑 兵 盔 
+itm_hoplite_helmet5|帝 国 精 锐 骑 兵 盔 
+itm_hoplite_helmet5_pl|帝 国 精 锐 骑 兵 盔 
+itm_empire_golden1|金 色 鹰 纹 袍 板 甲 
+itm_empire_golden1_pl|金 色 鹰 纹 袍 板 甲 
+itm_empire_golden1_cape|带 披 风 金 色 鹰 纹 袍 板 甲 
+itm_empire_golden1_cape_pl|带 披 风 金 色 鹰 纹 袍 板 甲 
+itm_empire_golden2|金 色 鹰 纹 袍 板 甲 
+itm_empire_golden2_pl|金 色 鹰 纹 袍 板 甲 
+itm_empire_golden2_cape|带 披 风 金 色 鹰 纹 袍 板 甲 
+itm_empire_golden2_cape_pl|带 披 风 金 色 鹰 纹 袍 板 甲 
+itm_empire_golden3|金 色 鹰 镌 刻 板 甲 
+itm_empire_golden3_pl|金 色 鹰 镌 刻 板 甲 
+itm_empire_golden3_cape|带 披 风 金 色 鹰 镌 刻 板 甲 
+itm_empire_golden3_cape_pl|带 披 风 金 色 鹰 镌 刻 板 甲 
+itm_empire_golden4|金 色 鹰 镌 刻 板 甲 
+itm_empire_golden4_pl|金 色 鹰 镌 刻 板 甲 
+itm_empire_golden4_cape|带 披 风 金 色 鹰 镌 刻 板 甲 
+itm_empire_golden4_cape_pl|带 披 风 金 色 鹰 镌 刻 板 甲 
+itm_hoplite_round_shield1|帝 国 军 团 圆 盾 
+itm_hoplite_round_shield1_pl|帝 国 军 团 圆 盾 
+itm_hoplite_round_shield2|不 朽 者 团 圆 盾 
+itm_hoplite_round_shield2_pl|不 朽 者 团 圆 盾 
+itm_hoplite_round_shield3|金 色 不 朽 者 团 圆 盾 
+itm_hoplite_round_shield3_pl|金 色 不 朽 者 团 圆 盾 
+itm_rmored_warhorse_valkyrie|女 武 神 板 甲 战 马 
+itm_rmored_warhorse_valkyrie_pl|女 武 神 板 甲 战 马 
+itm_rmored_warhorse_falcon_knight_blue|猎 鹰 骑 士 板 甲 战 马 
+itm_rmored_warhorse_falcon_knight_blue_pl|猎 鹰 骑 士 板 甲 战 马 
+itm_rmored_warhorse_falcon_knight_white|猎 鹰 骑 士 板 甲 战 马 
+itm_rmored_warhorse_falcon_knight_white_pl|猎 鹰 骑 士 板 甲 战 马 
+itm_rmored_warhorse_shadow_legion|暗 影 军 团 板 甲 战 马 
+itm_rmored_warhorse_shadow_legion_pl|暗 影 军 团 板 甲 战 马 
+itm_rmored_warhorse_ranger|巡 林 者 板 甲 战 马 
+itm_rmored_warhorse_ranger_pl|巡 林 者 板 甲 战 马 
+itm_rmored_warhorse_radiant_cross_knight|光 辉 十 字 骑 士 板 甲 战 马 
+itm_rmored_warhorse_radiant_cross_knight_pl|光 辉 十 字 骑 士 板 甲 战 马 
+itm_rmored_warhorse_bloodsworn_guard|血 盟 卫 士 板 甲 战 马 
+itm_rmored_warhorse_bloodsworn_guard_pl|血 盟 卫 士 板 甲 战 马 
+itm_rmored_warhorse_rose_knight|玫 瑰 骑 士 板 甲 战 马 
+itm_rmored_warhorse_rose_knight_pl|玫 瑰 骑 士 板 甲 战 马 
+itm_radiant_cross_knight_steel_sword|光 辉 十 字 骑 士 钢 剑 
+itm_radiant_cross_knight_steel_sword_pl|光 辉 十 字 骑 士 钢 剑 
+itm_silvermist_ranger_plate|银 雾 游 侠 板 甲 
+itm_silvermist_ranger_plate_pl|银 雾 游 侠 板 甲 
+itm_melitine_heavyhelm_f|马 里 廷 覆 面 锅 盔 
+itm_melitine_heavyhelm_f_pl|马 里 廷 覆 面 锅 盔 
+itm_valk_golden_unicorn_plate|女 武 神 金 色 独 角 兽 板 甲 
+itm_valk_golden_unicorn_plate_pl|女 武 神 金 色 独 角 兽 板 甲 
+itm_valk_golden_unicorn_plate_cape|带 披 风 女 武 神 金 色 独 角 兽 板 甲 
+itm_valk_golden_unicorn_plate_cape_pl|带 披 风 女 武 神 金 色 独 角 兽 板 甲 
+itm_primus_forlorn_helm|首 席 剑 士 头 盔 
+itm_primus_forlorn_helm_pl|首 席 剑 士 头 盔 
+itm_primus_forlorn_armor|首 席 剑 士 板 甲 
+itm_primus_forlorn_armor_pl|首 席 剑 士 板 甲 
+itm_primus_forlorn_armor_cape|带 披 风 首 席 剑 士 板 甲 
+itm_primus_forlorn_armor_cape_pl|带 披 风 首 席 剑 士 板 甲 
+itm_rose_knight_commander_plate|玫 瑰 骑 士 长 重 型 板 甲 
+itm_rose_knight_commander_plate_pl|玫 瑰 骑 士 长 重 型 板 甲 
+itm_rose_knight_commander_plate_cape|带 披 风 玫 瑰 骑 士 长 重 型 板 甲 
+itm_rose_knight_commander_plate_cape_pl|带 披 风 玫 瑰 骑 士 长 重 型 板 甲 
+itm_rose_knight_grandmaster_plate|玫 瑰 骑 士 大 团 长 板 甲 
+itm_rose_knight_grandmaster_plate_pl|玫 瑰 骑 士 大 团 长 板 甲 
+itm_rose_knight_grandmaster_plate_cape|带 披 风 玫 瑰 骑 士 大 团 长 板 甲 
+itm_rose_knight_grandmaster_plate_cape_pl|带 披 风 玫 瑰 骑 士 大 团 长 板 甲 
+itm_ebony_grandmaster_platemail|乌 木 骑 士 大 团 长 重 型 板 甲 
+itm_ebony_grandmaster_platemail_pl|乌 木 骑 士 大 团 长 重 型 板 甲 
+itm_ebony_grandmaster_platemail_cape|带 披 风 乌 木 骑 士 大 团 长 重 型 板 甲 
+itm_ebony_grandmaster_platemail_cape_pl|带 披 风 乌 木 骑 士 大 团 长 重 型 板 甲 
+itm_musket_a|火 绳 枪 
+itm_musket_a_pl|火 绳 枪 
+itm_musket_b|火 绳 枪 
+itm_musket_b_pl|火 绳 枪 
+itm_blunderbuss_1|短 管 马 枪 
+itm_blunderbuss_1_pl|短 管 马 枪 
+itm_blunderbuss_2|火 门 手 枪 
+itm_blunderbuss_2_pl|火 门 手 枪 
+itm_mett_armor|梅 滕 海 姆 重 型 胸 甲 
+itm_mett_armor_pl|梅 滕 海 姆 重 型 胸 甲 
+itm_items_end|Items End 
+itm_items_end_pl|Items End

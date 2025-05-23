@@ -1,0 +1,2516 @@
+﻿
+trp_multiplayer_profile_troop_male|联 机 男 性 玩 家 角 色 
+trp_multiplayer_profile_troop_male_pl|联 机 男 性 玩 家 角 色 
+trp_multiplayer_profile_troop_female|联 机 女 性 玩 家 角 色 
+trp_multiplayer_profile_troop_female_pl|联 机 女 性 玩 家 角 色 
+trp_temp_troop|临 时 部 队 
+trp_temp_troop_pl|临 时 部 队 
+trp_find_item_cheat|作 弊 ！
+trp_find_item_cheat_pl|作 弊 ！
+trp_random_town_sequence|随 机 城 市 序 列 
+trp_random_town_sequence_pl|随 机 城 市 序 列 
+trp_tournament_participants|竞 技 场 选 手 
+trp_tournament_participants_pl|竞 技 场 选 手 
+trp_tutorial_maceman|钉 锤 手 
+trp_tutorial_maceman_pl|钉 锤 手 
+trp_tutorial_archer|弓 箭 手 
+trp_tutorial_archer_pl|弓 箭 手 
+trp_tutorial_swordsman|剑 士 
+trp_tutorial_swordsman_pl|剑 士 
+trp_novice_fighter|初 级 斗 士 
+trp_novice_fighter_pl|初 级 斗 士 
+trp_regular_fighter|正 规 斗 士 
+trp_regular_fighter_pl|正 规 斗 士 
+trp_veteran_fighter|资 深 斗 士 
+trp_veteran_fighter_pl|资 深 斗 士 
+trp_champion_fighter|角 斗 冠 军 
+trp_champion_fighter_pl|角 斗 冠 军 
+trp_arena_training_fighter_1|新 募 斗 士 
+trp_arena_training_fighter_1_pl|新 募 斗 士 
+trp_arena_training_fighter_2|初 级 斗 士 
+trp_arena_training_fighter_2_pl|初 级 斗 士 
+trp_arena_training_fighter_3|受 训 斗 士 
+trp_arena_training_fighter_3_pl|受 训 斗 士 
+trp_arena_training_fighter_4|雇 佣 斗 士 
+trp_arena_training_fighter_4_pl|雇 佣 斗 士 
+trp_arena_training_fighter_5|雇 佣 斗 士 
+trp_arena_training_fighter_5_pl|雇 佣 斗 士 
+trp_arena_training_fighter_6|资 深 斗 士 
+trp_arena_training_fighter_6_pl|资 深 斗 士 
+trp_arena_training_fighter_7|老 练 斗 士 
+trp_arena_training_fighter_7_pl|老 练 斗 士 
+trp_arena_training_fighter_8|知 名 斗 士 
+trp_arena_training_fighter_8_pl|知 名 斗 士 
+trp_arena_training_fighter_9|明 星 斗 士 
+trp_arena_training_fighter_9_pl|明 星 斗 士 
+trp_arena_training_fighter_10|角 斗 冠 军 
+trp_arena_training_fighter_10_pl|角 斗 冠 军 
+trp_arena_training_fighter_fem_1|新 募 斗 士 
+trp_arena_training_fighter_fem_1_pl|新 募 斗 士 
+trp_arena_training_fighter_fem_2|初 级 斗 士 
+trp_arena_training_fighter_fem_2_pl|初 级 斗 士 
+trp_arena_training_fighter_fem_3|受 训 斗 士 
+trp_arena_training_fighter_fem_3_pl|受 训 斗 士 
+trp_arena_training_fighter_fem_4|雇 佣 斗 士 
+trp_arena_training_fighter_fem_4_pl|雇 佣 斗 士 
+trp_arena_training_fighter_fem_5|雇 佣 斗 士 
+trp_arena_training_fighter_fem_5_pl|雇 佣 斗 士 
+trp_arena_training_fighter_fem_6|资 深 斗 士 
+trp_arena_training_fighter_fem_6_pl|资 深 斗 士 
+trp_arena_training_fighter_fem_7|老 练 斗 士 
+trp_arena_training_fighter_fem_7_pl|老 练 斗 士 
+trp_arena_training_fighter_fem_8|知 名 斗 士 
+trp_arena_training_fighter_fem_8_pl|知 名 斗 士 
+trp_arena_training_fighter_fem_9|明 星 斗 士 
+trp_arena_training_fighter_fem_9_pl|明 星 斗 士 
+trp_arena_training_fighter_fem_10|角 斗 冠 军 
+trp_arena_training_fighter_fem_10_pl|角 斗 冠 军 
+trp_arena_training_fighter_dshar_1|新 募 斗 士 
+trp_arena_training_fighter_dshar_1_pl|新 募 斗 士 
+trp_arena_training_fighter_dshar_2|初 级 斗 士 
+trp_arena_training_fighter_dshar_2_pl|初 级 斗 士 
+trp_arena_training_fighter_dshar_3|受 训 斗 士 
+trp_arena_training_fighter_dshar_3_pl|受 训 斗 士 
+trp_arena_training_fighter_dshar_4|雇 佣 斗 士 
+trp_arena_training_fighter_dshar_4_pl|雇 佣 斗 士 
+trp_arena_training_fighter_dshar_5|雇 佣 斗 士 
+trp_arena_training_fighter_dshar_5_pl|雇 佣 斗 士 
+trp_arena_training_fighter_dshar_6|资 深 斗 士 
+trp_arena_training_fighter_dshar_6_pl|资 深 斗 士 
+trp_arena_training_fighter_dshar_7|老 练 斗 士 
+trp_arena_training_fighter_dshar_7_pl|老 练 斗 士 
+trp_arena_training_fighter_dshar_8|知 名 斗 士 
+trp_arena_training_fighter_dshar_8_pl|知 名 斗 士 
+trp_arena_training_fighter_dshar_9|明 星 斗 士 
+trp_arena_training_fighter_dshar_9_pl|明 星 斗 士 
+trp_arena_training_fighter_dshar_10|角 斗 冠 军 
+trp_arena_training_fighter_dshar_10_pl|角 斗 冠 军 
+trp_arena_training_fighter_dshar_fem_1|新 募 斗 士 
+trp_arena_training_fighter_dshar_fem_1_pl|新 募 斗 士 
+trp_arena_training_fighter_dshar_fem_2|初 级 斗 士 
+trp_arena_training_fighter_dshar_fem_2_pl|初 级 斗 士 
+trp_arena_training_fighter_dshar_fem_3|受 训 斗 士 
+trp_arena_training_fighter_dshar_fem_3_pl|受 训 斗 士 
+trp_arena_training_fighter_dshar_fem_4|雇 佣 斗 士 
+trp_arena_training_fighter_dshar_fem_4_pl|雇 佣 斗 士 
+trp_arena_training_fighter_dshar_fem_5|雇 佣 斗 士 
+trp_arena_training_fighter_dshar_fem_5_pl|雇 佣 斗 士 
+trp_arena_training_fighter_dshar_fem_6|资 深 斗 士 
+trp_arena_training_fighter_dshar_fem_6_pl|资 深 斗 士 
+trp_arena_training_fighter_dshar_fem_7|老 练 斗 士 
+trp_arena_training_fighter_dshar_fem_7_pl|老 练 斗 士 
+trp_arena_training_fighter_dshar_fem_8|知 名 斗 士 
+trp_arena_training_fighter_dshar_fem_8_pl|知 名 斗 士 
+trp_arena_training_fighter_dshar_fem_9|明 星 斗 士 
+trp_arena_training_fighter_dshar_fem_9_pl|明 星 斗 士 
+trp_arena_training_fighter_dshar_fem_10|角 斗 冠 军 
+trp_arena_training_fighter_dshar_fem_10_pl|角 斗 冠 军 
+trp_cattle|牛 
+trp_cattle_pl|牛 
+trp_farmer|农 民 
+trp_farmer_pl|农 民 
+trp_townsman|市 民 
+trp_townsman_pl|市 民 
+trp_watchman|雇 佣 剑 士 
+trp_watchman_pl|雇 佣 剑 士 
+trp_caravan_guard|雇 佣 步 兵 
+trp_caravan_guard_pl|雇 佣 步 兵 
+trp_mercenary_swordsman|雇 佣 勇 士 
+trp_mercenary_swordsman_pl|雇 佣 勇 士 
+trp_mercenary_sergeants|雇 佣 军 士 
+trp_mercenary_sergeants_pl|雇 佣 军 士 
+trp_mercenary_crossbowman|雇 佣 弩 手 
+trp_mercenary_crossbowman_pl|雇 佣 弩 手 
+trp_mercenary_armcrossbow|雇 佣 披 甲 弩 手 
+trp_mercenary_armcrossbow_pl|雇 佣 披 甲 弩 手 
+trp_mercenary_sharp|雇 佣 狙 击 手 
+trp_mercenary_sharp_pl|雇 佣 狙 击 手 
+trp_mercenary_cavalry|雇 佣 骑 手 
+trp_mercenary_cavalry_pl|雇 佣 骑 手 
+trp_hired_blade|雇 佣 骑 兵 
+trp_hired_blade_pl|雇 佣 骑 兵 
+trp_slave_hunter|赏 金 猎 人 
+trp_slave_hunter_pl|赏 金 猎 人 
+trp_singalian_spearman|辛 加 尔 矛 兵 
+trp_singalian_spearman_pl|辛 加 尔 矛 兵 
+trp_noble_foreign|年 轻 德 夏 贵 族 
+trp_noble_foreign_pl|年 轻 德 夏 贵 族 
+trp_noble_western|年 轻 菲 尔 兹 威 贵 族 
+trp_noble_western_pl|年 轻 菲 尔 兹 威 贵 族 
+trp_noble_northern|年 轻 凛 鸦 境 贵 族 
+trp_noble_northern_pl|年 轻 凛 鸦 境 贵 族 
+trp_noble_eastern|年 轻 烈 狮 境 贵 族 
+trp_noble_eastern_pl|年 轻 烈 狮 境 贵 族 
+trp_noble_southern|年 轻 巴 克 斯 贵 族 
+trp_noble_southern_pl|年 轻 巴 克 斯 贵 族 
+trp_vanskerry_marauder|凡 斯 凯 瑞 掠 夺 者 
+trp_vanskerry_marauder_pl|凡 斯 凯 瑞 掠 夺 者 
+trp_jatu_merc|迦 图 流 浪 骑 手 
+trp_jatu_merc_pl|迦 图 流 浪 骑 手 
+trp_highlander_merc|高 地 佣 兵 
+trp_highlander_merc_pl|高 地 佣 兵 
+trp_melitine_merc|马 里 廷 无 束 战 士 
+trp_melitine_merc_pl|马 里 廷 无 束 战 士 
+trp_adventurer|冒 险 家 
+trp_adventurer_pl|冒 险 家 
+trp_looter_merc|城 市 暴 徒 
+trp_looter_merc_pl|城 市 暴 徒 
+trp_vecavi_man_hunter|菲 卡 维 亚 男 丁 猎 人 
+trp_vecavi_man_hunter_pl|菲 卡 维 亚 男 丁 猎 人 
+trp_mett_avonteurer|梅 滕 海 姆 冒 险 家 
+trp_mett_avonteurer_pl|梅 滕 海 姆 冒 险 家 
+trp_barclay_adventurer|巴 克 利 冒 险 家 
+trp_barclay_adventurer_pl|巴 克 利 冒 险 家 
+trp_follower_woman|女 斥 候 
+trp_follower_woman_pl|女 斥 候 
+trp_hunter_woman|女 看 守 
+trp_hunter_woman_pl|女 看 守 
+trp_mercenaries_end|mercenaries end 
+trp_mercenaries_end_pl|mercenaries end 
+trp_sarleon_recruit|烈 狮 境 新 兵 
+trp_sarleon_recruit_pl|烈 狮 境 新 兵 
+trp_sarleon_militia|烈 狮 境 民 兵 
+trp_sarleon_militia_pl|烈 狮 境 民 兵 
+trp_sarleon_trained_militia|烈 狮 境 熟 练 民 兵 
+trp_sarleon_trained_militia_pl|烈 狮 境 熟 练 民 兵 
+trp_sarleon_footman|烈 狮 境 步 兵 
+trp_sarleon_footman_pl|烈 狮 境 步 兵 
+trp_sarleon_arm_footman|烈 狮 境 披 甲 步 兵 
+trp_sarleon_arm_footman_pl|烈 狮 境 披 甲 步 兵 
+trp_sarleon_halberdier|烈 狮 境 戟 兵 
+trp_sarleon_halberdier_pl|烈 狮 境 戟 兵 
+trp_sarleon_skirmisher|烈 狮 境 游 击 兵 
+trp_sarleon_skirmisher_pl|烈 狮 境 游 击 兵 
+trp_sarleon_longbowman|烈 狮 境 长 弓 手 
+trp_sarleon_longbowman_pl|烈 狮 境 长 弓 手 
+trp_sarleon_arm_longbowman|烈 狮 境 披 甲 长 弓 手 
+trp_sarleon_arm_longbowman_pl|烈 狮 境 披 甲 长 弓 手 
+trp_sarleon_manatarms|烈 狮 境 武 装 步 兵 
+trp_sarleon_manatarms_pl|烈 狮 境 武 装 步 兵 
+trp_sarleon_cavalry|烈 狮 境 骑 兵 
+trp_sarleon_cavalry_pl|烈 狮 境 骑 兵 
+trp_marleons_cavalry|狮 湖 城 重 装 骑 兵 
+trp_marleons_cavalry_pl|狮 湖 城 重 装 骑 兵 
+trp_sarleon_nobleman|烈 狮 境 贵 族 
+trp_sarleon_nobleman_pl|烈 狮 境 贵 族 
+trp_sarleon_squire|烈 狮 境 武 装 扈 从 
+trp_sarleon_squire_pl|烈 狮 境 武 装 扈 从 
+trp_sarleon_knight|烈 狮 境 骑 士 
+trp_sarleon_knight_pl|烈 狮 境 骑 士 
+trp_sarleon_deserter|烈 狮 境 逃 兵 
+trp_sarleon_deserter_pl|烈 狮 境 逃 兵 
+trp_sarleon_prison_guard|监 狱 看 守 
+trp_sarleon_prison_guard_pl|监 狱 看 守 
+trp_sarleon_castle_guard|城 堡 卫 兵 
+trp_sarleon_castle_guard_pl|城 堡 卫 兵 
+trp_rav_recruit|凛 鸦 境 新 兵 
+trp_rav_recruit_pl|凛 鸦 境 新 兵 
+trp_rav_militia|凛 鸦 境 民 兵 
+trp_rav_militia_pl|凛 鸦 境 民 兵 
+trp_rav_skirmisher|凛 鸦 境 游 击 兵 
+trp_rav_skirmisher_pl|凛 鸦 境 游 击 兵 
+trp_rav_archer|凛 鸦 境 弓 箭 手 
+trp_rav_archer_pl|凛 鸦 境 弓 箭 手 
+trp_rav_warden|凛 鸦 境 守 望 者 
+trp_rav_warden_pl|凛 鸦 境 守 望 者 
+trp_rav_manatarms|凛 鸦 境 武 装 步 兵 
+trp_rav_manatarms_pl|凛 鸦 境 武 装 步 兵 
+trp_rav_footman|凛 鸦 境 步 兵 
+trp_rav_footman_pl|凛 鸦 境 步 兵 
+trp_rav_kierguard|凛 鸦 境 铁 甲 卫 士 
+trp_rav_kierguard_pl|凛 鸦 境 铁 甲 卫 士 
+trp_rav_highlander|凛 鸦 境 高 地 战 士 
+trp_rav_highlander_pl|凛 鸦 境 高 地 战 士 
+trp_rav_horseman|凛 鸦 境 骑 手 
+trp_rav_horseman_pl|凛 鸦 境 骑 手 
+trp_rav_trained_militia|凛 鸦 境 熟 练 民 兵 
+trp_rav_trained_militia_pl|凛 鸦 境 熟 练 民 兵 
+trp_rav_ranger|凛 鸦 境 巡 林 者 
+trp_rav_ranger_pl|凛 鸦 境 巡 林 者 
+trp_rav_mounted_ranger|凛 鸦 境 巡 林 骑 兵 
+trp_rav_mounted_ranger_pl|凛 鸦 境 巡 林 骑 兵 
+trp_rav_nobleman|凛 鸦 境 贵 族 
+trp_rav_nobleman_pl|凛 鸦 境 贵 族 
+trp_rav_squire|凛 鸦 境 武 装 扈 从 
+trp_rav_squire_pl|凛 鸦 境 武 装 扈 从 
+trp_rav_knight|凛 鸦 境 骑 士 
+trp_rav_knight_pl|凛 鸦 境 骑 士 
+trp_rav_deserter|凛 鸦 境 逃 兵 
+trp_rav_deserter_pl|凛 鸦 境 逃 兵 
+trp_rav_prison_guard|监 狱 看 守 
+trp_rav_prison_guard_pl|监 狱 看 守 
+trp_rav_castle_guard|城 堡 卫 兵 
+trp_rav_castle_guard_pl|城 堡 卫 兵 
+trp_dshar_tribesman|德 夏 族 人 
+trp_dshar_tribesman_pl|德 夏 族 人 
+trp_dshar_hunter|德 夏 猎 手 
+trp_dshar_hunter_pl|德 夏 猎 手 
+trp_dshar_conscript|德 夏 征 召 兵 
+trp_dshar_conscript_pl|德 夏 征 召 兵 
+trp_dshar_desert_fighter|德 夏 荒 漠 斗 士 
+trp_dshar_desert_fighter_pl|德 夏 荒 漠 斗 士 
+trp_dshar_warrior|德 夏 勇 士 
+trp_dshar_warrior_pl|德 夏 勇 士 
+trp_dshar_ghazi_dervish|德 夏 加 齐 苦 行 僧 
+trp_dshar_ghazi_dervish_pl|德 夏 加 齐 苦 行 僧 
+trp_dshar_ghazi_spearman|德 夏 加 齐 矛 兵 
+trp_dshar_ghazi_spearman_pl|德 夏 加 齐 矛 兵 
+trp_dshar_desert_bowman|德 夏 荒 漠 猎 手 
+trp_dshar_desert_bowman_pl|德 夏 荒 漠 猎 手 
+trp_dshar_ghazi_marksman|德 夏 加 齐 神 射 手 
+trp_dshar_ghazi_marksman_pl|德 夏 加 齐 神 射 手 
+trp_dshar_mtd_raider|德 夏 骑 手 
+trp_dshar_mtd_raider_pl|德 夏 骑 手 
+trp_dshar_mtd_bowfighter|德 夏 突 袭 骑 兵 
+trp_dshar_mtd_bowfighter_pl|德 夏 突 袭 骑 兵 
+trp_dshar_sand_stalker|德 夏 加 齐 突 袭 者 
+trp_dshar_sand_stalker_pl|德 夏 加 齐 突 袭 者 
+trp_dshar_mtd_horseman|德 夏 掠 夺 者 
+trp_dshar_mtd_horseman_pl|德 夏 掠 夺 者 
+trp_dshar_dune_rider|德 夏 加 齐 掠 夺 者 
+trp_dshar_dune_rider_pl|德 夏 加 齐 掠 夺 者 
+trp_dshar_nobleman|德 夏 贵 族 
+trp_dshar_nobleman_pl|德 夏 贵 族 
+trp_dshar_noble_raider|德 夏 贵 族 骑 手 
+trp_dshar_noble_raider_pl|德 夏 贵 族 骑 手 
+trp_dshar_noble_cavalry|德 夏 贵 族 骑 兵 
+trp_dshar_noble_cavalry_pl|德 夏 贵 族 骑 兵 
+trp_dshar_deserter|德 夏 逃 兵 
+trp_dshar_deserter_pl|德 夏 逃 兵 
+trp_dshar_prison_guard|监 狱 看 守 
+trp_dshar_prison_guard_pl|监 狱 看 守 
+trp_dshar_castle_guard|城 堡 卫 兵 
+trp_dshar_castle_guard_pl|城 堡 卫 兵 
+trp_dshar_djaha|德 夏 战 弓 手 
+trp_dshar_djaha_pl|德 夏 战 弓 手 
+trp_fierd_recruit|菲 尔 兹 威 新 兵 
+trp_fierd_recruit_pl|菲 尔 兹 威 新 兵 
+trp_fierd_militia|菲 尔 兹 威 民 兵 
+trp_fierd_militia_pl|菲 尔 兹 威 民 兵 
+trp_fierd_tr_militia|菲 尔 兹 威 熟 练 民 兵 
+trp_fierd_tr_militia_pl|菲 尔 兹 威 熟 练 民 兵 
+trp_fierd_light_infantry|菲 尔 兹 威 轻 装 步 兵 
+trp_fierd_light_infantry_pl|菲 尔 兹 威 轻 装 步 兵 
+trp_fierd_warrior|菲 尔 兹 威 女 矛 兵 
+trp_fierd_warrior_pl|菲 尔 兹 威 女 矛 兵 
+trp_fierd_hunter|菲 尔 兹 威 女 猎 手 
+trp_fierd_hunter_pl|菲 尔 兹 威 女 猎 手 
+trp_fierd_axeman|菲 尔 兹 威 斧 兵 
+trp_fierd_axeman_pl|菲 尔 兹 威 斧 兵 
+trp_fierd_armored_axeman|菲 尔 兹 威 重 装 斧 兵 
+trp_fierd_armored_axeman_pl|菲 尔 兹 威 重 装 斧 兵 
+trp_fierd_huscarl|菲 尔 兹 威 侍 卫 
+trp_fierd_huscarl_pl|菲 尔 兹 威 侍 卫 
+trp_valdis_huscarl|维 迪 斯 卫 士 
+trp_valdis_huscarl_pl|维 迪 斯 卫 士 
+trp_fierd_berserker|菲 尔 兹 威 狂 战 士 
+trp_fierd_berserker_pl|菲 尔 兹 威 狂 战 士 
+trp_fierd_bowman|菲 尔 兹 威 轻 装 游 击 兵 
+trp_fierd_bowman_pl|菲 尔 兹 威 轻 装 游 击 兵 
+trp_fierd_archer|菲 尔 兹 威 游 击 兵 
+trp_fierd_archer_pl|菲 尔 兹 威 游 击 兵 
+trp_fierd_heavy_archer|菲 尔 兹 威 重 装 游 击 兵 
+trp_fierd_heavy_archer_pl|菲 尔 兹 威 重 装 游 击 兵 
+trp_fierd_noblewoman|菲 尔 兹 威 贵 族 
+trp_fierd_noblewoman_pl|菲 尔 兹 威 贵 族 
+trp_fierd_sword_maiden|菲 尔 兹 威 贵 族 战 士 
+trp_fierd_sword_maiden_pl|菲 尔 兹 威 贵 族 战 士 
+trp_valkyrie|菲 尔 兹 威 队 长 
+trp_valkyrie_pl|菲 尔 兹 威 队 长 
+trp_fierd_deserter|菲 尔 兹 威 逃 兵 
+trp_fierd_deserter_pl|菲 尔 兹 威 逃 兵 
+trp_fierd_prison_guard|监 狱 看 守 
+trp_fierd_prison_guard_pl|监 狱 看 守 
+trp_fierd_castle_guard|城 堡 卫 兵 
+trp_fierd_castle_guard_pl|城 堡 卫 兵 
+trp_empire_citizen|帝 国 公 民 
+trp_empire_citizen_pl|帝 国 公 民 
+trp_empire_recruit|帝 国 征 召 新 兵 
+trp_empire_recruit_pl|帝 国 征 召 新 兵 
+trp_empire_militia|帝 国 征 召 民 兵 
+trp_empire_militia_pl|帝 国 征 召 民 兵 
+trp_empire_infantry|帝 国 重 装 步 兵 
+trp_empire_infantry_pl|帝 国 重 装 步 兵 
+trp_empire_knight|帝 国 骑 士 
+trp_empire_knight_pl|帝 国 骑 士 
+trp_empire_legionnaire|帝 国 军 团 步 兵 
+trp_empire_legionnaire_pl|帝 国 军 团 步 兵 
+trp_empire_noble_foot|帝 国 精 锐 军 团 后 备 
+trp_empire_noble_foot_pl|帝 国 精 锐 军 团 后 备 
+trp_empire_hunter|帝 国 征 召 猎 手 
+trp_empire_hunter_pl|帝 国 征 召 猎 手 
+trp_empire_skirmisher|帝 国 征 召 游 击 兵 
+trp_empire_skirmisher_pl|帝 国 征 召 游 击 兵 
+trp_empire_crossbowman|帝 国 弩 手 
+trp_empire_crossbowman_pl|帝 国 弩 手 
+trp_empire_arm_crossbowman|帝 国 披 甲 弩 手 
+trp_empire_arm_crossbowman_pl|帝 国 披 甲 弩 手 
+trp_empire_light_infantry|帝 国 轻 步 兵 
+trp_empire_light_infantry_pl|帝 国 轻 步 兵 
+trp_empire_pikeman|帝 国 长 枪 兵 
+trp_empire_pikeman_pl|帝 国 长 枪 兵 
+trp_empire_armored_pikeman|帝 国 披 甲 长 枪 兵 
+trp_empire_armored_pikeman_pl|帝 国 披 甲 长 枪 兵 
+trp_empire_gladiator|帝 国 角 斗 士 
+trp_empire_gladiator_pl|帝 国 角 斗 士 
+trp_empire_nobleman|帝 国 贵 族 
+trp_empire_nobleman_pl|帝 国 贵 族 
+trp_empire_light_cavalry|帝 国 征 召 骑 兵 
+trp_empire_light_cavalry_pl|帝 国 征 召 骑 兵 
+trp_empire_horseman|帝 国 骑 兵 
+trp_empire_horseman_pl|帝 国 骑 兵 
+trp_empire_deserter|帝 国 逃 兵 
+trp_empire_deserter_pl|帝 国 逃 兵 
+trp_empire_prison_guard|监 狱 看 守 
+trp_empire_prison_guard_pl|监 狱 看 守 
+trp_empire_castle_guard|城 堡 卫 兵 
+trp_empire_castle_guard_pl|城 堡 卫 兵 
+trp_empire_guardian_knight|帝 国 守 卫 骑 士 
+trp_empire_guardian_knight_pl|帝 国 守 卫 骑 士 
+trp_pendor_recruit|潘 德 新 兵 
+trp_pendor_recruit_pl|潘 德 新 兵 
+trp_pendor_militia|潘 德 民 兵 
+trp_pendor_militia_pl|潘 德 民 兵 
+trp_pendor_footman|潘 德 步 兵 
+trp_pendor_footman_pl|潘 德 步 兵 
+trp_pendor_swordsman|潘 德 剑 士 
+trp_pendor_swordsman_pl|潘 德 剑 士 
+trp_pendor_spearman|潘 德 矛 兵 
+trp_pendor_spearman_pl|潘 德 矛 兵 
+trp_pendor_heavy_spearman|潘 德 重 装 矛 兵 
+trp_pendor_heavy_spearman_pl|潘 德 重 装 矛 兵 
+trp_pendor_manatarms|潘 德 武 装 步 兵 
+trp_pendor_manatarms_pl|潘 德 武 装 步 兵 
+trp_pendor_bladesman|潘 德 选 锋 剑 士 
+trp_pendor_bladesman_pl|潘 德 选 锋 剑 士 
+trp_pendor_cavalry|潘 德 骑 兵 
+trp_pendor_cavalry_pl|潘 德 骑 兵 
+trp_pendor_mtdmanatarms|潘 德 武 装 骑 兵 
+trp_pendor_mtdmanatarms_pl|潘 德 武 装 骑 兵 
+trp_pendor_nobleman|潘 德 贵 族 
+trp_pendor_nobleman_pl|潘 德 贵 族 
+trp_pendor_squire|潘 德 扈 从 
+trp_pendor_squire_pl|潘 德 扈 从 
+trp_pendor_knight|潘 德 骑 士 
+trp_pendor_knight_pl|潘 德 骑 士 
+trp_pendor_foot_knight|潘 德 步 行 骑 士 
+trp_pendor_foot_knight_pl|潘 德 步 行 骑 士 
+trp_pendor_light_bowman|潘 德 轻 装 弓 手 
+trp_pendor_light_bowman_pl|潘 德 轻 装 弓 手 
+trp_pendor_heavy_bowman|潘 德 重 装 弓 手 
+trp_pendor_heavy_bowman_pl|潘 德 重 装 弓 手 
+trp_pendor_armored_bowman|潘 德 披 甲 弓 手 
+trp_pendor_armored_bowman_pl|潘 德 披 甲 弓 手 
+trp_pendor_noble_bowman|潘 德 贵 族 弓 手 
+trp_pendor_noble_bowman_pl|潘 德 贵 族 弓 手 
+trp_pendor_gray_archer|潘 德 黑 铠 弓 箭 手 
+trp_pendor_gray_archer_pl|潘 德 黑 铠 弓 箭 手 
+trp_rb_thief|红 色 兄 弟 会 盗 贼 
+trp_rb_thief_pl|红 色 兄 弟 会 盗 贼 
+trp_rb_guildsman|红 色 兄 弟 会 成 员 
+trp_rb_guildsman_pl|红 色 兄 弟 会 成 员 
+trp_iceguard_ranger|寒 冰 卫 士 游 侠 
+trp_iceguard_ranger_pl|寒 冰 卫 士 游 侠 
+trp_pilgrim|朝 圣 者 
+trp_pilgrim_pl|朝 圣 者 
+trp_monk|僧 侣 
+trp_monk_pl|僧 侣 
+trp_pendorian_cleric|教 士 
+trp_pendorian_cleric_pl|教 士 
+trp_pendorian_warpriest|战 争 祭 司 
+trp_pendorian_warpriest_pl|战 争 祭 司 
+trp_pendorian_battle|教 友 战 士 
+trp_pendorian_battle_pl|教 友 战 士 
+trp_pendorian_righteous|审 判 者 
+trp_pendorian_righteous_pl|审 判 者 
+trp_looter|强 盗 
+trp_looter_pl|强 盗 
+trp_looter2|小 偷 
+trp_looter2_pl|小 偷 
+trp_bandit|土 匪 
+trp_bandit_pl|土 匪 
+trp_assassin_3_7|雇 佣 刺 客 
+trp_assassin_3_7_pl|雇 佣 刺 客 
+trp_brigand|拦 路 强 盗 
+trp_brigand_pl|拦 路 强 盗 
+trp_forest_bandit|森 林 强 盗 
+trp_forest_bandit_pl|森 林 强 盗 
+trp_steppe_bandit|德 夏 强 盗 
+trp_steppe_bandit_pl|德 夏 强 盗 
+trp_dshar_chieftain|德 夏 不 法 酋 长 
+trp_dshar_chieftain_pl|德 夏 不 法 酋 长 
+trp_outlaw_leader|逃 犯 头 领 
+trp_outlaw_leader_pl|逃 犯 头 领 
+trp_dshar_deathwind|德 夏 死 亡 之 风 萨 瓦 兰 
+trp_dshar_deathwind_pl|德 夏 死 亡 之 风 萨 瓦 兰 
+trp_sea_raider|凡 斯 凯 瑞 海 贼 
+trp_sea_raider_pl|凡 斯 凯 瑞 海 贼 
+trp_vanskerry_warrior|凡 斯 凯 瑞 勇 士 
+trp_vanskerry_warrior_pl|凡 斯 凯 瑞 勇 士 
+trp_vanskerry_jarl|凡 斯 凯 瑞 首 领 
+trp_vanskerry_jarl_pl|凡 斯 凯 瑞 首 领 
+trp_37_arsonist|纵 火 杀 人 者 
+trp_37_arsonist_pl|纵 火 杀 人 者 
+trp_mountain_bandit|迷 雾 山 劫 匪 
+trp_mountain_bandit_pl|迷 雾 山 劫 匪 
+trp_myst_warrior|迷 雾 山 勇 士 
+trp_myst_warrior_pl|迷 雾 山 勇 士 
+trp_myst_shaman|迷 雾 山 萨 满 
+trp_myst_shaman_pl|迷 雾 山 萨 满 
+trp_bearclaw_berserker|熊 爪 狂 战 士 
+trp_bearclaw_berserker_pl|熊 爪 狂 战 士 
+trp_manhunter|新 募 民 兵 
+trp_manhunter_pl|新 募 民 兵 
+trp_slave_driver|城 市 民 兵 
+trp_slave_driver_pl|城 市 民 兵 
+trp_slave_crusher|巡 逻 队 员 
+trp_slave_crusher_pl|巡 逻 队 员 
+trp_slaver_chief|巡 逻 队 长 
+trp_slaver_chief_pl|巡 逻 队 长 
+trp_militia_ranger|巡 林 游 骑 
+trp_militia_ranger_pl|巡 林 游 骑 
+trp_peasant_woman|农 妇 
+trp_peasant_woman_pl|农 妇 
+trp_vanskery_agnus_freebooters|阿 格 努 斯 女 王 近 卫 匪 兵 
+trp_vanskery_agnus_freebooters_pl|阿 格 努 斯 女 王 近 卫 匪 兵 
+trp_fighter_woman|女 勇 士 
+trp_fighter_woman_pl|女 勇 士 
+trp_sword_sister|女 游 骑 
+trp_sword_sister_pl|女 游 骑 
+trp_maiden_cavalry|女 骑 兵 
+trp_maiden_cavalry_pl|女 骑 兵 
+trp_maiden_adventurer|女 冒 险 家 
+trp_maiden_adventurer_pl|女 冒 险 家 
+trp_heroine_adventurer|探 险 女 英 雄 
+trp_heroine_adventurer_pl|探 险 女 英 雄 
+trp_hero_adventurer|探 险 英 雄 
+trp_hero_adventurer_pl|探 险 英 雄 
+trp_young_foreign|年 轻 德 夏 探 险 家 
+trp_young_foreign_pl|年 轻 德 夏 探 险 家 
+trp_young_western|年 轻 菲 尔 兹 威 探 险 家 
+trp_young_western_pl|年 轻 菲 尔 兹 威 探 险 家 
+trp_young_northern|年 轻 凛 鸦 境 探 险 家 
+trp_young_northern_pl|年 轻 凛 鸦 境 探 险 家 
+trp_young_eastern|年 轻 烈 狮 境 探 险 家 
+trp_young_eastern_pl|年 轻 烈 狮 境 探 险 家 
+trp_young_southern|年 轻 巴 克 斯 探 险 家 
+trp_young_southern_pl|年 轻 巴 克 斯 探 险 家 
+trp_squire_foreign|德 夏 无 赖 扈 从 
+trp_squire_foreign_pl|德 夏 无 赖 扈 从 
+trp_squire_western|菲 尔 兹 威 无 赖 扈 从 
+trp_squire_western_pl|菲 尔 兹 威 无 赖 扈 从 
+trp_squire_northern|凛 鸦 境 无 赖 扈 从 
+trp_squire_northern_pl|凛 鸦 境 无 赖 扈 从 
+trp_squire_eastern|烈 狮 境 无 赖 扈 从 
+trp_squire_eastern_pl|烈 狮 境 无 赖 扈 从 
+trp_squire_southern|巴 克 斯 无 赖 扈 从 
+trp_squire_southern_pl|巴 克 斯 无 赖 扈 从 
+trp_knight_foreign|德 夏 无 赖 骑 士 
+trp_knight_foreign_pl|德 夏 无 赖 骑 士 
+trp_knight_western|菲 尔 兹 威 无 赖 骑 士 
+trp_knight_western_pl|菲 尔 兹 威 无 赖 骑 士 
+trp_knight_northern|凛 鸦 境 无 赖 骑 士 
+trp_knight_northern_pl|凛 鸦 境 无 赖 骑 士 
+trp_knight_eastern|烈 狮 境 无 赖 骑 士 
+trp_knight_eastern_pl|烈 狮 境 无 赖 骑 士 
+trp_knight_southern|巴 克 斯 无 赖 骑 士 
+trp_knight_southern_pl|巴 克 斯 无 赖 骑 士 
+trp_rogue_squire|黑 心 无 赖 扈 从 
+trp_rogue_squire_pl|黑 心 无 赖 扈 从 
+trp_rogue_knight|黑 心 无 赖 骑 士 
+trp_rogue_knight_pl|黑 心 无 赖 骑 士 
+trp_noldor_ranger|诺 多 游 侠 
+trp_noldor_ranger_pl|诺 多 游 侠 
+trp_noldor_hunter|诺 多 猎 人 
+trp_noldor_hunter_pl|诺 多 猎 人 
+trp_noldor_warrior|诺 多 战 士 
+trp_noldor_warrior_pl|诺 多 战 士 
+trp_noldor_maiden|诺 多 少 女 游 侠 
+trp_noldor_maiden_pl|诺 多 少 女 游 侠 
+trp_noldor_noble|诺 多 贵 族 
+trp_noldor_noble_pl|诺 多 贵 族 
+trp_noldor_knight|诺 多 暮 光 骑 士 
+trp_noldor_knight_pl|诺 多 暮 光 骑 士 
+trp_noldor_troop_for_shop|诺 多 商 人 
+trp_noldor_troop_for_shop_pl|诺 多 商 人 
+trp_jatu_raider|迦 图 袭 击 者 
+trp_jatu_raider_pl|迦 图 袭 击 者 
+trp_jatu_lancer|迦 图 枪 骑 兵 
+trp_jatu_lancer_pl|迦 图 枪 骑 兵 
+trp_jatu_battlerider|迦 图 战 争 骑 手 
+trp_jatu_battlerider_pl|迦 图 战 争 骑 手 
+trp_jatu_warlord|迦 图 军 阀 
+trp_jatu_warlord_pl|迦 图 军 阀 
+trp_snake_convert|拜 蛇 教 皈 依 者 
+trp_snake_convert_pl|拜 蛇 教 皈 依 者 
+trp_snake_believers|拜 蛇 教 虔 信 者 
+trp_snake_believers_pl|拜 蛇 教 虔 信 者 
+trp_snake_zealot|拜 蛇 教 狂 热 者 
+trp_snake_zealot_pl|拜 蛇 教 狂 热 者 
+trp_anaconda_tyrant|巨 蟒 骑 士 
+trp_anaconda_tyrant_pl|巨 蟒 骑 士 
+trp_snake_priestess|蛇 教 女 祭 司 
+trp_snake_priestess_pl|蛇 教 女 祭 司 
+trp_asp_vanguard|角 蝰 先 锋 
+trp_asp_vanguard_pl|角 蝰 先 锋 
+trp_mett_infantry|梅 滕 海 姆 常 备 步 兵 
+trp_mett_infantry_pl|梅 滕 海 姆 常 备 步 兵 
+trp_mett_crossbow|梅 滕 海 姆 常 备 弩 手 
+trp_mett_crossbow_pl|梅 滕 海 姆 常 备 弩 手 
+trp_mett_heavy_crossbow|梅 滕 海 姆 重 装 弩 手 
+trp_mett_heavy_crossbow_pl|梅 滕 海 姆 重 装 弩 手 
+trp_mett_greatsword|梅 滕 海 姆 大 剑 士 
+trp_mett_greatsword_pl|梅 滕 海 姆 大 剑 士 
+trp_mett_hauptmann|梅 滕 海 姆 队 长 
+trp_mett_hauptmann_pl|梅 滕 海 姆 队 长 
+trp_mett_forlorn|梅 滕 海 姆 决 死 剑 士 
+trp_mett_forlorn_pl|梅 滕 海 姆 决 死 剑 士 
+trp_veccavi_kral|菲 卡 维 亚 克 拉 尔 卫 士 
+trp_veccavi_kral_pl|菲 卡 维 亚 克 拉 尔 卫 士 
+trp_veccavi_krom|菲 卡 维 亚 克 罗 姆 守 卫 
+trp_veccavi_krom_pl|菲 卡 维 亚 克 罗 姆 守 卫 
+trp_veccavi_archer|菲 卡 维 亚 哨 兵 
+trp_veccavi_archer_pl|菲 卡 维 亚 哨 兵 
+trp_veccavi_horse|菲 卡 维 亚 伙 友 骑 兵 
+trp_veccavi_horse_pl|菲 卡 维 亚 伙 友 骑 兵 
+trp_veccavi_knight|菲 卡 维 亚 骑 士 
+trp_veccavi_knight_pl|菲 卡 维 亚 骑 士 
+trp_veccavi_queen_guard|菲 卡 维 亚 血 盟 卫 士 
+trp_veccavi_queen_guard_pl|菲 卡 维 亚 血 盟 卫 士 
+trp_red_fletcher_renegade|红 箭 长 弓 手 
+trp_red_fletcher_renegade_pl|红 箭 长 弓 手 
+trp_boar_knight_renegade|不 法 野 猪 骑 士 
+trp_boar_knight_renegade_pl|不 法 野 猪 骑 士 
+trp_owl_knight_renegade|不 法 猫 头 鹰 骑 士 
+trp_owl_knight_renegade_pl|不 法 猫 头 鹰 骑 士 
+trp_barclay_footman|巴 克 利 重 装 士 兵 
+trp_barclay_footman_pl|巴 克 利 重 装 士 兵 
+trp_barclay_sapper|巴 克 利 弩 手 
+trp_barclay_sapper_pl|巴 克 利 弩 手 
+trp_barclay_sapper_adv|巴 克 利 火 枪 手 
+trp_barclay_sapper_adv_pl|巴 克 利 火 枪 手 
+trp_barclay_lancer|巴 克 利 帝 国 枪 骑 兵 
+trp_barclay_lancer_pl|巴 克 利 帝 国 枪 骑 兵 
+trp_barclay_knight|巴 克 利 帝 国 骑 士 
+trp_barclay_knight_pl|巴 克 利 帝 国 骑 士 
+trp_singalian_horseman|辛 加 尔 骑 手 
+trp_singalian_horseman_pl|辛 加 尔 骑 手 
+trp_singalian_temptress|辛 加 尔 妖 妇 
+trp_singalian_temptress_pl|辛 加 尔 妖 妇 
+trp_hero_burilgi|“ 篡 位 者 ” 布 里 吉 
+trp_hero_burilgi_pl|“ 篡 位 者 ” 布 里 吉 
+trp_hero_oswald|弗 勒 的 欧 斯 伍 德 
+trp_hero_oswald_pl|弗 勒 的 欧 斯 伍 德 
+trp_hero_meregan|米 尔 甘 · 基 里 克 
+trp_hero_meregan_pl|米 尔 甘 · 基 里 克 
+trp_hero_kodan|“ 铁 剑 ” 库 丹 
+trp_hero_kodan_pl|“ 铁 剑 ” 库 丹 
+trp_hero_syla|希 拉 · 尤 扎 斯 
+trp_hero_syla_pl|希 拉 · 尤 扎 斯 
+trp_hero_shalavan|沙 拉 凡 谢 赫 
+trp_hero_shalavan_pl|沙 拉 凡 谢 赫 
+trp_hero_boris|“ 乌 鸦 爵 士 ” 波 里 斯 
+trp_hero_boris_pl|“ 乌 鸦 爵 士 ” 波 里 斯 
+trp_hero_alaric|“ 喧 闹 者 ” 阿 拉 里 克 
+trp_hero_alaric_pl|“ 喧 闹 者 ” 阿 拉 里 克 
+trp_hero_wolfbode|“ 嗜 杀 者 ” 沃 夫 伯 德 
+trp_hero_wolfbode_pl|“ 嗜 杀 者 ” 沃 夫 伯 德 
+trp_hero_maltise|马 尔 蒂 斯 
+trp_hero_maltise_pl|马 尔 蒂 斯 
+trp_hero_kjuda|“ 破 坏 者 ” 朱 达 
+trp_hero_kjuda_pl|“ 破 坏 者 ” 朱 达 
+trp_hero_zulkar|“ 军 阀 ” 扎 卡 尔 
+trp_hero_zulkar_pl|“ 军 阀 ” 扎 卡 尔 
+trp_hero_aeldarian|阿 尔 达 利 安 
+trp_hero_aeldarian_pl|阿 尔 达 利 安 
+trp_hero_ithilrandir|伊 斯 兰 迪 尔 
+trp_hero_ithilrandir_pl|伊 斯 兰 迪 尔 
+trp_hero_heynrich|海 因 里 希 团 长 
+trp_hero_heynrich_pl|海 因 里 希 
+trp_hero_verante|维 兰 提 · 凯 芮 司 
+trp_hero_verante_pl|维 兰 提 
+trp_hero_rufio|卢 菲 奥 · 文 森 特 · 德 · 比 利 亚 维 西 奥 萨 
+trp_hero_rufio_pl|卢 菲 奥
+trp_hero_kaspax|卡 斯 帕 斯 陛 下 
+trp_hero_kaspax_pl|卡 斯 帕 斯 
+trp_hero_rasmus|圣 裁 官 拉 斯 穆 · 德 法 提 卡 
+trp_hero_rasmus_pl|拉 斯 穆 · 德 法 提 卡 
+trp_omen_seeker|预 兆 搜 寻 者 
+trp_omen_seeker_pl|预 兆 搜 寻 者 
+trp_iron_circle_centurian|铁 环 百 夫 长 
+trp_iron_circle_centurian_pl|铁 环 百 夫 长 
+trp_wolfbode_guard|沃 夫 伯 德 荣 誉 护 卫 
+trp_wolfbode_guard_pl|沃 夫 伯 德 荣 誉 护 卫 
+trp_kjuda_kajahar|朱 达 贴 身 卫 士 
+trp_kjuda_kajahar_pl|朱 达 贴 身 卫 士 
+trp_zulkar_guard|扎 卡 尔 冷 酷 骑 手 
+trp_zulkar_guard_pl|扎 卡 尔 冷 酷 骑 手 
+trp_seer_initiate|先 知 军 团 新 兵 
+trp_seer_initiate_pl|先 知 军 团 新 兵 
+trp_seer_favorite|先 知 军 团 亲 信 
+trp_seer_favorite_pl|先 知 军 团 亲 信 
+trp_doomguide|厄 运 引 者 
+trp_doomguide_pl|厄 运 引 者 
+trp_seeress|女 先 知 
+trp_seeress_pl|女 先 知 
+trp_dragon_knight|龙 骑 士 
+trp_dragon_knight_pl|龙 骑 士 
+trp_lion_knight|狮 骑 士 
+trp_lion_knight_pl|狮 骑 士 
+trp_empire_immortal|帝 国 不 朽 者 
+trp_empire_immortal_pl|帝 国 不 朽 者 
+trp_dshar_windrider|德 夏 御 风 者 
+trp_dshar_windrider_pl|德 夏 御 风 者 
+trp_lady_valkyrie|女 武 神 
+trp_lady_valkyrie_pl|女 武 神 
+trp_griffon_knight|狮 鹫 骑 士 
+trp_griffon_knight_pl|狮 鹫 骑 士 
+trp_falcon_knight|猎 鹰 骑 士 
+trp_falcon_knight_pl|猎 鹰 骑 士 
+trp_raven_spear_knight|鸦 矛 骑 士 
+trp_raven_spear_knight_pl|鸦 矛 骑 士 
+trp_radiant_cross_knight|光 辉 十 字 骑 士 
+trp_radiant_cross_knight_pl|光 辉 十 字 骑 士 
+trp_clarion_ranger|号 角 召 唤 游 骑 兵 
+trp_clarion_ranger_pl|号 角 召 唤 游 骑 兵 
+trp_dawn_knight|黎 明 骑 士 
+trp_dawn_knight_pl|黎 明 骑 士 
+trp_ebony_gauntlet|乌 木 护 手 骑 士 
+trp_ebony_gauntlet_pl|乌 木 护 手 骑 士 
+trp_shadow_centurion|暗 影 百 夫 长 
+trp_shadow_centurion_pl|暗 影 百 夫 长 
+trp_silvermist_ranger|银 雾 游 侠 
+trp_silvermist_ranger_pl|银 雾 游 侠 
+trp_eventide_knight|黄 昏 骑 士 
+trp_eventide_knight_pl|黄 昏 骑 士 
+trp_phoenix_knight|凤 凰 骑 士 
+trp_phoenix_knight_pl|凤 凰 骑 士 
+trp_shadowwolves_knight|幽 影 之 狼 
+trp_shadowwolves_knight_pl|幽 影 群 狼 
+trp_scorpion_assassin_knight|天 蝎 刺 客 
+trp_scorpion_assassin_knight_pl|天 蝎 刺 客 
+trp_kraken_knight|克 拉 肯 战 士 
+trp_kraken_knight_pl|克 拉 肯 战 士 
+trp_zombie|被 吞 噬 者 
+trp_zombie_pl|被 吞 噬 者 
+trp_dread_infantry|恐 惧 军 团 步 兵 
+trp_dread_infantry_pl|恐 惧 军 团 步 兵 
+trp_hero_eyegrim|“ 吞 噬 者 ” 艾 格 雷 姆 
+trp_hero_eyegrim_pl|“ 吞 噬 者 ” 艾 格 雷 姆 
+trp_fallen|堕 落 者 
+trp_fallen_pl|堕 落 者 
+trp_fallen_footman|堕 落 者 斗 士 
+trp_fallen_footman_pl|堕 落 者 斗 士 
+trp_fallen_veteran|堕 落 者 资 深 斗 士 
+trp_fallen_veteran_pl|堕 落 者 资 深 斗 士 
+trp_fallen_warrior|堕 落 者 战 士 
+trp_fallen_warrior_pl|堕 落 者 战 士 
+trp_fallen_revenant|堕 落 者 幽 灵 
+trp_fallen_revenant_pl|堕 落 者 幽 灵 
+trp_bloodsworn_witch|血 誓 巫 女 
+trp_bloodsworn_witch_pl|血 誓 巫 女 
+trp_poss_doomguide|疯 狂 厄 运 引 者 
+trp_poss_doomguide_pl|疯 狂 厄 运 引 者 
+trp_azi_dahaka_cav|马 里 廷 堕 落 贵 族 
+trp_azi_dahaka_cav_pl|马 里 廷 堕 落 贵 族 
+trp_azi_dahaka_priestess|阿 兹 达 哈 卡 毒 蛇 祭 司 
+trp_azi_dahaka_priestess_pl|阿 兹 达 哈 卡 毒 蛇 祭 司 
+trp_heretic_minion|异 端 追 随 者 
+trp_heretic_minion_pl|异 端 追 随 者 
+trp_heretic_worshipper|异 端 崇 拜 者 
+trp_heretic_worshipper_pl|异 端 崇 拜 者 
+trp_heretic_magnus|异 端 巨 力 战 士 
+trp_heretic_magnus_pl|异 端 巨 力 战 士 
+trp_heretic_invoker|异 端 祈 求 者 
+trp_heretic_invoker_pl|异 端 祈 求 者 
+trp_demonic_magnus|恶 魔 巨 力 战 士 
+trp_demonic_magnus_pl|恶 魔 巨 力 战 士 
+trp_refugee|难 民 
+trp_refugee_pl|难 民 
+trp_sarleon_lady_in_waiting|烈 狮 境 贵 族 侍 女 
+trp_sarleon_lady_in_waiting_pl|烈 狮 境 贵 族 侍 女 
+trp_dshar_lady_in_waiting|德 夏 贵 族 侍 女 
+trp_dshar_lady_in_waiting_pl|德 夏 贵 族 侍 女 
+trp_ravenstern_lady_in_waiting|凛 鸦 境 贵 族 侍 女 
+trp_ravenstern_lady_in_waiting_pl|凛 鸦 境 贵 族 侍 女 
+trp_fierd_lady_in_waiting|菲 尔 兹 威 贵 族 侍 女 
+trp_fierd_lady_in_waiting_pl|菲 尔 兹 威 贵 族 侍 女 
+trp_empire_lady_in_waiting|巴 克 斯 帝 国 贵 族 侍 女 
+trp_empire_lady_in_waiting_pl|巴 克 斯 帝 国 贵 族 侍 女 
+trp_caravan_master|商 队 头 领 
+trp_caravan_master_pl|商 队 头 领 
+trp_kidnapped_girl|被 绑 架 的 女 孩 
+trp_kidnapped_girl_pl|被 绑 架 的 女 孩 
+trp_kidnapped_daughter|村 庄 长 老 女 儿 
+trp_kidnapped_daughter_pl|村 庄 长 老 女 儿 
+trp_heretic_leader|异 端 高 阶 牧 师 
+trp_heretic_leader_pl|异 端 高 阶 牧 师 
+trp_myst_leader|迷 雾 山 部 落 首 领 
+trp_myst_leader_pl|迷 雾 山 部 落 首 领 
+trp_singal_leader|辛 加 尔 维 杜 纳 
+trp_singal_leader_pl|辛 加 尔 维 杜 纳 
+trp_vanskerry_leader|凡 斯 凯 瑞 战 争 领 主 
+trp_vanskerry_leader_pl|凡 斯 凯 瑞 战 争 领 主 
+trp_snake_leader|拜 蛇 教 头 目 
+trp_snake_leader_pl|拜 蛇 教 头 目 
+trp_bandit_leaders_end|bandit leaders end 
+trp_bandit_leaders_end_pl|bandit leaders end 
+trp_heretic_lair_leader|异 端 高 阶 牧 师 
+trp_heretic_lair_leader_pl|异 端 高 阶 牧 师 
+trp_myst_lair_leader|迷 雾 山 掠 夺 者 首 领 
+trp_myst_lair_leader_pl|迷 雾 山 掠 夺 者 首 领 
+trp_singal_lair_leader|辛 加 尔 维 杜 纳 
+trp_singal_lair_leader_pl|辛 加 尔 维 杜 纳 
+trp_vanskerry_lair_leader|凡 斯 凯 瑞 头 目 
+trp_vanskerry_lair_leader_pl|凡 斯 凯 瑞 头 目 
+trp_snake_lair_leader|蛇 教 头 目 
+trp_snake_lair_leader_pl|蛇 教 头 目 
+trp_dragon_drake|龙 战 士 
+trp_dragon_drake_pl|龙 战 士 
+trp_lion_squire|狮 扈 从 
+trp_lion_squire_pl|狮 扈 从 
+trp_empire_mortal|帝 国 凡 卫 
+trp_empire_mortal_pl|帝 国 凡 卫 
+trp_dshar_dustrider|德 夏 绝 尘 者 
+trp_dshar_dustrider_pl|德 夏 绝 尘 者 
+trp_lady_einherjar|英 灵 女 战 士 
+trp_lady_einherjar_pl|英 灵 女 战 士 
+trp_griffon_retainer|狮 鹫 侍 从 
+trp_griffon_retainer_pl|狮 鹫 侍 从 
+trp_falcon_talon|猎 鹰 利 爪 
+trp_falcon_talon_pl|猎 鹰 利 爪 
+trp_raven_spear_raven|鸦 矛 佣 兵 
+trp_raven_spear_raven_pl|鸦 矛 佣 兵 
+trp_radiant_cross_attendant|光 辉 十 字 驱 疫 者 
+trp_radiant_cross_attendant_pl|光 辉 十 字 驱 疫 者 
+trp_clarion_warden|长 河 镇 哨 兵 
+trp_clarion_warden_pl|长 河 镇 哨 兵 
+trp_dawn_wyvern|黎 明 迅 龙 
+trp_dawn_wyvern_pl|黎 明 迅 龙 
+trp_ebony_hammer|乌 木 战 锤 手 
+trp_ebony_hammer_pl|乌 木 战 锤 手 
+trp_shadow_marinus|暗 影 步 战 兵 
+trp_shadow_marinus_pl|暗 影 步 战 兵 
+trp_silvermist_halberdier|银 雾 长 戟 兵 
+trp_silvermist_halberdier_pl|银 雾 长 戟 兵 
+trp_eventide_ghilman|黄 昏 奴 从 
+trp_eventide_ghilman_pl|黄 昏 奴 从 
+trp_phoenix_squire|凤 凰 雏 翼 
+trp_phoenix_squire_pl|凤 凰 雏 翼 
+trp_wolf_squire|幽 影 猎 手 
+trp_wolf_squire_pl|幽 影 猎 手
+trp_scorpion_squire|天 蝎 鳌 尾 
+trp_scorpion_squire_pl|天 蝎 鳌 尾 
+trp_kraken_squire|风 暴 修 女 
+trp_kraken_squire_pl|风 暴 修 女 
+trp_maiden_noble|精 英 女 骑 士 
+trp_maiden_noble_pl|精 英 女 骑 士 
+trp_unicorn_knight|独 角 兽 骑 士 
+trp_unicorn_knight_pl|独 角 兽 骑 士 
+trp_snowlion_noble|雪 狮 贵 族 
+trp_snowlion_noble_pl|雪 狮 贵 族 
+trp_snowlion_lancer|雪 狮 枪 骑 兵 
+trp_snowlion_lancer_pl|雪 狮 枪 骑 兵 
+trp_snowlion_footman|雪 狮 步 兵 
+trp_snowlion_footman_pl|雪 狮 步 兵 
+trp_snowlion_longbowman|雪 狮 长 弓 手 
+trp_snowlion_longbowman_pl|雪 狮 长 弓 手 
+trp_mett_spieszknecht|梅 滕 海 姆 持 枪 仆 从 
+trp_mett_spieszknecht_pl|梅 滕 海 姆 持 枪 仆 从 
+trp_veccavi_uncut|菲 卡 维 亚 保 留 壮 丁 
+trp_veccavi_uncut_pl|菲 卡 维 亚 保 留 壮 丁 
+trp_melitine_archer|马 里 廷 弓 手 
+trp_melitine_archer_pl|马 里 廷 弓 手 
+trp_melitine_infantry|马 里 廷 步 兵 
+trp_melitine_infantry_pl|马 里 廷 步 兵 
+trp_melitine_shock_infantry|马 里 廷 帝 国 卫 兵 
+trp_melitine_shock_infantry_pl|马 里 廷 帝 国 卫 兵 
+trp_melitine_lancer|马 里 廷 枪 骑 兵 
+trp_melitine_lancer_pl|马 里 廷 枪 骑 兵 
+trp_melitine_horse_archer|马 里 廷 重 装 弓 骑 兵 
+trp_melitine_horse_archer_pl|马 里 廷 重 装 弓 骑 兵 
+trp_melitine_cataphract|马 里 廷 甲 胄 骑 兵 
+trp_melitine_cataphract_pl|马 里 廷 甲 胄 骑 兵 
+trp_town_walker_1|市 民 
+trp_town_walker_1_pl|市 民 
+trp_town_walker_2|市 民 
+trp_town_walker_2_pl|市 民 
+trp_town_walker_rav_1|市 民 
+trp_town_walker_rav_1_pl|市 民 
+trp_town_walker_rav_2|市 民 
+trp_town_walker_rav_2_pl|市 民 
+trp_khergit_townsman|市 民 
+trp_khergit_townsman_pl|市 民 
+trp_khergit_townswoman|市 民 
+trp_khergit_townswoman_pl|市 民 
+trp_town_walker_fier_1|市 民 
+trp_town_walker_fier_1_pl|市 民 
+trp_town_walker_fier_2|女 市 民 
+trp_town_walker_fier_2_pl|女 市 民 
+trp_town_walker_emp_1|市 民 
+trp_town_walker_emp_1_pl|市 民 
+trp_town_walker_emp_2|女 市 民 
+trp_town_walker_emp_2_pl|女 市 民 
+trp_village_walker_1|村 民 
+trp_village_walker_1_pl|村 民 
+trp_village_walker_2|村 民 
+trp_village_walker_2_pl|村 民 
+trp_village_walker_rav_1|村 民 
+trp_village_walker_rav_1_pl|村 民 
+trp_village_walker_rav_2|村 民 
+trp_village_walker_rav_2_pl|村 民 
+trp_village_walker_dshar_1|村 民 
+trp_village_walker_dshar_1_pl|村 民 
+trp_village_walker_dshar_2|村 民 
+trp_village_walker_dshar_2_pl|村 民 
+trp_village_walker_fier_1|村 民 
+trp_village_walker_fier_1_pl|村 民 
+trp_village_walker_fier_2|村 民 
+trp_village_walker_fier_2_pl|村 民 
+trp_village_walker_emp_1|村 民 
+trp_village_walker_emp_1_pl|村 民 
+trp_village_walker_emp_2|村 民 
+trp_village_walker_emp_2_pl|村 民 
+trp_spy_walker_1|市 民 
+trp_spy_walker_1_pl|市 民 
+trp_spy_walker_2|市 民 
+trp_spy_walker_2_pl|市 民 
+trp_ramun_the_slave_trader|奴 隶 贩 子 拉 蒙 
+trp_ramun_the_slave_trader_pl|奴 隶 贩 子 拉 蒙 
+trp_guide|机 灵 鬼 吉 米 
+trp_guide_pl|机 灵 鬼 吉 米 
+trp_musician_male|吟 游 诗 人 
+trp_musician_male_pl|吟 游 诗 人 
+trp_musician_female|吟 游 诗 人 
+trp_musician_female_pl|吟 游 诗 人 
+trp_musician_male_rav|吟 游 诗 人 
+trp_musician_male_rav_pl|吟 游 诗 人 
+trp_musician_female_rav|吟 游 诗 人 
+trp_musician_female_rav_pl|吟 游 诗 人 
+trp_musician_male_dshar|吟 游 诗 人 
+trp_musician_male_dshar_pl|吟 游 诗 人 
+trp_musician_female_dshar|吟 游 诗 人 
+trp_musician_female_dshar_pl|吟 游 诗 人 
+trp_musician_male_fier|吟 游 诗 人 
+trp_musician_male_fier_pl|吟 游 诗 人 
+trp_musician_female_fier|吟 游 诗 人 
+trp_musician_female_fier_pl|吟 游 诗 人 
+trp_musician_male_emp|吟 游 诗 人 
+trp_musician_male_emp_pl|吟 游 诗 人 
+trp_musician_female_emp|吟 游 诗 人 
+trp_musician_female_emp_pl|吟 游 诗 人 
+trp_musicians_end|
+trp_musicians_end_pl|
+trp_xerina|谢 瑞 娜 
+trp_xerina_pl|谢 瑞 娜 
+trp_dranton|德 朗 顿 
+trp_dranton_pl|德 朗 顿 
+trp_kradus|喀 拉 杜 斯 
+trp_kradus_pl|喀 拉 杜 斯 
+trp_tutorial_trainer|训 练 场 教 练 
+trp_tutorial_trainer_pl|训 练 场 教 练 
+trp_galeas|盖 里 阿 斯 
+trp_galeas_pl|盖 里 阿 斯 
+trp_farmer_from_bandit_village|农 民 
+trp_farmer_from_bandit_village_pl|农 民 
+trp_trainer_1|教 练 
+trp_trainer_1_pl|教 练 
+trp_trainer_2|教 练 
+trp_trainer_2_pl|教 练 
+trp_trainer_3|教 练 
+trp_trainer_3_pl|教 练 
+trp_trainer_4|教 练 
+trp_trainer_4_pl|教 练 
+trp_trainer_5|教 练 
+trp_trainer_5_pl|教 练 
+trp_ransom_broker_1|“ 莲 花 ” 伊 瑞 斯 
+trp_ransom_broker_1_pl|奴 隶 贩 子 
+trp_ransom_broker_2|托 尔 凡 
+trp_ransom_broker_2_pl|奴 隶 贩 子 
+trp_ransom_broker_3|奥 迪 斯 
+trp_ransom_broker_3_pl|奴 隶 贩 子 
+trp_ransom_broker_4|瑞 斯 哈 德 
+trp_ransom_broker_4_pl|奴 隶 贩 子 
+trp_ransom_broker_5|克 拉 瓦 伍 德 
+trp_ransom_broker_5_pl|奴 隶 贩 子 
+trp_ransom_broker_6|克 丽 · 斯 威 夫 特 兹 
+trp_ransom_broker_6_pl|奴 隶 贩 子 
+trp_ransom_broker_7|“ 刀 锋 ” 雅 文 
+trp_ransom_broker_7_pl|奴 隶 贩 子 
+trp_ransom_broker_8|“ 月 影 ” 斯 夫 特 
+trp_ransom_broker_8_pl|奴 隶 贩 子 
+trp_ransom_broker_9|“ 胖 子 ” 博 尔 吉 
+trp_ransom_broker_9_pl|奴 隶 贩 子 
+trp_ransom_broker_10|哈 曼 德 
+trp_ransom_broker_10_pl|奴 隶 贩 子 
+trp_tavern_traveler_1|艾 瑞 克 
+trp_tavern_traveler_1_pl|旅 行 者 
+trp_tavern_traveler_2|艾 玛 拉 
+trp_tavern_traveler_2_pl|旅 行 者 
+trp_tavern_traveler_3|格 雷 丹 
+trp_tavern_traveler_3_pl|旅 行 者 
+trp_tavern_traveler_4|“ 诗 人 ” 哈 瓦 达 尔 
+trp_tavern_traveler_4_pl|旅 行 者 
+trp_tavern_traveler_5|“ 修 女 ” 莫 拉 
+trp_tavern_traveler_5_pl|旅 行 者 
+trp_tavern_traveler_6|“ 长 腿 ” 耶 兰 
+trp_tavern_traveler_6_pl|旅 行 者 
+trp_tavern_traveler_7|麦 沙 恩 · 瓦 雷 
+trp_tavern_traveler_7_pl|旅 行 者 
+trp_tavern_traveler_8|佩 恩 特 的 克 拉 瑞 萨 
+trp_tavern_traveler_8_pl|旅 行 者 
+trp_tavern_traveler_9|布 雷 的 科 勒 姆 
+trp_tavern_traveler_9_pl|旅 行 者 
+trp_tavern_traveler_10|“ 流 浪 者 ” 阿 斯 顿 
+trp_tavern_traveler_10_pl|旅 行 者 
+trp_tavern_bookseller_1|迪 基 特 的 芬 尼 斯 
+trp_tavern_bookseller_1_pl|书 商 
+trp_tavern_bookseller_2|兰 道 夫 修 士 
+trp_tavern_bookseller_2_pl|书 商 
+trp_tavern_bookseller_3|抄 写 员 沃 拉 多 
+trp_tavern_bookseller_3_pl|书 商 
+trp_tavern_minstrel_1|扎 曼 德 
+trp_tavern_minstrel_1_pl|游 方 艺 人 
+trp_tavern_minstrel_2|“ 诗 人 ” 克 里 斯 特 菲 尔 
+trp_tavern_minstrel_2_pl|游 方 艺 人 
+trp_tavern_minstrel_3|“ 诗 人 ” 卡 拉 丹 
+trp_tavern_minstrel_3_pl|游 方 艺 人 
+trp_tavern_minstrel_4|“ 诗 人 ” 斯 瓦 根 
+trp_tavern_minstrel_4_pl|游 方 艺 人 
+trp_tavern_minstrel_5|威 廉 
+trp_tavern_minstrel_5_pl|游 方 艺 人 
+trp_kingdom_heroes_including_player_begin|kingdom heroes including player begin 
+trp_kingdom_heroes_including_player_begin_pl|kingdom heroes including player begin 
+trp_npc_adonja|安 冬 嘉　
+trp_npc_adonja_pl|安 冬 嘉　
+trp_npc_leslie|莱 丝 莉　
+trp_npc_leslie_pl|莱 丝 莉　
+trp_npc_ansen|安 森　
+trp_npc_ansen_pl|安 森　
+trp_npc_riva|丽 娃　
+trp_npc_riva_pl|丽 娃　
+trp_npc_kassim|卡 西 姆　
+trp_npc_kassim_pl|卡 西 姆　
+trp_npc_lethaldiran|里 萨 迪 兰　
+trp_npc_lethaldiran_pl|里 萨 迪 兰　
+trp_npc_jocelyn|乔 斯 林 爵 士　
+trp_npc_jocelyn_pl|乔 斯 林　
+trp_npc_alistair|阿 利 斯 泰 爵 士　
+trp_npc_alistair_pl|阿 利 斯 泰　
+trp_npc_rayne|雷 恩 爵 士　
+trp_npc_rayne_pl|雷 恩　
+trp_npc_julia|朱 莉 娅　
+trp_npc_julia_pl|朱 莉 娅　
+trp_npc_frederick|弗 雷 德 里　
+trp_npc_frederick_pl|弗 雷 德 里　
+trp_npc_ediz|艾 迪 兹　
+trp_npc_ediz_pl|艾 迪 兹　
+trp_npc_sara|“ 狐 狸 精 ” 莎 拉　
+trp_npc_sara_pl|莎 拉　
+trp_npc_donavan|多 诺 万　
+trp_npc_donavan_pl|多 诺 万　
+trp_npc_diev|迪 耶 夫 沃 登 森　
+trp_npc_diev_pl|迪 耶 夫　
+trp_npc_alyssa|艾 莉 莎　
+trp_npc_alyssa_pl|艾 莉 莎　
+trp_npc_roland|罗 兰 爵 士　
+trp_npc_roland_pl|罗 兰　
+trp_npc_kaverra|卡 薇 拉　
+trp_npc_kaverra_pl|卡 薇 拉　
+trp_npc_sigismund|西 吉 斯 蒙 德 · 辛 克 莱　
+trp_npc_sigismund_pl|西 吉 斯 蒙 德　
+trp_npc_boadice|宝 黛 丝　
+trp_npc_boadice_pl|宝 黛 丝　
+trp_kingdom_1_lord|乌 尔 里 克 国 王　
+trp_kingdom_1_lord_pl|乌 尔 里 克　
+trp_kingdom_2_lord|格 雷 戈 里 四 世 国 王　
+trp_kingdom_2_lord_pl|格 雷 戈 里　
+trp_kingdom_3_lord|巴 哈 德 汗 卡 丹　
+trp_kingdom_3_lord_pl|卡 丹　
+trp_kingdom_4_lord|维 迪 斯 大 王　
+trp_kingdom_4_lord_pl|维 迪 斯　
+trp_kingdom_5_lord|马 略 皇 帝　
+trp_kingdom_5_lord_pl|马 略　
+trp_knight_1_1|阿 拉 马 公 爵　
+trp_knight_1_1_pl|阿 拉 马　
+trp_knight_1_2|艾 尔 夫 万 公 爵　
+trp_knight_1_2_pl|艾 尔 夫 万　
+trp_knight_1_3|布 伦 努 斯 公 爵　
+trp_knight_1_3_pl|布 伦 努 斯　
+trp_knight_1_4|艾 尔 德 弗 莱 德 男 爵　
+trp_knight_1_4_pl|艾 尔 德 弗 莱 德　
+trp_knight_1_5|凯 德 伦 男 爵　
+trp_knight_1_5_pl|凯 德 伦　
+trp_knight_1_6|埃 尔 德 雷 德 男 爵　
+trp_knight_1_6_pl|埃 尔 德 雷 德　
+trp_knight_1_7|戈 德 里 克 男 爵　
+trp_knight_1_7_pl|戈 德 里 克　
+trp_knight_1_8|赫 里 沃 德 男 爵　
+trp_knight_1_8_pl|赫 里 沃 德　
+trp_knight_1_9|查 理 斯 男 爵　
+trp_knight_1_9_pl|查 理 斯　
+trp_knight_1_10|利 奥 弗 里 克 男 爵　
+trp_knight_1_10_pl|利 奥 弗 里 克　
+trp_knight_1_11|利 奥 弗 万 男 爵　
+trp_knight_1_11_pl|利 奥 弗 万　
+trp_knight_1_12|盖 登 男 爵　
+trp_knight_1_12_pl|盖 登　
+trp_knight_1_13|福 歇 尔 勋 爵　
+trp_knight_1_13_pl|福 歇 尔　
+trp_knight_1_14|福 瑟 特 勋 爵　
+trp_knight_1_14_pl|福 瑟 特　
+trp_knight_1_15|马 尔 伯 特 勋 爵　
+trp_knight_1_15_pl|马 尔 伯 特　
+trp_knight_1_16|奥 登 勋 爵　
+trp_knight_1_16_pl|奥 登　
+trp_knight_1_17|蒙 特 沃 勋 爵　
+trp_knight_1_17_pl|蒙 特 沃　
+trp_knight_1_18|雷 尼 尔 勋 爵　
+trp_knight_1_18_pl|雷 尼 尔　
+trp_knight_1_19|安 德 鲁 勋 爵　
+trp_knight_1_19_pl|安 德 鲁　
+trp_knight_1_20|埃 里 克 勋 爵　
+trp_knight_1_20_pl|埃 里 克　
+trp_knight_2_1|阿 尔 德 玛 公 爵　
+trp_knight_2_1_pl|阿 尔 德 玛　
+trp_knight_2_2|阿 达 里 安 公 爵　
+trp_knight_2_2_pl|阿 达 里 安　
+trp_knight_2_3|亚 历 克 西 斯 公 爵　
+trp_knight_2_3_pl|亚 历 克 西 斯　
+trp_knight_2_4|卡 罗 勒 斯 伯 爵　
+trp_knight_2_4_pl|卡 罗 勒 斯　
+trp_knight_2_5|克 洛 维 斯 伯 爵　
+trp_knight_2_5_pl|克 洛 维 斯　
+trp_knight_2_6|奥 托 伯 爵　
+trp_knight_2_6_pl|奥 托　
+trp_knight_2_7|斯 蒂 芬 伯 爵　
+trp_knight_2_7_pl|斯 蒂 芬　
+trp_knight_2_8|伊 凡 勒 斯 伯 爵　
+trp_knight_2_8_pl|伊 凡 勒 斯　
+trp_knight_2_9|阿 诺 德 斯 伯 爵　
+trp_knight_2_9_pl|阿 诺 德 斯　
+trp_knight_2_10|德 拉 古 伯 爵　
+trp_knight_2_10_pl|德 拉 古　
+trp_knight_2_11|波 格 丹 伯 爵　
+trp_knight_2_11_pl|波 格 丹　
+trp_knight_2_12|拉 班 伯 爵　
+trp_knight_2_12_pl|拉 班　
+trp_knight_2_13|奥 多 维 克 勋 爵　
+trp_knight_2_13_pl|奥 多 维 克　
+trp_knight_2_14|马 穆 恩 勋 爵　
+trp_knight_2_14_pl|马 穆 恩　
+trp_knight_2_15|加 斯 托 夫 勋 爵　
+trp_knight_2_15_pl|加 斯 托 夫　
+trp_knight_2_16|亨 吉 斯 特 勋 爵　
+trp_knight_2_16_pl|亨 吉 斯 特　
+trp_knight_2_17|琼 拉 德 勋 爵　
+trp_knight_2_17_pl|琼 拉 德　
+trp_knight_2_18|伯 根 杜 斯 勋 爵　
+trp_knight_2_18_pl|伯 根 杜 斯　
+trp_knight_2_19|法 拉 蒙 德 勋 爵　
+trp_knight_2_19_pl|法 拉 蒙 德　
+trp_knight_2_20|盖 尔 博 德 勋 爵　
+trp_knight_2_20_pl|盖 尔 博 德　
+trp_knight_3_1|哈 里 发 哈 米 德　
+trp_knight_3_1_pl|哈 米 德　
+trp_knight_3_2|哈 里 发 塔 希 尔　
+trp_knight_3_2_pl|塔 希 尔　
+trp_knight_3_3|哈 里 发 巴 哈 曼　
+trp_knight_3_3_pl|巴 哈 曼　
+trp_knight_3_4|曼 苏 尔 拜 伊　
+trp_knight_3_4_pl|曼 苏 尔　
+trp_knight_3_5|金 吉 特 拜 伊　
+trp_knight_3_5_pl|金 吉 特　
+trp_knight_3_6|哈 吉 纳 比 拜 伊　
+trp_knight_3_6_pl|哈 吉 纳 比　
+trp_knight_3_7|拉 菲 克 拜 伊　
+trp_knight_3_7_pl|拉 菲 克　
+trp_knight_3_8|盖 万 汗　
+trp_knight_3_8_pl|盖 万　
+trp_knight_3_9|法 力 达 汗　
+trp_knight_3_9_pl|法 力 达　
+trp_knight_3_10|喀 兰 达 汗　
+trp_knight_3_10_pl|喀 兰 达　
+trp_knight_3_11|法 哈 德 汗　
+trp_knight_3_11_pl|法 哈 德　
+trp_knight_3_12|贾 罕 吉 尔 汗　
+trp_knight_3_12_pl|贾 罕 吉 尔　
+trp_knight_3_13|速 该 地 领 主　
+trp_knight_3_13_pl|速 该 地　
+trp_knight_3_14|扎 黑 尔 汗　
+trp_knight_3_14_pl|扎 黑 尔　
+trp_knight_3_15|依 克 拉 姆 领 主　
+trp_knight_3_15_pl|依 克 拉 姆　
+trp_knight_3_16|颜 巨 剌 汗　
+trp_knight_3_16_pl|颜 巨 剌　
+trp_knight_3_17|哈 吉 塞 勒 斯 汗　
+trp_knight_3_17_pl|哈 吉 塞 勒 斯　
+trp_knight_3_18|阿 明 扬 汗　
+trp_knight_3_18_pl|阿 明 扬　
+trp_knight_3_19|阿 德 希 尔 汗　
+trp_knight_3_19_pl|阿 德 希 尔　
+trp_knight_3_20|贾 姆 希 德 汗　
+trp_knight_3_20_pl|贾 姆 希 德　
+trp_knight_4_1|“ 红 剑 ” 艾 丁 伯 爵　
+trp_knight_4_1_pl|“ 红 剑 ” 艾 丁　
+trp_knight_4_2|“ 岩 臂 ” 西 吉 蒙 德 伯 爵　
+trp_knight_4_2_pl|“ 岩 臂 ” 西 吉 蒙 德　
+trp_knight_4_3|“ 叉 胡 ” 艾 里 伯 爵　
+trp_knight_4_3_pl|“ 叉 胡 ” 艾 里　
+trp_knight_4_4|“ 金 牙 ” 阿 道 斯 帝 恩 首 领　
+trp_knight_4_4_pl|“ 金 牙 ” 阿 道 斯 帝 恩　
+trp_knight_4_5|“ 远 行 者 ” 比 约 恩 首 领　
+trp_knight_4_5_pl|“ 远 行 者 ” 比 约 恩　
+trp_knight_4_6|“ 独 臂 ” 艾 因 克 尔 首 领　
+trp_knight_4_6_pl|“ 独 臂 ” 艾 因 克 尔　
+trp_knight_4_7|“ 金 发 ” 艾 迪 斯 首 领　
+trp_knight_4_7_pl|“ 金 发 ” 艾 迪 斯　
+trp_knight_4_8|“ 寻 厄 者 ” 刚 多 首 领　
+trp_knight_4_8_pl|“ 寻 厄 者 ” 刚 多　
+trp_knight_4_9|“ 坚 盾 ” 哈 康 首 领　
+trp_knight_4_9_pl|“ 坚 盾 ” 哈 康　
+trp_knight_4_10|“ 怪 物 ” 泰 尔 沃 首 领　
+trp_knight_4_10_pl|“ 怪 物 ” 泰 尔 沃　
+trp_knight_4_11|“ 铁 胆 ” 哈 拉 文 领 主　
+trp_knight_4_11_pl|“ 铁 胆 ” 哈 拉 文　
+trp_knight_4_12|“ 瘸 子 ” 英 格 瓦 领 主　
+trp_knight_4_12_pl|“ 瘸 子 ” 英 格 瓦　
+trp_knight_4_13|“ 巨 熊 ” 拉 格 比 约 领 主　
+trp_knight_4_13_pl|“ 巨 熊 ” 拉 格 比 约　
+trp_knight_4_14|“ 赤 斧 ” 希 格 鲁 领 主　
+trp_knight_4_14_pl|“ 赤 斧 ” 希 格 鲁　
+trp_knight_4_15|“ 橡 盾 ” 奥 拉 夫 领 主　
+trp_knight_4_15_pl|“ 橡 盾 ” 奥 拉 夫　
+trp_knight_4_16|“ 血 剑 ” 维 戈 德 斯 领 主　
+trp_knight_4_16_pl|“ 血 剑 ” 维 戈 德 斯　
+trp_knight_4_17|“ 远 航 ” 迪 里 刚 领 主　
+trp_knight_4_17_pl|“ 远 航 ” 迪 里 刚　
+trp_knight_4_18|“ 胖 子 ” 赫 罗 斯 加 领 主　
+trp_knight_4_18_pl|“ 胖 子 ” 赫 罗 斯 加　
+trp_knight_4_19|“ 冷 血 ” 刚 达 领 主　
+trp_knight_4_19_pl|“ 冷 血 ” 刚 达　
+trp_knight_4_20|“ 寻 衅 ” 因 纳 领 主　
+trp_knight_4_20_pl|“ 寻 衅 ” 因 纳　
+trp_knight_5_1|贾 斯 特 斯 总 督　
+trp_knight_5_1_pl|贾 斯 特 斯　
+trp_knight_5_2|凯 洛 斯 总 督　
+trp_knight_5_2_pl|凯 洛 斯　
+trp_knight_5_3|利 维 尤 斯 总 督　
+trp_knight_5_3_pl|利 维 尤 斯　
+trp_knight_5_4|西 多 利 厄 斯 将 军　
+trp_knight_5_4_pl|西 多 利 厄 斯　
+trp_knight_5_5|克 里 昂 将 军　
+trp_knight_5_5_pl|克 里 昂　
+trp_knight_5_6|提 图 斯 将 军　
+trp_knight_5_6_pl|提 图 斯　
+trp_knight_5_7|瓦 列 乌 斯 将 军　
+trp_knight_5_7_pl|瓦 列 乌 斯　
+trp_knight_5_8|阿 伽 松 将 军　
+trp_knight_5_8_pl|阿 伽 松　
+trp_knight_5_9|里 穆 斯 克 将 军　
+trp_knight_5_9_pl|里 穆 斯 克　
+trp_knight_5_10|比 恩 纳 将 军　
+trp_knight_5_10_pl|比 恩 纳　
+trp_knight_5_11|布 鲁 图 领 主　
+trp_knight_5_11_pl|布 鲁 图　
+trp_knight_5_12|德 西 默 斯 领 主　
+trp_knight_5_12_pl|德 西 默 斯　
+trp_knight_5_13|阿 勒 斯 领 主　
+trp_knight_5_13_pl|阿 勒 斯　
+trp_knight_5_14|安 东 尼 厄 斯 领 主　
+trp_knight_5_14_pl|安 东 尼 厄 斯　
+trp_knight_5_15|费 比 乌 斯 领 主　
+trp_knight_5_15_pl|费 比 乌 斯　
+trp_knight_5_16|高 卢 斯 领 主　
+trp_knight_5_16_pl|高 卢 斯　
+trp_knight_5_17|迪 恩 领 主　
+trp_knight_5_17_pl|迪 恩　
+trp_knight_5_18|德 奥 达 图 斯 领 主　
+trp_knight_5_18_pl|德 奥 达 图 斯　
+trp_knight_5_19|卡 西 安 领 主　
+trp_knight_5_19_pl|卡 西 安　
+trp_knight_5_20|利 奥 尼 乌 斯 领 主　
+trp_knight_5_20_pl|利 奥 尼 乌 斯　
+trp_kingdom_1_pretender|潘 德 的 达 利 昂 爵 士　
+trp_kingdom_1_pretender_pl|达 利 安　
+trp_kingdom_2_pretender|厄 休 拉 夫 人　
+trp_kingdom_2_pretender_pl|厄 休 拉　
+trp_kingdom_3_pretender|埃 米 尔 薛 西 斯　
+trp_kingdom_3_pretender_pl|薛 西 斯　
+trp_kingdom_4_pretender|“ 铁 手 ” 因 纳 首 领　
+trp_kingdom_4_pretender_pl|“ 铁 手 ” 因 纳　
+trp_kingdom_5_pretender|奥 古 斯 都 德 谟 斯 希 
+trp_kingdom_5_pretender_pl|奥 古 斯 都　
+trp_knight_1_1_wife|骑 士 夫 人　
+trp_knight_1_1_wife_pl|骑 士 夫 人　
+trp_kingdom_1_lady_1|安 娜 女 士　
+trp_kingdom_1_lady_1_pl|安 娜　
+trp_kingdom_1_lady_2|奈 尔 达 女 士　
+trp_kingdom_1_lady_2_pl|奈 尔 达　
+trp_kingdom_1_lady_3|贝 拉 女 士　
+trp_kingdom_1_lady_3_pl|贝 拉　
+trp_kingdom_1_lady_4|伊 丽 娜 女 士　
+trp_kingdom_1_lady_4_pl|伊 丽 娜　
+trp_kingdom_l_lady_5|康 斯 坦 丝 女 士　
+trp_kingdom_l_lady_5_pl|康 斯 坦 丝　
+trp_kingdom_1_lady_6|维 拉 女 士　
+trp_kingdom_1_lady_6_pl|维 拉　
+trp_kingdom_1_lady_7|奥 贝 丽 娜 女 士　
+trp_kingdom_1_lady_7_pl|奥 贝 丽 娜　
+trp_kingdom_1_lady_8|蒂 贝 尔 女 士　
+trp_kingdom_1_lady_8_pl|蒂 贝 尔　
+trp_kingdom_1_lady_9|玛 盖 尔 女 士　
+trp_kingdom_1_lady_9_pl|玛 盖 尔　
+trp_kingdom_1_lady_10|哲 朵 莎 女 士　
+trp_kingdom_1_lady_10_pl|哲 朵 莎　
+trp_kingdom_1_lady_11|梅 丽 莎 女 士　
+trp_kingdom_1_lady_11_pl|梅 丽 莎　
+trp_kingdom_1_lady_12|依 瑞 纳 女 士　
+trp_kingdom_1_lady_12_pl|依 瑞 纳　
+trp_kingdom_l_lady_13|菲 丽 娜 女 士　
+trp_kingdom_l_lady_13_pl|菲 丽 娜　
+trp_kingdom_1_lady_14|索 娜 德 女 士　
+trp_kingdom_1_lady_14_pl|索 娜 德　
+trp_kingdom_1_lady_15|波 迪 拉 女 士　
+trp_kingdom_1_lady_15_pl|波 迪 拉　
+trp_kingdom_1_lady_16|爱 丽 舍 女 士　
+trp_kingdom_1_lady_16_pl|爱 丽 舍　
+trp_kingdom_1_lady_17|乔 安 娜 女 士　
+trp_kingdom_1_lady_17_pl|乔 安 娜　
+trp_kingdom_1_lady_18|玻 娜 图 丝 女 士　
+trp_kingdom_1_lady_18_pl|玻 娜 图 丝　
+trp_kingdom_1_lady_19|安 瑞 卡 塔 女 士　
+trp_kingdom_1_lady_19_pl|安 瑞 卡 塔　
+trp_kingdom_1_lady_20|佳 艾 塔 女 士　
+trp_kingdom_1_lady_20_pl|佳 艾 塔　
+trp_kingdom_2_lady_1|朱 丽 莎 女 士　
+trp_kingdom_2_lady_1_pl|朱 丽 莎　
+trp_kingdom_2_lady_2|凯 提 亚 女 士　
+trp_kingdom_2_lady_2_pl|凯 提 亚　
+trp_kingdom_2_lady_3|瑟 欧 密 斯 女 士　
+trp_kingdom_2_lady_3_pl|瑟 欧 密 斯　
+trp_kingdom_2_lady_4|德 瑞 娜 女 士　
+trp_kingdom_2_lady_4_pl|德 瑞 娜　
+trp_kingdom_2_lady_5|内 莎 女 士　
+trp_kingdom_2_lady_5_pl|内 莎　
+trp_kingdom_2_lady_6|塔 芭 提 女 士　
+trp_kingdom_2_lady_6_pl|塔 芭 提　
+trp_kingdom_2_lady_7|佩 尔 卡 女 士　
+trp_kingdom_2_lady_7_pl|佩 尔 卡　
+trp_kingdom_2_lady_8|海 瑞 丝 女 士　
+trp_kingdom_2_lady_8_pl|海 瑞 丝　
+trp_kingdom_2_lady_9|法 耶 女 士　
+trp_kingdom_2_lady_9_pl|法 耶　
+trp_kingdom_2_lady_10|约 卡 女 士　
+trp_kingdom_2_lady_10_pl|约 卡　
+trp_kingdom_2_lady_11|特 吉 娜 女 士　
+trp_kingdom_2_lady_11_pl|特 吉 娜　
+trp_kingdom_2_lady_12|奥 克 莎 女 士　
+trp_kingdom_2_lady_12_pl|奥 克 莎　
+trp_kingdom_2_lady_13|玛 塔 女 士　
+trp_kingdom_2_lady_13_pl|玛 塔　
+trp_kingdom_2_lady_14|安 吉 丽 娜 女 士　
+trp_kingdom_2_lady_14_pl|安 吉 丽 娜　
+trp_kingdom_2_lady_15|瑟 帕 纳 女 士　
+trp_kingdom_2_lady_15_pl|瑟 帕 纳　
+trp_kingdom_2_lady_16|艾 瑞 纳 女 士　
+trp_kingdom_2_lady_16_pl|艾 瑞 纳　
+trp_kingdom_2_lady_17|丝 哈 维 女 士　
+trp_kingdom_2_lady_17_pl|丝 哈 维　
+trp_kingdom_2_lady_18|艾 瑞 琦 娜 女 士　
+trp_kingdom_2_lady_18_pl|艾 瑞 琦 娜　
+trp_kingdom_2_lady_19|塔 玛 女 士　
+trp_kingdom_2_lady_19_pl|塔 玛　
+trp_kingdom_2_lady_20|沃 卡 女 士　
+trp_kingdom_2_lady_20_pl|沃 卡　
+trp_kingdom_3_lady_1|宝 格 女 士　
+trp_kingdom_3_lady_1_pl|宝 格　
+trp_kingdom_3_lady_2|图 安 女 士　
+trp_kingdom_3_lady_2_pl|图 安　
+trp_kingdom_3_lady_3|玛 拉 兹 女 士　
+trp_kingdom_3_lady_3_pl|玛 拉 兹　
+trp_kingdom_3_lady_4|艾 苏 女 士　
+trp_kingdom_3_lady_4_pl|艾 苏　
+trp_kingdom_3_lady_5|拉 薇 女 士　
+trp_kingdom_3_lady_5_pl|拉 薇　
+trp_kingdom_3_lady_6|露 哈 女 士　
+trp_kingdom_3_lady_6_pl|露 哈　
+trp_kingdom_3_lady_7|科 迪 娜 女 士　
+trp_kingdom_3_lady_7_pl|科 迪 娜　
+trp_kingdom_3_lady_8|科 菲 女 士　
+trp_kingdom_3_lady_8_pl|科 菲　
+trp_kingdom_3_lady_9|妮 瑞 兹 女 士　
+trp_kingdom_3_lady_9_pl|妮 瑞 兹　
+trp_kingdom_3_lady_10|杜 露 女 士　
+trp_kingdom_3_lady_10_pl|杜 露　
+trp_kingdom_3_lady_11|舍 丽 科 女 士　
+trp_kingdom_3_lady_11_pl|舍 丽 科　
+trp_kingdom_3_lady_12|塔 拉 塔 女 士　
+trp_kingdom_3_lady_12_pl|塔 拉 塔　
+trp_kingdom_3_lady_13|雅 斯 瑞 女 士　
+trp_kingdom_3_lady_13_pl|雅 斯 瑞　
+trp_kingdom_3_lady_14|娜 哈 女 士　
+trp_kingdom_3_lady_14_pl|娜 哈　
+trp_kingdom_3_lady_15|泽 努 女 士　
+trp_kingdom_3_lady_15_pl|泽 努　
+trp_kingdom_3_lady_16|阿 吉 斯 女 士　
+trp_kingdom_3_lady_16_pl|阿 吉 斯　
+trp_kingdom_3_lady_17|安 亚 汗 女 士　
+trp_kingdom_3_lady_17_pl|安 亚 汗　
+trp_kingdom_3_lady_18|库 塔 拉 女 士　
+trp_kingdom_3_lady_18_pl|库 塔 拉　
+trp_kingdom_3_lady_19|辛 黛 尔 女 士　
+trp_kingdom_3_lady_19_pl|辛 黛 尔　
+trp_kingdom_3_lady_20|玛 歇 特 女 士　
+trp_kingdom_3_lady_20_pl|玛 歇 特　
+trp_kingdom_4_lady_1|佳 德 丝 女 士　
+trp_kingdom_4_lady_1_pl|佳 德 丝　
+trp_kingdom_4_lady_2|米 艾 女 士　
+trp_kingdom_4_lady_2_pl|米 艾　
+trp_kingdom_4_lady_3|卓 娜 女 士　
+trp_kingdom_4_lady_3_pl|卓 娜　
+trp_kingdom_4_lady_4|纲 德 女 士　
+trp_kingdom_4_lady_4_pl|纲 德　
+trp_kingdom_4_lady_5|罗 卡 女 士　
+trp_kingdom_4_lady_5_pl|罗 卡　
+trp_kingdom_4_lady_6|玻 瑞 女 士　
+trp_kingdom_4_lady_6_pl|玻 瑞　
+trp_kingdom_4_lady_7|伊 瑞 女 士　
+trp_kingdom_4_lady_7_pl|伊 瑞　
+trp_knight_4_2b_daughter_1|特 拉 女 士　
+trp_knight_4_2b_daughter_1_pl|特 拉　
+trp_kingdom_4_lady_9|辛 德 女 士　
+trp_kingdom_4_lady_9_pl|辛 德　
+trp_knight_4_2c_wife_1|恩 葛 瑞 德 女 士　
+trp_knight_4_2c_wife_1_pl|恩 葛 瑞 德　
+trp_kingdom_4_lady_11|赫 亚 丝 女 士　
+trp_kingdom_4_lady_11_pl|赫 亚 丝　
+trp_knight_4_2c_daughter|丝 薇 普 女 士　
+trp_knight_4_2c_daughter_pl|丝 薇 普　
+trp_knight_4_1b_wife|英 甘 恩 女 士　
+trp_knight_4_1b_wife_pl|英 甘 恩　
+trp_kingdom_4_lady_14|卡 特 丽 女 士　
+trp_kingdom_4_lady_14_pl|卡 特 丽　
+trp_knight_4_1b_daughter|埃 丽 芙 女 士　
+trp_knight_4_1b_daughter_pl|埃 丽 芙　
+trp_knight_4_2b_daughter_2|古 德 瑞 女 士　
+trp_knight_4_2b_daughter_2_pl|古 德 瑞　
+trp_kingdom_4_lady_17|波 吉 特 女 士　
+trp_kingdom_4_lady_17_pl|波 吉 特　
+trp_knight_4_2c_wife_2|艾 莎 女 士　
+trp_knight_4_2c_wife_2_pl|艾 莎　
+trp_knight_4_1c_daughter|艾 弗 瑞 女 士　
+trp_knight_4_1c_daughter_pl|艾 弗 瑞　
+trp_kingdom_4_lady_20|艾 菲 德 女 士　
+trp_kingdom_4_lady_20_pl|艾 菲 德　
+trp_kingdom_5_lady_1|布 瑞 娜 女 士　
+trp_kingdom_5_lady_1_pl|布 瑞 娜　
+trp_kingdom_5_lady_2|阿 琳 娜 女 士　
+trp_kingdom_5_lady_2_pl|阿 琳 娜　
+trp_kingdom_5_lady_3|阿 拉 丝 女 士　
+trp_kingdom_5_lady_3_pl|阿 拉 丝　
+trp_kingdom_5_lady_4|瑞 德 女 士　
+trp_kingdom_5_lady_4_pl|瑞 德　
+trp_kingdom_5_5_wife|萨 拉 藤 女 士　
+trp_kingdom_5_5_wife_pl|萨 拉 藤　
+trp_kingdom_5_2b_wife_1|波 特 艾 女 士　
+trp_kingdom_5_2b_wife_1_pl|波 特 艾　
+trp_kingdom_5_1c_daughter_1|艾 伦 达 女 士　
+trp_kingdom_5_1c_daughter_1_pl|艾 伦 达　
+trp_kingdom_5_2c_daughter_1|莫 瑞 丝 德 女 士　
+trp_kingdom_5_2c_daughter_1_pl|莫 瑞 丝 德　
+trp_kingdom_5_1c_wife_1|艾 德 丽 萨 女 士　
+trp_kingdom_5_1c_wife_1_pl|艾 德 丽 萨　
+trp_kingdom_5_2c_wife_1|卡 拉 提 娜 女 士　
+trp_kingdom_5_2c_wife_1_pl|卡 拉 提 娜　
+trp_kingdom_5_1c_daughter_2|弗 贝 萨 女 士　
+trp_kingdom_5_1c_daughter_2_pl|弗 贝 萨　
+trp_kingdom_5_2c_daughter_2|卡 劳 朵 拉 女 士　
+trp_kingdom_5_2c_daughter_2_pl|卡 劳 朵 拉　
+trp_kingdom_5_1b_wife|安 娜 丝 女 士　
+trp_kingdom_5_1b_wife_pl|安 娜 丝　
+trp_kingdom_5_2b_wife_2|密 瑞 雅 女 士　
+trp_kingdom_5_2b_wife_2_pl|密 瑞 雅　
+trp_kingdom_5_1c_daughter_3|安 格 飒 女 士　
+trp_kingdom_5_1c_daughter_3_pl|安 格 飒　
+trp_kingdom_5_lady_16|格 内 拉 女 士　
+trp_kingdom_5_lady_16_pl|格 内 拉　
+trp_kingdom_5_1c_wife_2|戈 雯 艾 女 士　
+trp_kingdom_5_1c_wife_2_pl|戈 雯 艾　
+trp_kingdom_5_2c_wife_2|依 苏 特 女 士　
+trp_kingdom_5_2c_wife_2_pl|依 苏 特　
+trp_kingdom_5_1c_daughter_4|艾 琳 娜 女 士　
+trp_kingdom_5_1c_daughter_4_pl|艾 琳 娜　
+trp_kingdom_5_lady_20|缇 默 特 女 士　
+trp_kingdom_5_lady_20_pl|缇 默 特　
+trp_town_1_seneschal_chest|领 主 管 家 莱 斯 · 布 拉 尼 加 
+trp_town_1_seneschal_chest_pl|城 市 1管 家 
+trp_town_2_seneschal_chest|领 主 管 家 艾 斯 比 约 恩 · 碧 亚 尔 奇 
+trp_town_2_seneschal_chest_pl|城 市 2管 家 
+trp_town_3_seneschal_chest|高 级 管 家 哈 利 斯 
+trp_town_3_seneschal_chest_pl|城 市 3管 家 
+trp_town_4_seneschal_chest|管 家 巴 里 根 
+trp_town_4_seneschal_chest_pl|城 市 4管 家 
+trp_town_5_seneschal_chest|高 级 管 家 卡 西 乌 斯 
+trp_town_5_seneschal_chest_pl|城 市 4管 家 
+trp_town_6_seneschal_chest|管 家 摩 帝 甘 
+trp_town_6_seneschal_chest_pl|城 市 6管 家 
+trp_town_7_seneschal_chest|管 家 沙 莱 多 
+trp_town_7_seneschal_chest_pl|城 市 7管 家 
+trp_town_8_seneschal_chest|管 家 波 根 
+trp_town_8_seneschal_chest_pl|城 市 8管 家 
+trp_town_9_seneschal_chest|管 家 阿 尔 杜 勒 夫 
+trp_town_9_seneschal_chest_pl|城 市 9管 家 
+trp_town_10_seneschal_chest|管 家 阿 巴 斯 
+trp_town_10_seneschal_chest_pl|城 市 10管 家 
+trp_town_11_seneschal_chest|管 家 盖 尔 伍 夫 
+trp_town_11_seneschal_chest_pl|城 市 11管 家 
+trp_town_12_seneschal_chest|领 主 管 家 伊 瓦 尔 独 耳 
+trp_town_12_seneschal_chest_pl|城 市 12管 家 
+trp_town_13_seneschal_chest|管 家 由 利 达 尔 
+trp_town_13_seneschal_chest_pl|城 市 13管 家 
+trp_town_14_seneschal_chest|管 家 纳 林 
+trp_town_14_seneschal_chest_pl|城 市 14管 家 
+trp_town_15_seneschal_chest|高 级 管 家 萨 维 斯 
+trp_town_15_seneschal_chest_pl|城 市 15管 家 
+trp_town_16_seneschal_chest|管 家 威 顿 
+trp_town_16_seneschal_chest_pl|城 市 16管 家 
+trp_town_17_seneschal_chest|管 家 比 利 
+trp_town_17_seneschal_chest_pl|城 市 17管 家 
+trp_town_18_seneschal_chest|管 家 乌 鲁 加 宾 
+trp_town_18_seneschal_chest_pl|城 市 18管 家 
+trp_town_1_seneschal|领 主 管 家 莱 斯 布 拉 尼 加 
+trp_town_1_seneschal_pl|城 市 1管 家 
+trp_town_2_seneschal|领 主 管 家 格 罗 根 戴 尔 
+trp_town_2_seneschal_pl|城 市 2管 家 
+trp_town_3_seneschal|高 级 管 家 哈 利 斯 
+trp_town_3_seneschal_pl|城 市 3管 家 
+trp_town_4_seneschal|管 家 巴 里 根 
+trp_town_4_seneschal_pl|城 市 4管 家 
+trp_town_5_seneschal|高 级 管 家 卡 西 乌 斯 
+trp_town_5_seneschal_pl|城 市 4管 家 
+trp_town_6_seneschal|管 家 摩 帝 甘 
+trp_town_6_seneschal_pl|城 市 6管 家 
+trp_town_7_seneschal|管 家 沙 莱 多 
+trp_town_7_seneschal_pl|城 市 7管 家 
+trp_town_8_seneschal|管 家 波 根 
+trp_town_8_seneschal_pl|城 市 8管 家 
+trp_town_9_seneschal|管 家 阿 尔 杜 勒 夫 
+trp_town_9_seneschal_pl|城 市 9管 家 
+trp_town_10_seneschal|管 家 阿 巴 斯 
+trp_town_10_seneschal_pl|城 市 10管 家 
+trp_town_11_seneschal|管 家 盖 尔 伍 夫 
+trp_town_11_seneschal_pl|城 市 11管 家 
+trp_town_12_seneschal|领 主 管 家 伊 瓦 尔 独 耳 
+trp_town_12_seneschal_pl|城 市 12管 家 
+trp_town_13_seneschal|管 家 由 利 达 尔 
+trp_town_13_seneschal_pl|城 市 13管 家 
+trp_town_14_seneschal|管 家 纳 林 
+trp_town_14_seneschal_pl|城 市 14管 家 
+trp_town_15_seneschal|高 级 管 家 萨 维 斯 
+trp_town_15_seneschal_pl|城 市 15管 家 
+trp_town_16_seneschal|管 家 威 顿 
+trp_town_16_seneschal_pl|城 市 16管 家 
+trp_town_17_seneschal|管 家 比 利 
+trp_town_17_seneschal_pl|城 市 17管 家 
+trp_town_18_seneschal|管 家 乌 鲁 加 宾 
+trp_town_18_seneschal_pl|城 市 18管 家 
+trp_castle_1_seneschal|高 级 管 家 贡 纳 
+trp_castle_1_seneschal_pl|城 堡 1管 家 
+trp_castle_2_seneschal|管 家 卡 丹 
+trp_castle_2_seneschal_pl|城 堡 2管 家 
+trp_castle_3_seneschal|管 家 富 尔 伯 特 
+trp_castle_3_seneschal_pl|城 堡 3管 家 
+trp_castle_4_seneschal|管 家 辛 克 马 尔 
+trp_castle_4_seneschal_pl|城 堡 4管 家 
+trp_castle_5_seneschal|领 主 管 家 哈 梅 伦 
+trp_castle_5_seneschal_pl|城 堡 5管 家 
+trp_castle_6_seneschal|管 家 雷 吉 纳 
+trp_castle_6_seneschal_pl|城 堡 6管 家 
+trp_castle_7_seneschal|管 家 崔 尔 
+trp_castle_7_seneschal_pl|城 堡 7管 家 
+trp_castle_8_seneschal|管 家 墨 洛 维 
+trp_castle_8_seneschal_pl|城 堡 8管 家 
+trp_castle_9_seneschal|高 级 管 家 阿 克 齐 乌 斯 
+trp_castle_9_seneschal_pl|城 堡 9管 家 
+trp_castle_10_seneschal|领 主 管 家 吉 安 
+trp_castle_10_seneschal_pl|城 堡 10管 家 
+trp_castle_11_seneschal|领 主 管 家 查 尔 
+trp_castle_11_seneschal_pl|城 堡 11管 家 
+trp_castle_12_seneschal|领 主 管 家 托 巴 
+trp_castle_12_seneschal_pl|城 堡 12管 家 
+trp_castle_13_seneschal|管 家 布 鲁 尔 
+trp_castle_13_seneschal_pl|城 堡 13管 家 
+trp_castle_14_seneschal|高 级 管 家 艾 尤 斯 
+trp_castle_14_seneschal_pl|城 堡 14管 家 
+trp_castle_15_seneschal|高 级 管 家 盖 尤 斯 
+trp_castle_15_seneschal_pl|城 堡 15管 家 
+trp_castle_16_seneschal|高 级 管 家 卢 修 斯 
+trp_castle_16_seneschal_pl|城 堡 16管 家 
+trp_castle_17_seneschal|管 家 奥 尔 杜 
+trp_castle_17_seneschal_pl|城 堡 17管 家 
+trp_castle_18_seneschal|管 家 莱 奥 德 伽 尔 
+trp_castle_18_seneschal_pl|城 堡 18管 家 
+trp_castle_19_seneschal|管 家 利 奥 弗 罗 伊 
+trp_castle_19_seneschal_pl|城 堡 19管 家 
+trp_castle_20_seneschal|管 家 里 斯 
+trp_castle_20_seneschal_pl|城 堡 20管 家 
+trp_castle_21_seneschal|高 级 管 家 阿 布 契 乌 斯 
+trp_castle_21_seneschal_pl|城 堡 21管 家 
+trp_castle_22_seneschal|管 家 门 古 
+trp_castle_22_seneschal_pl|城 堡 22管 家 
+trp_castle_23_seneschal|管 家 桀 斯 因 
+trp_castle_23_seneschal_pl|城 堡 23管 家 
+trp_castle_24_seneschal|管 家 戴 维 兹 
+trp_castle_24_seneschal_pl|城 堡 24管 家 
+trp_castle_25_seneschal|管 家 莱 维 莲 
+trp_castle_25_seneschal_pl|城 堡 25管 家 
+trp_castle_26_seneschal|管 家 杰 利 沃 德 
+trp_castle_26_seneschal_pl|城 堡 26管 家 
+trp_castle_27_seneschal|管 家 多 沃 思 
+trp_castle_27_seneschal_pl|城 堡 27管 家 
+trp_castle_28_seneschal|高 级 管 家 阿 米 安 
+trp_castle_28_seneschal_pl|城 堡 28管 家 
+trp_castle_29_seneschal|管 家 布 拉 尔 夫 
+trp_castle_29_seneschal_pl|城 堡 29管 家 
+trp_castle_30_seneschal|管 家 塞 尔 恩 
+trp_castle_30_seneschal_pl|城 堡 30管 家 
+trp_castle_31_seneschal|管 家 艾 尼 恩 
+trp_castle_31_seneschal_pl|城 堡 31管 家 
+trp_castle_32_seneschal|领 主 管 家 托 马 斯 
+trp_castle_32_seneschal_pl|城 堡 32管 家 
+trp_castle_33_seneschal|高 级 管 家 塞 普 帝 默 斯 
+trp_castle_33_seneschal_pl|城 堡 33管 家 
+trp_castle_34_seneschal|领 主 管 家 奥 提 
+trp_castle_34_seneschal_pl|城 堡 34管 家 
+trp_castle_35_seneschal|管 家 马 多 克 
+trp_castle_35_seneschal_pl|城 堡 35管 家 
+trp_castle_36_seneschal|领 主 管 家 辛 戴 尔 
+trp_castle_36_seneschal_pl|城 堡 36管 家 
+trp_castle_37_seneschal|管 家 阿 尔 伯 里 克 
+trp_castle_37_seneschal_pl|城 堡 37管 家 
+trp_castle_38_seneschal|管 家 澈 阿 哈 台 
+trp_castle_38_seneschal_pl|城 堡 38管 家 
+trp_castle_39_seneschal|管 家 巴 乌 高 夫 
+trp_castle_39_seneschal_pl|城 堡 39管 家 
+trp_castle_40_seneschal|管 家 察 合 台 
+trp_castle_40_seneschal_pl|城 堡 40管 家 
+trp_town_1_arena_master|瑟 吉 蒙 德 
+trp_town_1_arena_master_pl|竞 技 场 老 板 
+trp_town_2_arena_master|哈 凡 蒂 尔 
+trp_town_2_arena_master_pl|竞 技 场 老 板 
+trp_town_3_arena_master|多 里 甘 
+trp_town_3_arena_master_pl|竞 技 场 老 板 
+trp_town_4_arena_master|冈 特 先 生 
+trp_town_4_arena_master_pl|竞 技 场 老 板 
+trp_town_5_arena_master|欧 兰 先 生 
+trp_town_5_arena_master_pl|竞 技 场 老 板 
+trp_town_6_arena_master|芬 灵 
+trp_town_6_arena_master_pl|竞 技 场 老 板 
+trp_town_7_arena_master|伊 萨 多 
+trp_town_7_arena_master_pl|竞 技 场 老 板 
+trp_town_8_arena_master|柏 达 尔 
+trp_town_8_arena_master_pl|竞 技 场 老 板 
+trp_town_9_arena_master|潘 贾 斯 特
+trp_town_9_arena_master_pl|竞 技 场 老 板 
+trp_town_10_arena_master|唐 德 瑞 克 
+trp_town_10_arena_master_pl|竞 技 场 老 板 
+trp_town_11_arena_master|奎 桑 
+trp_town_11_arena_master_pl|竞 技 场 老 板 
+trp_town_12_arena_master|鲍 里 斯 
+trp_town_12_arena_master_pl|竞 技 场 老 板 
+trp_town_13_arena_master|波 松 
+trp_town_13_arena_master_pl|竞 技 场 老 板 
+trp_town_14_arena_master|罗 鲁 斯 
+trp_town_14_arena_master_pl|竞 技 场 老 板 
+trp_town_15_arena_master|威 斯 
+trp_town_15_arena_master_pl|竞 技 场 老 板 
+trp_town_16_arena_master|古 尔 曼 
+trp_town_16_arena_master_pl|竞 技 场 老 板 
+trp_town_17_arena_master|瑞 格 森 
+trp_town_17_arena_master_pl|竞 技 场 老 板 
+trp_town_18_arena_master|迈 纳 吞 
+trp_town_18_arena_master_pl|竞 技 场 老 板 
+trp_town_1_armorer|安 斯 顿 
+trp_town_1_armorer_pl|安 斯 顿 
+trp_town_2_armorer|布 伦 希 尔 达 
+trp_town_2_armorer_pl|布 伦 希 尔 达 
+trp_town_3_armorer|卡 洛 克 
+trp_town_3_armorer_pl|防 具 商 人 
+trp_town_4_armorer|德 罗 姆 
+trp_town_4_armorer_pl|防 具 商 人 
+trp_town_5_armorer|艾 纳 尔 
+trp_town_5_armorer_pl|防 具 商 人 
+trp_town_6_armorer|弗 劳 德 
+trp_town_6_armorer_pl|防 具 商 人 
+trp_town_7_armorer|格 瑞 
+trp_town_7_armorer_pl|防 具 商 人 
+trp_town_8_armorer|“ 六 指 ” 哈 蒙 德 
+trp_town_8_armorer_pl|防 具 商 人 
+trp_town_9_armorer|“ 巡 林 客 ” 伊 凡 
+trp_town_9_armorer_pl|防 具 商 人 
+trp_town_10_armorer|巴 克 利 的 约 恩 
+trp_town_10_armorer_pl|防 具 商 人 
+trp_town_11_armorer|克 劳 德 
+trp_town_11_armorer_pl|防 具 商 人 
+trp_town_12_armorer|伦 纳 特 
+trp_town_12_armorer_pl|防 具 商 人 
+trp_town_13_armorer|“ 强 力 ” 莫 里 斯
+trp_town_13_armorer_pl|防 具 商 人 
+trp_town_14_armorer|“ 粉 碎 机 ” 楠
+trp_town_14_armorer_pl|防 具 商 人 
+trp_town_15_armorer|桑 托 斯 
+trp_town_15_armorer_pl|防 具 商 人 
+trp_town_16_armorer|特 洛 克 
+trp_town_16_armorer_pl|防 具 商 人 
+trp_town_17_armorer|丹 尼 逊 
+trp_town_17_armorer_pl|防 具 商 人 
+trp_town_18_armorer|瑞 莎 
+trp_town_18_armorer_pl|防 具 商 人 
+trp_town_1_weaponsmith|扎 拉 
+trp_town_1_weaponsmith_pl|武 器 商 人 
+trp_town_2_weaponsmith|瑞 斯 
+trp_town_2_weaponsmith_pl|武 器 商 人 
+trp_town_3_weaponsmith|瓦 尔 登 
+trp_town_3_weaponsmith_pl|武 器 商 人 
+trp_town_4_weaponsmith|威 利 斯 
+trp_town_4_weaponsmith_pl|武 器 商 人 
+trp_town_5_weaponsmith|瓦 拉 比 
+trp_town_5_weaponsmith_pl|武 器 商 人 
+trp_town_6_weaponsmith|雷 克 斯 伯 恩 
+trp_town_6_weaponsmith_pl|武 器 商 人 
+trp_town_7_weaponsmith|图 诺 德 
+trp_town_7_weaponsmith_pl|武 器 商 人 
+trp_town_8_weaponsmith|“ 厨 师 ” 希 娜
+trp_town_8_weaponsmith_pl|武 器 商 人 
+trp_town_9_weaponsmith|弗 莱 希 尔 
+trp_town_9_weaponsmith_pl|武 器 商 人 
+trp_town_10_weaponsmith|乌 德 拉 德 
+trp_town_10_weaponsmith_pl|武 器 商 人 
+trp_town_11_weaponsmith|“ 制 造 者 ” 安 尼 斯
+trp_town_11_weaponsmith_pl|武 器 商 人 
+trp_town_12_weaponsmith|银 木 的 约 斯 威 夫 特 
+trp_town_12_weaponsmith_pl|武 器 商 人 
+trp_town_13_weaponsmith|“ 锡 匠 ” 
+trp_town_13_weaponsmith_pl|武 器 商 人 
+trp_town_14_weaponsmith|“ 凿 斧 者 ” 哈 诺 斯 
+trp_town_14_weaponsmith_pl|武 器 商 人 
+trp_town_15_weaponsmith|哈 尔 夫 
+trp_town_15_weaponsmith_pl|武 器 商 人 
+trp_town_16_weaponsmith|布 顿 达 特 
+trp_town_16_weaponsmith_pl|武 器 商 人 
+trp_town_17_weaponsmith|卢 法 斯 
+trp_town_17_weaponsmith_pl|武 器 商 人 
+trp_town_18_weaponsmith|伯 索 斯 
+trp_town_18_weaponsmith_pl|武 器 商 人 
+trp_town_1_tavernkeeper|阿 尔 弗 烈 德 
+trp_town_1_tavernkeeper_pl|酒 馆 老 板 
+trp_town_2_tavernkeeper|“ 雄 马 ” 伯 纳 德 
+trp_town_2_tavernkeeper_pl|酒 馆 老 板 
+trp_town_3_tavernkeeper|阿 福 瑞 尔 
+trp_town_3_tavernkeeper_pl|酒 馆 老 板 
+trp_town_4_tavernkeeper|德 希 莫 兰 
+trp_town_4_tavernkeeper_pl|酒 馆 老 板 
+trp_town_5_tavernkeeper|恩 尼 瓦 尔 德 
+trp_town_5_tavernkeeper_pl|酒 馆 老 板 
+trp_town_6_tavernkeeper|“ 焰 舌 ” 菲 力 希 提 
+trp_town_6_tavernkeeper_pl|酒 馆 老 板 
+trp_town_7_tavernkeeper|厄 瑞 萨 
+trp_town_7_tavernkeeper_pl|酒 馆 老 板 
+trp_town_8_tavernkeeper|“ 破 岩 者 ” 乔 治
+trp_town_8_tavernkeeper_pl|酒 馆 老 板 
+trp_town_9_tavernkeeper|汉 娜 
+trp_town_9_tavernkeeper_pl|酒 馆 老 板 
+trp_town_10_tavernkeeper|伊 瑞 娜 
+trp_town_10_tavernkeeper_pl|酒 馆 老 板 
+trp_town_11_tavernkeeper|简 娜 
+trp_town_11_tavernkeeper_pl|酒 馆 老 板 
+trp_town_12_tavernkeeper|科 隆 纳 克 
+trp_town_12_tavernkeeper_pl|酒 馆 老 板 
+trp_town_13_tavernkeeper|拉 瑞 莎 
+trp_town_13_tavernkeeper_pl|酒 馆 老 板 
+trp_town_14_tavernkeeper|莫 瑞 斯 
+trp_town_14_tavernkeeper_pl|酒 馆 老 板 
+trp_town_15_tavernkeeper|娜 塔 莎 
+trp_town_15_tavernkeeper_pl|酒 馆 老 板 
+trp_town_16_tavernkeeper|奥 斯 玛 尔 
+trp_town_16_tavernkeeper_pl|酒 馆 老 板 
+trp_town_17_tavernkeeper|“ 甜 心 ” 皮 瑞 法 
+trp_town_17_tavernkeeper_pl|酒 馆 老 板 
+trp_town_18_tavernkeeper|奎 伊 
+trp_town_18_tavernkeeper_pl|酒 馆 老 板 
+trp_town_1_merchant|安 瑞 德 
+trp_town_1_merchant_pl|杂 货 商 人 
+trp_town_2_merchant|伯 德 哈 赤 
+trp_town_2_merchant_pl|杂 货 商 人 
+trp_town_3_merchant|布 里 汉 娜 
+trp_town_3_merchant_pl|杂 货 商 人 
+trp_town_4_merchant|霍 斯 特 
+trp_town_4_merchant_pl|杂 货 商 人 
+trp_town_5_merchant|弗 兰 尼 甘 
+trp_town_5_merchant_pl|杂 货 商 人 
+trp_town_6_merchant|阿 布 努 拉 
+trp_town_6_merchant_pl|杂 货 商 人 
+trp_town_7_merchant|希 恩 
+trp_town_7_merchant_pl|杂 货 商 人 
+trp_town_8_merchant|托 尔 甘 
+trp_town_8_merchant_pl|杂 货 商 人 
+trp_town_9_merchant|汉 尼 考 
+trp_town_9_merchant_pl|杂 货 商 人 
+trp_town_10_merchant|莫 兰 
+trp_town_10_merchant_pl|杂 货 商 人 
+trp_town_11_merchant|佩 恩 特 艾 普 
+trp_town_11_merchant_pl|杂 货 商 人 
+trp_town_12_merchant|希 格 
+trp_town_12_merchant_pl|杂 货 商 人 
+trp_town_13_merchant|萨 拉 娜 
+trp_town_13_merchant_pl|杂 货 商 人 
+trp_town_14_merchant|长 河 镇 的 毕 史 
+trp_town_14_merchant_pl|杂 货 商 人 
+trp_town_15_merchant|特 拉 格 纳 
+trp_town_15_merchant_pl|杂 货 商 人 
+trp_town_16_merchant|文 希 
+trp_town_16_merchant_pl|杂 货 商 人 
+trp_town_17_merchant|玛 祖 夫 人 
+trp_town_17_merchant_pl|杂 货 商 人 
+trp_town_18_merchant|沙 格 拉 特 
+trp_town_18_merchant_pl|杂 货 商 人 
+trp_salt_mine_merchant|哈 米 达 隆 
+trp_salt_mine_merchant_pl|哈 米 达 隆 
+trp_salt_mine_crazy|隐 士 阿 齐 兹 
+trp_salt_mine_crazy_pl|隐 士 阿 齐 兹 
+trp_town_1_horse_merchant|海 德 瑞 娜 
+trp_town_1_horse_merchant_pl|城 市 1马 贩 
+trp_town_2_horse_merchant|伊 萨 多 尔 
+trp_town_2_horse_merchant_pl|城 市 2马 贩 
+trp_town_3_horse_merchant|杰 兰 
+trp_town_3_horse_merchant_pl|城 市 3马 贩 
+trp_town_4_horse_merchant|萨 缪 尔 
+trp_town_4_horse_merchant_pl|城 市 4马 贩 
+trp_town_5_horse_merchant|卡 努 提 亚 
+trp_town_5_horse_merchant_pl|城 市 5马 贩 
+trp_town_6_horse_merchant|卡 森 先 生 
+trp_town_6_horse_merchant_pl|城 市 6马 贩 
+trp_town_7_horse_merchant|么 么 茶 
+trp_town_7_horse_merchant_pl|城 市 7马 贩 
+trp_town_8_horse_merchant|马 尼 德 
+trp_town_8_horse_merchant_pl|城 市 8马 贩 
+trp_town_9_horse_merchant|特 拉 韦 尔 
+trp_town_9_horse_merchant_pl|城 市 9马 贩 
+trp_town_10_horse_merchant|阿 格 瑞 恩 
+trp_town_10_horse_merchant_pl|城 市 10马 贩 
+trp_town_11_horse_merchant|帕 达 玛 
+trp_town_11_horse_merchant_pl|城 市 11马 贩 
+trp_town_12_horse_merchant|“ 驯 兽 师 ” 塞 缪 尔
+trp_town_12_horse_merchant_pl|城 市 12马 贩 
+trp_town_13_horse_merchant|“ 狂 野 ” 威 廉 
+trp_town_13_horse_merchant_pl|城 市 13马 贩 
+trp_town_14_horse_merchant|“ 独 臂 ” 奥 瑞 莎 
+trp_town_14_horse_merchant_pl|城 市 14马 贩 
+trp_town_15_horse_merchant|阿 萨 顿 
+trp_town_15_horse_merchant_pl|城 市 15马 贩 
+trp_town_16_horse_merchant|莫 瑞 安 先 生 
+trp_town_16_horse_merchant_pl|城 市 16马 贩 
+trp_town_17_horse_merchant|珀 巴 德 
+trp_town_17_horse_merchant_pl|城 市 17马 贩 
+trp_town_18_horse_merchant|达 兰 特 瑞 尔 
+trp_town_18_horse_merchant_pl|城 市 18马 贩 
+trp_town_1_mayor|哈 尔 · 弗 克 比 尔 德 
+trp_town_1_mayor_pl|市 长 
+trp_town_2_mayor|“ 巨 斧 ” 约 恩 
+trp_town_2_mayor_pl|市 长 
+trp_town_3_mayor|拉 尔 大 师 
+trp_town_3_mayor_pl|市 长 
+trp_town_4_mayor|托 马 斯 先 生 
+trp_town_4_mayor_pl|市 长 
+trp_town_5_mayor|萨 诺 斯 大 师 
+trp_town_5_mayor_pl|市 长 
+trp_town_6_mayor|达 维 安 先 生 
+trp_town_6_mayor_pl|市 长 
+trp_town_7_mayor|沃 尔 科 特 先 生 
+trp_town_7_mayor_pl|市 长 
+trp_town_8_mayor|文 顿 先 生 
+trp_town_8_mayor_pl|市 长 
+trp_town_9_mayor|霍 尔 登 先 生 
+trp_town_9_mayor_pl|市 长 
+trp_town_10_mayor|西 瓦 德 市 长
+trp_town_10_mayor_pl|市 长 
+trp_town_11_mayor|霍 布 鲁 克 先 生 
+trp_town_11_mayor_pl|市 长 
+trp_town_12_mayor|海 尔 吉 · 戈 德 图 夫 
+trp_town_12_mayor_pl|市 长 
+trp_town_13_mayor|奥 提 斯 先 生
+trp_town_13_mayor_pl|市 长 
+trp_town_14_mayor|艾 姆 达 尔 市 长 
+trp_town_14_mayor_pl|市 长 
+trp_town_15_mayor|昆 特 大 师
+trp_town_15_mayor_pl|市 长 
+trp_town_16_mayor|罗 伦 先 生
+trp_town_16_mayor_pl|市 长 
+trp_town_17_mayor|突 兹 尼 克 市 长 
+trp_town_17_mayor_pl|市 长 
+trp_town_18_mayor|布 扬 市 长 
+trp_town_18_mayor_pl|市 长 
+trp_village_1_elder|阿 尔 奈 德 
+trp_village_1_elder_pl|村 庄 长 老 
+trp_village_2_elder|温 顿 
+trp_village_2_elder_pl|村 庄 长 老 
+trp_village_3_elder|胡 斯 努 
+trp_village_3_elder_pl|村 庄 长 老 
+trp_village_4_elder|廓 尔 甘 
+trp_village_4_elder_pl|村 庄 长 老 
+trp_village_5_elder|艾 德 瑞 万 
+trp_village_5_elder_pl|村 庄 长 老 
+trp_village_6_elder|尚 多 尔 先 生 
+trp_village_6_elder_pl|村 庄 长 老 
+trp_village_7_elder|守 望 者 瓦 克 
+trp_village_7_elder_pl|村 庄 长 老 
+trp_village_8_elder|萨 里 斯 
+trp_village_8_elder_pl|村 庄 长 老 
+trp_village_9_elder|守 望 者 诺 拉 德 
+trp_village_9_elder_pl|村 庄 长 老 
+trp_village_10_elder|巡 林 人 芬 格 里 夫 
+trp_village_10_elder_pl|村 庄 长 老 
+trp_village_11_elder|萨 里 斯 
+trp_village_11_elder_pl|村 庄 长 老 
+trp_village_12_elder|亨 达 尔 先 生 
+trp_village_12_elder_pl|村 庄 长 老 
+trp_village_13_elder|守 望 者 奎 伊 
+trp_village_13_elder_pl|村 庄 长 老 
+trp_village_14_elder|奥 利 法 
+trp_village_14_elder_pl|村 庄 长 老 
+trp_village_15_elder|管 家 约 翰 
+trp_village_15_elder_pl|村 庄 长 老 
+trp_village_16_elder|辛 兰 
+trp_village_16_elder_pl|村 庄 长 老 
+trp_village_17_elder|托 格 纳 
+trp_village_17_elder_pl|村 庄 长 老 
+trp_village_18_elder|管 家 保 罗 
+trp_village_18_elder_pl|村 庄 长 老 
+trp_village_19_elder|守 望 者 艾 弗 伊 
+trp_village_19_elder_pl|村 庄 长 老 
+trp_village_20_elder|艾 梅 德 
+trp_village_20_elder_pl|村 庄 长 老 
+trp_village_21_elder|帖 穆 耳 汉 
+trp_village_21_elder_pl|村 庄 长 老 
+trp_village_22_elder|司 铎 伊 尔 克 霍 恩 
+trp_village_22_elder_pl|村 庄 长 老 
+trp_village_23_elder|奥 利 克 头 领 
+trp_village_23_elder_pl|村 庄 长 老 
+trp_village_24_elder|守 望 者 奥 隆 
+trp_village_24_elder_pl|村 庄 长 老 
+trp_village_25_elder|猎 人 拜 斯 
+trp_village_25_elder_pl|村 庄 长 老 
+trp_village_26_elder|梅 赫 莫 德 
+trp_village_26_elder_pl|村 庄 长 老 
+trp_village_27_elder|萨 兰 
+trp_village_27_elder_pl|村 庄 长 老 
+trp_village_28_elder|于 勒 大 师 
+trp_village_28_elder_pl|村 庄 长 老 
+trp_village_29_elder|管 家 维 尼 尔 
+trp_village_29_elder_pl|村 庄 长 老 
+trp_village_30_elder|奥 利 昂 
+trp_village_30_elder_pl|村 庄 长 老 
+trp_village_31_elder|猎 人 安 达 尔 
+trp_village_31_elder_pl|村 庄 长 老 
+trp_village_32_elder|司 铎 法 隆 
+trp_village_32_elder_pl|村 庄 长 老 
+trp_village_33_elder|莫 坎 
+trp_village_33_elder_pl|村 庄 长 老 
+trp_village_34_elder|穆 萨 
+trp_village_34_elder_pl|村 庄 长 老 
+trp_village_35_elder|守 望 者 马 拉 丹 
+trp_village_35_elder_pl|村 庄 长 老 
+trp_village_36_elder|管 家 佩 尔 
+trp_village_36_elder_pl|村 庄 长 老 
+trp_village_37_elder|海 瑞 丁 头 领 
+trp_village_37_elder_pl|村 庄 长 老 
+trp_village_38_elder|“ 跛 子 ” 胡 斯 努 
+trp_village_38_elder_pl|村 庄 长 老 
+trp_village_39_elder|守 望 者 约 斯 特 
+trp_village_39_elder_pl|村 庄 长 老 
+trp_village_40_elder|阿 岑 
+trp_village_40_elder_pl|村 庄 长 老 
+trp_village_41_elder|德 尼 高 德 
+trp_village_41_elder_pl|村 庄 长 老 
+trp_village_42_elder|伊 泽 利 尔 
+trp_village_42_elder_pl|村 庄 长 老 
+trp_village_43_elder|罗 纳 德 
+trp_village_43_elder_pl|村 庄 长 老 
+trp_village_44_elder|法 基 赫 
+trp_village_44_elder_pl|村 庄 长 老 
+trp_village_45_elder|拉 玛 
+trp_village_45_elder_pl|村 庄 长 老 
+trp_village_46_elder|约 罗 斯 
+trp_village_46_elder_pl|村 庄 长 老 
+trp_village_47_elder|罗 斯 纳 
+trp_village_47_elder_pl|村 庄 长 老 
+trp_village_48_elder|纳 沃 恩 
+trp_village_48_elder_pl|村 庄 长 老 
+trp_village_49_elder|沃 桑 
+trp_village_49_elder_pl|村 庄 长 老 
+trp_village_50_elder|桑 达 瓦 尔 
+trp_village_50_elder_pl|村 庄 长 老 
+trp_village_51_elder|瓦 达 利 安 
+trp_village_51_elder_pl|村 庄 长 老 
+trp_village_52_elder|管 家 达 利 安 斯 隆 
+trp_village_52_elder_pl|村 庄 长 老 
+trp_village_53_elder|朔 恩 坎 姆 
+trp_village_53_elder_pl|村 庄 长 老 
+trp_village_54_elder|卡 美 达 尔 
+trp_village_54_elder_pl|村 庄 长 老 
+trp_village_55_elder|守 望 者 达 尔 森 
+trp_village_55_elder_pl|村 庄 长 老 
+trp_village_56_elder|森 霍 克 
+trp_village_56_elder_pl|村 庄 长 老 
+trp_village_57_elder|管 家 霍 克 维 尔 
+trp_village_57_elder_pl|村 庄 长 老 
+trp_village_58_elder|维 布 洛 克 
+trp_village_58_elder_pl|村 庄 长 老 
+trp_village_59_elder|布 洛 克 蒙 大 师 
+trp_village_59_elder_pl|村 庄 长 老 
+trp_village_60_elder|蒙 派 拉 
+trp_village_60_elder_pl|村 庄 长 老 
+trp_village_61_elder|佩 德 兰 
+trp_village_61_elder_pl|村 庄 长 老 
+trp_village_62_elder|德 朗 顿 先 生 
+trp_village_62_elder_pl|村 庄 长 老 
+trp_village_63_elder|托 尔 曼 
+trp_village_63_elder_pl|村 庄 长 老 
+trp_village_64_elder|曼 德 拉 克 大 师 
+trp_village_64_elder_pl|村 庄 长 老 
+trp_village_65_elder|猎 人 德 拉 戈 德 
+trp_village_65_elder_pl|村 庄 长 老 
+trp_village_66_elder|高 芬 纳 大 师 
+trp_village_66_elder_pl|村 庄 长 老 
+trp_village_67_elder|芬 德 尔 
+trp_village_67_elder_pl|村 庄 长 老 
+trp_village_68_elder|德 隆 纳 先 生 
+trp_village_68_elder_pl|村 庄 长 老 
+trp_village_69_elder|达 兰 特 安 修 士 
+trp_village_69_elder_pl|村 庄 长 老 
+trp_village_70_elder|丁 克 宾 
+trp_village_70_elder_pl|村 庄 长 老 
+trp_village_71_elder|宾 纳 尔 司 铎 
+trp_village_71_elder_pl|村 庄 长 老 
+trp_village_72_elder|守 望 者 拉 班 
+trp_village_72_elder_pl|村 庄 长 老 
+trp_village_73_elder|萨 哈 凡 
+trp_village_73_elder_pl|村 庄 长 老 
+trp_village_74_elder|凡 瓦 伦 
+trp_village_74_elder_pl|村 庄 长 老 
+trp_village_75_elder|布 里 谢 巴 尔 
+trp_village_75_elder_pl|村 庄 长 老 
+trp_village_76_elder|塔 赫 贝 尔 先 生 
+trp_village_76_elder_pl|村 庄 长 老 
+trp_village_77_elder|贝 尔 布 雷 
+trp_village_77_elder_pl|村 庄 长 老 
+trp_village_78_elder|管 家 布 雷 顿 
+trp_village_78_elder_pl|村 庄 长 老 
+trp_village_79_elder|唐 德 尔 
+trp_village_79_elder_pl|村 庄 长 老 
+trp_village_80_elder|德 尔 凡 大 师 
+trp_village_80_elder_pl|村 庄 长 老 
+trp_village_81_elder|范 森 
+trp_village_81_elder_pl|村 庄 长 老 
+trp_village_82_elder|森 格 瓦 尔 
+trp_village_82_elder_pl|村 庄 长 老 
+trp_village_83_elder|高 格 瑞 姆 先 生 
+trp_village_83_elder_pl|村 庄 长 老 
+trp_village_84_elder|普 尔 迪 斯 先 生 
+trp_village_84_elder_pl|村 庄 长 老 
+trp_village_85_elder|西 弗 罗 斯 特 
+trp_village_85_elder_pl|村 庄 长 老 
+trp_village_86_elder|兰 斯 先 生 
+trp_village_86_elder_pl|村 庄 长 老 
+trp_village_87_elder|粗 壮 的 斯 蒂 芬 
+trp_village_87_elder_pl|村 庄 长 老 
+trp_village_88_elder|司 铎 维 尔 芬 
+trp_village_88_elder_pl|村 庄 长 老 
+trp_village_89_elder|芬 格 罗 夫 
+trp_village_89_elder_pl|村 庄 长 老 
+trp_village_90_elder|哈 米 达 隆 大 师 
+trp_village_90_elder_pl|村 庄 长 老 
+trp_merchants_end|merchants end 
+trp_merchants_end_pl|merchants end 
+trp_bonus_chest_1|长 歌 港 储 物 箱 
+trp_bonus_chest_1_pl|隐 藏 长 歌 港 储 物 箱 
+trp_bonus_chest_2|藏 宝 箱 
+trp_bonus_chest_2_pl|藏 宝 箱 
+trp_bonus_chest_3|光 啸 湾 储 物 箱 
+trp_bonus_chest_3_pl|隐 藏 光 啸 湾 储 物 箱 
+trp_bonus_chest_4|晓 炉 城 
+trp_bonus_chest_4_pl|隐 藏 晓 炉 城 储 物 箱 
+trp_bonus_chest_5|烈 狮 城 
+trp_bonus_chest_5_pl|隐 藏 烈 狮 城 储 物 箱 
+trp_bonus_chest_6|储 物 箱 
+trp_bonus_chest_6_pl|储 物 箱 
+trp_local_merchant|本 地 商 人 
+trp_local_merchant_pl|本 地 商 人 
+trp_tax_rebel|造 反 农 民 
+trp_tax_rebel_pl|造 反 农 民 
+trp_trainee_peasant|农 民 
+trp_trainee_peasant_pl|农 民 
+trp_fugitive|紧 张 不 安 的 人 
+trp_fugitive_pl|紧 张 不 安 的 人 
+trp_belligerent_drunk|闹 事 酒 鬼 
+trp_belligerent_drunk_pl|闹 事 酒 鬼 
+trp_hired_assassin|职 业 刺 客 
+trp_hired_assassin_pl|职 业 刺 客 
+trp_fight_promoter|相 貌 粗 野 的 人 
+trp_fight_promoter_pl|相 貌 粗 野 的 人 
+trp_spy|细 作 
+trp_spy_pl|细 作 
+trp_spy_partner|细 作 搭 档 
+trp_spy_partner_pl|细 作 搭 档 
+trp_nurse_for_lady|贴 身 女 仆 
+trp_nurse_for_lady_pl|贴 身 女 仆 
+trp_temporary_minister|首 席 大 臣 
+trp_temporary_minister_pl|首 席 大 臣 
+trp_ghost_quest_ghost_lady|幽 灵 女 士 
+trp_ghost_quest_ghost_lady_pl|幽 灵 女 士 
+trp_ghost_quest_castle_scribe|城 堡 书 记 官 
+trp_ghost_quest_castle_scribe_pl|城 堡 书 记 官 
+trp_ghost_quest_friendly_lord_mistress|莫 文 娜 夫 人 
+trp_ghost_quest_friendly_lord_mistress_pl|莫 文 娜 
+trp_quigfen|奎 格 芬 
+trp_quigfen_pl|奎 格 芬 
+trp_noldor_leader|塞 德 仁 
+trp_noldor_leader_pl|塞 德 仁 
+trp_noldor_merchant|喀 拉 诺 
+trp_noldor_merchant_pl|喀 拉 诺 
+trp_noldor_trainer|文 达 蒂 尔 
+trp_noldor_trainer_pl|文 达 蒂 尔 
+trp_noldor_recruiter|阿 兰 朵 
+trp_noldor_recruiter_pl|阿 兰 朵 
+trp_sarleon_longbowman_multiplayer_ai|斯 瓦 迪 亚 弩 手 
+trp_sarleon_longbowman_multiplayer_ai_pl|斯 瓦 迪 亚 弩 手 
+trp_sarleon_arm_footman_multiplayer_ai|斯 瓦 迪 亚 步 兵 
+trp_sarleon_arm_footman_multiplayer_ai_pl|斯 瓦 迪 亚 步 兵 
+trp_sarleon_manatarms_multiplayer_ai|斯 瓦 迪 亚 重 骑 兵 
+trp_sarleon_manatarms_multiplayer_ai_pl|斯 瓦 迪 亚 重 骑 兵 
+trp_rav_archer_multiplayer_ai|维 吉 亚 弓 箭 手 
+trp_rav_archer_multiplayer_ai_pl|维 吉 亚 弓 箭 手 
+trp_vaegir_spearman_multiplayer_ai|维 吉 亚 长 矛 手 
+trp_vaegir_spearman_multiplayer_ai_pl|维 吉 亚 长 矛 手 
+trp_rav_squire_multiplayer_ai|维 吉 亚 骑 手 
+trp_rav_squire_multiplayer_ai_pl|维 吉 亚 骑 手 
+trp_khergit_dismounted_lancer_multiplayer_ai|库 吉 特 下 马 枪 骑 兵 
+trp_khergit_dismounted_lancer_multiplayer_ai_pl|库 吉 特 下 马 枪 骑 兵 
+trp_dshar_noble_cavalry_multiplayer_ai|库 吉 特 骑 射 手 
+trp_dshar_noble_cavalry_multiplayer_ai_pl|库 吉 特 骑 射 手 
+trp_dshar_warrior_multiplayer_ai|库 吉 特 枪 骑 兵 
+trp_dshar_warrior_multiplayer_ai_pl|库 吉 特 枪 骑 兵 
+trp_nord_veteran_multiplayer_ai|诺 德 轻 步 兵 
+trp_nord_veteran_multiplayer_ai_pl|诺 德 轻 步 兵 
+trp_nord_scout_multiplayer_ai|诺 德 斥 侯 
+trp_nord_scout_multiplayer_ai_pl|诺 德 斥 侯 
+trp_fierd_bowman_multiplayer_ai|诺 德 弓 箭 手 
+trp_fierd_bowman_multiplayer_ai_pl|诺 德 弓 箭 手 
+trp_empire_crossbowman_multiplayer_ai|罗 多 克 弩 手 
+trp_empire_crossbowman_multiplayer_ai_pl|罗 多 克 弩 手 
+trp_empire_infantry_multiplayer_ai|罗 多 克 长 矛 手 
+trp_empire_infantry_multiplayer_ai_pl|罗 多 克 长 矛 手 
+trp_rhodok_scout_multiplayer_ai|罗 多 克 斥 侯 
+trp_rhodok_scout_multiplayer_ai_pl|罗 多 克 斥 侯 
+trp_sarleon_longbowman_multiplayer|斯 瓦 迪 亚 弩 手 
+trp_sarleon_longbowman_multiplayer_pl|斯 瓦 迪 亚 弩 手 
+trp_sarleon_arm_footman_multiplayer|斯 瓦 迪 亚 步 兵 
+trp_sarleon_arm_footman_multiplayer_pl|斯 瓦 迪 亚 步 兵 
+trp_sarleon_manatarms_multiplayer|斯 瓦 迪 亚 重 骑 兵 
+trp_sarleon_manatarms_multiplayer_pl|斯 瓦 迪 亚 重 骑 兵 
+trp_rav_archer_multiplayer|维 吉 亚 弓 箭 手 
+trp_rav_archer_multiplayer_pl|维 吉 亚 弓 箭 手 
+trp_vaegir_spearman_multiplayer|维 吉 亚 长 矛 手 
+trp_vaegir_spearman_multiplayer_pl|维 吉 亚 长 矛 手 
+trp_rav_squire_multiplayer|维 吉 亚 骑 手 
+trp_rav_squire_multiplayer_pl|维 吉 亚 骑 手 
+trp_dshar_noble_cavalry_multiplayer|库 吉 特 骑 射 手 
+trp_dshar_noble_cavalry_multiplayer_pl|库 吉 特 骑 射 手 
+trp_dshar_warrior_multiplayer|库 吉 特 枪 骑 兵 
+trp_dshar_warrior_multiplayer_pl|库 吉 特 枪 骑 兵 
+trp_fierd_bowman_multiplayer|诺 德 弓 箭 手 
+trp_fierd_bowman_multiplayer_pl|诺 德 弓 箭 手 
+trp_nord_veteran_multiplayer|诺 德 皇 家 侍 卫 
+trp_nord_veteran_multiplayer_pl|诺 德 皇 家 侍 卫 
+trp_nord_scout_multiplayer|诺 德 斥 侯 
+trp_nord_scout_multiplayer_pl|诺 德 斥 侯 
+trp_empire_crossbowman_multiplayer|罗 多 克 弩 手 
+trp_empire_crossbowman_multiplayer_pl|罗 多 克 弩 手 
+trp_empire_knight_multiplayer|罗 多 克 中 士 
+trp_empire_knight_multiplayer_pl|罗 多 克 中 士 
+trp_rhodok_horseman_multiplayer|罗 多 克 骑 手 
+trp_rhodok_horseman_multiplayer_pl|罗 多 克 骑 手 
+trp_nurse|护 士 
+trp_quick_battle_troop_1|罗 得 里 格 波 拉 冈 卡 
+trp_quick_battle_troop_1_pl|罗 得 里 格 波 拉 冈 卡 
+trp_quick_battle_troop_2|乌 塞 塔 尔 
+trp_quick_battle_troop_2_pl|乌 塞 塔 尔 
+trp_quick_battle_troop_3|荷 根 
+trp_quick_battle_troop_3_pl|荷 根 
+trp_quick_battle_troop_4|肯 拉 德 
+trp_quick_battle_troop_4_pl|肯 拉 德 
+trp_quick_battle_troop_5|瑟 沃 勒 
+trp_quick_battle_troop_5_pl|瑟 沃 勒 
+trp_quick_battle_troop_6|波 里 斯 拉 维 
+trp_quick_battle_troop_6_pl|波 里 斯 拉 维 
+trp_quick_battle_troop_7|斯 塔 罗 斯 
+trp_quick_battle_troop_7_pl|斯 塔 罗 斯 
+trp_quick_battle_troop_8|佳 玛 拉 
+trp_quick_battle_troop_8_pl|佳 玛 拉 
+trp_quick_battle_troop_9|埃 瑟 罗 德 
+trp_quick_battle_troop_9_pl|埃 瑟 罗 德 
+trp_quick_battle_troop_10|塞 尔 拉 
+trp_quick_battle_troop_10_pl|塞 尔 拉 
+trp_quick_battle_troop_11|阿 罗 格 森 德 纳 尔 
+trp_quick_battle_troop_11_pl|阿 罗 格 森 德 纳 尔 
+trp_tutorial_fighter_1|初 级 斗 士 
+trp_tutorial_fighter_1_pl|初 级 斗 士 
+trp_tutorial_fighter_2|初 级 斗 士 
+trp_tutorial_fighter_2_pl|初 级 斗 士 
+trp_tutorial_fighter_3|正 规 斗 士 
+trp_tutorial_fighter_3_pl|初 级 斗 士 
+trp_tutorial_fighter_4|资 深 斗 士 
+trp_tutorial_fighter_4_pl|初 级 斗 士 
+trp_tutorial_archer_1|弓 箭 手 
+trp_tutorial_archer_1_pl|弓 箭 手 
+trp_tutorial_master_archer|弓 箭 教 练 
+trp_tutorial_master_archer_pl|弓 箭 教 练 
+trp_tutorial_rider_1|骑 手 
+trp_tutorial_rider_2|骑 射 手 
+trp_tutorial_master_horseman|骑 术 教 练 
+trp_tutorial_master_horseman_pl|骑 术 教 练 
+trp_sarleon_merchant|烈 狮 城 商 人 
+trp_ravenstern_merchant|凛 鸦 城 商 人 
+trp_dshar_merchant|托 巴 商 人 
+trp_fierdsvain_merchant|雾 笼 城 商 人 
+trp_empire_merchant|思 源 城 商 人 
+trp_startup_merchants_end|startup merchants end 
+trp_startup_merchants_end_pl|startup merchants end 
+trp_relative_of_merchant_sarleon|商 人 姐 姐 
+trp_relative_of_merchant_ravenstern|商 人 弟 弟 
+trp_relative_of_merchant_dshar|商 人 第 三 任 妻 子 
+trp_relative_of_merchant_fierdsvain|商 人 儿 子 
+trp_relative_of_merchant_empire|商 人 女 儿 
+trp_relative_of_merchants_end|relative of merchants end 
+trp_relative_of_merchants_end_pl|relative of merchants end 
+trp_wardrobe|衣 柜 
+trp_wardrobe_pl|衣 柜 
+trp_load_detector|负 载 检 测 器 
+trp_load_detector_pl|负 载 检 测 器 
+trp_merc_leader_mettenheim|格 哈 特 大 尉 
+trp_merc_leader_mettenheim_pl|格 哈 特 
+trp_merc_leader_veccavia|特 比 利 凯 
+trp_merc_leader_veccavia_pl|特 比 利 凯 
+trp_merc_leader_barclay|“ 完 美 战 旗 ” 贝 拉 斯 科 
+trp_merc_leader_barclay_pl|贝 拉 斯 科 
+trp_merc_leader_melitine|萨 尔 诺 的 莉 迪 亚 
+trp_merc_leader_melitine_pl|莉 迪 亚 
+trp_merc_leader_marleons|掌 旗 官 格 朗 隆 
+trp_merc_leader_marleons_pl|掌 旗 官 格 朗 隆 
+trp_timothy|提 摩 西 爵 士 
+trp_timothy_pl|提 摩 西 
+trp_lothario|“ 浪 子 ” 罗 塔 里 欧 
+trp_lothario_pl|罗 塔 里 欧 
+trp_morcas|莫 卡 斯 · 维 拉 尔 爵 士
+trp_morcas_pl|莫 卡 斯 · 维 拉 尔 
+trp_firuz|厚 颜 无 耻 的 弗 鲁 兹 
+trp_firuz_pl|弗 鲁 兹 
+trp_merc_leader_jatu|“ 神 威 之 箭 ” 史 扎 哈 
+trp_merc_leader_jatu_pl|史 扎 哈 
+trp_merc_leader_merc|杰 里 尼 · 马 尔 斯 沃 
+trp_merc_leader_merc_pl|杰 里 尼 · 马 尔 斯 沃 
+trp_andy|骗 子 安 迪 
+trp_andy_pl|安 迪 
+trp_old_ruin_camp_master|伯 纳 德 
+trp_old_ruin_camp_master_pl|伯 纳 德 
+trp_old_ruin_camp_blacksmith|哈 罗 德 
+trp_old_ruin_camp_blacksmith_pl|哈 罗 德 
+trp_old_ruin_camp_vet|德 拉 许 
+trp_old_ruin_camp_vet_pl|德 拉 许 
+trp_old_ruin_camp_guard|营 地 守 卫 
+trp_old_ruin_camp_guard_pl|营 地 守 卫 
+trp_order_constable|警 备 长 瓦 兰 瑞 因 
+trp_order_constable_pl|城 市 4管 家 
+trp_order_blacksmith|马 里 廷 的 阿 列 修 斯 
+trp_order_blacksmith_pl|城 市 5管 家 
+trp_order_quartermaster|司 务 长 凯 林 
+trp_order_quartermaster_pl|城 市 6管 家 
+trp_find_item_cheat|作 弊 ！
+trp_find_item_cheat_pl|作 弊 ！
+trp_random_town_sequence|随 机 城 市 序 列 
+trp_random_town_sequence_pl|随 机 城 市 序 列 
+trp_tournament_participants|竞 技 场 选 手 
+trp_tournament_participants_pl|竞 技 场 选 手 
+trp_key_config|按 键 设 置 
+trp_key_config_pl|按 键 设 置 
+trp_elacrai_loot|艾 拉 克 莱 战 利 品 
+trp_elacrai_loot_pl|艾 拉 克 莱 战 利 品 
+trp_hero_cavalas|先 王 卡 瓦 拉 
+trp_hero_cavalas_pl|先 王 卡 瓦 拉 
+trp_cavalas_kingsman|卡 瓦 拉 国 王 近 卫 
+trp_cavalas_kingsman_pl|卡 瓦 拉 国 王 近 卫 
+trp_chimera_vanguard_knight|奇 美 拉 先 锋 骑 士 
+trp_chimera_vanguard_knight_pl|奇 美 拉 先 锋 骑 士 
+trp_chimera_knight|奇 美 拉 骑 士 
+trp_chimera_knight_pl|奇 美 拉 骑 士 
+trp_undead_infantry|亡 灵 军 团 步 兵 
+trp_undead_infantry_pl|亡 灵 军 团 步 兵 
+trp_undead_crossbowman|亡 灵 军 团 弩 手 
+trp_undead_crossbowman_pl|亡 灵 军 团 弩 手 
+trp_pendor_praetorian|敕 令 骑 士 
+trp_pendor_praetorian_pl|敕 令 骑 士 
+trp_hero_Wendiiaelf|温 蒂 尔 芙　
+trp_hero_Wendiiaelf_pl|温 蒂 尔 芙　
+trp_astraea|阿 丝 塔 莉 娅　
+trp_astraea_pl|阿 丝 塔 莉 娅　
+trp_John_Doukas|约 翰 · 杜 卡 斯　
+trp_John_Doukas_pl|约 翰 · 杜 卡 斯　
+trp_empire_condemned_prisoner|帝 国 死 囚 
+trp_empire_condemned_prisoner_pl|帝 国 死 囚 
+trp_empire_trained_condemned_prisoner|帝 国 受 训 死 囚 
+trp_empire_trained_condemned_prisoner_pl|帝 国 受 训 死 囚 
+trp_empire_picked_condemned_prisoner|帝 国 精 练 死 囚 
+trp_empire_picked_condemned_prisoner_pl|帝 国 精 练 死 囚 
+trp_hero_red_sir_actus|“ 红 爵 士 ” 阿 克 修 斯　
+trp_hero_red_sir_actus_pl|“ 红 爵 士 ” 阿 克 修 斯　
+trp_hero_heavy_halberd_knight_norman|“ 重 戟 骑 士 ” 诺 曼　
+trp_hero_heavy_halberd_knight_norman_pl|“ 重 戟 骑 士 ” 诺 曼　
+trp_hero_cold_windstorm_skien|“ 冷 风 暴 ” 希 恩　
+trp_hero_cold_windstorm_skien_pl|“ 冷 风 暴 ” 希 恩　
+trp_hero_night_stalker_dulac|“ 不 眠 者 ” 杜 拉 克　
+trp_hero_night_stalker_dulac_pl|“ 不 眠 者 ” 杜 拉 克　
+trp_hero_blademaster_terros|“ 剑 圣 ” 塔 罗 斯　
+trp_hero_blademaster_terros_pl|“ 剑 圣 ” 塔 罗 斯　
+trp_hero_lake_servant_liliea|“ 侍 湖 圣 女 ” 莉 莉 娅　
+trp_hero_lake_servant_liliea_pl|“ 侍 湖 圣 女 ”  莉 莉 娅　
+trp_hero_weirdo_helena|“ 古 怪 战 士 ” 赫 拉 娜　
+trp_hero_weirdo_helena_pl|“ 古 怪 战 士 ” 赫 拉 娜　
+trp_hero_lionherz_ritter_duncan|“ 狮 心 骑 士 ” 邓 肯　
+trp_hero_lionherz_ritter_duncan_pl|“ 狮 心 骑 士 ” 邓 肯　
+trp_hero_noldor_killer_abigail_hebrew|“ 诺 多 杀 手 ” 艾 比 盖 · 希 伯 莱　
+trp_hero_noldor_killer_abigail_hebrew_pl|“ 诺 多 杀 手 ” 艾 比 盖 · 希 伯 莱　
+trp_hero_forest_ranger_garlandow|“ 林 地 游 骑 ” 加 尔 兰 多　
+trp_hero_forest_ranger_garlandow_pl|“ 林 地 游 骑 ” 加 尔 兰 多　
+trp_hero_squadron_leader_stilico|“ 中 队 长 ” 斯 提 里 科　
+trp_hero_squadron_leader_stilico_pl|“ 中 队 长 ” 斯 提 里 科　
+trp_hero_ironlance_lucius_lucullus|“ 铁 枪 ” 卢 西 乌 斯 · 卢 库 鲁 斯　
+trp_hero_ironlance_lucius_lucullus_pl|卢 西 乌 斯 · 卢 库 鲁 斯　
+trp_hero_proficient_armini|“ 妙 手 ” 阿 尔 米 尼　
+trp_hero_proficient_armini_pl|“ 妙 手 ” 阿 尔 米 尼　
+trp_hero_speakless_camilla|“ 寡 言 者 ” 卡 弥 拉　
+trp_hero_speakless_camilla_pl|“ 寡 言 者 ” 卡 弥 拉　
+trp_hero_marshal_marcus_cicero|“ 督 阵 官 ” 马 库 斯 · 西 塞 罗　
+trp_hero_marshal_marcus_cicero_pl|“ 督 阵 官 ” 马 库 斯 · 西 塞 罗　
+trp_hero_mergen_faris|“ 远 箭 士 ” 法 里 斯　
+trp_hero_mergen_faris_pl|“ 远 箭 士 ” 法 里 斯　
+trp_hero_seeress_gigi|“ 先 知 ” 格 格 琪　
+trp_hero_seeress_gigi_pl|“ 先 知 ” 格 格 琪　
+trp_hero_eagle_eye_pampas|“ 鹰 眼 ” 潘 帕 斯　
+trp_hero_eagle_eye_pampas_pl|“ 鹰 眼 ” 潘 帕 斯　
+trp_hero_corrupted_bishop_arak_colimn|“ 堕 落 主 教 ” 阿 拉 克 列　
+trp_hero_corrupted_bishop_arak_colimn_pl|“ 堕 落 主 教 ” 阿 拉 克 列　
+trp_hero_bowl_hunter_eliman|“ 猎 肠 女 ” 伊 莱 曼　
+trp_hero_bowl_hunter_eliman_pl|“ 猎 肠 女 ” 伊 莱 曼　
+trp_hero_huscarls_captain_siguard|“ 卫 士 长 ” 西 古 尔 德　
+trp_hero_huscarls_captain_siguard_pl|“ 卫 士 长 ” 西 古 尔 德　
+trp_hero_fund_source_rich_ealth|“ 钱 袋 子 ” 里 奇 · 威 尔 斯　
+trp_hero_fund_source_rich_ealth_pl|“ 钱 袋 子 ” 里 奇 · 威 尔 斯　
+trp_hero_queen_agnus|“ 女 王 ” 阿 格 努 斯　
+trp_hero_queen_agnus_pl|“ 女 王 ” 阿 格 努 斯　
+trp_hero_axe_essvard|“ 蛮 斧 ” 艾 斯 瓦 德　
+trp_hero_axe_essvard_pl|“ 蛮 斧 ” 艾 斯 瓦 德　
+trp_hero_roaring_ulf|“ 咆 哮 ” 乌 尔 夫　
+trp_hero_roaring_ulf_pl|“ 咆 哮 ” 乌 尔 夫　
+trp_melitine_thunder_knight|马 里 廷 轰 雷 骑 士 
+trp_melitine_thunder_knight_pl|马 里 廷 轰 雷 骑 士 
+trp_viper_shadowalkers|蝮 蛇 影 袭 者 
+trp_viper_shadowalkers_pl|蝮 蛇 影 袭 者 
+trp_cobra_venomblades|眼 镜 蛇 毒 刃 手 
+trp_cobra_venomblades_pl|眼 镜 蛇 毒 刃 手 
+trp_viper_tyrant|蝮 蛇 骑 士 
+trp_viper_tyrant_pl|蝮 蛇 骑 士 
+trp_hero_euryale|尤 瑞 艾 莉　
+trp_hero_euryale_pl|尤 瑞 艾 莉　
+trp_rav_spearman|凛 鸦 境 矛 兵 
+trp_rav_spearman_pl|凛 鸦 境 矛 兵 
+trp_rav_arm_spearman|凛 鸦 境 武 装 矛 兵 
+trp_rav_arm_spearman_pl|凛 鸦 境 武 装 矛 兵 
+trp_melitine_paroikoi|马 里 廷 佃 农 
+trp_melitine_paroikoi_pl|马 里 廷 佃 农 
+trp_melitine_recruit|马 里 廷 仆 从 兵 
+trp_melitine_recruit_pl|马 里 廷 仆 从 兵 
+trp_melitine_trained_recruit|马 里 廷 资 深 仆 从 兵 
+trp_melitine_trained_recruit_pl|马 里 廷 资 深 仆 从 兵 
+trp_melitine_shield_skirmisher|马 里 廷 轻 盾 兵 
+trp_melitine_shield_skirmisher_pl|马 里 廷 轻 盾 兵 
+trp_melitine_bow_skirmisher|马 里 廷 游 击 兵 
+trp_melitine_bow_skirmisher_pl|马 里 廷 游 击 兵 
+trp_melitine_heavy_infantry|马 里 廷 重 装 步 兵 
+trp_melitine_heavy_infantry_pl|马 里 廷 重 装 步 兵 
+trp_melitine_horseman|马 里 廷 骑 手 
+trp_melitine_horseman_pl|马 里 廷 骑 手 
+trp_melitine_light_horse_archer|马 里 廷 弓 骑 兵 
+trp_melitine_light_horse_archer_pl|马 里 廷 弓 骑 兵 
+trp_melitine_heavy_archer|马 里 廷 重 装 弓 手 
+trp_melitine_heavy_archer_pl|马 里 廷 重 装 弓 手 
+trp_melitine_imperial_guard_archer|马 里 廷 禁 卫 弓 手 
+trp_melitine_imperial_guard_archer_pl|马 里 廷 禁 卫 弓 手 
+trp_melitine_nobleman|马 里 廷 贵 族 
+trp_melitine_nobleman_pl|马 里 廷 贵 族 
+trp_melitine_armed_nobleman|马 里 廷 武 装 贵 族 
+trp_melitine_armed_nobleman_pl|马 里 廷 武 装 贵 族 
+trp_melitine_knight|马 里 廷 骑 士 
+trp_melitine_knight_pl|马 里 廷 骑 士 
+trp_melitine_militia|马 里 廷 民 兵 
+trp_melitine_militia_pl|马 里 廷 民 兵 
+trp_pendor_shock_halberdier|潘 德 新 军 执 戟 队 
+trp_pendor_shock_halberdier_pl|潘 德 新 军 执 戟 队 
+trp_pendor_highlander|潘 德 新 军 巨 剑 士 
+trp_pendor_highlander_pl|潘 德 新 军 巨 剑 士 
+trp_pendor_horse_archer|潘 德 新 军 猎 骑 兵 
+trp_pendor_horse_archer_pl|潘 德 新 军 猎 骑 兵 
+trp_pendor_sapper_adv|潘 德 新 军 火 枪 手 
+trp_pendor_sapper_adv_pl|潘 德 新 军 火 枪 手 
+trp_pendor_ironside|潘 德 新 军 铁 骑 军 
+trp_pendor_ironside_pl|潘 德 新 军 铁 骑 军 
+trp_cobra_tyrant|眼 镜 蛇 骑 士 
+trp_cobra_tyrant_pl|眼 镜 蛇 骑 士 
+trp_anaconda_juggernaught|巨 蟒 超 重 装 步 兵 
+trp_anaconda_juggernaught_pl|巨 蟒 超 重 装 步 兵 
+trp_hero_stheno|丝 西 娜　
+trp_hero_stheno_pl|丝 西 娜　
+trp_veccavi_slave|菲 卡 维 亚 奴 隶 
+trp_veccavi_slave_pl|菲 卡 维 亚 奴 隶 
+trp_veccavi_slave_in_army|菲 卡 维 亚 随 军 奴 隶 
+trp_veccavi_slave_in_army_pl|菲 卡 维 亚 随 军 奴 隶 
+trp_veccavi_recruit|菲 卡 维 亚 新 兵 
+trp_veccavi_recruit_pl|菲 卡 维 亚 新 兵 
+trp_veccavi_warrior|菲 卡 维 亚 勇 士 
+trp_veccavi_warrior_pl|菲 卡 维 亚 勇 士 
+trp_veccavi_scout_horsewoman|菲 卡 维 亚 侦 查 骑 手 
+trp_veccavi_scout_horsewoman_pl|菲 卡 维 亚 侦 查 骑 手 
+trp_veccavi_manor_owner|菲 卡 维 亚 庄 园 主 
+trp_veccavi_manor_owner_pl|菲 卡 维 亚 庄 园 主 
+trp_veccavi_squire|菲 卡 维 亚 扈 从 
+trp_veccavi_squire_pl|菲 卡 维 亚 扈 从 
+trp_veccavi_court_archer|菲 卡 维 亚 宫 廷 射 手 
+trp_veccavi_court_archer_pl|菲 卡 维 亚 宫 廷 射 手 
+trp_prisoner|俘 虏 
+trp_prisoner_pl|俘 虏 
+trp_noble_prisoner|贵 族 俘 虏 
+trp_noble_prisoner_pl|贵 族 俘 虏 
+trp_prisoner_woman|女 俘 虏 
+trp_prisoner_woman_pl|女 俘 虏 
+trp_noble_prisoner_woman|贵 族 女 俘 虏 
+trp_noble_prisoner_woman_pl|贵 族 女 俘 虏 
+trp_melitine_heavy_spearman|马 里 廷 重 装 长 矛 兵 
+trp_melitine_heavy_spearman_pl|马 里 廷 重 装 长 矛 兵 
+trp_abdullah|阿 卡 杜 拉　
+trp_abdullah_pl|阿 卡 杜 拉　
+trp_walter|沃 尔 特　
+trp_walter_pl|沃 尔 特　
+trp_kay|凯 伊  
+trp_kay_pl|凯 伊  
+trp_griffon_knight_commander|狮 鹫 骑 士 长 
+trp_griffon_knight_commander_pl|狮 鹫 骑 士 长 
+trp_melitine_foreign_mercenary_cavalry|马 里 廷 外 雇 骑 兵 
+trp_melitine_foreign_mercenary_cavalry_pl|马 里 廷 外 雇 骑 兵 
+trp_melitine_foreign_mercenary_horse_archer|马 里 廷 外 雇 弓 骑 兵 
+trp_melitine_foreign_mercenary_horse_archer_pl|马 里 廷 外 雇 弓 骑 兵 
+trp_mett_recruit|梅 滕 海 姆 征 召 新 兵 
+trp_mett_recruit_pl|梅 滕 海 姆 征 召 新 兵 
+trp_mett_militia|梅 滕 海 姆 征 召 民 兵 
+trp_mett_militia_pl|梅 滕 海 姆 征 召 民 兵 
+trp_mett_trained_infantry|梅 滕 海 姆 熟 练 步 兵 
+trp_mett_trained_infantry_pl|梅 滕 海 姆 熟 练 步 兵 
+trp_mett_light_skirmisher|梅 滕 海 姆 轻 装 游 击 兵 
+trp_mett_light_skirmisher_pl|梅 滕 海 姆 轻 装 游 击 兵 
+trp_mett_tercio_nobleman|梅 滕 海 姆 菁 英 贵 族 
+trp_mett_tercio_nobleman_pl|梅 滕 海 姆 菁 英 贵 族 
+trp_mett_sword_retainer|梅 滕 海 姆 执 剑 侍 从 
+trp_mett_sword_retainer_pl|梅 滕 海 姆 执 剑 侍 从 
+trp_sarleon_sergeant|烈 狮 境 军 士 
+trp_sarleon_sergeant_pl|烈 狮 境 军 士 
+trp_mett_forlorn_triarius|梅 滕 海 姆 决 死 队 后 备 
+trp_mett_forlorn_triarius_pl|梅 滕 海 姆 决 死 队 后 备 
+trp_mett_crossbow_sergeant|梅 滕 海 姆 劲 射 军 士 
+trp_mett_crossbow_sergeant_pl|梅 滕 海 姆 劲 射 军 士 
+trp_raven_spear_knight_commander|鸦 矛 骑 士 长 
+trp_raven_spear_knight_commander_pl|鸦 矛 骑 士 长 
+trp_ebony_gauntlet_commander|乌 木 护 手 骑 士 长 
+trp_ebony_gauntlet_commander_pl|乌 木 护 手 骑 士 长 
+trp_kraken_knight_commander|克 拉 肯 战 士 长 
+trp_kraken_knight_commander_pl|克 拉 肯 战 士 长 
+trp_eventide_knight_commander|黄 昏 骑 士 长 
+trp_eventide_knight_commander_pl|黄 昏 骑 士 长 
+trp_dragon_knight_commander|龙 骑 士 长 
+trp_dragon_knight_commander_pl|龙 骑 士 长 
+trp_lion_knight_commander|狮 骑 士 长 
+trp_lion_knight_commander_pl|狮 骑 士 长 
+trp_empire_immortal_commander|帝 国 不 朽 者 军 官 
+trp_empire_immortal_commander_pl|帝 国 不 朽 者 军 官 
+trp_dshar_windrider_bey|德 夏 御 风 者 拜 伊 
+trp_dshar_windrider_bey_pl|德 夏 御 风 者 拜 伊 
+trp_dawn_knight_commander|黎 明 骑 士 长 
+trp_dawn_knight_commander_pl|黎 明 骑 士 长 
+trp_rose_knight|玫 瑰 骑 士 
+trp_rose_knight_pl|玫 瑰 骑 士 
+trp_rose_sergeant|玫 瑰 军 士 
+trp_rose_sergeant_pl|玫 瑰 军 士 
+trp_unicorn_retainer|独 角 兽 侍 从 
+trp_unicorn_retainer_pl|独 角 兽 侍 从 
+trp_laise|“ 玫 瑰 爵 士 ” 莱 斯 五 世　
+trp_laise_pl|莱 斯　
+trp_phoenix_knight_commander|凤 凰 骑 士 长 
+trp_phoenix_knight_commander_pl|凤 凰 骑 士 长 
+trp_hero_haggar|“ 三 指 ” 哈 格 
+trp_hero_haggar_pl|“ 三 指 ” 哈 格 
+trp_demonic_lord|恶 魔 领 主 
+trp_demonic_lord_pl|恶 魔 领 主 
+trp_demonic_hero|恶 魔 英 雄 
+trp_demonic_hero_pl|恶 魔 英 雄 
+trp_demonic_guard|恶 魔 守 卫 
+trp_demonic_guard_pl|恶 魔 守 卫 
+trp_demonic_vanguard|下 级 恶 魔 战 士 
+trp_demonic_vanguard_pl|下 级 恶 魔 战 士 
+trp_demonic_archer|下 级 恶 魔 弓 手 
+trp_demonic_archer_pl|下 级 恶 魔 弓 手 
+trp_bonus_chest_7|紫 电 青 霜 
+trp_bonus_chest_7_pl|紫 电 青 霜 
+trp_kingdom_4_lady_ogma|奥 格 玛 女 士　
+trp_kingdom_4_lady_ogma_pl|奥 格 玛　
+trp_new_lord_title_1|公 爵 
+trp_new_lord_title_1_pl|公 爵 
+trp_new_lord_title_2|侯 爵 
+trp_new_lord_title_2_pl|侯 爵 
+trp_new_lord_title_3|伯 爵 
+trp_new_lord_title_3_pl|伯 爵 
+trp_new_lord_title_4|子 爵 
+trp_new_lord_title_4_pl|子 爵 
+trp_new_lord_title_5|男 爵 
+trp_new_lord_title_5_pl|男 爵 
+trp_lady_valkyrie_champion|女 武 神 冠 军 
+trp_lady_valkyrie_champion_pl|女 武 神 冠 军 
+trp_falcon_knight_commander|猎 鹰 骑 士 长 
+trp_falcon_knight_commander_pl|猎 鹰 骑 士 长 
+trp_shadow_pilus_prior|暗 影 资 深 百 夫 长 
+trp_shadow_pilus_prior_pl|暗 影 资 深 百 夫 长 
+trp_shadowwolves_knight_commander|幽 影 头 狼 
+trp_shadowwolves_knight_commander_pl|幽 影 头 狼 
+trp_scorpion_elite_assassin_knight|天 蝎 精 英 刺 客 
+trp_scorpion_elite_assassin_knight_pl|天 蝎 精 英 刺 客 
+trp_clarion_elite_ranger|号 角 召 唤 精 锐 游 骑 兵 
+trp_clarion_elite_ranger_pl|号 角 召 唤 精 锐 游 骑 兵 
+trp_silvermist_ranger_commander|银 雾 游 侠 队 长 
+trp_silvermist_ranger_commander_pl|银 雾 游 侠 队 长 
+trp_radiant_cross_knight_commander|光 辉 十 字 骑 士 长 
+trp_radiant_cross_knight_commander_pl|光 辉 十 字 骑 士 长 
+trp_melitine_thunder_knight_commander|马 里 廷 轰 雷 骑 士 长 
+trp_melitine_thunder_knight_commander_pl|马 里 廷 轰 雷 骑 士 长 
+trp_veccavi_queen_guard_commander|菲 卡 维 亚 血 盟 卫 士 长 
+trp_veccavi_queen_guard_commander_pl|菲 卡 维 亚 血 盟 卫 士 长 
+trp_mett_primus_forlorn|梅 滕 海 姆 决 死 队 首 席 剑 士 
+trp_mett_primus_forlorn_pl|梅 滕 海 姆 决 死 队 首 席 剑 士 
+trp_rose_knight_commander|玫 瑰 骑 士 长 
+trp_rose_knight_commander_pl|玫 瑰 骑 士 长 
