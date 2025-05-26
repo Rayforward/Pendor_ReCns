@@ -4225,6 +4225,7 @@ dlga_arena_master_talk_3:arena_master_ask_tournaments|这 段 时 间 这 附 �
 dlga_arena_master_talk_3:arena_master_talk|我 想 在 你 们 这 里 买 走 一 些 “ 竞 技 斗 士 ” 。
 dlga_arena_master_talk:arena_master_pre_talk|我 们 这 里 有 各 种 “ 竞 技 斗 士 ” ， 但 在 此 之 前 你 应 该 先 跟 城 镇 搞 好 关 系 。
 dlga_arena_master_talk:arena_master_pre_talk.1|很 遗 憾 ， {reg63?先 生 :女 士 }， 这 项 交 易 不 被 新 的 统 治 者 允 许 。
+dlga_arena_master_talk:arena_master_pre_talk.2|{reg63?先 生 :女 士 } ， 当 你 在 队 伍 里 预 留 10个 空 位 后 我 们 再 讨 论 这 件 事 吧 。
 dlga_arena_master_talk:arena_master_talk_2|我 们 每 周 可 以 提 供 10名 “ 竞 技 斗 士 ” ， 一 共 1000第 纳 尔 ， 请 准 备 好 你 的 钱 包 。
 dlga_arena_master_talk_2:arena_master_pre_talk|成 交 ！
 dlga_arena_master_talk_2:arena_master_pre_talk.1|我 重 新 考 虑 了 一 下 ， 还 是 下 次 再 说 吧 。
