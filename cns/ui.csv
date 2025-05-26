@@ -266,7 +266,7 @@ ui_bonus_against_shields|对 盾 加 成
 ui_cant_be_used_to_block|不 能 用 来 格 挡 
 ui_troop_cant_use_item|%s ： 我 无 法 使 用 这 个 ！ 
 ui_notification_riding_skill_not_enough|骑 术 太 低 ， 不 能 骑 这 匹 马 。 
-ui_notification_requirements_not_met|技 能 或 属 性 值 太 低 ， 不 能 使 用 此 武 器 。 
+ui_notification_requirements_not_met|你 的 技 能 或 属 性 值 太 低 ， 不 能 使 用 此 装 备 。 
 ui_notification_payment_value|你 必 须 支 付 %s
 ui_notification_payment_receive_value|你 将 获 得 %s
 ui_one_handed_weapons|单 手 武 器 

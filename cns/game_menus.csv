@@ -453,11 +453,11 @@ menu_enemy_slipped_away|{s17}
 menu_total_defeat|你 不 该 看 到 这 个 … … 
 menu_permanent_damage|{s0} 
 mno_s0|{s0} 
-menu_pre_join|{s2} 正 在 进 攻 {s1} 。 你 决 定 … … 
-mno_pre_join_help_attackers|对 {s2} 施 以 援 手 
-mno_pre_join_help_defenders|对 {s1} 施 以 援 手 
+menu_pre_join|你 遭 遇 了 一 场 {s2}与 {s1}之 间 的 战 斗 。 你 决 定 要 ... 
+mno_pre_join_help_attackers|对 {s2}施 以 援 手 
+mno_pre_join_help_defenders|对 {s1}施 以 援 手 
 mno_pre_join_leave|不 卷 入 纷 争 
-menu_join_battle|你 决 定 帮 助 {s2} 对 抗 {s1} ， 我 方 合 计 将 有 {reg10}名 士 兵 参 加 战 斗 对 抗 {reg11}名 士 兵 。 
+menu_join_battle|你 决 定 帮 助 {s2}对 抗 {s1}， 我 方 合 计 将 有 {reg10}名 士 兵 参 加 战 斗 对 抗 {reg11}名 士 兵 。 
 mno_join_attack|攻 入 敌 阵 ！ 
 mno_join_order_attack|仅 让 你 的 士 兵 加 入 你 的 盟 友 
 mno_join_leave|离 开 
@@ -538,7 +538,7 @@ menu_requested_castle_granted_to_player_husband|你 的 君 主 {s3} 通 知 你
 menu_requested_castle_granted_to_another|你 的 君 主 {s3} 通 知 你 :^^我 听 说 你 很 英 勇 地 战 斗 并 把 {s2} 给 攻 下 来 了 。 你 的 胜 利 极 大 的 鼓 舞 了 我 们 。 你 说 过 你 想 要 我 把 这 个 地 方 封 给 你 ， 但 恐 怕 我 无 法 同 意 你 的 要 求 ， 因 为 你 在 我 国 内 已 经 有 了 足 够 大 的 封 地 。 所 以 我 赐 予 你 {reg6}第 纳 尔 作 为 你 的 军 费 开 支 ， 而 {s2} ， 我 把 它 封 给 {s5} 了 。 
 mno_accept_decision|接 受 你 的 君 主 的 决 定 。 
 mno_leave_faction|你 受 到 了 不 公 正 的 对 待 ！ 你 决 定 放 弃 你 对 你 君 主 所 发 的 誓 言 ！ 
-menu_requested_castle_granted_to_another_female|你 的 君 主 {s3} 通 知 你 :^^我 听 说 你 很 英 勇 地 战 斗 并 把 {s2} 给 攻 下 来 了 。 你 的 胜 利 极 大 的 鼓 舞 了 我 们 。 你 说 过 你 想 要 我 把 这 个 地 方 封 给 你 ， 但 恐 怕 我 无 法 同 意 你 的 要 求 ， 因 为 你 在 我 国 内 已 经 有 了 足 够 大 的 封 地 。 所 以 我 赐 予 你 {reg6} 第 纳 尔 作 为 你 的 军 费 开 支 ， 而 {s2} ， 我 把 它 封 给 {s5} 了 。 
+menu_requested_castle_granted_to_another_female|你 的 君 主 {s3} 通 知 你 :^^我 听 说 你 很 英 勇 地 战 斗 并 把 {s2} 给 攻 下 来 了 。 你 的 胜 利 极 大 的 鼓 舞 了 我 们 。 你 说 过 你 想 要 我 把 这 个 地 方 封 给 你 ， 但 恐 怕 我 无 法 同 意 你 的 要 求 ， 因 为 你 在 我 国 内 已 经 有 了 足 够 大 的 封 地 。 所 以 我 赐 予 你 {reg6}第 纳 尔 作 为 你 的 军 费 开 支 ， 而 {s2} ， 我 把 它 封 给 {s5} 了 。 
 menu_leave_faction|你 的 君 主 将 宣 判 你 有 罪 ， 并 没 收 你 的 土 地 与 城 堡 。 如 果 你 自 愿 交 出 你 的 土 地 与 城 堡 ， 他 也 许 会 饶 恕 你 ， 并 让 你 离 开 。 
 mno_leave_faction_give_back|放 弃 誓 言 ， 同 时 放 弃 所 有 领 地 
 mno_leave_faction_hold|放 弃 誓 言 ， 同 时 以 自 己 的 名 义 占 有 包 含 {s2} 在 内 的 土 地 
@@ -577,13 +577,13 @@ mno_village_steal_cattle|偷 一 些 牛
 mno_village_loot|抢 劫 并 夷 平 这 个 村 子 ！ 
 menu_recruit_volunteers|{s18} 
 mno_continue_not_enough_gold|钱 不 够 … … 
-mno_recruit_them|招 募 ({reg6} 第 纳 尔 )。 
+mno_recruit_them|招 募 ({reg6}第 纳 尔 )。 
 menu_village_hunt_down_fugitive_defeated|逃 犯 给 了 你 狠 狠 的 一 记 ， 你 被 击 倒 在 地 ， 意 识 一 空 ， 眼 中 陷 入 一 片 黑 暗 。 当 你 再 次 睁 开 眼 睛 的 时 候 ， 你 意 识 到 自 己 浸 泡 在 自 己 的 鲜 血 里 ， 但 幸 运 的 是 ， 你 没 有 一 处 创 伤 是 致 命 的 。 
 menu_village_infest_bandits_result|{s9} 
 menu_village_infestation_removed|经 过 足 以 令 人 传 诵 的 英 勇 的 战 斗 ， 你 和 你 的 同 伴 打 败 了 强 盗 。 这 个 村 子 再 次 安 全 了 。 经 过 他 们 的 抢 劫 以 后 ， 村 民 几 乎 没 剩 什 么 东 西 了 ， 但 他 们 还 是 拿 出 了 仅 有 的 全 部 物 资 。 
 mno_village_bandits_defeated_accept|接 受 ， 这 是 应 得 的 报 酬 
 mno_village_bandits_defeated_cont|拒 绝 ， 他 们 更 需 要 这 些 物 资 
-menu_steward_training|你 与 你 {s17} 管 家 的 会 议 已 经 准 备 好 了 。^^基 于 你 的 管 家 需 要 学 习 的 资 讯 量 来 看 ，^会 议 将 会 持 续 {reg8} 小 时 ， 同 时 要 花 费 {reg9} 第 纳 尔 。 {reg6?^^遗 憾 的 是 你 现 在 没 有 足 够 的 钱 来 举 办 这 场 会 议 … … :} 
+menu_steward_training|你 与 你 {s17} 管 家 的 会 议 已 经 准 备 好 了 。^^基 于 你 的 管 家 需 要 学 习 的 资 讯 量 来 看 ，^会 议 将 会 持 续 {reg8} 小 时 ， 同 时 要 花 费 {reg9}第 纳 尔 。 {reg6?^^遗 憾 的 是 你 现 在 没 有 足 够 的 钱 来 举 办 这 场 会 议 … … :} 
 mno_steward_training_confirm|会 议 开 始 
 mno_steward_training_decline|暂 不 举 办 
 menu_steward_training_complete|你 与 你 {s17} 管 家 的 会 议 圆 满 结 束 了 ， 他 非 常 感 谢 你 抽 出 时 间 与 他 会 面 ， 并 带 着 他 对 新 技 能 的 信 心 启 程 返 回 {reg9?城 堡 :他 的 家 } 了 。 
@@ -628,7 +628,7 @@ mno_center_build_organized_guilds|组 建 公 会
 mno_center_build_lamplighters|雇 佣 灯 夫 
 mno_center_building_thieves_guild|设 立 盗 贼 公 会 
 mno_center_building_town_crier|雇 佣 街 头 宣 告 员 
-menu_center_improve|^^建 成 影 响 :{s19}^^你 的 管 家 工 程 技 能 为 {reg2} 级 ， 他 预 计 {reg7?修 理 :建 造 } {s4} 要 花 {reg5} 第 纳 尔 ， 并 需 要 {reg6} 天 。 
+menu_center_improve|^^建 成 影 响 :{s19}^^你 的 管 家 工 程 技 能 为 {reg2} 级 ， 他 预 计 {reg7?修 理 :建 造 } {s4} 要 花 {reg5}第 纳 尔 ， 并 需 要 {reg6} 天 。 
 mno_improve_cont|继 续 
 mno_improve_not_enough_gold|没 钱 … … 
 menu_town_bandits_failed|{s4} {s5} 
@@ -646,7 +646,7 @@ mno_village_raid_attack|镇 压 他 们
 mno_village_raid_leave|离 开 
 menu_village_loot_no_resist|村 民 们 在 你 的 军 队 前 望 风 而 逃 ， 村 庄 由 你 控 制 了 。 
 mno_village_loot_raze|抢 劫 并 夷 平 这 个 村 子 ！ 
-menu_village_loot_complete|在 你 的 命 令 下 ， 你 的 队 伍 洗 劫 了 这 个 村 子 ， 抢 走 了 所 有 值 钱 的 东 西 ， 将 所 有 的 房 子 付 之 一 炬 。 除 了 物 资 ， 还 有 些 值 钱 的 东 西 和 货 币 ， 你 分 到 了 {reg1} 第 纳 尔 。 
+menu_village_loot_complete|在 你 的 命 令 下 ， 你 的 队 伍 洗 劫 了 这 个 村 子 ， 抢 走 了 所 有 值 钱 的 东 西 ， 将 所 有 的 房 子 付 之 一 炬 。 除 了 物 资 ， 还 有 些 值 钱 的 东 西 和 货 币 ， 你 分 到 了 {reg1}第 纳 尔 。 
 menu_village_loot_defeat|村 民 们 以 极 大 的 勇 气 和 决 心 ， 团 结 一 致 ， 赶 跑 了 你 的 军 队 。 
 menu_village_loot_continue|你 还 想 继 续 洗 劫 这 个 村 子 吗 ？ 
 mno_disembark_yes|是 的 
@@ -749,7 +749,7 @@ mno_visit_lady_6|拜 访 {s12}
 mno_visit_lady_7|拜 访 {s12} 
 mno_visit_lady_8|拜 访 {s12} 
 menu_town_tournament_lost|你 在 竞 技 大 赛 中 被 淘 汰 了 。{s8} 
-menu_town_tournament_won|你 在 {s3} 的 竞 技 大 赛 中 获 得 了 胜 利 ！ 听 到 周 围 的 人 们 高 呼 着 你 的 名 字 ， 你 感 到 无 限 荣 耀 。 除 此 之 外 ， 你 还 获 得 了 {reg9} 第 纳 尔 的 奖 金 。 {s8} 
+menu_town_tournament_won|你 在 {s3} 的 竞 技 大 赛 中 获 得 了 胜 利 ！ 听 到 周 围 的 人 们 高 呼 着 你 的 名 字 ， 你 感 到 无 限 荣 耀 。 除 此 之 外 ， 你 还 获 得 了 {reg9}第 纳 尔 的 奖 金 。 {s8} 
 menu_town_tournament_won_by_another|作 为 最 后 的 赢 家 ， {s1} 赢 得 了 该 场 竞 技 大 赛 的 奖 金 以 及 荣 耀 。 
 menu_town_tournament|{s1} 你 现 在 处 于 竞 技 大 赛 中 的 第 {reg0} 轮 ， 还 剩 下 {reg1} 名 参 与 者 。 下 一 轮 中 ， 将 会 有 {reg2} 队 ， 其 中 每 队 有 {reg3} 人 参 加 战 斗 。 
 mno_tournament_bet|在 自 己 身 上 下 注 
@@ -759,26 +759,26 @@ mno_leave_tournament|从 竞 技 大 赛 中 退 出
 menu_tournament_withdraw_verify|你 确 认 要 从 竞 技 大 赛 中 退 出 吗 ？ 
 mno_tournament_withdraw_yes|是 的 ， 这 是 毫 无 希 望 的 努 力 。 
 mno_tournament_withdraw_no|不 ， 只 要 还 有 一 丝 机 会 取 得 胜 利 就 不 能 放 弃 ！ 
-menu_tournament_bet|现 在 的 赔 率 是 {reg5} 比 {reg6} 。 {reg1?你 已 经 在 自 己 身 上 下 了 {reg1} 第 纳 尔 的 赌 注 ， 如 果 你 获 得 胜 利 的 话 ， 你 将 会 赢 得 {reg2} 第 纳 尔 。 :} 你 还 想 再 押 注 多 少 ？ 
+menu_tournament_bet|现 在 的 赔 率 是 {reg5} 比 {reg6} 。 {reg1?你 已 经 在 自 己 身 上 下 了 {reg1}第 纳 尔 的 赌 注 ， 如 果 你 获 得 胜 利 的 话 ， 你 将 会 赢 得 {reg2}第 纳 尔 。 :} 你 还 想 再 押 注 多 少 ？ 
 mno_bet_500_denars|500第 纳 尔 
 mno_bet_250_denars|250第 纳 尔 
 mno_bet_100_denars|100第 纳 尔 
 mno_bet_50_denars|50第 纳 尔 
 mno_bet_25_denars|25第 纳 尔 
-menu_tournament_bet_confirm|如 果 你 下 {reg1} 第 纳 尔 的 赌 注 的 话 ， 在 你 获 得 胜 利 时 ， 你 将 会 赢 得 {reg2} 第 纳 尔 ， 这 样 可 以 吗 ？ 
+menu_tournament_bet_confirm|如 果 你 下 {reg1}第 纳 尔 的 赌 注 的 话 ， 在 你 获 得 胜 利 时 ， 你 将 会 赢 得 {reg2}第 纳 尔 ， 这 样 可 以 吗 ？ 
 mno_tournament_bet_accept|可 以 
 mno_tournament_bet_cancel|算 了 
 menu_tournament_participants|你 从 大 会 的 唱 名 者 那 里 打 听 到 了 这 场 竞 技 大 赛 中 参 与 者 的 名 单 ， 他 们 是 :^{s11} 
 menu_collect_taxes|队 员 中 最 高 交 易 技 能 为 {reg2} 级 ， 由 此 {reg3?你 预 期 :{s1} 预 期 } 需 要 {reg4} 天 来 完 成 征 税 … … 
 mno_start_collecting|开 始 征 收 
 mno_collect_later|待 会 再 说 
-menu_collect_taxes_complete|你 从{s3} 征 收 了 {reg3} 第 纳 尔 的 税 款 ， {s19} 期 待 你 把 这 些 钱 带 去 给 他 。 
-menu_collect_taxes_rebels_killed|你 迅 速 的 镇 压 了 反 抗 ， 任 何 意 图 反 抗 的 你 人 将 会 惧 怕 并 再 三 考 虑 的 。 
-menu_collect_taxes_failed|{s3} 居 民 的 反 抗 让 你 只 能 征 收 到 {reg3} 第 纳 尔 的 税 款 。 {s1} 肯 定 会 不 满 的 ， 不 过 总 比 一 点 都 没 收 到 要 好 的 多 … … 
+menu_collect_taxes_complete|你 从 {s3} 征 收 了 {reg3}第 纳 尔 的 税 款 ， {s19} 会 期 待 你 把 这 些 钱 带 去 给 他 的 。 
+menu_collect_taxes_rebels_killed|你 的 迅 速 行 动 和 有 力 手 段 成 功 平 息 了 反 抗 。 毫 无 疑 问 ， 任 何 想 反 抗 你 的 人 在 此 之 后 都 会 三 思 而 行 。 
+menu_collect_taxes_failed|{s3} 居 民 的 反 抗 让 你 只 能 征 收 到 {reg3}第 纳 尔 的 税 款 。 {s1} 肯 定 会 不 满 的 ， 不 过 总 比 一 点 都 没 收 到 要 好 的 多 … … 
 menu_collect_taxes_revolt_warning|{s3} 的 居 民 对 你 要 求 的 高 税 款 表 示 强 烈 的 义 愤 。 如 果 你 继 续 压 迫 他 们 ， 他 们 将 准 备 起 来 反 抗 。 
 mno_continue_collecting_taxes|无 视 骚 动 ， 继 续 征 税 。 
 mno_halve_taxes|同 意 减 轻 一 半 的 税 款 。 ({s1} 也 许 会 不 满 )
-menu_collect_taxes_revolt|当 你 在 {s3} 收 取 税 款 的 时 候 ， 突 然 看 见 一 大 群 愤 怒 的 {reg9?农 民 :居 民 } ， 他 们 已 经 对 你 提 出 的 高 税 率 忍 无 可 忍 ， 正 挥 舞 着 火 把 和 武 器 逐 渐 向 你 逼 近 。 看 起 来 他 们 想 和 你 打 一 架 ！
+menu_collect_taxes_revolt|当 你 在 {s3}收 取 税 款 的 时 候 ， 突 然 看 见 一 大 群 愤 怒 的 {reg9?农 民 :居 民 } ， 他 们 已 经 对 你 提 出 的 高 税 率 忍 无 可 忍 ， 正 挥 舞 着 火 把 和 武 器 逐 渐 向 你 逼 近 。 看 起 来 他 们 想 和 你 打 一 架 ！
 menu_train_peasants_against_bandits|队 员 中 最 高 教 练 技 能 为 {reg2} 级 ， 由 此 {reg3?你 预 期 :{s1} 预 期 } 需 要 {reg4} 小 时 来 进 行 理 论 讲 解 ， 使 这 些 农 民 变 成 英 勇 的 战 士 。 在 这 期 间 他 们 将 会 学 到 战 斗 的 基 本 知 识 以 及 如 何 去 沉 着 冷 静 地 应 对 一 切 战 斗 。 
 mno_make_preparation|训 练 他 们 
 mno_train_later|待 会 再 说 
@@ -813,7 +813,7 @@ mno_sneak_caught_fight|杀 出 一 条 血 路 ！
 mno_sneak_caught_surrender|投 降
 menu_sneak_into_town_caught_dispersed_guards|你 轻 易 的 甩 掉 了 守 卫 ， 消 失 在 街 道 的 深 处 。 
 menu_sneak_into_town_caught_ran_away|你 杀 开 一 条 血 路 终 于 夺 关 而 走 ， 迅 速 逃 到 了 郊 外 的 安 全 地 带 。 {s11} 
-menu_enemy_offer_ransom_for_prisoner|{s2} 想 用 {reg12} 第 纳 尔 与 你 交 换 {s1} 。 
+menu_enemy_offer_ransom_for_prisoner|{s2} 想 用 {reg12}第 纳 尔 与 你 交 换 {s1} 。 
 mno_ransom_accept|接 受 这 个 建 议 
 mno_ransom_reject|拒 绝 这 个 建 议 
 menu_training_ground|你 到 达 了 训 练 场 ， 在 这 里 你 可 以 提 升 你 的 战 斗 技 巧 。 你 想 要 进 行 哪 种 训 练 ？ 
@@ -866,7 +866,7 @@ menu_captivity_castle_taken_prisoner|卫 兵 们 包 围 了 你 ， 夺 下 了
 menu_captivity_rescue_lord_taken_prisoner|你 在 自 己 的 身 份 暴 露 之 前 一 直 伪 装 成 朝 圣 者 ， 这 激 怒 了 那 些 守 卫 。 他 们 狂 暴 而 粗 鲁 地 痛 打 你 ， 不 知 道 过 了 多 长 时 间 以 后 才 停 息 下 来 … … 
 menu_captivity_castle_check|占 位 符 
 menu_captivity_end_exchanged_with_prisoner|经 过 了 数 天 的 关 押 ， 抓 你 的 人 用 你 交 换 了 他 们 的 一 名 俘 虏 ， 你 自 由 了 。 
-menu_captivity_end_propose_ransom|在 阴 暗 的 地 牢 中 不 知 道 过 了 多 久 以 后 ， 抓 你 的 人 给 了 你 一 个 选 择 :从 你 藏 钱 的 地 方 交 出 {reg5} 第 纳 尔 ， 他 们 就 会 放 了 你 。 你 决 定 … … 
+menu_captivity_end_propose_ransom|在 阴 暗 的 地 牢 中 不 知 道 过 了 多 久 以 后 ， 抓 你 的 人 给 了 你 一 个 选 择 :从 你 藏 钱 的 地 方 交 出 {reg5}第 纳 尔 ， 他 们 就 会 放 了 你 。 你 决 定 … … 
 mno_captivity_end_ransom_accept|接 受 这 个 建 议 
 mno_captivity_end_ransom_deny|等 待 更 好 的 机 会 
 menu_captivity_castle_remain|时 光 流 逝 ， 你 在 监 牢 里 痛 苦 的 忍 受 着 被 囚 禁 的 痛 苦 ， 还 有 身 边 堆 满 了 越 来 越 多 的 排 泄 物 … … 
@@ -966,7 +966,7 @@ menu_grandmaster_ambush_won|拜 蛇 教 的 突 击 很 猛 烈 ， 但 你 和 
 menu_establish_court|要 将 宫 廷 设 在 {s4} 需 要 重 新 翻 修 一 番 。 具 体 来 说 ， 你 需 要 一 套 工 具 以 及 一 卷 天 鹅 绒 ， 也 许 还 需 要 花 点 时 间 来 让 你 的 一 些 部 下 能 够 赶 来 新 的 任 所 。 确 定 要 执 行 吗 ？ 
 mno_establish|将 宫 廷 设 在 {s4} 。 
 mno_hold_off|缓 一 缓 … … 
-menu_notification_relieved_as_marshal|{s4} 通 知 你 不 再 需 要 你 继 续 担 当 元 帅 之 职 了 。 不 过 ， 在 过 去 的 {reg4} 天 里 你 为 了 国 家 的 利 益 表 现 英 勇 ， 为 了 表 示 敬 意 ， {reg8?她 :他 } 赏 赐 给 你 {reg5} 第 纳 尔 。 
+menu_notification_relieved_as_marshal|{s4} 通 知 你 不 再 需 要 你 继 续 担 当 元 帅 之 职 了 。 不 过 ， 在 过 去 的 {reg4} 天 里 你 为 了 国 家 的 利 益 表 现 英 勇 ， 为 了 表 示 敬 意 ， {reg8?她 :他 } 赏 赐 给 你 {reg5}第 纳 尔 。 
 menu_manage_loot_pool|{s10} ^{s30} 
 mno_auto_no_companions|我 还 没 有 能 给 予 战 利 品 的 伙 伴 
 mno_auto_loot|让 伙 伴 们 从 战 利 品 里 挑 选 装 备 

@@ -4,8 +4,8 @@ qst_deliver_message_to_enemy_lord|送 信 给 {s13}
 qst_raise_troops|培 养 {reg1} 名 {s14} 
 qst_escort_lady|护 送 {s13} 去 {s14} 
 qst_deal_with_bandits_at_lords_village|从 强 盗 手 里 解 救 {s15} 
-qst_collect_taxes|到 {s3} 征 税 
-qst_hunt_down_fugitive|抓 捕 {s4} 
+qst_collect_taxes|到 {s3}征 税 
+qst_hunt_down_fugitive|追 捕 {s4} 
 qst_kill_local_merchant|杀 掉 {s3} 的 地 方 商 人 
 qst_bring_back_runaway_serfs|追 回 逃 跑 的 农 奴 
 qst_follow_spy|跟 踪 准 备 去 碰 头 的 间 谍 

@@ -60,8 +60,8 @@ qstr_Defeats:_{reg0}|失 败 :{reg0}
 qstr_Quests_Completed:_{r|任 务 完 成 :{reg0}
 qstr_Companions_Found:_{r|同 伴 加 入 人 数 :{reg0}
 qstr_Companions_Lost/Depa|同 伴 失 散 人 数 :{reg0}
-qstr_Wealth:_{reg0}_denar|财 富 :{reg0} 第 纳 尔 
-qstr_Inventory:_{reg0}_de|物 品 栏 中 的 财 富 :{reg0} 第 纳 尔 
+qstr_Wealth:_{reg0}_denar|财 富 :{reg0}第 纳 尔 
+qstr_Inventory:_{reg0}_de|物 品 栏 中 的 财 富 :{reg0}第 纳 尔 
 qstr_Renown:_{reg0}|声 望 :{reg0}
 qstr_Experience:_{reg0}|经 验 :{reg0}
 qstr_Days_Passed:_{reg0}|天 数 :{reg0}
@@ -399,7 +399,7 @@ qstr_{s2}_{reg3?was:is}_b|{s2}{reg3?曾 :正 }被 囚 禁 在 {s3}。
 qstr_{s2}_{reg3?was:has_b|{s2}被 敌 人 俘 虏 。 
 qstr_{reg3?{s2}_s_locatio|{reg3?{s2}的 位 置 不 明 确 :我 不 知 道 {s2}在 哪 里 }。 
 qstr_{s6}_has_joined_your|{s6}加 入 了 你 的 部 队 。 
-qstr_You_now_owe_{reg2}_d|你 欠 {s1}{reg2} 第 纳 尔 。 
+qstr_You_now_owe_{reg2}_d|你 欠 {s1}{reg2}第 纳 尔 。 
 qstr_Renown_value_for_thi|这 场 战 斗 的 声 望 评 估 为 {reg8}点 。 
 qstr_You_have_run_into_a_|你 陷 入 了 埋 伏 之 中 ！ 
 qstr_You_are_attacked_by_|你 被 一 群 强 盗 打 劫 了 ！ 
@@ -933,7 +933,7 @@ qstr__{s64}_manages_to_se|{s64}进 入 许 多 房 屋 搜 寻 ， 发 现 了 �
 qstr__{s64}_fails_to_find_th|{s64}进 行 了 一 次 大 搜 索 ， 但 没 能 发 现 小 偷 ， 反 而 骚 扰 了 居 民 的 日 常 生 活 。 
 qstr__{s64}_puts_out_the_|{s64}悬 赏 捉 匪 ， 俗 话 说 重 赏 出 勇 夫 ， 小 偷 很 快 被 勇 敢 的 居 民 抓 住 了 。 居 民 们 对 此 心 怀 感 激 。 
 qstr__Even_with_the_200_d|即 使 悬 赏 金 高 达 200第 纳 尔 ， 小 偷 依 然 逍 遥 法 外 ！ {s64}失 败 了 。 居 民 对 此 怨 声 载 道 ！ 
-qstr__{s64}_is_able_to_en|{s64}可 以 修 理 ， 但 是 需 要 {reg3} 第 纳 尔 的 修 理 费 。 
+qstr__{s64}_is_able_to_en|{s64}可 以 修 理 ， 但 是 需 要 {reg3}第 纳 尔 的 修 理 费 。 
 qstr__{s64}_obtains_the_s|{s64}获 得 了 两 个 工 程 学 徒 的 服 务 ， 但 这 两 人 在 建 造 墙 的 时 候 让 墙 把 自 己 压 死 了 ！ 
 qstr__{s64}_is_somehow_ab|{s64}以 他 的 工 程 才 华 ， 可 以 自 己 来 维 修 。 
 qstr__{s64}_understands_y|{s64}理 解 你 的 意 图 ， 但 是 没 能 帮 你 维 修 。 
@@ -1160,7 +1160,7 @@ qstr__{s10}__I_was_told{s9|{s10}因 为 很 多 人 都 信 任 我 ， 所 以 
 qstr__{s10}__Yes_this_mus|{s10}是 的 ， 这 不 能 泄 露 给 第 三 个 人 知 道 啊 ， 我 碰 到 了 {s9}。 
 qstr__{s10}__I_was_fortun|{s10}我 碰 巧 听 到 了 {s9}。 
 qstr__{s10}__I_was_in_the|{s10}我 凑 巧 听 到 了 {s9}。 
-qstr__{s10}__I_did_come_a|{s10}我 碰 到 了 {s9}， 你 认 为 有 价 值 的 消 息 。 
+qstr__{s10}__I_did_come_a|{s10}我 碰 到 了 {s9}， 可 能 对 你 有 价 值 。 
 qstr__{s10}__Well{s9}_was_|{s10}好 ， 有 人 告 诉 我 ， {s9}。 
 qstr__{s2}_I_meet_all_sor|{s2}在 我 的 工 作 中 我 遇 上 过 很 多 人 ， 只 要 不 会 有 坐 牢 的 风 险 他 们 都 喜 欢 爆 料 。 
 qstr__{s2}_I_hope_that_th|{s2}我 希 望 ， 这 些 讯 息 对 你 是 有 帮 助 的 。 
@@ -1410,7 +1410,7 @@ qstr_night|晚 上
 qstr__few_{s7}_ago|几 {s7}前 
 qstr_h_yes_it_was_two_{s7|大 概 两 {s7}前 ， {s17}
 qstr_hh_it_was_yesterday_|昨 天 ， {s17}
-qstr_bout_three_{s7}_ago|大 约 三 {s7}前
+qstr_bout_three_{s7}_ago|大 约 三 {s7}前 
 qstr__handful_of_{s7}_ago|几 {s7}前
 qstr__few_{s7}_past_{s17}|几 {s7}前 ， {s17}
 qstr_{s41}|{s41}
@@ -1422,9 +1422,9 @@ qstr_walking_home|正 走 路 回 家 时
 qstr_getting_some_{s18}_a|正 呼 吸 着 {s18}的 空 气 时
 qstr_enjoying_the_{s18}_a|正 享 受 着 {s18}的 空 气 时
 qstr_he|他
-qstr_A{s12}_{s50}_was_{s3|{s12}， 在 {s50}{s30}， 
-qstr_When_{s50}_was_{s30}|当 {s50}{s30}， {s12}， 
-qstr_A{s12}_when_{s50}_wa|{s12}， 当 {s50}{s30}， 
+qstr_A{s12}_{s50}_was_{s3|{s12}， 在 {s50} {s30}， 
+qstr_When_{s50}_was_{s30}|当 {s50} {s30}， {s12}， 
+qstr_A{s12}_when_{s50}_wa|{s12}， 当 {s50} {s30}， 
 qstr_We_came_across_{s11}|当 他 {s30}时 ， 我 碰 到 {s11}， 他 告 诉 我 {s9}。 
 qstr_Aye_{s13}_we_encount|哎 ， {s13}我 们 碰 到 {s11}告 诉 我 们 {s9}。 
 qstr_Yes_{s13}_we_encount|是 ， {s13}当 他 {s30}， 我 们 碰 到 {s11}。 我 们 进 行 了 简 短 的 交 谈 ， 在 此 期 间 ， 他 转 达 了 {s9}。 
@@ -1472,7 +1472,7 @@ qstr_{s0}^{s1}_ally_:_{re|{s0}^{s1}(盟 友 ):{reg3}({s2})
 qstr_{s0}^{s1}_enemy_:_{r|{s0}^{s1}(敌 人 ):{reg3}({s2})
 qstr_not_enough_gold|钱 不 够 
 qstr_inventory_is_full|物 品 栏 已 满 
-qstr_{reg40}_denars_left|剩 余 {reg40} 第 纳 尔 
+qstr_{reg40}_denars_left|剩 余 {reg40}第 纳 尔 
 qstr_Forming_ranks.|组 成 阵 型 。 
 qstr_Gained_{reg33}_XP|增 加 {reg33}经 验 
 qstr_Top_tier_troops_just|顶 阶 兵 刚 刚 离 开 了 {s2}的 驻 军 。 
@@ -1892,7 +1892,7 @@ qstr_Luckily_some_of_your|幸 运 的 是 ， 你 的 一 些 同 伴 发 现 �
 qstr_Luckily_some_passing|幸 运 的 是 ， 一 些 路 过 的 市 民 发 现 你 躺 在 路 边 上 ， 他 们 差 点 就 把 你 当 成 乞 丐 了 。 他 们 把 你 抬 到 最 近 的 酒 馆 里 并 为 你 包 扎 伤 口 。 
 qstr_You_fail_to_steal_an|你 没 能 偷 到 牛 。 
 qstr_You_drive_away_{reg1|你 从 村 庄 的 牛 栏 里 赶 走 了 {reg17}头 牛 。 
-qstr___{reg1}_denars_per_|(每 晚 {reg1} 第 纳 尔 )
+qstr___{reg1}_denars_per_|(每 晚 {reg1}第 纳 尔 )
 qstr_As_you_near_the_Snak|现 在 你 离 拜 蛇 教 据 点 很 近 了 ， 你 甚 至 可 以 看 见 营 地 附 近 来 来 回 回 走 动 的 守 卫 。 今 天 这 里 将 血 流 成 河 ！
 qstr_The_fully_rebuilt_Or|重 建 后 的 骑 士 团 据 点 看 起 来 坚 固 且 充 满 活 力 。 
 qstr_The_Order_stronghold|拜 蛇 教 留 下 的 痕 迹 已 经 被 完 全 清 除 掉 了 ， 现 在 骑 士 团 据 点 现 在 看 起 来 顺 眼 多 了 。 
@@ -1925,7 +1925,7 @@ qstr_weapon_pack|一 套 武 器
 qstr_armor_pieces|数 件 护 甲 
 qstr_Additionally_you_hav|此 外 ， 诺 多 枢 密 院 将 精 美 的 {s21}送 给 你 作 为 奖 品 。
 qstr_Additionally_you_have|此 外 ， 市 管 家 将 {s21}献 给 您 作 为 奖 品 。 
-qstr__{s8}^Moreover_you_e|{s8}^此 外 ， 因 为 你 聪 明 的 下 了 注 ， 你 赚 了 {reg8} 第 纳 尔 。 
+qstr__{s8}^Moreover_you_e|{s8}^此 外 ， 因 为 你 聪 明 的 下 了 注 ， 你 赚 了 {reg8}第 纳 尔 。 
 qstr_Victory_is_yours!_Yo|你 赢 了 ！你 在 这 场 混 战 中 获 胜 了 ， 但 是 你 得 准 备 好 进 入 下 一 轮 比 赛 。 
 qstr_You_have_been_bested|你 在 混 战 中 被 击 败 了 ， 但 是 竞 技 场 老 板 相 当 认 可 你 的 技 能 和 勇 气 ， 允 许 你 进 入 下 一 轮 比 赛 。 
 qstr_You_were_beaten._The|你 被 击 败 了 ， 这 些 农 民 被 他 们 的 胜 利 所 鼓 舞 ， 但 是 你 想 教 给 他 们 的 东 西 他 们 可 能 没 有 真 正 掌 握 … … 
@@ -1933,7 +1933,7 @@ qstr_After_beating_your_l|在 你 击 倒 最 后 一 个 对 手 后 ， 你 �
 qstr_The_bandits_are_brok|这 些 强 盗 被 击 败 了 ！那 些 还 活 着 的 和 意 识 还 清 醒 的 都 夹 着 尾 巴 逃 跑 了 ， 他 们 惧 怕 这 些 农 民 和 他 们 的 新 教 官 。 
 qstr_{s1}_s_Ship|{s1}的 船 
 qstr_However_{reg3?You_ar|不 过 ， {reg3?你 :{s1}}不 能 找 到 任 何 能 够 给 你 带 来 利 润 的 商 品 。 
-qstr_^Buying_{s4}_here_an|^在 这 里 购 买 {s4}然 后 卖 到 {s5}去 ， 将 会 获 得 每 件 商 品 {reg6} 第 纳 尔 的 利 润 。 {s3}
+qstr_^Buying_{s4}_here_an|^在 这 里 购 买 {s4}然 后 卖 到 {s5}去 ， 将 会 获 得 每 件 商 品 {reg6}第 纳 尔 的 利 润 。 {s3}
 qstr_{reg3?You_find:{s1}_|{reg3?你 :{s1}}找 到 下 列 物 品 :^{s3}
 qstr_{s2}^{reg1}_{s1}_ear|{s2}^{reg1}个 {s1}获 得 {reg0}点 经 验 。 
 qstr_{s2}^{s1}_earned_an_|{s2}^{s1}获 得 了 {reg0}点 额 外 的 经 验 。 
@@ -2085,7 +2085,7 @@ qstr__My_men_and_I_would_|我 们 想 和 你 “ 谈 谈 ”。
 qstr__Everything_has_a_pr|我 们 这 里 什 么 都 卖 。 要 命 就 付 钱 ！ 
 qstr__These_are_dangerous|牵 着 这 么 好 的 马 到 处 溜 达 是 很 危 险 的 ， 不 过 ， 俺 弟 兄 们 可 以 帮 你 “ 保 管 ” 。 
 qstr__An_what_do_we_owe_t|难 道 找 乐 子 也 碍 着 你 了 吗 ？ ？ 
-qstr__Your_blood_must_be_|你 的 命 将 会 是 我 们 的 ， {reg63?农 民 :小 甜 心 }！ 
+qstr__Your_blood_must_be_|你 的 命 将 会 是 我 们 的 ， {reg63?乡 巴 佬 :小 甜 心 }！ 
 qstr__Lucky_for_you_we_ar|幸 运 的 是 ， 我 将 是 你 的 救 赎 … … … … 过 来 ， 亲 吻 女 祭 司 … … … … 感 受 神 的 崇 高 ！ 
 qstr__How_SSSSublime!_Fre|多 么 崇 高 ！ 新 鲜 的 血 液 ！ 过 来 … … … … 美 人 儿 … … … … 让 我 的 剑 品 尝 你 的 灵 魂 ！ 
 qstr__You_dare_speak_to_m|你 敢 和 我 说 话 ？ 你 就 是 一 个 被 碾 死 的 臭 虫 ！ 
@@ -2569,7 +2569,7 @@ qstr_{reg36}x_{s0}_have_joi|{reg36}个 {s0}加 入 了 队 伍 。
 qstr__Perhaps_but_I_prefe|或 许 我 选 择 不 传 播 流 言 。 
 qstr__I_am_a_prisoner_how|我 是 个 罪 犯 ， 怎 么 知 道 消 息 ？ 
 qstr_I_would_even_pay_you|老 实 说 ， 你 比 我 想 的 要 大 方 多 了 ， 我 甚 至 愿 意 贴 补 你 点 钱 ， 可 惜 身 上 目 前 没 钱 。 这 样 还 是 要 成 交 吗 ？ 
-qstr_I_am_even_willing_to|你 比 我 想 的 要 大 方 多 了 ， 我 甚 至 愿 意 贴 补 你 点 钱 ， 就 给 你 {reg61} 第 纳 尔 吧 ， 如 何 ？ 
+qstr_I_am_even_willing_to|你 比 我 想 的 要 大 方 多 了 ， 我 甚 至 愿 意 贴 补 你 点 钱 ， 就 给 你 {reg61}第 纳 尔 吧 ， 如 何 ？ 
 qstr_Our_marshal_{s1}|我 们 的 元 帅 ， {s1}
 qstr_{s11}_and_{s12}|{s11}和 {s12}
 qstr_We_are_not_at_war_wi|我 们 没 有 与 任 何 人 交 战 。 
@@ -2594,7 +2594,7 @@ qstr_{s9}_has_asked_you_t|{s9}要 你 到 {s13}见 一 个 间 谍 。
 qstr_{s11}_asked_you_to_f|{s11}要 你 跟 踪 将 要 离 开 {s12}的 间 谍 。 你 必 须 小 心 ， 别 让 他 在 半 路 发 现 你 ， 否 则 他 可 能 会 起 疑 心 并 折 返 回 去 。 一 旦 他 与 他 的 同 伙 碰 头 ， 你 得 伏 击 他 们 并 把 他 们 两 人 带 回 去 交 给 {s11}。 
 qstr_{s11}_asked_you_to_c|{s11}要 你 抓 捕 {s13}的 一 个 领 主 ， 随 便 哪 一 个 ， 然 后 带 到 {s11}严 密 监 禁 起 来 。 
 qstr_{s9}_asked_you_to_le|{s9}要 你 把 你 的 同 伴 {s3}借 给 他 用 一 个 星 期 。 
-qstr_{s9}_asked_you_to_col|{s9}要 你 帮 他 去 讨 要 {s3}欠 他 的 {reg4} 第 纳 尔 。 当 你 接 受 这 个 任 务 的 时 候 {s3}正 在 {s4}。 
+qstr_{s9}_asked_you_to_col|{s9}要 你 帮 他 去 讨 要 {s3}欠 他 的 {reg4}第 纳 尔 。 当 你 接 受 这 个 任 务 的 时 候 {s3}正 在 {s4}。 
 qstr_{s11}_gave_you_a_fak|{s11}给 你 一 封 伪 造 的 信 ， 要 你 送 给 {s13}， 以 欺 骗 他 让 他 流 放 他 的 封 臣 {s16}。 你 得 到 {s14}附 近 ， 并 把 信 交 给 你 的 一 个 {s15}， 然 后 把 他 作 为 一 个 信 使 送 到 城 市 里 去 。 相 信 他 的 命 令 会 变 成 真 的 。 
 qstr_{s9}_has_requested_y|{s9}要 你 帮 他 抓 捕 {reg1}个 {s3}俘 虏 。 
 qstr_Lend_your_experience|把 你 的 老 练 的 外 科 医 生 {s3}借 给 {s1}。 
@@ -2635,7 +2635,7 @@ qstr_Order_of_the_Scorpio|天 蝎 刺 客 兄 弟 会
 qstr_Order_of_the_Kraken_|克 拉 肯 战 士 教 团 
 qstr_{s9}__from_{s8}_|可 引 荐 {s8}加 入 的 {s9}
 qstr_Your_whole_party_is_|你 的 部 队 士 气 更 高 了 。 
-qstr__You_begin_entertain|你 开 始 在 酒 馆 表 演 ， 获 得 了 {reg1} 第 纳 尔 。 
+qstr__You_begin_entertain|你 开 始 在 酒 馆 表 演 ， 获 得 了 {reg1}第 纳 尔 。 
 qstr_{s54}|{s54}
 qstr_Quigfen_of_Laria_ask|奎 格 芬 要 求 你 摧 毁 在 长 河 镇 森 林 里 劫 掠 的 迦 图 军 队 。 
 qstr__{reg25}x_Noldor_War|{reg25}个 诺 多 战 士 加 入 队 伍 
@@ -2643,27 +2643,27 @@ qstr__{reg26}x_Noldor_Ran|{reg26}个 诺 多 游 侠 加 入 队 伍
 qstr__{reg27}x_Noldor_Mai|{reg27}个 诺 多 少 女 游 侠 加 入 队 伍 
 qstr__{reg28}x_Noldor_Nob|{reg28}个 诺 多 贵 族 加 入 队 伍 
 qstr__{reg29}x_Noldor_Twi|{reg29}个 诺 多 暮 光 骑 士 加 入 队 伍 
-qstr__The_Goddess_of_Fate|命 运 女 神 在 向 你 微 笑 ， 我 的 朋 友 ！ 最 近 在 北 方 的 一 次 劫 掠 中 ， 我 的 同 事 抓 了 {reg7}个 熊 爪 狂 战 士 ， 我 原 意 以 {reg41} 第 纳 尔 的 价 钱 卖 给 你 。 
-qstr__This_must_be_your_l|今 天 一 定 是 你 的 幸 运 日 ， 朋 友 ！ 在 最 近 的 一 次 北 地 旅 途 中 ， 我 买 了 {reg7}个 凛 鸦 境 高 地 战 士 ， 打 算 以 {reg41} 第 纳 尔 卖 给 你 。 
-qstr__This_must_be_your_lu|今 天 一 定 是 你 的 幸 运 日 ， 朋 友 ！ 在 最 近 的 一 次 南 方 旅 途 中 ， 我 从 辛 加 尔 掠 夺 者 那 里 买 了 {reg7}个 预 兆 搜 寻 者 ， 我 愿 意 以 {reg41} 第 纳 尔 的 价 格 卖 给 你 。 
-qstr__This_may_be_your_lu|今 天 或 许 是 你 的 幸 运 日 ， 我 的 朋 友 ！ 我 这 有 {reg7}个 来 自 遥 远 的 马 里 廷 的 战 士 ， 我 正 急 着 脱 手 ， 只 需 要 {reg41} 第 纳 尔 。 是 否 感 兴 趣 ？ 
-qstr__It_seems_that_I_hav|看 来 ， 我 有 太 多 的 劳 力 在 手 ， 没 办 法 养 活 他 们 。 如 果 你 有 兴 趣 ， 我 有 {reg7}个 难 民 能 做 交 易 ， 只 花 你 {reg41} 第 纳 尔 。 
-qstr__Unfortunately_I_hav|不 幸 的 是 我 有 一 批 不 适 合 烟 花 场 所 的 女 囚 在 手 ， 也 懒 得 费 脑 子 调 教 她 们 。 如 果 你 有 兴 趣 ， 我 有 {reg7}个 少 女 斥 候 ， 只 要 你 出 {reg41} 第 纳 尔 ， 我 就 能 卖 给 你 。
-qstr__My_bad_luck_has_sad|倒 霉 的 是 我 有 {reg7}个 辛 加 尔 长 矛 手 ， 由 于 最 近 生 意 太 差 ， 我 付 不 起 工 资 了 。 如 果 你 肯 出 {reg41} 第 纳 尔 ， 我 可 以 命 令 他 们 跟 随 你 。 有 兴 趣 否 ？ 
-qstr__My_bad_luck_has_sadd|倒 霉 的 是 我 有 {reg7}个 巴 克 利 冒 险 家 ， 由 于 最 近 生 意 太 差 ， 我 付 不 起 工 资 了 。 如 果 你 肯 出 {reg41} 第 纳 尔 ， 我 可 以 命 令 他 们 跟 随 你 。 有 兴 趣 否 ？ 
-qstr__This_must_be_your_luc|今 天 或 许 是 你 的 幸 运 日 ！ 我 雇 佣 了 {reg7}个 强 大 的 梅 滕 海 姆 战 士 ， 但 现 在 我 用 不 上 他 们 了 。 如 果 你 肯 出 {reg41} 第 纳 尔 ， 我 可 以 命 令 他 们 跟 随 你 。 有 兴 趣 否 ？
-qstr__Through_some_shall_|由 于 最 近 做 了 一 些 欠 佳 的 商 业 决 定 ， 我 有 {reg7}个 武 装 侍 从 俘 虏 找 不 到 人 付 赎 金 。 一 共 只 要 {reg41} 第 纳 尔 ， 我 相 信 他 们 会 为 您 服 务 ， 成 交 否 ？ 
-qstr__My_bad_luck_has_saddl|最 近 比 较 倒 霉 ， 我 有 {reg7}个 赏 金 猎 人 作 保 镖 。 无 奈 飞 来 横 祸 ， 我 无 力 支 付 他 们 工 资 。 只 要 {reg41} 第 纳 尔 ， 我 可 以 命 令 他 们 为 你 服 务 。 有 兴 趣 否 ？ 
-qstr__My_bad_luck_just_ha|人 要 倒 霉 喝 凉 水 也 塞 牙 。 我 试 图 为 一 个 在 路 上 遇 到 不 幸 的 {s1}找 赎 金 ， 可 是 他 的 骑 士 团 拒 绝 支 付 。 他 的 价 值 肯 定 超 过 一 船 奴 隶 ， 也 许 你 出 {reg41} 第 纳 尔 就 可 以 带 他 离 开 。 我 相 信 他 一 定 愿 意 跟 随 你 。 
-qstr__Should_my_bad_luck_|如 果 我 的 厄 运 继 续 下 去 肯 定 会 破 产 。 我 最 近 捕 获 了 一 个 家 伙 ， 看 起 来 是 由 于 一 些 原 因 被 放 逐 ， 因 为 他 的 族 人 并 不 打 算 支 付 赎 金 。 我 必 须 警 告 你 他 非 常 的 危 险 。 你 看 ， 他 是 一 个 精 灵 ， 他 们 可 能 … … 难 以 预 料 。 我 们 有 一 个 协 议 ， 只 要 他 去 战 斗 ， 他 会 得 到 一 半 交 易 他 获 所 得 金 钱 。 我 想 他 是 一 个 追 踪 者 ， 或 者 是 一 个 战 士 ， 这 很 难 说 。 是 否 有 兴 趣 让 他 进 入 你 的 队 伍 呢 ， 付 {reg41} 第 纳 尔 就 可 以 了 ？ 
-qstr__It_has_been_my_misf|人 生 就 是 一 个 茶 几 ， 上 头 满 满 的 杯 具 。 我 最 近 抓 了 {reg7}个 试 图 从 奴 隶 船 营 救 同 伙 的 少 女 冒 险 家 。 虽 然 可 以 卖 入 烟 花 场 所 ， 但 她 们 过 高 的 武 力 值 会 让 老 板 风 险 很 大 。 你 是 否 可 能 接 手 ， 把 她 们 的 攻 击 倾 向 用 在 更 有 建 设 性 的 地 方 ， {reg41} 第 纳 尔 如 何 ？ 
+qstr__The_Goddess_of_Fate|命 运 女 神 在 向 你 微 笑 ， 我 的 朋 友 ！ 最 近 在 北 方 的 一 次 劫 掠 中 ， 我 的 同 事 抓 了 {reg7}个 熊 爪 狂 战 士 ， 我 原 意 以 {reg41}第 纳 尔 的 价 钱 卖 给 你 。 
+qstr__This_must_be_your_l|今 天 一 定 是 你 的 幸 运 日 ， 朋 友 ！ 在 最 近 的 一 次 北 地 旅 途 中 ， 我 买 了 {reg7}个 凛 鸦 境 高 地 战 士 ， 打 算 以 {reg41}第 纳 尔 卖 给 你 。 
+qstr__This_must_be_your_lu|今 天 一 定 是 你 的 幸 运 日 ， 朋 友 ！ 在 最 近 的 一 次 南 方 旅 途 中 ， 我 从 辛 加 尔 掠 夺 者 那 里 买 了 {reg7}个 预 兆 搜 寻 者 ， 我 愿 意 以 {reg41}第 纳 尔 的 价 格 卖 给 你 。 
+qstr__This_may_be_your_lu|今 天 或 许 是 你 的 幸 运 日 ， 我 的 朋 友 ！ 我 这 有 {reg7}个 来 自 遥 远 的 马 里 廷 的 战 士 ， 我 正 急 着 脱 手 ， 只 需 要 {reg41}第 纳 尔 。 是 否 感 兴 趣 ？ 
+qstr__It_seems_that_I_hav|看 来 ， 我 有 太 多 的 劳 力 在 手 ， 没 办 法 养 活 他 们 。 如 果 你 有 兴 趣 ， 我 有 {reg7}个 难 民 能 做 交 易 ， 只 花 你 {reg41}第 纳 尔 。 
+qstr__Unfortunately_I_hav|不 幸 的 是 我 有 一 批 不 适 合 烟 花 场 所 的 女 囚 在 手 ， 也 懒 得 费 脑 子 调 教 她 们 。 如 果 你 有 兴 趣 ， 我 有 {reg7}个 少 女 斥 候 ， 只 要 你 出 {reg41}第 纳 尔 ， 我 就 能 卖 给 你 。
+qstr__My_bad_luck_has_sad|倒 霉 的 是 我 有 {reg7}个 辛 加 尔 长 矛 手 ， 由 于 最 近 生 意 太 差 ， 我 付 不 起 工 资 了 。 如 果 你 肯 出 {reg41}第 纳 尔 ， 我 可 以 命 令 他 们 跟 随 你 。 有 兴 趣 否 ？ 
+qstr__My_bad_luck_has_sadd|倒 霉 的 是 我 有 {reg7}个 巴 克 利 冒 险 家 ， 由 于 最 近 生 意 太 差 ， 我 付 不 起 工 资 了 。 如 果 你 肯 出 {reg41}第 纳 尔 ， 我 可 以 命 令 他 们 跟 随 你 。 有 兴 趣 否 ？ 
+qstr__This_must_be_your_luc|今 天 或 许 是 你 的 幸 运 日 ！ 我 雇 佣 了 {reg7}个 强 大 的 梅 滕 海 姆 战 士 ， 但 现 在 我 用 不 上 他 们 了 。 如 果 你 肯 出 {reg41}第 纳 尔 ， 我 可 以 命 令 他 们 跟 随 你 。 有 兴 趣 否 ？
+qstr__Through_some_shall_|由 于 最 近 做 了 一 些 欠 佳 的 商 业 决 定 ， 我 有 {reg7}个 武 装 侍 从 俘 虏 找 不 到 人 付 赎 金 。 一 共 只 要 {reg41}第 纳 尔 ， 我 相 信 他 们 会 为 您 服 务 ， 成 交 否 ？ 
+qstr__My_bad_luck_has_saddl|最 近 比 较 倒 霉 ， 我 有 {reg7}个 赏 金 猎 人 作 保 镖 。 无 奈 飞 来 横 祸 ， 我 无 力 支 付 他 们 工 资 。 只 要 {reg41}第 纳 尔 ， 我 可 以 命 令 他 们 为 你 服 务 。 有 兴 趣 否 ？ 
+qstr__My_bad_luck_just_ha|人 要 倒 霉 喝 凉 水 也 塞 牙 。 我 试 图 为 一 个 在 路 上 遇 到 不 幸 的 {s1}找 赎 金 ， 可 是 他 的 骑 士 团 拒 绝 支 付 。 他 的 价 值 肯 定 超 过 一 船 奴 隶 ， 也 许 你 出 {reg41}第 纳 尔 就 可 以 带 他 离 开 。 我 相 信 他 一 定 愿 意 跟 随 你 。 
+qstr__Should_my_bad_luck_|再 这 么 倒 霉 下 去 ， 我 这 生 意 可 就 做 不 下 去 了 。 最 近 我 收 了 个 俘 虏 ， 看 样 子 是 个 被 族 群 抛 弃 的 弃 儿 —— 他 们 连 赎 金 都 不 愿 付 。 不 过 得 提 醒 你 ， 这 家 伙 相 当 危 险 。 你 看 ， 他 是 一 个 精 灵 ， 他 们 可 能 … … 难 以 预 料 。 我 们 有 一 个 协 议 ， 只 要 他 还 能 战 斗 ， 卖 身 钱 就 分 他 一 半 。 我 想 他 是 一 个 追 踪 者 ， 或 者 是 一 个 战 士 ， 这 很 难 说 。 是 否 有 兴 趣 让 他 进 入 你 的 队 伍 呢 ？ 只 要 付 我 {reg41}第 纳 尔 辛 苦 费 就 行 。 
+qstr__It_has_been_my_misf|人 生 就 是 一 个 茶 几 ， 上 头 满 满 的 杯 具 。 我 最 近 抓 了 {reg7}个 试 图 从 奴 隶 船 营 救 同 伙 的 少 女 冒 险 家 。 虽 然 可 以 卖 入 烟 花 场 所 ， 但 她 们 过 高 的 武 力 值 会 让 老 板 风 险 很 大 。 你 是 否 可 能 接 手 ， 把 她 们 的 攻 击 倾 向 用 在 更 有 建 设 性 的 地 方 ， {reg41}第 纳 尔 如 何 ？ 
 qstr__No_I_have_no_room_i|不 ， 队 伍 中 没 空 位 了 。 
 qstr__No_I_am_not_interes|不 ， 我 没 兴 趣 。 
 qstr_{reg34}_Mercenaries_|{reg34}名 佣 兵 加 入 队 伍 。 
 qstr__Search_Rane_for_a_h|搜 索 长 歌 港 的 隐 藏 宝 藏 。 
 qstr__Search_Valonbray_fo|搜 索 光 啸 湾 的 隐 藏 宝 藏 。 
 qstr__Search_for_a_bandit|搜 寻 {s9}附 近 的 强 盗 宝 藏 。 
-qstr__You_work_several_ho|你 花 费 了 几 个 小 时 照 顾 你 的 病 人 ， 获 得 了 {reg1} 第 纳 尔 的 报 酬 。 
+qstr__You_work_several_ho|你 花 费 了 几 个 小 时 照 顾 你 的 病 人 ， 获 得 了 {reg1}第 纳 尔 的 报 酬 。 
 qstr_a_hidden_outpost_far|遥 远 的 隐 藏 据 点 中 
 qstr_It_just_so_happens_I|正 巧 我 为 许 多 贵 族 搭 配 服 饰 ， 同 时 也 是 全 岛 最 优 秀 的 裁 缝 师 ， 我 能 把 高 贵 的 饰 品 与 华 美 的 布 料 作 完 美 的 结 合 。 给 我 点 报 酬 ， 我 就 能 帮 你 的 盔 甲 制 作 一 件 完 美 契 合 的 披 风 ， 如 何 ？ 
 qstr_Well_as_it_so_happen|呃 ， 就 和 往 常 一 样 ， 强 盗 和 这 些 缺 德 的 红 色 兄 弟 会 一 直 在 洗 劫 向 我 供 应 丝 绸 的 商 队 。 所 以 ， 如 果 你 不 介 意 并 感 兴 趣 的 话 ， 你 可 以 把 盔 甲 上 的 披 风 给 我 吗 ？ 不 用 担 心 ， 我 会 付 钱 补 偿 你 的 。 当 然 ， 因 为 我 的 职 业 天 赋 ， 我 还 是 可 以 给 你 的 盔 甲 缝 上 一 个 相 称 的 披 风 。 
@@ -2688,7 +2688,7 @@ qstr_{s16}_They_also_say_|{s16}他 们 常 说 她 因 美 貌 而 远 近 驰 �
 qstr_A_villager_from_{s7}|一 个 从 {s7}来 的 村 民 恳 求 你 ， 希 望 你 能 把 他 们 的 村 子 从 那 群 强 盗 手 里 解 救 出 来 。 
 qstr_If_ye_be_looking_for|如 果 您 在 寻 找 赏 金 猎 人 ， {reg63?先 生 :女 士 }， {reg3?我 和 我 的 {reg4?{reg3}个 伙 伴 们 :1个 伙 伴 }:我 }正 在 追 寻 一 个 有 能 力 的 领 袖 。 
 qstr_Well_met_my_{reg63?L|你 好 {reg63?大 人 :女 士 }。 如 果 你 在 寻 找 些 优 良 的 战 士 们 ， {reg3?我 和 我 的 {reg4?{reg3}个 伙 伴 们 :1个 伙 伴 }:我 }正 寻 找 着 使 用 长 矛 赚 钱 的 机 会 。 
-qstr_Well_met_my_{reg63?Lo|您 好 ， {reg63?大 人 :女 士 }。 {reg3?我 和 我 的 {reg4?{reg3}个 伙 伴 们 :1个 伙 伴 }:我 }正 在 追 寻 冒 险 的 机 会 ， 并 希 望 投 入 能 带 给 我 们 这 机 会 的 队 长 麾 下 。 
+qstr_Well_met_my_{reg63?Lo|幸 会 ， {reg63?大 人 :女 士 }。 {reg3?我 和 我 的 {reg4?{reg3}个 伙 伴 们 :1 个 伙 伴 }:我 }正 在 寻 找 冒 险 的 机 会 ， 以 及 一 位 能 带 领 我 们 的 杰 出 统 帅 。 
 qstr_Aye_{reg63?Lord:Lady|哎 ， {reg63?大 人 :女 士 }。 {reg3?我 和 我 的 {reg4?{reg3}个 战 友 们 :1个 战 友 }:我 }正 在 找 一 个 首 领 ， 可 以 让 我 们 有 酒 有 肉 袋 里 有 钱 的 那 种 。 
 qstr_We_are_Jatu_{reg63?L|我 们 是 迦 图 ， {reg63?大 人 :女 士 }。 {reg3?我 和 我 的 {reg4?{reg3}个 骑 兵 弟 兄 们 :1个 骑 兵 弟 兄 }:我 }正 在 寻 找 一 个 伟 大 的 骑 兵 统 领 来 率 领 {reg3?我 们 :我 }， 让 {reg3?我 们 :我 }能 用 我 们 手 中 的 骑 枪 来 赢 得 荣 誉 。 
 qstr_Well_met_{reg63?Lord|您 好 ， 指 挥 官 {reg63?大 人 :女 士 }， {reg3?我 和 我 的 {reg4?{reg3}个 高 地 人 弟 兄 们 :1个 高 地 人 弟 兄 }:我 }正 在 寻 找 值 得 我 们 效 忠 的 队 长 。 
@@ -2697,7 +2697,7 @@ qstr_Hail_good_{reg63?Lor|嗨 ， 友 善 的 {reg63?大 人 :女 士 }。 {reg3
 qstr_Hai_{reg63?Lord:Lady|嗨 ， 队 长 {reg63?大 人 :女 士 }！ {reg3?我 和 我 的 {reg4?{reg3}个 伙 伴 们 :1个 伙 伴 }:我 }期 望 为 高 声 望 的 人 服 务 ， 希 望 他 能 带 领 {reg3?我 们 :我 }在 这 片 陌 生 的 土 地 创 造 辉 煌 。 
 qstr_Salute_{reg63?Lord:L|向 您 致 敬 ， 队 长 {reg63?大 人 :女 士 }！ {reg3?我 和 我 的 {reg4?{reg3}个 姐 妹 们 :1个 姐 妹 }:我 }正 在 寻 找 一 个 够 格 的 队 长 ， 以 便 让 {reg3?我 们 :我 }能 赚 足 够 的 钱 购 买 床 上 的 奴 隶 。 
 qstr_Oi!_Sein_Captain!_{r|向 您 问 好 ！ 队 长 ！ (外 语 ){reg3?我 和 我 的 {reg4?{reg3}个 无 束 战 士 弟 兄 们 :1个 无 束 战 士 弟 兄 }:我 }正 寻 找 一 位 富 有 魅 力 的 ， 或 者 说 ， 能 赚 到 钱 的 船 长 ！ {reg3?我 们 :我 }想 靠 {reg3?我 们 :我 }的 英 勇 无 畏 赚 来 足 够 的 钱 让 我 们 有 酒 喝 ， 有 妹 子 玩 ， 还 有 诗 人 为 我 们 写 赞 歌 ！ 
-qstr_Salutations_camarada|你 好 ， 指 挥 官 阁 下 ！ (外 语 ){reg3?我 和 我 的 {reg4?{reg3}个 战 士 同 袍 :1个 战 士 同 袍 }:我 }希 望 加 入 一 个 寻 求 刺 激 的 冒 险 队 并 跟 随 一 位 狡 猾 的 指 挥 官 ！ {reg3?我 们 :我 }寻 求 的 是 巴 克 利 俗 话 中 所 说 的 :征 服 、 荣 耀 、 财 富 ！ 
+qstr_Salutations_camarada|向 你 致 敬 ， 指 挥 官 阁 下 ！ (外 语 ){reg3?我 和 我 的 {reg4?{reg3}个 战 友 :1个 战 友 }:我 }希 望 加 入 一 个 寻 求 刺 激 的 冒 险 队 并 跟 随 一 位 狡 猾 的 指 挥 官 ！ {reg3?我 们 :我 }寻 求 的 是 巴 克 利 古 训 中 所 说 的 :征 服 、 荣 耀 、 财 富 ！ 
 qstr_Do_you_have_a_need_f|{reg63?先 生 :夫 人 }， 您 需 要 佣 兵 的 服 务 吗 ？ {reg3?我 和 我 的 {reg4?{reg3}个 同 伴 们 :1个 同 伴 }:我 }正 在 寻 找 一 个 队 长 。 
 qstr_You_chose_well_{reg6|选 我 们 就 对 了 ， {reg63?先 生 :女 士 }。 我 的 伙 计 们 知 道 怎 么 工 作 才 对 得 起 你 付 给 他 们 的 工 资 。 
 qstr_Well_done_{reg63?sir|干 得 好 ， {reg63?先 生 :夫 人 }。 继 续 给 我 们 带 来 金 钱 和 美 酒 ， 你 将 不 会 担 心 在 潘 德 遇 到 敌 人 。 
@@ -2707,10 +2707,10 @@ qstr_The_Guildmaster_of_{|{s13}的 市 长 要 你 解 决 附 近 郊 区 的 �
 qstr_{s9}_of_{s3}_asked_y|{s3}的 {s9}请 你 在 7天 内 带 {reg5}单 位 的 {s6}到 {s4}的 酒 馆 。 
 qstr_Escort_the_merchant_|护 送 商 人 的 商 队 去 {s8}。 
 qstr_Merchant_{s9}_of_{s4|{s4}的 {s9}要 你 消 灭 在 城 市 附 近 的 棘 手 的 强 盗 。 
-qstr_Guildmaster_of_{s4}_|{s4}的 市 长 给 你 {reg12} 第 纳 尔 ， 作 为 女 孩 的 赎 金 。 你 要 在 {s3}附 近 和 强 盗 会 面 ， 赎 回 女 孩 并 带 回 {s4}。 
-qstr_Guildmaster_of_{s4}_p|{s4}的 市 长 答 应 给 你 {reg12} 第 纳 尔 ， 如 果 你 能 使 得 {s12}和 {s13}不 再 对 {s15}和 {s14}的 和 平 构 成 威 胁 。 要 做 到 这 个 ， 你 得 说 服 他 们 中 的 一 个 或 者 他 们 都 被 俘 虏 ， 直 到 达 成 和 平 协 议 。 
+qstr_Guildmaster_of_{s4}_|{s4}的 市 长 给 你 {reg12}第 纳 尔 ， 作 为 女 孩 的 赎 金 。 你 要 在 {s3}附 近 和 强 盗 会 面 ， 赎 回 女 孩 并 带 回 {s4}。 
+qstr_Guildmaster_of_{s4}_p|{s4}的 市 长 答 应 给 你 {reg12}第 纳 尔 ， 如 果 你 能 使 得 {s12}和 {s13}不 再 对 {s15}和 {s14}的 和 平 构 成 威 胁 。 要 做 到 这 个 ， 你 得 说 服 他 们 中 的 一 个 或 者 他 们 都 被 俘 虏 ， 直 到 达 成 和 平 协 议 。 
 qstr_The_Guildmaster_of_{s|{s14}的 市 长 要 你 解 决 一 群 游 荡 在 {s14}街 道 上 的 强 盗 。 他 们 只 在 晚 上 出 来 ， 并 且 袭 击 街 上 单 身 的 旅 行 者 。 
-qstr_Guildmaster_of_{s10}|{s10}的 市 长 要 你 把 一 群 牛 赶 到 {s13}去 ， 你 将 会 获 得 {reg8} 第 纳 尔 的 酬 金 。 
+qstr_Guildmaster_of_{s10}|{s10}的 市 长 要 你 把 一 群 牛 赶 到 {s13}去 ， 你 将 会 获 得 {reg8}第 纳 尔 的 酬 金 。 
 qstr_Pippa|碧 芭
 qstr_Daisy|黛 西
 qstr_Betsy|贝 特 熙
