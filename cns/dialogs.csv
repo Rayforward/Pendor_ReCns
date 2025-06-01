@@ -2839,7 +2839,8 @@ dlga_pop2_war_room_buy_weapons_choice:pop2_war_room_buy_weapons_steward.8|弩 �
 dlga_pop2_war_room_buy_weapons_choice:pop2_war_room_buy_weapons_steward.9|弩 矢 。
 dlga_pop2_war_room_buy_weapons_choice:pop2_war_room_buy_weapons_steward.10|投 掷 武 器 。
 dlga_pop2_war_room_buy_weapons_choice:pop2_war_room_buy_weapons_steward.11|火 枪 。
-dlga_pop2_war_room_buy_weapons_choice:pop2_war_room_buy_weapons_steward.12|子 弹 。
+dlga_pop2_war_room_buy_weapons_choice:pop2_war_room_buy_weapons_steward.12|手 枪 。
+dlga_pop2_war_room_buy_weapons_choice:pop2_war_room_buy_weapons_steward.13|子 弹 。
 dlga_pop2_war_room_buy_weapons_steward:close_window|很 好 ， {reg63?先 生 :女 士 }。 从 右 边 选 择 一 件 武 器 ， 拖 动 至 最 左 边 士 兵 的 装 备 栏 上 ， 取 代 之 前 旧 的 装 备 。
 dlga_pop2_war_room_improve_troops:pop2_war_room_improve_troops_response|{reg63?大 人 :夫 人 }， 花 费 {reg30}第 纳 尔 和 {reg29}点 声 望 可 为 {s1}提 升 力 量 、 敏 捷 各 2点 ， 并 增 加 所 有 武 器 熟 练 度 20点 。
 dlga_pop2_war_room_improve_troops_response:pop2_war_room_improve_troops_done_2|提 升 {s1}。
