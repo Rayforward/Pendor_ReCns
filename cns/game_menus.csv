@@ -547,8 +547,8 @@ menu_give_center_to_player|获 赐 新 封 地 ！ {s1} 将 {s2} 赏 赐 给 你
 mno_give_center_to_player_accept|接 受 这 个 赏 赐 
 mno_give_center_to_player_reject|拒 绝 ， 你 不 想 要 {s2} 
 menu_give_center_to_player_2|短 暂 的 仪 式 之 后 ， 你 已 正 式 成 为 {s2} {reg3?和 从 属 的 {s4} :} 的 领 主 。 {reg3?它 们 :它 } 会 成 为 你 新 的 封 地 。 你 拥 有 在 这 里 收 取 税 金 和 征 召 士 兵 的 权 利 ， 同 时 也 拥 有 保 证 这 里 的 安 全 和 秩 序 的 义 务 。 
-menu_oath_fulfilled|你 为 {s1} 服 务 的 合 约 已 经 到 期 了 ， 现 在 的 打 算 是 ？
-mno_renew_oath|继 续 向 {s1} 宣 誓 ， 再 服 务 一 个 月 
+menu_oath_fulfilled|你 为 {s1}服 务 的 合 约 已 经 到 期 了 ， 现 在 的 打 算 是 ？
+mno_renew_oath|继 续 向 {s1}宣 誓 ， 再 服 务 一 个 月 
 mno_dont_renew_oath|恢 复 自 由 之 身 
 menu_siege_started_defender|{s1} 正 在 攻 击 {s2} 的 城 墙 。 你 有 {reg10}人 可 以 参 战 对 抗 敌 人 的 {reg11}人 。 你 决 定 … … 
 mno_siege_defender_join_battle|参 加 战 斗 
@@ -727,7 +727,7 @@ mno_town_castle|进 入 城 堡 大 厅 {s1}
 mno_town_enterprise_a|视 察 你 的 {s3} 
 mno_town_enterprise_a_door|视 察 你 的 产 业 
 mno_guildmaster_talk|和 市 长 会 谈 
-mno_center_reports|获 取 {reg0?城 市 :城 堡 } 报 告 
+mno_center_reports|获 取 {reg0?城 市 :城 堡 }报 告 
 mno_walled_center_manage|管 理 这 个 {reg0?城 市 :城 堡 } 
 mno_walled_center_train_steward|训 练 {reg0?市 :城 堡 } 管 家 
 mno_walled_center_move_court|将 宫 廷 移 动 至 此 
@@ -749,9 +749,9 @@ mno_visit_lady_6|拜 访 {s12}
 mno_visit_lady_7|拜 访 {s12} 
 mno_visit_lady_8|拜 访 {s12} 
 menu_town_tournament_lost|你 在 竞 技 大 赛 中 被 淘 汰 了 。{s8} 
-menu_town_tournament_won|你 在 {s3} 的 竞 技 大 赛 中 获 得 了 胜 利 ！ 听 到 周 围 的 人 们 高 呼 着 你 的 名 字 ， 你 感 到 无 限 荣 耀 。 除 此 之 外 ， 你 还 获 得 了 {reg9}第 纳 尔 的 奖 金 。 {s8} 
-menu_town_tournament_won_by_another|作 为 最 后 的 赢 家 ， {s1} 赢 得 了 该 场 竞 技 大 赛 的 奖 金 以 及 荣 耀 。 
-menu_town_tournament|{s1} 你 现 在 处 于 竞 技 大 赛 中 的 第 {reg0} 轮 ， 还 剩 下 {reg1} 名 参 与 者 。 下 一 轮 中 ， 将 会 有 {reg2} 队 ， 其 中 每 队 有 {reg3} 人 参 加 战 斗 。 
+menu_town_tournament_won|你 在 {s3}的 竞 技 大 赛 中 获 得 了 胜 利 ！ 听 到 周 围 的 人 们 高 呼 着 你 的 名 字 ， 你 感 到 无 限 荣 耀 。 除 此 之 外 ， 你 还 获 得 了 {reg9}第 纳 尔 的 奖 金 。 {s8} 
+menu_town_tournament_won_by_another|作 为 最 后 的 赢 家 ， {s1}赢 得 了 该 场 竞 技 大 赛 的 奖 金 以 及 荣 耀 。 
+menu_town_tournament|{s1} 你 现 在 处 于 竞 技 大 赛 中 的 第 {reg0}轮 ， 还 剩 下 {reg1}名 参 与 者 。 下 一 轮 中 ， 将 会 有 {reg2}队 ， 其 中 每 队 有 {reg3}人 参 加 战 斗 。 
 mno_tournament_bet|在 自 己 身 上 下 注 
 mno_tournament_join_next_fight|进 入 下 一 轮 
 mno_tournament_view_participants|察 看 参 赛 者 名 单 
@@ -759,7 +759,7 @@ mno_leave_tournament|从 竞 技 大 赛 中 退 出
 menu_tournament_withdraw_verify|你 确 认 要 从 竞 技 大 赛 中 退 出 吗 ？ 
 mno_tournament_withdraw_yes|是 的 ， 这 是 毫 无 希 望 的 努 力 。 
 mno_tournament_withdraw_no|不 ， 只 要 还 有 一 丝 机 会 取 得 胜 利 就 不 能 放 弃 ！ 
-menu_tournament_bet|现 在 的 赔 率 是 {reg5} 比 {reg6} 。 {reg1?你 已 经 在 自 己 身 上 下 了 {reg1}第 纳 尔 的 赌 注 ， 如 果 你 获 得 胜 利 的 话 ， 你 将 会 赢 得 {reg2}第 纳 尔 。 :} 你 还 想 再 押 注 多 少 ？ 
+menu_tournament_bet|现 在 的 赔 率 是 {reg5}比 {reg6}。 {reg1?你 已 经 在 自 己 身 上 下 了 {reg1}第 纳 尔 的 赌 注 ， 如 果 你 获 得 胜 利 的 话 ， 你 将 会 赢 得 {reg2}第 纳 尔 。 :} 你 还 想 再 押 注 多 少 ？ 
 mno_bet_500_denars|500第 纳 尔 
 mno_bet_250_denars|250第 纳 尔 
 mno_bet_100_denars|100第 纳 尔 
@@ -870,25 +870,25 @@ menu_captivity_end_propose_ransom|在 阴 暗 的 地 牢 中 不 知 道 过 �
 mno_captivity_end_ransom_accept|接 受 这 个 建 议 
 mno_captivity_end_ransom_deny|等 待 更 好 的 机 会 
 menu_captivity_castle_remain|时 光 流 逝 ， 你 在 监 牢 里 痛 苦 的 忍 受 着 被 囚 禁 的 痛 苦 ， 还 有 身 边 堆 满 了 越 来 越 多 的 排 泄 物 … … 
-menu_kingdom_army_quest_report_to_army|{s8} 邀 请 你 一 起 去 参 加 {reg4?她 :他 } 的 远 征 。 你 需 要 带 上 至 少 {reg13} 名 战 士 ， 如 果 现 在 不 够 的 话 ， 你 需 要 让 部 队 尽 快 达 到 要 求 人 数 。 
-menu_kingdom_army_quest_messenger|{s8} 派 信 使 来 告 诉 你 ， 他 要 给 你 指 定 一 个 任 务 ， 并 要 求 你 尽 快 去 见 他 。 
-menu_kingdom_army_quest_join_siege_order|{s8} 派 信 使 来 命 令 你 加 入 对 于 {s9} 的 围 攻 ， 不 论 付 出 多 大 的 代 价 都 必 须 拿 下 {s9} 。 
-menu_kingdom_army_follow_failed|你 和 {s8} 走 散 了 ， 元 帅 认 为 你 可 能 另 有 要 务 ， 不 过 他 对 于 你 的 支 持 还 是 表 示 感 激 。 
-menu_invite_player_to_faction_without_center|你 收 到 了 一 份 封 臣 的 邀 请 ！^^{s9} 的 {s8} 派 遣 了 一 个 王 家 信 使 来 亲 自 递 送 这 份 邀 请 。 你 将 成 为 {s9} 的 一 位 诸 侯 ， 从 此 被 人 以 {reg63?大 人 : 女 士 } 称 呼 ， 但 是 并 没 有 给 予 你 封 地 以 及 额 外 的 头 衔 ， 当 然 作 为 回 报 {s8} 要 求 你 宣 誓 对 他 效 忠 并 与 他 一 起 加 入 他 的 远 征 。 虽 然 他 没 有 许 诺 封 地 和 头 衔 ， 如 果 你 不 同 意 这 个 请 求 的 话 他 还 是 会 被 激 怒 的 … … 
+menu_kingdom_army_quest_report_to_army|{s8}邀 请 你 一 起 去 参 加 {reg4?她 :他 }的 远 征 。 你 需 要 带 上 至 少 {reg13}名 战 士 ， 如 果 现 在 不 够 的 话 ， 你 需 要 让 部 队 尽 快 达 到 要 求 人 数 。 
+menu_kingdom_army_quest_messenger|{s8}派 信 使 来 告 诉 你 ， 他 要 给 你 指 定 一 个 任 务 ， 并 要 求 你 尽 快 去 见 他 。 
+menu_kingdom_army_quest_join_siege_order|{s8}派 信 使 来 命 令 你 加 入 对 于 {s9}的 围 攻 ， 不 论 付 出 多 大 的 代 价 都 必 须 拿 下{s9} 。 
+menu_kingdom_army_follow_failed|你 和 {s8}走 散 了 ， 元 帅 认 为 你 可 能 另 有 要 务 ， 不 过 他 对 于 你 的 支 持 还 是 表 示 感 激 。 
+menu_invite_player_to_faction_without_center|你 收 到 了 一 份 封 臣 的 邀 请 ！^^{s9} 的 {s8}派 遣 了 一 个 王 家 信 使 来 亲 自 递 送 这 份 邀 请 。 你 将 成 为 {s9}的 一 位 诸 侯 ， 从 此 被 人 以 {reg63?大 人 : 女 士 }的 称 呼 ， 但 是 并 没 有 给 予 你 封 地 以 及 额 外 的 头 衔 ， 当 然 作 为 回 报 {s8} 要 求 你 宣 誓 对 他 效 忠 并 与 他 一 起 加 入 他 的 远 征 。 虽 然 他 没 有 许 诺 封 地 和 头 衔 ， 如 果 你 不 同 意 这 个 请 求 的 话 他 还 是 会 被 激 怒 的 … … 
 mno_faction_accept|接 受 邀 请 
 mno_faction_reject|拒 绝 邀 请 
-menu_invite_player_to_faction|你 收 到 了 一 份 封 臣 的 邀 请 ！^^{s9} 的 {s8} 派 遣 了 一 个 王 家 信 使 来 亲 自 递 送 这 份 邀 请 。 你 将 成 为 {s9} 的 一 位 诸 侯 ， 从 此 被 人 以 {reg63?大 人 : 女 士 } 称 呼 ， 但 是 并 没 有 直 接 给 予 你 封 地 以 及 额 外 的 头 衔 。 {s8} 要 求 你 宣 誓 对 他 效 忠 并 与 他 一 起 加 入 他 的 远 征 。 假 如 你 愿 意 宣 誓 的 话 ， 他 许 诺 额 外 给 你 {s2} 的 封 地 和 头 衔 ， 如 果 你 不 同 意 这 个 请 求 的 话 他 一 定 会 被 激 怒 的 … … 
-menu_invite_player_to_faction_accepted|如 果 你 想 要 成 为 封 臣 的 话 你 必 须 去 找 {s3} 宣 誓 。 {s5} 
-menu_question_peace_offer|你 收 到 了 一 份 停 战 的 邀 请 :^^{s1} 发 给 你 一 份 停 战 邀 请 ， 你 将 如 何 回 覆 ？ 
+menu_invite_player_to_faction|你 收 到 了 一 份 封 臣 的 邀 请 ！^^{s9} 的 {s8}派 遣 了 一 个 王 家 信 使 来 亲 自 递 送 这 份 邀 请 。 你 将 成 为 {s9} 的 一 位 诸 侯 ， 从 此 被 人 以 {reg63?大 人 : 女 士 }的 称 呼 ， 但 是 并 没 有 直 接 给 予 你 封 地 以 及 额 外 的 头 衔 。 {s8} 要 求 你 宣 誓 对 他 效 忠 并 与 他 一 起 加 入 他 的 远 征 。 假 如 你 愿 意 宣 誓 的 话 ， 他 许 诺 额 外 给 你 {s2} 的 封 地 和 头 衔 ， 如 果 你 不 同 意 这 个 请 求 的 话 他 一 定 会 被 激 怒 的 … … 
+menu_invite_player_to_faction_accepted|如 果 你 想 要 成 为 封 臣 的 话 你 必 须 去 找 {s3}宣 誓 。 {s5} 
+menu_question_peace_offer|你 收 到 了 一 份 停 战 的 邀 请 :^^{s1}发 给 你 一 份 停 战 邀 请 ， 你 将 如 何 回 覆 ？ 
 mno_peace_offer_accept|接 受 
 mno_peace_offer_reject|拒 绝 
-menu_notification_truce_expired|停 战 协 定 到 期^^{s1} 和 {s2} 之 间 的 停 战 协 定 已 经 到 期 。 
+menu_notification_truce_expired|停 战 协 定 到 期^^{s1}和 {s2}之 间 的 停 战 协 定 已 经 到 期 。 
 menu_notification_feast_quest_expired|{s10} 
 menu_notification_sortie_possible|敌 报 :已 经 在 {s4} 的 城 墙 外 发 现 敌 人 ， {s5} 和 其 他 领 主 正 准 备 出 击 ， 如 果 愿 意 的 话 你 可 以 加 入 他 们 。 
 menu_notification_casus_belli_expired|王 国 没 有 回 应^^{s1} 没 有 回 应 {s2} 的 挑 衅 ， 这 导 致 {s3} 在 {reg4?她 :他 } 手 下 的 好 战 派 中 威 信 扫 地 … … ^
 menu_notification_lord_defects|背 叛 :{s4} 带 着 {reg4?她 :他 } 的 封 地 一 起 背 叛 了 {s5} 并 且 加 入 了 {s7} 。 
 menu_notification_treason_indictment|叛 国 指 控^^{s9} 
-menu_notification_border_incident|边 界 冲 突 :^^有 消 息 传 来 ， {s9} 。 虽 然 传 言 真 假 未 知 ， 但 有 件 事 是 确 定 的 —— 这 件 看 来 很 小 的 事 件 在 {s4} 内 部 已 经 掀 起 轩 然 大 波 ， 使 得 与 {s3} 的 战 争 一 触 即 发 … … 
+menu_notification_border_incident|边 界 冲 突 :^^有 消 息 传 来 ， {s9} 。 虽 然 传 言 真 假 未 知 ， 但 有 件 事 是 确 定 的 —— 这 件 看 来 很 小 的 事 件 在 {s4}内 部 已 经 掀 起 轩 然 大 波 ， 使 得 与 {s3}的 战 争 一 触 即 发 … … 
 menu_notification_player_faction_active|现 在 ， 这 片 土 地 被 冠 以 你 的 名 字 ， 而 不 跟 其 他 国 家 有 任 何 关 系 。 你 成 为 了 一 位 能 独 立 行 使 权 力 的 君 主 ， 你 的 宫 廷 暂 时 坐 落 在 {s12} 。 然 而 ， 潘 德 的 其 他 君 主 的 第 一 反 应 ， 是 把 你 当 做 一 个 威 胁 ， 因 为 ， 如 果 每 一 个 强 势 的 军 阀 ， 都 可 以 夺 取 王 位 ， 那 么 君 主 的 权 威 无 疑 会 受 到 质 疑 。^^你 可 能 觉 得 这 个 时 候 宣 誓 效 忠 于 一 个 现 有 的 国 家 ， 是 个 非 常 不 错 的 选 择 。 如 果 你 想 继 续 当 一 个 拥 有 主 权 的 君 王 ， 那 么 首 先 你 必 须 建 立 自 己 独 立 的 统 治 。 这 可 以 通 过 多 个 办 法 进 行 ， 比 如 与 出 身 高 贵 的 家 族 联 姻 ， 吸 纳 新 的 领 主 ， 管 理 你 的 领 地 ， 应 付 其 他 君 主 ， 以 及 派 遣 你 的 盟 友 去 执 行 任 务 。^^无 论 如 何 ， 你 首 先 要 从 你 的 伙 伴 当 中 任 命 一 位 担 任 首 席 大 臣 ， 来 处 理 各 种 事 务 。 不 同 的 伙 伴 有 不 同 的 才 能 。^你 可 以 不 时 地 更 换 你 的 大 臣 人 选 ， 还 可 以 通 过 与 大 臣 对 话 ， 改 变 你 的 宫 廷 的 所 在 地 。 
 mno_appoint_spouse|任 命 你 的 妻 子 ， {s10} … … 
 mno_appoint_npc_adonja|任 命 {s10} 
@@ -929,13 +929,13 @@ menu_notification_one_faction_left|占 位 符
 menu_notification_order_founded|占 位 符 
 menu_notification_oath_renounced_faction_defeated|你 从 前 从 属 的 势 力 被 击 败 了^^你 赢 得 了 与{s1} 的 战 斗 ！ 你 从 这 个 势 力 中 脱 离 了 出 去 。 
 menu_notification_center_lost|领 地 失 去 ！^^因 为 {s2} 你 失 去 了 {s1} 。 
-menu_notification_center_sacked|一 个 村 庄 被 洗 劫^^{s1} 被 {s2} 劫 掠 。 
-menu_notification_troop_left_players_faction|背 叛 ！^^{s1} 从 {s2} 离 开 了 ， 并 加 入 了 {s3} 。 
-menu_notification_troop_joined_players_faction|好 消 息 ！^^{s1} 从 {s2} 离 开 了 ， 并 加 入 了 {s3} 。 
-menu_notification_war_declared|宣 战 ！^^出 于 {s3} 的 目 的 ， {s1} 向 {s2} 宣 战 ！
-menu_notification_peace_declared|和 平 协 议 ！^^{s1} 和 {s2} 达 成 了 和 平 协 议 。^{s57} 
-menu_notification_faction_defeated|势 力 覆 灭 ！^^{s1} 不 复 存 在 了 ！ 
-menu_notification_rebels_switched_to_faction|叛 乱 成 功^^你 的 叛 变 十 分 成 功 ！ 现 在 你 的 派 系 已 将 {s12} 定 为 {s11} 唯 一 的 君 主 。 
+menu_notification_center_sacked|一 个 村 庄 被 洗 劫^^{s1}被 {s2}劫 掠 。 
+menu_notification_troop_left_players_faction|背 叛 ！^^{s1}从 {s2}离 开 了 ， 并 加 入 了 {s3}。 
+menu_notification_troop_joined_players_faction|好 消 息 ！^^{s1}从 {s2}离 开 了 ， 并 加 入 了 {s3}。 
+menu_notification_war_declared|宣 战 ！^^出 于 {s3} 的 目 的 ， {s1}向 {s2}宣 战 ！
+menu_notification_peace_declared|和 平 协 议 ！^^{s1}和 {s2}达 成 了 和 平 协 议 。^{s57} 
+menu_notification_faction_defeated|势 力 覆 灭 ！^^{s1}不 复 存 在 了 ！ 
+menu_notification_rebels_switched_to_faction|叛 乱 成 功^^你 的 叛 变 十 分 成 功 ！ 现 在 你 的 派 系 已 将 {s12}定 为 {s11}唯 一 的 君 主 。 
 menu_notification_player_should_consult|你 的 首 席 大 臣 传 话 来 说 ， 王 国 内 部 有 些 问 题 正 在 酝 酿 ， 如 果 不 处 理 的 话 会 逐 渐 威 胁 到 你 的 王 权 。 你 必 须 尽 早 与 他 磋 商 一 下 。 
 menu_notification_player_feast_in_progress|筹 备 宴 会^^你 的 夫 人 正 在 {s11} 的 大 厅 里 筹 备 宴 会 。 
 menu_notification_lady_requests_visit|一 位 老 妇 人 找 到 了 你 的 部 队 ， 给 了 你 手 下 一 封 纯 蜡 密 封 着 的 信 ， 地 址 是 写 给 你 的 。 当 你 打 这 封 信 时 ， 发 现 是 {s15} 写 来 的 。 上 面 说 :“上 次 来 访 ， 相 聚 甚 欢 ， {s14} 。 我 现 在 {s10} ， {s12} 。 ” 
@@ -952,13 +952,13 @@ mno_continue_1|进 攻 贼 巢 … …
 mno_leave_no_attack|离 开 
 mno_leave_victory|继 续 … … 
 mno_leave_defeat|继 续 … … 
-menu_notification_player_faction_political_issue_resolved|经 过 和 国 内 贵 族 们 的 商 议 ， {s10} 已 经 决 定 授 予 {s12} {s11} 。 
-menu_notification_player_faction_political_issue_resolved_for_player|经 过 和 国 内 贵 族 们 的 商 议 ， {s10} 已 经 决 定 授 予 你 {s11} 。 你 可 以 拒 绝 这 项 任 命 ， 但 是 这 也 许 意 味 着 短 时 间 内 你 不 会 再 收 到 其 它 任 何 授 予 。 {s12} 
+menu_notification_player_faction_political_issue_resolved|经 过 和 国 内 贵 族 们 的 商 议 ， {s10}已 经 决 定 授 予 {s12}{s11}。 
+menu_notification_player_faction_political_issue_resolved_for_player|经 过 和 国 内 贵 族 们 的 商 议 ， {s10}已 经 决 定 授 予 你 {s11}。 你 可 以 拒 绝 这 项 任 命 ， 但 是 这 也 许 意 味 着 短 时 间 内 你 不 会 再 收 到 其 它 任 何 授 予 。 {s12} 
 mno_accept|接 受 这 份 荣 誉 
 mno_decline|拒 绝 这 份 荣 誉 
 menu_start_phase_2_5|{s16}
 menu_start_phase_3_without_sq|{s16}
-menu_start_phase_3|{s16} ^^当 你 终 于 抵 达 {s1} 旅 馆 的 时 候 ， 你 已 精 疲 力 竭 ， 很 快 就 睡 着 了 。 在 黎 明 来 临 之 前 你 就 醒 来 了 ， 迫 不 及 待 地 打 量 着 四 周 的 环 境 。 你 大 胆 地 走 上 了 无 人 的 街 头 。 突 然 ， 你 听 到 了 一 个 声 音 ， 脖 子 上 的 汗 毛 不 由 得 全 竖 了 起 来 —— 那 是 刀 剑 出 鞘 的 刺 耳 的 声 音 … … 
+menu_start_phase_3|{s16} ^^当 你 终 于 抵 达 {s1}旅 馆 的 时 候 ， 你 已 精 疲 力 竭 ， 很 快 就 睡 着 了 。 在 黎 明 来 临 之 前 你 就 醒 来 了 ， 迫 不 及 待 地 打 量 着 四 周 的 环 境 。 你 大 胆 地 走 上 了 无 人 的 街 头 。 突 然 ， 你 听 到 了 一 个 声 音 ， 脖 子 上 的 汗 毛 不 由 得 全 竖 了 起 来 —— 那 是 刀 剑 出 鞘 的 刺 耳 的 声 音 … … 
 menu_start_phase_4|{s11} 
 menu_lost_tavern_duel|{s11} 
 menu_grandmaster_ambush_lost|拜 蛇 教 的 突 击 让 你 毫 无 招 架 之 力 ， 你 在 他 们 猛 烈 的 攻 击 下 晕 倒 了 。 醒 来 时 你 头 晕 眼 花 ， 不 明 究 理 。 

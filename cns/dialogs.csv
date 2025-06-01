@@ -186,7 +186,7 @@ dlga_horseman_melee_challenge_2:close_window|好 的 ， 我 准 备 好 了 。
 dlga_horseman_melee_challenge_2:close_window.1|等 一 下 ， 我 要 先 去 做 点 别 的 事 情 。
 dlga_tutorial_troop_default:close_window|嘿 ， 我 正 在 这 里 练 习 呢 。 如 果 你 想 得 到 关 于 远 程 武 器 的 指 导 ， 去 跟 箭 术 教 练 谈 谈 吧 。
 dlga_start:lord_prison_break_confirm_3|计 划 有 变 动 吗 ？
-dlga_start:lord_prison_break|怎 么 样 了 ？
+dlga_start:lord_prison_break|发 生 什 么 事 了 ？
 dlga_start:drunk_response|你 在 看 什 么 ？
 dlga_start:drunk_response.1|你 在 看 我 ？
 dlga_player_duel_response:close_window|这 个 人 渣 ！
@@ -1411,7 +1411,7 @@ dlga_lord_collect_debt_completed:lord_collect_debt_no_pay|我 很 抱 歉 ， �
 dlga_lord_collect_debt_no_pay:close_window|这 是 开 玩 笑 的 吗 ？ {s7}已 经 把 钱 给 你 了 ， 现 在 我 要 求 你 把 那 些 钱 给 我 ， {reg63?先 生 :夫 人 }，你 最 好 快 点 给 我 。
 dlga_lord_start:close_window.1|我 听 说 你 干 掉 了 那 个 令 我 头 痛 的 麻 烦 商 人 ， 你 不 担 心 你 的 手 变 脏 ， 不 是 吗 ？ 那 很 好 ， 这 是 你 应 得 的 报 酬 。 跟 我 联 手 吧 ， {playername}。 你 是 我 需 要 的 那 种 人 ， 我 的 领 导 加 上 你 的 剑 ， 我 们 将 变 的 更 加 富 有 和 强 大 。
 dlga_lord_start:close_window.2|哦 ， 原 来 是 你 。 我 很 想 请 教 你 ， 某 人 与 一 个 出 身 微 贱 ， 可 怜 巴 巴 的 商 人 进 行 一 场 简 单 的 战 斗 居 然 输 了 。 事 实 上 ， 如 果 我 想 要 我 的 卫 兵 给 某 人 上 一 节 关 于 如 何 放 下 武 器 并 去 死 的 课 程 ， 我 一 定 会 找 你 去 的 。 走 开 ， {playername}，我 还 有 很 多 事 情 要 处 理 。
-dlga_lord_start:lord_kill_local_merchant_let_go|你 ！ 你 的 耳 朵 进 了 锯 木 屑 了 吗 ？ 你 认 为 我 说 要 你 去 杀 那 个 商 人 的 意 思 是 叫 你 和 他 闲 聊 并 送 他 走 ？ ！ 你 到 底 被 什 么 东 西 迷 惑 了 ？
+dlga_lord_start:lord_kill_local_merchant_let_go|你 ！ 你 的 耳 朵 进 了 锯 木 屑 了 吗 ？ 你 以 为 我 让 你 杀 了 那 个 商 人 ， 是 想 你 好 好 跟 他 聊 一 聊 然 后 放 他 走 吗 ？ ！ 你 着 什 么 魔 了 ？
 dlga_lord_kill_local_merchant_let_go:lord_kill_local_merchant_let_go_2|大 人 ， 我 可 以 向 你 保 证 ， 他 不 会 做 出 对 抗 你 的 行 为 的 。
 dlga_lord_kill_local_merchant_let_go_2:lord_pretalk|胡 扯 ！ 你 本 应 该 是 去 干 掉 他 的 ， 而 不 是 对 他 进 行 说 教 并 放 他 走 。 他 最 好 是 像 你 说 的 那 样 ， 否 则 你 们 两 人 都 会 后 悔 的 。 给 你 ， 这 是 我 向 你 承 诺 的 钱 的 一 半 。 不 要 废 话 ， {playername}，能 得 到 这 点 钱 你 已 经 很 幸 运 了 。 不 听 我 命 令 的 人 对 我 来 说 一 点 用 都 没 有 。
 dlga_lord_start:lord_follow_spy_completed|干 得 漂 亮 ， {playername}！ 你 抓 住 了 那 个 间 谍 和 他 的 同 伙 ， 非 常 符 合 我 的 期 望 。 他 们 现 在 被 安 全 地 关 押 在 我 的 地 牢 里 ， 随 时 听 候 审 查 。 我 手 下 的 拷 问 者 今 天 晚 上 会 很 忙 的 。 不 管 怎 样 ， 我 对 你 的 成 功 感 到 非 常 满 意 ， {playername}，我 将 给 你 一 些 奖 金 以 作 为 我 对 你 的 奖 励 。
@@ -2345,7 +2345,7 @@ dlga_lord_tell_mission_incriminate_commander_9:lord_tell_mission_incriminate_com
 dlga_lord_tell_mission_incriminate_commander_10:lord_tell_mission_incriminate_commander_fin|我 会 派 出 一 名 {s8}的 。
 dlga_lord_tell_mission_incriminate_commander_10:lord_tell_mission_incriminate_commander_rejected|不 ， 我 绝 不 会 牺 牲 那 些 我 挑 选 出 来 的 战 士 ！
 dlga_lord_tell_mission_incriminate_commander_fin:lord_pretalk|听 到 你 这 么 说 我 的 喜 悦 难 以 言 表 ， {playername}， 你 将 替 我 去 掉 我 整 个 计 划 中 最 大 的 阻 碍 之 一 ， 现 在 拿 着 这 封 信 和 这 300第 纳 尔 的 费 用 。 牢 牢 记 住 ， 成 败 在 此 一 举 。
-dlga_lord_tell_mission:lord_mission_told.1|最 近 在 一 次 与 敌 人 的 冲 突 中 ， 我 有 一 些 士 兵 被 俘 。 还 好 双 方 有 个 换 俘 协 议 ， 他 们 也 愿 意 放 人 ， 不 过 需 要 相 同 级 别 和 数 目 的 士 兵 作 为 交 换 ， 但 我 手 头 正 好 没 有 对 方 战 俘 。 所 以 ， 我 需 要 一 个 勇 士 帮 我 去 找 {reg1} 个 {s3}来 交 换 战 俘 。
+dlga_lord_tell_mission:lord_mission_told.1|最 近 在 一 次 与 敌 人 的 冲 突 中 ， 我 有 一 些 士 兵 被 俘 。 还 好 双 方 有 个 换 俘 协 议 ， 他 们 也 愿 意 放 人 ， 不 过 需 要 相 同 级 别 和 数 目 的 士 兵 作 为 交 换 ， 但 我 手 头 正 好 没 有 对 方 战 俘 。 所 以 ， 我 需 要 一 个 勇 士 帮 我 去 找 {reg1}个 {s3}来 交 换 战 俘 。
 dlga_lord_tell_mission:lord_pretalk|不 ， {playername}。 我 现 在 不 需 要 你 为 我 服 务 。
 dlga_lord_mission_told:lord_mission_accepted|包 在 我 身 上 ， 大 人 。
 dlga_lord_mission_told:lord_mission_rejected|恐 怕 目 前 我 不 能 接 受 这 个 任 务 。
@@ -2935,7 +2935,7 @@ dlga_prison_guard_talk:prison_guard_ask_prisoners|谁 被 关 在 这 里 ？
 dlga_prison_guard_talk:prison_guard_visit_prison|我 想 和 一 个 囚 犯 说 话 。
 dlga_prison_guard_ask_prisoners:prison_guard_talk|现 在 ， {s50}被 关 押 在 这 里 。 {s49}
 dlga_prison_guard_visit_prison:close_window|当 然 ， {reg63?大 人 :夫 人 }。 请 进 。
-dlga_prison_guard_visit_prison:prison_guard_visit_prison_2|你 需 要 从 领 主 那 里 得 到 许 可 来 带 走 囚 犯 。
+dlga_prison_guard_visit_prison:prison_guard_visit_prison_2|你 跟 囚 犯 说 话 需 要 先 从 领 主 那 里 得 到 许 可 。
 dlga_prison_guard_visit_prison:prison_guard_visit_prison_nobody|里 面 没 有 人 ， 你 可 以 进 去 随 便 看 看 。
 dlga_prison_guard_visit_prison_nobody:close_window|那 好 的 。 我 进 去 看 看 。
 dlga_prison_guard_visit_prison_nobody:close_window.1|我 还 有 别 的 要 紧 事 要 做 。
@@ -3124,13 +3124,13 @@ dlga_deserter_barter_3b:close_window|那 太 糟 了 ， 我 们 只 好 把 你
 dlga_deserter_barter_3a:close_window|嘿 ， 现 在 看 来 ， 那 样 做 并 不 难 ， 不 是 吗 ？ 好 了 ， 滚 吧 。
 dlga_start:tavernkeeper_talk|日 安 ， 尊 贵 的 {reg63?先 生 :夫 人 }， 你 好 ， 有 什 么 需 要 帮 忙 的 吗 ？
 dlga_tavernkeeper_pretalk:tavernkeeper_talk|还 有 什 么 事 吗 ？
-dlga_tavernkeeper_talk:tavernkeeper_talk_horse_armor_1|你 知 道 那 个 养 战 马 的 人 吗 ？
+dlga_tavernkeeper_talk:tavernkeeper_talk_horse_armor_1|你 认 识 养 战 马 的 人 吗 ？
 dlga_tavernkeeper_talk_horse_armor_1:tavernkeeper_talk_horse_armor_2|呃 … … 我 的 酒 馆 客 人 来 来 去 去 的 ， 实 在 很 难 记 得 每 个 人 呢 … …
 dlga_tavernkeeper_talk_horse_armor_2:tavernkeeper_talk_horse_armor_3|也 许 这 些 金 币 能 帮 你 想 起 来 ？
 dlga_tavernkeeper_talk_horse_armor_2:tavernkeeper_talk_horse_armor_3.1|也 许 我 的 武 器 能 让 你 想 起 来 ？
 dlga_tavernkeeper_talk_horse_armor_3:tavernkeeper_talk_horse_armor_4|好 啦 好 啦 ， 我 只 知 道 那 个 … … 养 耕 马 的 那 个 … …
-dlga_tavernkeeper_talk_horse_armor_4:tavernkeeper_talk_horse_armor_5|战 啦 ！ … … 那 个 养 战 马 的 人 ！
-dlga_tavernkeeper_talk_horse_armor_5:tavernkeeper_pretalk|噢 … … 如 果 是 这 样 的 话 我 真 的 不 知 道 了 … … 也 许 你 该 去 找 找 本 地 的 市 场 ？ 今 天 市 场 人 潮 汹 涌 ， 也 许 你 能 找 到 能 回 答 你 的 人 。
+dlga_tavernkeeper_talk_horse_armor_4:tavernkeeper_talk_horse_armor_5|“ 战 ” ， 我 是 说 “ 战 马 ” ！
+dlga_tavernkeeper_talk_horse_armor_5:tavernkeeper_pretalk|那 我 还 真 不 知 道 … … 也 许 去 当 地 的 市 场 看 看 。 今 天 那 很 热 闹 ，我 肯 定 有 人 知 道 点 什 么 。
 dlga_tavernkeeper_talk:tavernkeeper_feast|我 想 让 小 伙 子 们 在 这 喝 酒 找 点 乐 子 来 提 升 士 气 。
 dlga_tavernkeeper_feast:tavernkeeper_feast|我 想 {reg1}第 纳 尔 就 够 了 ！
 dlga_tavernkeeper_feast:tavernkeeper_pretalk|很 好 ， 这 是 {reg1}第 纳 尔 ！
