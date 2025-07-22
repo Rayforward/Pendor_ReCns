@@ -486,7 +486,7 @@ menu_join_siege_outside|{s1} 正 被 {s2} 围 攻
 mno_approach_besiegers|进 入 围 城 营 地 
 mno_pass_through_siege|穿 过 围 城 进 入 {s1} 
 menu_cut_siege_without_fight|围 城 方 放 你 进 入 了 城 门 
-menu_besiegers_camp_with_allies|{s1} 仍 旧 被 包 围 中 。 {s2} 的 旗 帜 在 攻 城 军 营 地 中 飘 扬 ， 你 和 你 的 部 队 受 到 了 热 烈 的 欢 迎 。 
+menu_besiegers_camp_with_allies|{s1}仍 旧 被 包 围 中 。 {s2}的 旗 帜 在 攻 城 军 营 地 中 飘 扬 ， 你 和 你 的 部 队 受 到 了 热 烈 的 欢 迎 。 
 mno_talk_to_siege_commander|要 求 和 指 挥 官 会 面 
 mno_join_siege_with_allies|加 入 下 一 轮 的 攻 城 
 mno_join_siege_stay_back|坐 镇 指 挥 ， 让 你 的 部 队 协 助 下 一 轮 的 攻 城 
@@ -885,8 +885,8 @@ mno_peace_offer_reject|拒 绝
 menu_notification_truce_expired|停 战 协 定 到 期^^{s1}和 {s2}之 间 的 停 战 协 定 已 经 到 期 。 
 menu_notification_feast_quest_expired|{s10} 
 menu_notification_sortie_possible|敌 报 :已 经 在 {s4} 的 城 墙 外 发 现 敌 人 ， {s5} 和 其 他 领 主 正 准 备 出 击 ， 如 果 愿 意 的 话 你 可 以 加 入 他 们 。 
-menu_notification_casus_belli_expired|王 国 没 有 回 应^^{s1} 没 有 回 应 {s2} 的 挑 衅 ， 这 导 致 {s3} 在 {reg4?她 :他 } 手 下 的 好 战 派 中 威 信 扫 地 … … ^
-menu_notification_lord_defects|背 叛 :{s4} 带 着 {reg4?她 :他 } 的 封 地 一 起 背 叛 了 {s5} 并 且 加 入 了 {s7} 。 
+menu_notification_casus_belli_expired|王 国 没 有 回 应^^{s1}没 有 回 应 {s2}的 挑 衅 ， 这 导 致 {s3}在 {reg4?她 :他 }手 下 的 好 战 派 中 威 信 扫 地 … … ^
+menu_notification_lord_defects|背 叛 :{s4}带 着 {reg4?她 :他 }的 封 地 一 起 背 叛 了 {s5}并 且 加 入 了 {s7} 。 
 menu_notification_treason_indictment|叛 国 指 控^^{s9} 
 menu_notification_border_incident|边 界 冲 突 :^^有 消 息 传 来 ， {s9} 。 虽 然 传 言 真 假 未 知 ， 但 有 件 事 是 确 定 的 —— 这 件 看 来 很 小 的 事 件 在 {s4}内 部 已 经 掀 起 轩 然 大 波 ， 使 得 与 {s3}的 战 争 一 触 即 发 … … 
 menu_notification_player_faction_active|现 在 ， 这 片 土 地 被 冠 以 你 的 名 字 ， 而 不 跟 其 他 国 家 有 任 何 关 系 。 你 成 为 了 一 位 能 独 立 行 使 权 力 的 君 主 ， 你 的 宫 廷 暂 时 坐 落 在 {s12} 。 然 而 ， 潘 德 的 其 他 君 主 的 第 一 反 应 ， 是 把 你 当 做 一 个 威 胁 ， 因 为 ， 如 果 每 一 个 强 势 的 军 阀 ， 都 可 以 夺 取 王 位 ， 那 么 君 主 的 权 威 无 疑 会 受 到 质 疑 。^^你 可 能 觉 得 这 个 时 候 宣 誓 效 忠 于 一 个 现 有 的 国 家 ， 是 个 非 常 不 错 的 选 择 。 如 果 你 想 继 续 当 一 个 拥 有 主 权 的 君 王 ， 那 么 首 先 你 必 须 建 立 自 己 独 立 的 统 治 。 这 可 以 通 过 多 个 办 法 进 行 ， 比 如 与 出 身 高 贵 的 家 族 联 姻 ， 吸 纳 新 的 领 主 ， 管 理 你 的 领 地 ， 应 付 其 他 君 主 ， 以 及 派 遣 你 的 盟 友 去 执 行 任 务 。^^无 论 如 何 ， 你 首 先 要 从 你 的 伙 伴 当 中 任 命 一 位 担 任 首 席 大 臣 ， 来 处 理 各 种 事 务 。 不 同 的 伙 伴 有 不 同 的 才 能 。^你 可 以 不 时 地 更 换 你 的 大 臣 人 选 ， 还 可 以 通 过 与 大 臣 对 话 ， 改 变 你 的 宫 廷 的 所 在 地 。 

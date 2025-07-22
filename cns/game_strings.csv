@@ -1597,7 +1597,7 @@ str_comment_you_captured_my_castle_enemy_chivalrous|恭 喜 你 攻 下 了 我 
 str_comment_you_captured_my_castle_enemy|我 听 说 你 攻 陷 了 {s51}， 我 希 望 你 能 喜 欢 地 牢 ， 将 来 你 会 在 那 里 待 上 许 多 年 。 
 str_comment_we_defeated_a_lord_unfriendly_spiteful|我 想 你 会 为 我 们 对 {s54}的 胜 利 干 一 杯 ， 不 过 还 是 省 省 吧 ， 再 多 的 胜 利 美 酒 都 洗 不 尽 你 之 前 的 耻 辱 。 如 果 不 是 国 家 利 益 远 大 于 我 的 私 人 恩 怨 ， 我 早 就 加 入 敌 人 那 边 来 狠 狠 修 理 你 了 ！ 
 str_comment_we_defeated_a_lord_unfriendly|我 不 会 忘 记 当 初 我 们 如 何 并 肩 作 战 ， 对 抗 {s54}， 但 我 也 不 会 忘 记 那 些 横 在 我 们 之 间 的 过 节 。 
-str_comment_we_defeated_a_lord_cruel|{s54}之 战 是 一 场 伟 大 的 胜 利 ， 对 吧 ？ 我 们 把 敌 人 的 部 队 变 成 了 一 场 乌 鸦 的 盛 宴 ！ 哈 ！ 下 次 他 们 再 与 我 军 对 抗 时 一 定 会 再 三 思 的 。 
+str_comment_we_defeated_a_lord_cruel|那 真 是 场 对 {s54}的 伟 大 胜 利 ， 对 吧 ？ 我 们 把 他 的 军 队 变成 了 乌 鸦 的 盛 宴 ！ 哈 ! 他 下 次 再 想 对 我 们 出 兵 时 可 得 三 思 了 。 
 str_comment_we_defeated_a_lord_quarrelsome|我 不 会 忘 记 我 们 是 如 何 攻 破 {s54}的 ， 那 真 是 太 过 瘾 啦 ！ 这 次 就 让 他 们 先 吃 点 苦 头 ， 下 次 要 把 他 们 全 杀 了 ！ 
 str_comment_we_defeated_a_lord_upstanding|诸 神 会 为 这 次 对 {s54}的 胜 利 感 到 骄 傲 的 ！ 让 我 们 再 次 感 谢 诸 神 、 祈 祷 我 们 不 会 变 得 太 骄 傲 ， 并 且 希 望 神 能 继 续 庇 荫 着 我 们 。 
 str_comment_we_defeated_a_lord_default|那 是 一 个 伟 大 的 胜 利 ， 不 是 吗 ？ 和 你 一 起 战 斗 我 感 到 很 荣 耀 。 
@@ -1673,8 +1673,8 @@ str_comment_you_let_go_a_lord_allied_unfriendly_spiteful|我 听 说 你 抓 住
 str_comment_you_let_go_a_lord_allied|我 听 说 你 抓 住 {s54}了 ， 但 是 你 把 他 放 走 了 ， 我 不 会 干 涉 你 怎 样 处 理 你 自 己 的 俘 虏 ， 但 我 个 人 认 为 把 他 关 了 会 省 事 的 多 。 
 str_comment_you_let_me_go_spiteful|我 们 上 次 遇 到 的 时 候 ， 你 对 我 很 仁 慈 ， 并 放 我 走 了 ， 我 希 望 你 喜 欢 跟 我 玩 类 似 猫 捉 老 鼠 的 游 戏 ， 因 为 很 快 我 将 让 你 乞 求 我 的 仁 慈 ， 杀 死 或 者 羞 辱 都 由 我 的 想 法 决 定 。 
 str_comment_you_let_me_go_enemy_chivalrous|我 们 上 次 遇 到 的 时 候 ， 你 对 我 很 仁 慈 ， 并 放 我 走 了 ， 你 太 有 骑 士 精 神 了 ， 我 不 会 忘 记 你 的 ， 但 是 我 同 时 也 必 须 牢 记 我 对 我 的 君 主 发 过 的 誓 言 ， 而 且 我 们 的 国 家 还 在 交 战 中 。 
-str_comment_you_let_me_go_enemy_coldblooded|我 们 上 次 遇 到 的 时 候 ， 你 对 我 很 仁 慈 ， 并 放 我 走 了 ， 但 是 我 们 仍 然 是 敌 人 ， 我 不 会 以 同 样 的 方 式 对 你 仁 慈 的 。 
-str_comment_you_let_me_go_enemy|我 们 上 次 遇 到 的 时 候 ， 你 对 我 很 仁 慈 ， 并 放 我 走 了 ， 你 很 仁 慈 ， 但 是 我 们 仍 然 在 交 战 中 。 
+str_comment_you_let_me_go_enemy_coldblooded|你 上 回 抓 住 我 后 放 我 走 实 在 是 太 傻 了 。 我 们 仍 然 是 敌 人 ， 我 不 能 保 证 以 同 样 的 方 式 回 报 你 的 仁 慈 。 
+str_comment_you_let_me_go_enemy|感 谢 你 在 我 落 入 你 手 时 没 有 让 我 蒙 羞 ， 也 没 有 索 要 巨 额 赎 金 。 你 很 仁 慈 ， 但 我 们 仍 在 交 战 ， 必 须 继 续 为 敌 。 
 str_comment_you_let_me_go_default|上 次 我 不 幸 落 入 你 手 之 时 ， 你 对 我 很 仁 慈 ， 并 放 我 走 了 ， 你 很 仁 慈 ， 而 且 我 很 高 兴 我 们 的 国 家 不 再 交 战 了 。 也 许 我 现 在 有 办 法 还 你 这 份 人 情 。
 str_comment_pledged_allegiance_allied_martial_unfriendly|我 的 直 属 封 君 ， {s54}， 发 公 文 提 到 说 你 已 经 加 入 我 方 。 祈 祷 你 不 会 表 现 出 懦 弱 的 样 子 而 使 我 们 都 感 到 丢 脸 。 
 str_comment_pledged_allegiance_allied_martial|君 主 派 使 者 送 了 封 信 通 知 我 你 已 经 宣 誓 效 忠 他 了 ， 我 一 直 都 想 和 你 并 肩 对 抗 我 们 的 敌 人 。 
@@ -1827,10 +1827,10 @@ str_lord_challenged_default|如 你 所 愿 ， 准 备 去 死 吧 ！
 str_lord_challenged_martial|好 吧 ， 准 备 自 卫 吧 ！ 
 str_lord_challenged_quarrelsome|你 ， 放 肆 的 家 伙 ！ 我 要 你 将 你 碎 尸 万 段 ！ 
 str_lord_challenged_pitiless|如 果 你 一 心 要 找 死 的 话 ， 那 我 也 只 能 成 全 你 。 
-str_lord_challenged_cunning|好 吧 ， 如 果 你 不 给 我 机 会 … … 
+str_lord_challenged_cunning|嗬 ， 既 然 你 让 我 别 无 选 择 … … 
 str_lord_challenged_sadistic|你 这 个 肮 脏 的 家 伙 ！ 我 会 让 你 希 望 自 己 没 有 出 生 在 这 个 世 界 上 。 
 str_lord_challenged_goodnatured|很 好 ， 我 本 希 望 我 们 可 以 避 免 战 斗 ， 但 是 我 明 白 那 是 不 可 能 的 了 。 
-str_lord_challenged_upstanding|就 这 样 吧 ， 你 不 去 了 解 原 因 令 我 感 到 悲 哀 。 
+str_lord_challenged_upstanding|那 就 这 样 吧 。 你 不 愿 听 道 理 ， 这 让 我 很 难 过 。 
 str_lord_mission_failed_default|好 吧 ， 我 很 失 望 ， 但 是 我 确 信 你 以 后 会 有 很 多 机 会 去 弥 补 你 的 过 失 。 
 str_lord_mission_failed_martial|试 图 为 你 的 任 务 失 败 找 理 由 是 不 光 荣 的 ， 但 我 还 是 接 受 你 所 说 的 。 
 str_lord_mission_failed_quarrelsome|你 失 败 了 ？ 呸 ！ 我 早 就 该 猜 到 会 是 这 样 的 。 
@@ -3729,7 +3729,7 @@ str_a_fortress_is_vulnerable|一 座 要 塞 容 易 遭 到 攻 击 。
 str_i_believe_that_the_enemy_may_be_vulnerable|我 认 为 敌 军 现 在 很 虚 弱 。 
 str_i_need_to_inspect_my_properties_and_collect_my_dues|我 要 去 我 的 治 下 征 税 收 租 。 
 str_it_has_been_too_long_since_i_have_inspected_my_estates|我 好 久 没 有 巡 视 我 的 封 地 了 。 
-str_my_men_are_weary_so_we_are_returning_home|我 的 部 下 都 疲 倦 了 ， 我 们 要 回 家 了 。 
+str_my_men_are_weary_so_we_are_returning_home|我 的 部 下 都 疲 倦 了 ， 所 以 我 们 正 往 家 赶 。 
 str_my_men_are_becoming_weary|我 的 部 下 开 始 疲 倦 。 
 str_i_have_a_score_to_settle_with_the_lord_there|我 有 些 事 情 得 和 这 儿 的 领 主 解 决 。 
 str_i_am_thinking_of_settling_an_old_score|我 在 考 虑 解 决 一 笔 旧 账 。 
@@ -3805,7 +3805,7 @@ str_s12s15_is_at_war_on_too_many_fronts_and_eager_to_make_peace_with_s16|{s12}{s
 str_s12s15_seems_to_think_that_s16_and_reg4shehe_have_a_common_enemy_in_the_s17|{s12}{s15}认 为 {reg4?她 :他 }跟 {s16}有 一 个 共 同 敌 对 的 目 标 ， 那 就 是 {s17}。 
 str_s12s15_feels_frustrated_by_reg4herhis_inability_to_strike_a_decisive_blow_against_s16|{s12}{s15}对 {reg4?她 :他 }未 能 给 与 {s16}决 定 性 的 打 击 感 到 相 当 失 望 。 
 str_s12s15_has_suffered_enough_in_the_war_with_s16_for_too_little_gain_and_is_ready_to_pursue_a_peace|{s12}{s15}在 与 {s16}的 交 战 中 吃 够 了 苦 头 ， 而 收 获 甚 微 ， 所 以 准 备 和 谈 。 
-str_s12s15_would_like_to_firm_up_a_truce_with_s16_to_respond_to_the_threat_from_the_s17|{s12}{s15}想 要 稳 固 与 {s16}之 间 的 停 战 协 定 ， 以 此 来 应 对 来 自 {s17}的 威 胁 。 
+str_s12s15_would_like_to_firm_up_a_truce_with_s16_to_respond_to_the_threat_from_the_s17|{s12}{s15}希 望 与 {s16}达 成 休 战 以 应 对 来 自 {s17}的 威 胁 。 
 str_s12s15_wishes_to_be_at_peace_with_s16_so_as_to_pursue_the_war_against_the_s17|{s12}{s15}希 望 与 {s16}保 持 和 平 以 便 继 续 与 {s17}的 战 争 。 
 str_s12s15_seems_to_be_intimidated_by_s16_and_would_like_to_avoid_hostilities|{s12}{s15}似 乎 受 到 {s16}的 威 胁 ， 表 示 愿 意 与 之 停 战 。 
 str_s12s15_has_no_particular_reason_to_continue_the_war_with_s16_and_would_probably_make_peace_if_given_the_opportunity|{s12}{s15}已 经 没 有 了 继 续 与 {s16}交 战 的 理 由 ， 一 旦 时 机 成 熟 ， 双 方 将 恢 复 和 平 。 
@@ -3924,8 +3924,8 @@ str_roughlooking_character_in_s4|相 貌 粗 野 的 人 物 在 {s4}
 str_roughlooking_character_not_found|相 貌 粗 野 的 人 物 没 有 找 到 
 str__however_you_have_sufficiently_distinguished_yourself_to_be_invited_to_attend_the_ongoing_feast_in_the_lords_castle|不 过 ， 你 赢 得 了 充 分 的 资 格 ， 受 邀 进 入 领 主 的 城 堡 ， 参 加 正 在 进 行 中 的 宴 会 。 
 str_s8_you_are_also_invited_to_attend_the_ongoing_feast_in_the_castle|{s8}， 你 也 被 邀 请 参 加 城 堡 里 正 在 进 行 的 宴 会 。 
-str_s11_unfortunately_s12_was_wounded_and_had_to_be_left_behind|{s11}不 幸 的 是 ， {s12}受 伤 了 ， 被 迫 离 开 。 
-str_s11_also_s12_was_wounded_and_had_to_be_left_behind|{s11}同 样 的 ， {s12}受 伤 了 ， 被 迫 离 开 。 
+str_s11_unfortunately_s12_was_wounded_and_had_to_be_left_behind|{s11}不 幸 的 是 ， {s12}受 了 伤 ， 不 得 不 留 下 。
+str_s11_also_s12_was_wounded_and_had_to_be_left_behind|{s11}同 样 的 ， {s12}受 伤 了 ， 不 得 不 留 下 。
 str_with_the_s10|{s10}
 str_outside_calradia|潘 德 之 外 。 
 str_you_have_been_indicted_for_treason_to_s7_your_properties_have_been_confiscated_and_you_would_be_well_advised_to_flee_for_your_life|你 被 {s7}控 告 犯 下 了 叛 国 罪 ， 你 所 有 的 财 产 都 已 被 查 抄 ， 为 了 生 存 ， 你 必 须 马 上 逃 离 这 里 ， 越 快 越 好 。 
@@ -4012,7 +4012,7 @@ str_i_do_not_like_to_conduct_my_business_in_the_shadows_but_sometimes_it_must_be
 str_i_would_prefer_to_conduct_our_affairs_out_in_the_open|我 更 希 望 把 我 们 的 事 务 公 之 于 众 。 
 str_do_not_take_this_amiss_but_with_you_i_would_prefer_to_conduct_our_affairs_out_in_the_open|如 果 是 与 你 合 作 的 话 ， 我 更 希 望 把 我 们 的 事 务 公 开 。 
 str_hmm_you_have_piqued_my_interest_what_do_you_have_to_say|嗯 … … 你 激 起 了 我 的 兴 趣 ， 说 说 你 的 想 法 吧 。 
-str_em_lets_keep_our_affairs_out_in_the_open_for_the_time_being|呃 … … 至 少 在 眼 前 ， 还 是 继 续 让 我 们 的 事 务 秘 密 进 行 吧 。 
+str_em_lets_keep_our_affairs_out_in_the_open_for_the_time_being|呃 … … 暂 时 还 是 让 我 们 的 事 务 保 持 公 开 吧 。 
 str_thats_sensible__the_world_is_full_of_churls_who_poke_their_noses_into_their_betters_business_now_tell_me_what_it_is_that_you_have_to_say|很 明 智 —— 这 个 世 界 上 到 处 都 是 些 成 事 不 足 败 事 有 余 的 家 伙 ， 现 在 告 诉 我 你 都 有 什 么 想 法 。 
 str_what_do_you_take_me_for_a_plotter|你 把 我 当 做 什 么 ？ 一 个 密 谋 者 ？ 
 str_well_i_normally_like_to_keep_things_out_in_the_open_but_im_sure_someone_like_you_would_not_want_to_talk_in_private_unless_heshe_had_a_good_reason_what_is_it|一 般 情 况 下 ， 我 比 较 喜 欢 保 持 事 成 后 再 公 开 ， 但 是 我 知 道 你 是 那 种 不 愿 意 参 与 密 谋 的 人 ， 除 非 有 一 个 很 好 的 理 由 ， 说 说 你 的 理 由 吧 ？ 
@@ -4624,7 +4624,7 @@ str_renegade_falcon_spawn|一 群 猎 鹰 骑 士 穿 上 自 己 骑 士 团 �
 str_renegade_snowlion_spawn|在 从 芬 布 雷 堡 强 掳 了 一 名 侍 女 之 后 ， 一 位 凛 鸦 境 的 贵 族 被 宣 布 有 罪 。 这 位 贵 族 是 雪 狮 骑 士 团 的 高 层 ， 据 报 他 现 在 正 在 一 支 游 荡 的 雪 狮 骑 士 团 部 队 中 。 
 str_renegade_breathnach_spawn|与 鸦 矛 骑 士 团 关 系 密 切 的 布 莱 斯 纳 契 家 族 由 于 叛 国 和 异 端 的 一 些 行 为 ， 被 凛 鸦 境 驱 逐 出 境 ！ 这 些 前 贵 族 目 前 正 集 结 于 暗 隼 堡 附 近 。 
 str_renegade_ebony_spawn|一 群 叛 变 的 乌 木 护 手 骑 士 以 及 他 们 的 追 随 者 ， 在 七 岔 要 塞 附 近 集 结 。 他 们 打 算 在 长 河 镇 森 林 狩 猎 诺 多 。 
-str_renegade_gnaeus_spawn|格 涅 乌 斯 家 族 被 巴 克 斯 帝 国 宣 布 为 叛 徒 ， 原 因 是 勾 结 拜 蛇 教 以 及 献 祭 年 轻 处 女 。 他 们 已 从 北 部 逃 离 帝 国 。 
+str_renegade_gnaeus_spawn|格 涅 乌 斯 家 族 因 勾 结 拜 蛇 教 并 献 祭 年 轻 处 女 被 宣 布 为 巴 克 斯 帝 国 的 叛 徒 。 他 们 现 正 向 北 逃 离 帝 国 疆 域 。
 str_renegade_iron_circle_spawn|铁 环 骑 士 团 公 开 反 抗 帝 国 ， 因 此 ， 他 们 现 在 被 宣 布 为 非 法 骑 士 团 。 在 巴 克 斯 帝 国 ， 他 们 从 瓦 利 德 斯 宪 章 中 被 除 名 ， 并 像 害 虫 一 样 被 追 捕 ！ 
 str_renegade_manius_spawn|商 人 马 涅 乌 斯 家 族 的 贵 族 成 员 被 发 现 有 反 抗 帝 国 和 虐 狗 的 罪 行 。 谣 传 他 们 逃 离 了 博 识 城 ！ 
 str_renegade_gladiator_spawn|在 思 源 城 角 斗 场 发 生 了 一 起 起 义 ， 大 量 角 斗 士 逃 离 ， 据 传 他 们 见 人 就 杀 ！ 
@@ -4641,7 +4641,7 @@ str_renegade_name_2|{s26}叛 乱 贵 族
 str_renegade_name_3|{s26}变 节 贵 族 
 str_renegade_name_4|不 法 的 {s26}贵 族 
 str_renegade_name_5|声 名 狼 藉 的 {s26}贵 族 
-str_renegade_name_6|{s26}的 叛 国 者 
+str_renegade_name_6|{s26}叛 国 者 
 str_renegade_name_7|不 名 誉 的 {s26}贵 族 
 str_renegade_name_8|信 奉 异 端 的 {s26}贵 族 
 str_renegade_name_9|被 放 逐 的 {s26}贵 族 

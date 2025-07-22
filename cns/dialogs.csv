@@ -1854,7 +1854,7 @@ dlga_lord_talk_ask_something_again:lord_talk_ask_something_2|还 有 别 的 事
 dlga_lord_talk_ask_something_2:ask_companions_for_unique_troops|朋 友 ， 我 需 要 些 好 士 兵 ， 你 能 帮 我 找 些 来 吗 ？
 dlga_ask_companions_for_unique_troops:close_window|现 在 没 办 法 ， 下 周 再 问 我 吧 。
 dlga_ask_companions_for_unique_troops:close_window.1|行 ， 但 是 你 的 队 伍 满 了 。
-dlga_ask_companions_for_unique_troops:ask_companions_for_unique_troops_2|{reg63?陛 下 :夫 人 }， 也 许 我 能 帮 上 忙 。^^就 在 不 久 前 ， 我 发 现 {s0}和 几 个 士 兵 在 酒 馆 前 喝 得 烂 醉 如 泥 。 给 我 ， 嗯 … … {reg37}第 纳 尔 ， 我 就 能 有 筹 码 去 说 服 他 们 加 入 你 。 会 面 就 安 排 在 酒 馆 或 旅 馆 吧 。 大 兵 对 钱 是 没 有 抵 抗 力 的 。^^你 觉 得 如 何 呢 ？
+dlga_ask_companions_for_unique_troops:ask_companions_for_unique_troops_2|{reg63?大 人 :夫 人 }， 也 许 我 能 帮 上 忙 。^^就 在 不 久 前 ， 我 注 意 到 了 几 名 或 许 可 以 被 说 服 加 入 我 们 的 {s0}。 给 我 ， 嗯 … … {reg37}第 纳 尔 ， 我 就 能 有 筹 码 去 说 服 他 们 入 伙 。 我 会 约 好 会 面 地 点 ， 很 快 回 来 复 命 。 大 兵 对 钱 是 没 有 抵 抗 力 的 。^^您 觉 得 这 个 计 划 如 何 ？
 dlga_ask_companions_for_unique_troops_2:close_window|有 点 贵 ， 但 你 的 主 意 不 错 。 钱 在 这 。
 dlga_ask_companions_for_unique_troops_2:close_window.1|你 说 的 很 有 道 理 ， 可 惜 有 点 太 贵 了 ， 我 本 来 没 打 算 花 这 么 多 的 。
 dlga_ask_companions_for_unique_troops_2:close_window.2|太 贵 了 吧 ！
@@ -3345,7 +3345,7 @@ dlga_slave_trader_peddler_location_ask:slave_trader_peddler_location_tell|好 �
 dlga_slave_trader_peddler_location_ask:tavern_traveler_pretalk|算 了 。
 dlga_slave_trader_peddler_location_tell:tavern_traveler_pretalk|很 好 ， 这 些 是 我 听 到 的 消 息 :^{s54}
 dlga_tavern_traveler_talk:traveler_snakes|最 近 你 有 听 说 任 何 关 于 拜 蛇 教 不 寻 常 的 举 动 吗 ？
-dlga_traveler_snakes:traveler_snakes_pay|拜 托 小 声 一 点 … …给 点 金 子 我 就 提 供 你 一 些 有 关 那 群 毒 蛇 的 小 道 消 息 。 但 就 因 为 跟 那 群 蛇 类 扯 上 关 系 ， 我 现 在 可 是 小 命 不 保 啊 ， 所 以 别 计 较 那 区 区 100第 纳 尔 。 这 消 息 绝 对 够 值 得 。
+dlga_traveler_snakes:traveler_snakes_pay|拜 托 小 声 点 … … 给 我 点 钱 ， 我 也 许 能 告 诉 你 些 有 用 的 信 息 。 我 可 是 在 冒 着 性 命 危 险 ， 所 以 别 计 较 那 区 区 100第 纳 尔 。 这 消 息 绝 对 值 这 个 价 。
 dlga_traveler_snakes:tavern_traveler_pretalk|我 可 不 知 道 任 何 有 关 那 群 该 死 毒 蛇 的 消 息 ， 无 论 如 何 这 里 不 会 有 人 知 道 的 。
 dlga_traveler_snakes_pay:traveler_snakes_quest|话 说 在 前 头 ， 这 最 好 要 值 得 100第 纳 尔 ， 这 些 第 纳 尔 拿 去 吧 。
 dlga_traveler_snakes_pay:tavern_traveler_pretalk|抱 歉 ， 在 我 看 来 没 那 个 价 值 。
