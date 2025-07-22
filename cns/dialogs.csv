@@ -3162,11 +3162,19 @@ dlga_tavernkeeper_job_result:tavernkeeper_job_result_2|你 还 可 以 试 试 �
 dlga_tavernkeeper_job_result_2:close_window|我 会 留 意 是 否 有 其 他 机 遇 的 ， 你 可 以 常 常 来 问 我 。
 dlga_tavernkeeper_talk:tavernkeeper_spawned_armies|有 关 于 入 侵 大 军 的 消 息 吗 ？
 dlga_tavernkeeper_spawned_armies:close_window|也 许 吧 ， 但 你 身 上 的 钱 可 买 不 起 这 消 息 。
-dlga_tavernkeeper_spawned_armies:tavernkeeper_spawned_armies_1|有 的 ， 我 听 说 了 一 些 有 趣 的 讯 息 ， 我 当 然 能 告 诉 你 ， 只 要 … … 200枚 闪 闪 发 亮 的 第 纳 尔 就 好 。
+dlga_tavernkeeper_spawned_armies:tavernkeeper_spawned_armies_1|有 的 ， 我 听 说 了 一 些 有 趣 的 讯 息 ， 我 当 然 能 告 诉 你 ， 只 要 … … 2000枚 闪 闪 发 亮 的 第 纳 尔 就 好 。
 dlga_tavernkeeper_spawned_armies:close_window.1|没 有 ， 没 听 说 什 么 消 息 。
 dlga_tavernkeeper_spawned_armies_1:close_window|这 太 贵 了 ， 再 见 。
 dlga_tavernkeeper_spawned_armies_1:tavernkeeper_spawned_armies_2|你 这 肮 脏 的 … … 好 吧 ， 这 是 你 的 钱 。
 dlga_tavernkeeper_spawned_armies_2:close_window|好 的 ， 生 意 就 是 生 意 。 这 就 是 我 听 到 的 消 息 :^{s54}
+dlga_tavernkeeper_talk:tavernkeeper_bandit_lair_1|有 附 近 强 盗 营 地 的 消 息 吗 ？
+dlga_tavernkeeper_bandit_lair_1:tavernkeeper_bandit_lair_2|也 许 吧 ， 不 少 赏 金 猎 人 都 想 打 听 ， 但 也 得 看 买 不 买 得 起 这 消 息 ， 毕 竟 得 罪 黑 道 这 种 事 的 风 险 还 是 挺 大 的 。
+dlga_tavernkeeper_bandit_lair_1:close_window|没 有 ， 没 听 说 什 么 消 息 。
+dlga_tavernkeeper_bandit_lair_2:tavernkeeper_bandit_lair_3|开 个 价 吧 。
+dlga_tavernkeeper_bandit_lair_3:tavernkeeper_bandit_lair_4|买 断 价 ， 1000第 纳 尔 ！
+dlga_tavernkeeper_bandit_lair_4:tavernkeeper_bandit_lair_5|坐 地 起 价 啊 … … 好 吧 ， 这 是 你 的 钱 。
+dlga_tavernkeeper_bandit_lair_4:close_window|那 你 还 是 留 着 卖 给 别 人 吧 。
+dlga_tavernkeeper_bandit_lair_5:close_window|好 的 ， 生 意 就 是 生 意 。 这 就 是 我 听 到 的 消 息 :^^^（ 他 告 诉 了 你 一 处 {s52}的 所 在 地 ）
 dlga_tavernkeeper_talk:tavernkeeper_supplies|我 正 在 筹 措 粮 食 。
 dlga_tavernkeeper_supplies:tavernkeeper_pretalk|你 的 队 伍 粮 食 看 起 来 很 足 够 啊 。^^^^^(一 次 只 能 有 一 辆 辎 重 车 )
 dlga_tavernkeeper_supplies:tavernkeeper_pretalk.1|如 果 你 真 想 做 一 个 公 平 的 交 易 的 话 ， 你 需 要 有 更 多 的 战 利 品 。^^^^^^(需 要 两 组 战 利 品 堆 )

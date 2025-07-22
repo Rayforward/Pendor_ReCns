@@ -27,6 +27,7 @@ mno_status_check|NPC状 态 检 查
 mno_view_faction_relations_report|阵 营 关 系 
 mno_view_npc_mission_report|同 伴 任 务 简 报 
 mno_lord_relations|按 照 关 系 查 看 认 识 的 领 主 
+mno_lord_war_record|查 看 领 主 战 绩
 mno_courtship_relations|求 爱 进 程 
 mno_action_view_world_map|潘 德 地 图 
 mno_resume_travelling|继 续 旅 程 
@@ -78,6 +79,7 @@ menu_auto_return|这 个 选 项 会 自 动 跳 转 回 前 一 个 页 面
 menu_morale_report|{s1} 
 menu_courtship_relations|{s1} 
 menu_lord_relations|{s1} 
+menu_lord_war_record|领 主 /胜 绩 /败 绩 /胜 率^^{s1}
 menu_center_income_report|{s1} 
 mno_list_of_fief_with_pending_quests|现 有 着 管 家 任 务 的 封 地 清 单 
 mno_construction|查 看 建 设 报 告 
@@ -521,6 +523,7 @@ mno_cheat_conquer_castle|立 刻 攻 下 据 点 【测 试】
 mno_lift_siege|放 弃 围 城 
 menu_siege_attack_meets_sally|守 城 方 派 了 部 队 出 城 迎 击 。 
 menu_castle_besiege_inner_battle|{s1} 
+mno_continue_prewar_deployment|战 前 部 署
 menu_construct_ladders|队 员 中 最 高 工 程 技 能 为 {reg2} 级 ， 由 此 {reg3?你 预 期 :{s3} 预 期 } 需 要 {reg4} 小 时 来 安 设 云 梯 。 
 mno_build_ladders_cont|继 续 
 menu_construct_siege_tower|队 员 中 最 高 工 程 技 能 为 {reg2} 级 ， 由 此 {reg3?你 预 期 :{s3} 预 期 } 需 要 {reg4} 小 时 来 建 立 攻 城 塔 。 

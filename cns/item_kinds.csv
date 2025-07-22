@@ -3199,10 +3199,10 @@ itm_griffon_grandmaster_full_plate_armor|狮 鹫 骑 士 大 团 长 全 身 板
 itm_griffon_grandmaster_full_plate_armor_pl|狮 鹫 骑 士 大 团 长 全 身 板 甲 
 itm_dshar_warhorse_sarranid|德 夏 沙 漠 战 马 
 itm_dshar_warhorse_sarranid_pl|德 夏 沙 漠 战 马 
-itm_sarleon_sergeant_heavy_armor|烈 狮 境 军 士 板 甲 
-itm_sarleon_sergeant_heavy_armor_pl|烈 狮 境 军 士 板 甲 
-itm_sarleon_sergeant_heavy_armor_cape|带 披 风 烈 狮 境 军 士 板 甲 
-itm_sarleon_sergeant_heavy_armor_cape_pl|带 披 风 烈 狮 境 军 士 板 甲 
+itm_sarleon_sergeant_heavy_armor|烈 狮 境 板 甲 
+itm_sarleon_sergeant_heavy_armor_pl|烈 狮 境 板 甲 
+itm_sarleon_sergeant_heavy_armor_cape|带 披 风 烈 狮 境 板 甲 
+itm_sarleon_sergeant_heavy_armor_cape_pl|带 披 风 烈 狮 境 板 甲 
 itm_griffon_banner_red|狮 鹫 旗 帜 枪 
 itm_griffon_banner_red_pl|狮 鹫 旗 帜 枪 
 itm_heavy_knight_helm_1|重 装 骑 士 头 盔 
@@ -3255,8 +3255,8 @@ itm_aqs_magbow_fifth|七 彩 符 印 弓
 itm_aqs_magbow_fifth_pl|七 彩 符 印 弓 
 itm_rune_plate_diamond|钻 石 符 印 甲 
 itm_rune_plate_diamond_pl|钻 石 符 印 甲 
-itm_shield_shadow_centurion|百 夫 长 盾 
-itm_shield_shadow_centurion_pl|百 夫 长 盾 
+itm_sarleon_armor_a|烈 狮 境 重 型 胸 甲 
+itm_sarleon_armor_a_pl|烈 狮 境 重 型 胸 甲 
 itm_viper_great_sword|毒 蛇 大 剑 
 itm_viper_great_sword_pl|毒 蛇 大 剑 
 itm_reflex_bow|马 里 廷 反 曲 弓 
@@ -3389,18 +3389,18 @@ itm_melitine_long_battle_axe|马 里 廷 长 柄 战 斧
 itm_melitine_long_battle_axe_pl|马 里 廷 长 柄 战 斧 
 itm_veccavia_white_eagle_surcoat|菲 卡 维 亚 白 鹰 罩 袍 
 itm_veccavia_white_eagle_surcoat_pl|菲 卡 维 亚 白 鹰 罩 袍 
-itm_byz_cavalry_breastplate_a|马 里 廷 重 型 胸 甲 
-itm_byz_cavalry_breastplate_a_pl|马 里 廷 重 型 胸 甲 
-itm_byz_cavalry_breastplate_b|马 里 廷 重 型 胸 甲 
-itm_byz_cavalry_breastplate_b_pl|马 里 廷 重 型 胸 甲 
-itm_byz_cavalry_breastplate_c|马 里 廷 重 型 胸 甲 
-itm_byz_cavalry_breastplate_c_pl|马 里 廷 重 型 胸 甲 
-itm_byz_cavalry_breastplate_d|马 里 廷 重 型 胸 甲 
-itm_byz_cavalry_breastplate_d_pl|马 里 廷 重 型 胸 甲 
-itm_barclay_pikeman_light_breastplate|巴 克 利 轻 型 胸 甲 
-itm_barclay_pikeman_light_breastplate_pl|巴 克 利 轻 型 胸 甲 
-itm_barclay_pikeman_breastplate|巴 克 利 胸 甲 
-itm_barclay_pikeman_breastplate_pl|巴 克 利 胸 甲 
+itm_primus_forlorn_greaves|首 席 剑 士 护 胫 
+itm_primus_forlorn_greaves_pl|首 席 剑 士 护 胫 
+itm_primus_forlorn_gauntlets|首 席 剑 士 护 手 （ 分 指 ） 
+itm_primus_forlorn_gauntlets_pl|首 席 剑 士 护 手 （ 分 指 ） 
+itm_mett_armor|梅 滕 海 姆 重 型 胸 甲 
+itm_mett_armor_pl|梅 滕 海 姆 重 型 胸 甲 
+itm_sarleon_armor_b|烈 狮 境 重 型 胸 甲 
+itm_sarleon_armor_b_pl|烈 狮 境 重 型 胸 甲 
+itm_open_sallet_a|钢 制 简 易 夏 雷 尔 盔 （ 无 面 甲 ） 
+itm_open_sallet_a_pl|钢 制 简 易 夏 雷 尔 盔 （ 无 面 甲 ） 
+itm_open_sallet_b|钢 制 夏 雷 尔 盔 （ 无 面 甲 ） 
+itm_open_sallet_b_pl|钢 制 简 易 夏 雷 尔 盔 （ 无 面 甲 ） 
 itm_empire_halberd_2|帝 国 长 戟 
 itm_empire_halberd_2_pl|帝 国 长 戟 
 itm_halberd|长 戟 
@@ -4215,7 +4215,5 @@ itm_blunderbuss_1|短 管 马 枪
 itm_blunderbuss_1_pl|短 管 马 枪 
 itm_blunderbuss_2|火 门 手 枪 
 itm_blunderbuss_2_pl|火 门 手 枪 
-itm_mett_armor|梅 滕 海 姆 重 型 胸 甲 
-itm_mett_armor_pl|梅 滕 海 姆 重 型 胸 甲 
 itm_items_end|Items End 
 itm_items_end_pl|Items End
