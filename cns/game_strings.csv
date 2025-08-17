@@ -4730,7 +4730,7 @@ str_faction_title_vassal_end|{s0}领 主　
 str_faction_title_Paladin|“ 圣 骑 士 ” {s0}
 str_s20_decided_to_attack_s21|{s20}决 定 攻 打 {s21}。
 str_delivered_number_damage|给 对 方 {reg1}点 伤 害 。 
-str_damage_dec|击 中 部 位 :{s1}, 原 始 伤 害 ={reg2}, 抵 消 伤 害 ={reg3}, 实 际 伤 害 ={reg5}
+str_damage_dec|受 击 :{s1}, 原 伤 ={reg2}, 减 伤 ={reg3}, 实 伤 ={reg5}
 str_unify_pendor|统 一 潘 德
 str_personal_enmity|个 人 恩 怨
 str_respond_to_provocation|回 应 挑 衅
