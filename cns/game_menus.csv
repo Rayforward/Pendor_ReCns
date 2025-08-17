@@ -493,7 +493,7 @@ mno_talk_to_siege_commander|要 求 和 指 挥 官 会 面
 mno_join_siege_with_allies|加 入 下 一 轮 的 攻 城 
 mno_join_siege_stay_back|坐 镇 指 挥 ， 让 你 的 部 队 协 助 下 一 轮 的 攻 城 
 menu_castle_outside|你 在 {s2} 。{s11} {s3} {s4} 
-mno_approach_gates|走 近 城 门 ， 叫 守 卫 出 来 
+mno_approach_gates|接 近 大 门 ， 向 守 卫 致 意 。 
 mno_town_sneak|伪 装 ， 偷 偷 溜 进 {s7} 里 去 
 mno_castle_start_siege|围 攻 {reg6?城 市 :城 堡 } 
 mno_cheat_castle_start_siege|围 攻 {reg6?城 市 :城 堡 } 【测 试】
@@ -510,8 +510,8 @@ menu_castle_entry_denied|城 堡 中 的 指 挥 官 拒 绝 了 你 的 请 求
 menu_castle_meeting|你 想 要 见 谁 ？ 
 mno_guard_meet_s5|{s5} 
 mno_forget_it|算 了 
-menu_castle_meeting_selected|你 的 申 请 被 传 上 去 了 ， 最 终 {s6} 出 现 在 你 面 前 与 你 进 行 交 涉 。 
-menu_castle_besiege|你 正 在 围 攻 {s1} 。 {s2} {s3} 
+menu_castle_meeting_selected|你 的 申 请 被 传 上 去 了 ， 最 终 {s6}出 现 在 你 面 前 与 你 进 行 交 涉 。 
+menu_castle_besiege|你 正 在 围 攻 {s1}。 {s2} {s3} 
 mno_siege_request_meeting|要 求 和 城 堡 的 指 挥 官 会 面 
 mno_wait_24_hours|等 到 明 天 
 mno_castle_lead_attack|亲 自 率 军 攻 城 
@@ -533,8 +533,8 @@ menu_castle_attack_walls_with_allies_simulate|{s4} ^^我 军 伤 亡 :{s8} ^^友
 menu_castle_taken_by_friends|Nothing to see here.
 menu_castle_taken|你 的 部 队 攻 陷 了 {s3} ， 现 在 你 已 经 完 全 地 掌 控 了 这 个 {reg2?城 市 :城 堡 } 。 {reg1?你 可 以 在 此 驻 军 以 抵 抗 可 能 想 收 复 失 土 的 敌 军 。 同 时 ， 你 也 得 选 择 要 保 留 这 座 {reg2?城 市 :城 堡 } 给 自 己 或 者 分 封 给 某 个 忠 诚 的 部 下 … … :} 
 menu_castle_taken_2|你 的 部 队 攻 陷 了 {s3} ， 现 在 你 已 经 完 全 地 掌 控 这 个 城 堡 。 应 该 把 这 个 胜 利 的 消 息 告 诉 {s9} 了 。 {s5} 
-mno_castle_taken_claim|请 求 他 把 {s3} 封 给 你 。 
-mno_castle_taken_claim_2|请 求 他 把 {s3} 封 给 你 的 {reg63?妻 子 :丈 夫 } 。 
+mno_castle_taken_claim|请 求 他 把 {s3}封 给 你 。 
+mno_castle_taken_claim_2|请 求 他 把 {s3}封 给 你 的 {reg63?妻 子 :丈 夫 } 。 
 mno_castle_taken_no_claim|什 么 也 不 要 求 。 
 menu_requested_castle_granted_to_player|你 的 君 主 {s3} 通 知 你 :^^ {reg4?她 :他 } 决 定 将 {s2} {reg3? 和 附 近 的 {s4} :} 封 给 你 ， 包 含 所 有 的 收 入 与 相 应 的 头 衔 ， 条 件 是 在 这 期 间 你 要 保 持 宣 誓 效 忠 于 {reg4?她 的 :他 的 } 名 下 。 
 menu_requested_castle_granted_to_player_husband|你 的 君 主 {s3} 通 知 你 :^^ {reg4?她 :他 } 决 定 将 {s2} {reg3?和 附 近 的 {s4} :} 封 给 你 的 丈 夫 ， {s7} 。 
@@ -569,7 +569,7 @@ mno_village_center_door|前 往 村 中 心
 mno_village_buy_food|向 村 民 购 买 给 养 
 mno_village_attack_bandits|进 攻 强 盗 
 mno_village_wait|在 这 里 待 一 会 儿 
-mno_collect_taxes_qst|为 {s1} {reg5?继 续 征 税 :征 税 }
+mno_collect_taxes_qst|为 {s1}{reg5?继 续 征 税 :征 税 }
 mno_train_peasants_against_bandits_qst|训 练 农 民 
 mno_village_hostile_action|采 取 敌 对 行 为 
 mno_village_reports|向 村 庄 长 老 获 取 村 庄 报 告 
@@ -586,10 +586,10 @@ menu_village_infest_bandits_result|{s9}
 menu_village_infestation_removed|经 过 足 以 令 人 传 诵 的 英 勇 的 战 斗 ， 你 和 你 的 同 伴 打 败 了 强 盗 。 这 个 村 子 再 次 安 全 了 。 经 过 他 们 的 抢 劫 以 后 ， 村 民 几 乎 没 剩 什 么 东 西 了 ， 但 他 们 还 是 拿 出 了 仅 有 的 全 部 物 资 。 
 mno_village_bandits_defeated_accept|接 受 ， 这 是 应 得 的 报 酬 
 mno_village_bandits_defeated_cont|拒 绝 ， 他 们 更 需 要 这 些 物 资 
-menu_steward_training|你 与 你 {s17} 管 家 的 会 议 已 经 准 备 好 了 。^^基 于 你 的 管 家 需 要 学 习 的 资 讯 量 来 看 ，^会 议 将 会 持 续 {reg8} 小 时 ， 同 时 要 花 费 {reg9}第 纳 尔 。 {reg6?^^遗 憾 的 是 你 现 在 没 有 足 够 的 钱 来 举 办 这 场 会 议 … … :} 
+menu_steward_training|你 与 你 {s17}的 管 家 的 会 议 已 经 准 备 好 了 。^^基 于 你 的 管 家 需 要 学 习 的 资 讯 量 来 看 ，^会 议 将 会 持 续 {reg8} 小 时 ， 同 时 要 花 费 {reg9}第 纳 尔 。 {reg6?^^遗 憾 的 是 你 现 在 没 有 足 够 的 钱 来 举 办 这 场 会 议 … … :} 
 mno_steward_training_confirm|会 议 开 始 
 mno_steward_training_decline|暂 不 举 办 
-menu_steward_training_complete|你 与 你 {s17} 管 家 的 会 议 圆 满 结 束 了 ， 他 非 常 感 谢 你 抽 出 时 间 与 他 会 面 ， 并 带 着 他 对 新 技 能 的 信 心 启 程 返 回 {reg9?城 堡 :他 的 家 } 了 。 
+menu_steward_training_complete|你 与 你 {s17}的 管 家 的 会 议 圆 满 结 束 了 ， 他 非 常 感 谢 你 抽 出 时 间 与 他 会 面 ， 并 带 着 他 对 新 技 能 的 信 心 启 程 返 回 {reg9?城 堡 :他 的 家 }了 。 
 menu_center_manage|{s19} ^{reg6?^^你 现 在 正 在 建 造 {s7} ，这 个 建 筑 将 于 {reg8} 日 后 完 成 。 :} 
 mno_center_send_out_prospectors|派 出 探 勘 小 队 
 mno_center_build_training_grounds|建 造 训 练 场 
@@ -631,7 +631,7 @@ mno_center_build_organized_guilds|组 建 公 会
 mno_center_build_lamplighters|雇 佣 灯 夫 
 mno_center_building_thieves_guild|设 立 盗 贼 公 会 
 mno_center_building_town_crier|雇 佣 街 头 宣 告 员 
-menu_center_improve|^^建 成 影 响 :{s19}^^你 的 管 家 工 程 技 能 为 {reg2} 级 ， 他 预 计 {reg7?修 理 :建 造 } {s4} 要 花 {reg5}第 纳 尔 ， 并 需 要 {reg6} 天 。 
+menu_center_improve|^^建 成 影 响 :{s19}^^你 的 管 家 工 程 技 能 为 {reg2} 级 ， 他 预 计 {reg7?修 理 :建 造 } {s4}要 花 {reg5}第 纳 尔 ， 并 需 要 {reg6} 天 。 
 mno_improve_cont|继 续 
 mno_improve_not_enough_gold|没 钱 … … 
 menu_town_bandits_failed|{s4} {s5} 
@@ -732,7 +732,7 @@ mno_town_enterprise_a_door|视 察 你 的 产 业
 mno_guildmaster_talk|和 市 长 会 谈 
 mno_center_reports|获 取 {reg0?城 市 :城 堡 }报 告 
 mno_walled_center_manage|管 理 这 个 {reg0?城 市 :城 堡 } 
-mno_walled_center_train_steward|训 练 {reg0?市 :城 堡 } 管 家 
+mno_walled_center_train_steward|训 练 你 {reg0?城 市 :城 堡 }的 管 家 
 mno_walled_center_move_court|将 宫 廷 移 动 至 此 
 mno_castle_station_troops|管 理 驻 军 {s10} 
 mno_town_alley|进 入 城 市 内 部 (战 时 ) 【测 试】
@@ -772,10 +772,10 @@ menu_tournament_bet_confirm|如 果 你 下 {reg1}第 纳 尔 的 赌 注 的 �
 mno_tournament_bet_accept|可 以 
 mno_tournament_bet_cancel|算 了 
 menu_tournament_participants|你 从 大 会 的 唱 名 者 那 里 打 听 到 了 这 场 竞 技 大 赛 中 参 与 者 的 名 单 ， 他 们 是 :^{s11} 
-menu_collect_taxes|队 员 中 最 高 交 易 技 能 为 {reg2} 级 ， 由 此 {reg3?你 预 期 :{s1} 预 期 } 需 要 {reg4} 天 来 完 成 征 税 … … 
+menu_collect_taxes|队 员 中 最 高 交 易 技 能 为 {reg2} 级 ， 由 此 {reg3?你 预 期 :{s1}预 期 }需 要 {reg4}天 来 完 成 征 税 … … 
 mno_start_collecting|开 始 征 收 
 mno_collect_later|待 会 再 说 
-menu_collect_taxes_complete|你 从 {s3} 征 收 了 {reg3}第 纳 尔 的 税 款 ， {s19} 会 期 待 你 把 这 些 钱 带 去 给 他 的 。 
+menu_collect_taxes_complete|你 从 {s3}征 收 了 {reg3}第 纳 尔 的 税 款 ， {s19}会 期 待 你 把 这 些 钱 带 去 给 他 的 。 
 menu_collect_taxes_rebels_killed|你 的 迅 速 行 动 和 有 力 手 段 成 功 平 息 了 反 抗 。 毫 无 疑 问 ， 任 何 想 反 抗 你 的 人 在 此 之 后 都 会 三 思 而 行 。 
 menu_collect_taxes_failed|{s3} 居 民 的 反 抗 让 你 只 能 征 收 到 {reg3}第 纳 尔 的 税 款 。 {s1} 肯 定 会 不 满 的 ， 不 过 总 比 一 点 都 没 收 到 要 好 的 多 … … 
 menu_collect_taxes_revolt_warning|{s3} 的 居 民 对 你 要 求 的 高 税 款 表 示 强 烈 的 义 愤 。 如 果 你 继 续 压 迫 他 们 ， 他 们 将 准 备 起 来 反 抗 。 
@@ -877,12 +877,12 @@ menu_kingdom_army_quest_report_to_army|{s8}邀 请 你 一 起 去 参 加 {reg4
 menu_kingdom_army_quest_messenger|{s8}派 信 使 来 告 诉 你 ， 他 要 给 你 指 定 一 个 任 务 ， 并 要 求 你 尽 快 去 见 他 。 
 menu_kingdom_army_quest_join_siege_order|{s8}派 信 使 来 命 令 你 加 入 对 于 {s9}的 围 攻 ， 不 论 付 出 多 大 的 代 价 都 必 须 拿 下{s9} 。 
 menu_kingdom_army_follow_failed|你 和 {s8}走 散 了 ， 元 帅 认 为 你 可 能 另 有 要 务 ， 不 过 他 对 于 你 的 支 持 还 是 表 示 感 激 。 
-menu_invite_player_to_faction_without_center|你 收 到 了 一 份 封 臣 的 邀 请 ！^^{s9} 的 {s8}派 遣 了 一 个 王 家 信 使 来 亲 自 递 送 这 份 邀 请 。 你 将 成 为 {s9}的 一 位 诸 侯 ， 从 此 被 人 以 {reg63?大 人 : 女 士 }的 称 呼 ， 但 是 并 没 有 给 予 你 封 地 以 及 额 外 的 头 衔 ， 当 然 作 为 回 报 {s8} 要 求 你 宣 誓 对 他 效 忠 并 与 他 一 起 加 入 他 的 远 征 。 虽 然 他 没 有 许 诺 封 地 和 头 衔 ， 如 果 你 不 同 意 这 个 请 求 的 话 他 还 是 会 被 激 怒 的 … … 
+menu_invite_player_to_faction_without_center|你 收 到 了 一 份 封 臣 的 邀 请 ！^^{s9}的 {s8}派 遣 了 一 个 王 家 信 使 来 亲 自 递 送 这 份 邀 请 。 你 将 成 为 {s9}的 一 位 诸 侯 ， 从 此 被 人 以 {reg63?大 人 : 女 士 }的 称 呼 ， 但 是 并 没 有 给 予 你 封 地 以 及 额 外 的 头 衔 ， 当 然 作 为 回 报 {s8}要 求 你 宣 誓 对 他 效 忠 并 在 他 的 军 事 行 动 中 为 他 而 战 。 如 果 你 拒 绝 这 份 邀 约 ， 他 必 定 会 感 到 不 快 … … 
 mno_faction_accept|接 受 邀 请 
 mno_faction_reject|拒 绝 邀 请 
-menu_invite_player_to_faction|你 收 到 了 一 份 封 臣 的 邀 请 ！^^{s9} 的 {s8}派 遣 了 一 个 王 家 信 使 来 亲 自 递 送 这 份 邀 请 。 你 将 成 为 {s9} 的 一 位 诸 侯 ， 从 此 被 人 以 {reg63?大 人 : 女 士 }的 称 呼 ， 但 是 并 没 有 直 接 给 予 你 封 地 以 及 额 外 的 头 衔 。 {s8} 要 求 你 宣 誓 对 他 效 忠 并 与 他 一 起 加 入 他 的 远 征 。 假 如 你 愿 意 宣 誓 的 话 ， 他 许 诺 额 外 给 你 {s2} 的 封 地 和 头 衔 ， 如 果 你 不 同 意 这 个 请 求 的 话 他 一 定 会 被 激 怒 的 … … 
+menu_invite_player_to_faction|你 收 到 了 一 份 封 臣 的 邀 请 ！^^{s9}的 {s8}派 遣 了 一 个 王 家 信 使 来 亲 自 递 送 这 份 邀 请 。 你 将 成 为 {s9}的 一 位 诸 侯 ， 从 此 被 人 以 {reg63?大 人 : 女 士 }的 称 呼 。作 为 回 报 ， {s8}希 望 你 向 他 宣 誓 效忠 ， 并 在 他 的 军 事 行 动 中 为 他 而 战 ， 同 时 承 诺 将 {s2}这 块 封 地 赐 予 你 ， 以 表 彰 你 的 忠 诚 。  如 果 你 拒 绝 这 份 邀 约 ， 他 必 定 会 感 到 不 快 … … 
 menu_invite_player_to_faction_accepted|如 果 你 想 要 成 为 封 臣 的 话 你 必 须 去 找 {s3}宣 誓 。 {s5} 
-menu_question_peace_offer|你 收 到 了 一 份 停 战 的 邀 请 :^^{s1}发 给 你 一 份 停 战 邀 请 ， 你 将 如 何 回 覆 ？ 
+menu_question_peace_offer|你 收 到 了 一 份 停 战 的 邀 请 :^^{s1}发 给 你 一 份 停 战 邀 请 ， 你 将 如 何 回 复 ？ 
 mno_peace_offer_accept|接 受 
 mno_peace_offer_reject|拒 绝 
 menu_notification_truce_expired|停 战 协 定 到 期^^{s1}和 {s2}之 间 的 停 战 协 定 已 经 到 期 。 
@@ -926,8 +926,8 @@ menu_notification_player_wedding_day|{s8} 想 告 诉 你 ， 你 的 婚 礼 �
 menu_notification_player_kingdom_holds_feast|{s11} 
 menu_notification_center_under_siege|{s1} 被 {s3} 的 {s2} 围 攻 了 ！ 
 menu_notification_center_under_siege_special|{s1} 正 受 到 {s2} 的 攻 击 ！ 
-menu_notification_village_raided|敌 人 袭 击 了 你 的 领 地^^{s1} 被 {s3} 的 {s2} 洗 劫 了 ！ 
-menu_notification_village_raid_started|你 的 村 庄 正 遭 到 攻 击 ！{s1} 被 {s3} 的 {s2} 袭 击 了 ！ 
+menu_notification_village_raided|敌 人 袭 击 了 你 的 领 地^^{s1}被 {s3}的 {s2}洗 劫 了 ！ 
+menu_notification_village_raid_started|你 的 村 庄 正 遭 到 攻 击 ！{s1}被 {s3}的 {s2}袭 击 了 ！ 
 menu_notification_one_faction_left|占 位 符 
 menu_notification_order_founded|占 位 符 
 menu_notification_oath_renounced_faction_defeated|你 从 前 从 属 的 势 力 被 击 败 了^^你 赢 得 了 与{s1} 的 战 斗 ！ 你 从 这 个 势 力 中 脱 离 了 出 去 。 
@@ -1717,9 +1717,9 @@ mno_free_faction|查 看 与 自 由 阵 营 的 关 系
 menu_free_faction_relations_report|{s1} 
 mno_equip_npcs|查 看 同 伴 装 备 
 menu_Wendiiaelf_leave2|你 的 手 下 呈 交 给 你 一 封 书 信 。 缓 缓 展 开 ， 数 行 熟 悉 的 娟 秀 小 字 映 入 眼 帘 ， 当 你 以 为 又 是 某 人 的 恶 作 剧 时 … … “ 尊 敬 的  {playername} {reg63?先 生 :小 姐 } ， 请 原 谅 我 的 不 辞 而 别 ， 也 许 你 另 有 难 处 ， 但 我 无 法 对 族 人 与 恩 人 的 仇 恨 与 战 争 视 而 不 见 ， 我 做 不 到 偏 向 你 们 的 任 一 方 … … 一 起 旅 行 的 这 段 时 间 里 ， 明 明 是 几 十 年 来 看 惯 了 的 月 色 ， 与 你 共 赏 却 有 别 样 的 柔 美 ， 你 说 这 是 为 什 么 呢 … … 愿 在 漫 漫 旅 途 中 能 再 次 与 你 重 逢 ， 珍 重 … … ” 
-menu_bestowed_baron_title|成 为 一 名 封 臣 使 得 你 在 {s1} 贵 族 中 的 地 位 大 为 提 升 ， {s2}决 定 授 予 你 {s3}{s4} 的 头 衔 。 现 在 ， 你 可 以 册 封 一 名 贵 族 成 为 你 的 附 庸 。 
-menu_bestowed_count_title|在 {s1}， 你 的 封 地 不 断 扩 大 ， 与 {s2}的 关 系 越 来 越 好 ， {s2}决 定 授 予 你 更 高 一 级 的 头 衔 ——  {s3}{s4} 。 现 在 ， 你 可 以 将 更 多 的 领 地 册 封 给 自 己 的 三 位 下 属 贵 族 。 
-menu_bestowed_duke_title|你 已 经 成 为 {s1} 最 显 赫 的 贵 族 之 一 ， {s2}决 定 授 予 你 {s3}{s4} 的 头 衔 。 现 在 你 可 以 册 封 听 命 于 自 己 的 五 名 贵 族 ， 也 可 以 直 接 占 有 自 己 攻 取 的 土 地 ， 但 太 过 频 繁 的 此 种 做 法 ， 可 能 会 引 起 {s2}以 及 其 他 封 臣 的 不 满 。 
+menu_bestowed_baron_title|成 为 一 名 封 臣 使 得 你 在 {s1} 贵 族 中 的 地 位 大 为 提 升 ， {s2}决 定 授 予 你 {s3}{s4}的 头 衔 。 现 在 ， 你 可 以 册 封 一 名 贵 族 成 为 你 的 附 庸 。 
+menu_bestowed_count_title|在 {s1}， 你 的 封 地 不 断 扩 大 ， 与 {s2}的 关 系 越 来 越 好 ， {s2}决 定 授 予 你 更 高 一 级 的 头 衔 ——  {s3}{s4}。 现 在 ， 你 可 以 将 更 多 的 领 地 册 封 给 自 己 的 三 位 下 属 贵 族 。 
+menu_bestowed_duke_title|你 已 经 成 为 {s1} 最 显 赫 的 贵 族 之 一 ， {s2}决 定 授 予 你 {s3}{s4}的 头 衔 。 现 在 你 可 以 册 封 听 命 于 自 己 的 五 名 贵 族 ， 也 可 以 直 接 占 有 自 己 攻 取 的 土 地 ， 但 太 过 频 繁 的 此 种 做 法 ， 可 能 会 引 起 {s2}以 及 其 他 封 臣 的 不 满 。 
 mno_accept_title|接 受 册 封 
 mno_castle_taken_claim_3|直 接 将 {s3} 占 为 己 有 。 
 menu_start_game_knights_mode|为 了 使 得 骑 士 团 战 力 的 设 计 更 趋 逻 辑 化 和 真 实 化 ， 作 者 提 供 了 一 种 新 的 骑 士 团 战 力 模 式 ， 在 此 模 式 下 ， 你 可 以 ： 一 、 潘 德 文 化 自 立 后 组 建 敕 令 骑 士 ； 二 、 将 部 分 骑 士 团 骑 士 提 拔 为 骑 士 长 ； 三 、 捐 赠 骑 士 团 并 获 得 好 感 和 援 助 ； 四 、 以 大 团 长 的 身 份 召 集 在 野 的 骑 士 团 部 队 。 该 模 式 同 时 ： 一 、 移 除 骑 士 团 花 费 金 钱 和 虚 拟 声 望 进 行 强 化 的 机 制 ； 二 、 自 建 骑 士 团 增 加 训 练 上 限 的 设 定 ， 自 建 骑 士 团 骑 士 的 属 性 和 熟 练 度 训 练 上 限 对 标 探 险 女 英 雄 (火 枪 熟 练 度 上 限 500)， 自 建 骑 士 团 军 士 的 属 性 和 熟 练 度 训 练 上 限 对 标 精 英 女 骑 士 (火 枪 熟 练 度 上 限 400)。 若 你 不 希 望 依 此 模 式 进 行 游 戏 ， 仍 旧 可 以 选 择 原 有 的 骑 士 团 战 力 模 式 ， 即 ： 一 、 花 费 金 钱 和 虚 拟 声 望 强 化 自 己 领 地 内 的 骑 士 团 骑 士 和 军 士 ； 二 、 自 建 骑 士 团 训 练 程 度 无 上 限 。 你 的 选 择 是 … … 

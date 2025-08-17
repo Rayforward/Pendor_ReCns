@@ -367,7 +367,7 @@ str_surname_19|巴 克 利 的 {s50}
 str_surname_20|托 斯 达 的 {s50}
 str_surname_21| “ 高 个 ” {s50}
 str_surname_22|憔 悴 的 {s50}
-str_surname_23| “丝 绸 胡 ” {s50}
+str_surname_23| “ 丝 绸 胡 ” {s50}
 str_surname_24| “ 麻 雀 ” {s50}
 str_surname_25|穷 困 的 {s50}
 str_surname_26|伤 痕 累 累 的 {s50}
@@ -585,7 +585,7 @@ str_npc_riva_backstory_later|我 后 来 回 家 开 始 打 猎 。 但 还 是
 str_npc_kassim_backstory_later|我 在 这 片 大 地 上 旅 行 ， 希 望 能 为 一 个 勇 猛 而 富 足 的 汗 服 务 。 
 str_npc_lethaldiran_backstory_later|我 不 时 干 点 杂 活 ， 但 已 经 厌 倦 了 提 心 吊 胆 的 日 子 。 很 难 讲 ， 说 不 定 我 能 找 到 一 个 好 的 队 长 为 之 战 斗 。 
 str_npc_jocelyn_backstory_later|你 好 ， {reg63?先 生 :女 士 }， 我 还 在 寻 找 一 个 值 得 追 随 的 队 长 。 你 能 在 队 伍 里 给 我 留 个 位 置 吗 ？ 
-str_npc_alistair_backstory_later|我 和 黄 昏 骑 士 团 一 起 来 到 潘 德 ， 跟 那 个 伪 善 的 黎 明 傻 子 团 作 战 。 在 巴 克 利 我 们 完 全 驱 逐 了 他 们 。 你 意 识 到 我 在 团 队 中 会 有 多 大 的 价 值 了 吗 ？ 
+str_npc_alistair_backstory_later|我 和 黄 昏 骑 士 团 一 起 来 到 潘 德 是 为 了 跟 那 个 伪 善 的 黎 明 傻 子 团 作 战 。 我 们 把 他 们 从 巴 克 利 驱 逐 到 了 潘 德 。 你 意 识 到 我 在 团 队 中 会 有 多 大 的 价 值 了 吗 ？ 
 str_npc_rayne_backstory_later|我 为 几 个 领 主 服 务 过 ， 但 发 现 他 们 对 我 的 背 景 心 存 顾 忌 。 他 们 让 我 训 练 农 民 ， 递 送 信 件 ， 或 是 其 它 不 适 合 骑 士 干 的 事 情 。 
 str_npc_julia_backstory_later|我 不 知 道 是 否 告 诉 过 你 ， 但 我 的 父 亲 后 来 被 军 团 抓 住 ， 在 南 门 外 吊 死 以 警 告 所 有 拜 蛇 教 徒 。 他 所 护 卫 的 贵 族 也 马 上 逃 离 ， 从 此 不 知 所 终 。 我 再 也 没 回 过 思 源 城 去 看 一 下 自 己 是 否 还 被 通 缉 ， 这 事 现 在 看 来 已 经 没 什 么 意 义 了 。 
 str_npc_frederick_backstory_later|我 还 在 找 一 个 值 得 效 力 的 队 长 ， 梅 滕 海 姆 那 里 已 经 很 久 没 有 消 息 了 ， 也 没 有 新 的 代 表 团 抵 达 。 
@@ -593,11 +593,11 @@ str_npc_ediz_backstory_later|目 前 在 寻 回 荣 誉 这 方 面 没 多 大
 str_npc_sara_backstory_later|我 在 潘 德 游 荡 ， 身 后 留 下 一 串 单 恋 的 男 人 ， 还 有 一 些 恼 怒 的 女 人 。 我 对 这 种 简 单 的 挑 战 已 经 厌 倦 ， 最 近 开 始 考 虑 在 武 力 方 面 做 出 更 多 的 努 力 。 
 str_npc_donavan_backstory_later|我 从 城 堡 走 到 宫 廷 ， 但 还 没 找 到 一 个 对 脾 气 的 领 主 。 
 str_npc_diev_backstory_later|我 通 过 偷 猎 支 付 在 此 地 的 开 销 ， 但 领 主 已 经 开 始 警 觉 了 ， 所 以 不 能 再 经 常 打 猎 。 此 外 ， 我 还 是 在 找 一 个 合 适 的 指 挥 官 。 
-str_npc_alyssa_backstory_later|拜 蛇 教 昨 天 又 试 图 杀 我 ， 队 长 ， 嘶 … … 请 一 定 允 许 我 加 入 你 的 队 伍 ， 为 了 我 的 安 全 和 你 的 利 益 。 
+str_npc_alyssa_backstory_later|拜 蛇 教 昨 天 又 试 图 要 我 的 命 ， 队 长 ， 嘶 … … 请 一 定 允 许 我 加 入 你 的 队 伍 ， 这 不 仅 是 为 了 我 的 安 全 ， 也 对 你 有 益 。 
 str_npc_roland_backstory_later|我 继 续 着 在 潘 德 重 建 正 义 的 使 命 ， 希 望 我 的 努 力 是 对 邪 恶 的 最 后 一 击 ， 这 样 阿 丝 塔 莉 娅 女 神 的 旨 意 就 可 以 重 现 。 虽 然 黎 明 骑 士 团 被 巴 克 利 驱 逐 后 在 潘 德 也 遭 到 打 击 ， 但 我 独 自 一 人 就 可 以 继 续 骑 士 团 的 真 正 使 命 。 
 str_npc_kaverra_backstory_later|自 从 上 次 你 给 我 发 好 人 卡 以 后 ， 又 有 一 些 混 蛋 失 去 了 男 人 的 宝 贝 ， 如 果 那 是 你 所 希 望 的 话 。 
 str_npc_sigismund_backstory_later|又 是 你 ， 嗯 ？ 自 从 上 次 遇 到 你 以 后 没 什 么 改 变 ， 我 杀 人 ， 我 喝 酒 ， 我 悲 痛 ， 我 做 雇 佣 兵 ， 拿 到 酬 劳 就 买 酒 ， 当 钱 用 完 了 ， 我 就 出 去 找 活 ， 
-str_npc_boadice_backstory_later|我 可 不 觉 得 穷 困 潦 倒 很 好 玩 ， 队 长 ， 必 须 再 次 坚 持 你 让 我 加 入 队 伍 。 
+str_npc_boadice_backstory_later|我 可 不 觉 得 穷 困 潦 倒 很 好 玩 ， 队 长 ， 我 必 须 再 次 请 求 我 允 许 我 加 入 我 的 队 伍 。 
 str_npc_adonja_backstory_response_1|我 怎 么 知 道 你 会 不 会 对 我 们 劫 掠 ， 或 者 在 跟 迷 雾 山 劫 匪 战 斗 一 开 始 时 就 当 逃 兵 ？ 
 str_npc_leslie_backstory_response_1|嗯 ， 可 能 我 会 给 你 工 作 ， 你 能 战 斗 吗 ？ 
 str_npc_ansen_backstory_response_1|的 确 ， 我 手 下 有 一 支 佣 兵 队 伍 。 
@@ -818,7 +818,7 @@ str_npc_roland_personalityclash_speech|队 长 {reg63?大 人 :女 士 }， 我 
 str_npc_kaverra_personalityclash_speech|队 长 ， 那 个 {s11}德 夏 人 是 马 粪 ， 他 没 有 一 点 礼 貌 。 他 说 我 的 切 人 长 刀 只 是 女 性 玩 具 ， 我 应 该 待 帐 篷 里 乖 乖 当 个 情 妇 ， 而 不 是 出 去 跟 男 人 一 样 打 仗 。 
 str_npc_sigismund_personalityclash_speech|指 挥 官 ， {s11}是 一 个 傲 慢 的 荡 妇 ， 她 觉 得 跟 一 群 劫 匪 出 去 打 劫 几 次 就 变 成 士 兵 了 。 当 她 还 在 穿 尿 片 时 ， 我 就 开 始 杀 迷 雾 山 匪 徒 了 。 我 只 是 遗 憾 在 她 出 生 之 前 没 有 碰 到 她 爸 ！ 
 str_npc_boadice_personalityclash_speech|队 长 ， 跟 队 伍 里 的 各 色 人 等 混 在 一 起 是 一 件 事 ， 但 跟 一 个 把 自 己 幻 想 成 医 生 的 商 人 儿 子 同 等 地 位 就 是 另 一 件 事 了 ！ 以 前 我 和 姐 妹 们 绝 不 允 许 男 人 看 伤 ， 如 果 你 能 跟 那 个 小 混 蛋 说 一 声 的 话 我 会 非 常 感 激 。 
-str_npc_adonja_personalityclash_speech_b|他 不 是 在 说 我 的 坏 话 ， 就 是 在 唠 叨 那 逝 去 的 爱 ， 而 且 总 是 醉 得 口 水 乱 流 满 地 乱 爬 。 如 果 那 个 克 莱 尔 女 人 还 活 着 的 话 ， 现 在 多 半 会 把 他 杀 掉 ， 她 不 杀 我 也 会 杀 。 
+str_npc_adonja_personalityclash_speech_b|他 不 是 在 说 我 的 坏 话 ， 就 是 在 唠 叨 那 逝 去 的 爱 ， 而 且 总 是 醉 得 口 水 乱 流 满 地 乱 爬 。 如 果 那 个 叫 克 莱 尔 的 女 人 还 活 着 的 话 ， 现 在 多 半 会 把 他 杀 掉 ， 她 不 杀 我 也 会 杀 。 
 str_npc_leslie_personalityclash_speech_b|他 怎 么 有 权 在 战 斗 中 发 号 施 令 ？ 你 才 是 部 队 的 队 长 。 他 还 威 胁 说 要 鞭 打 我 ， 而 且 对 此 念 头 一 直 很 痴 迷 ！ 
 str_npc_ansen_personalityclash_speech_b|我 发 现 她 自 称 是 一 个 由 女 性 统 治 岛 屿 的 女 王 。 很 可 惜 谦 虚 不 是 她 从 小 接 受 的 教 养 之 一 。 如 果 我 不 来 教 育 她 ， 谁 来 ？ 
 str_npc_riva_personalityclash_speech_b|{reg63?先 生 :夫 人 }， 你 能 想 像 有 这 可 悲 惨 的 情 境 吗 ？ 一 个 普 通 平 民 可 以 这 样 取 笑 贵 族 ？ 
@@ -854,10 +854,10 @@ str_npc_sara_personalityclash2_speech|你 好 ， 队 长 ！ {s11}装 纯 装 �
 str_npc_donavan_personalityclash2_speech|队 长 ， {s11}还 是 那 么 无 组 织 无 纪 律 。 上 次 战 斗 中 我 让 他 包 抄 敌 人 侧 翼 ， 他 却 对 我 说 如 果 我 再 下 命 令 的 话 就 切 开 我 的 头 盖 骨 ， 还 做 了 一 个 很 粗 鲁 的 手 势 ！ 
 str_npc_diev_personalityclash2_speech|队 长 ， 你 的 那 个 迷 雾 山 劫 匪 ， {s11}， 真 是 个 麻 烦 ， 对 于 队 伍 来 说 也 是 个 危 险 。 等 着 瞧 吧 ， 以 后 第 一 次 和 迷 雾 山 匪 帮 接 战 时 ， 她 会 立 刻 当 场 投 敌 。 你 不 能 相 信 他 们 ， 我 可 以 这 样 说 ， 那 些 人 都 是 小 偷 和 杀 人 犯 。 
 str_npc_alyssa_personalityclash2_speech|那 个 穿 着 闪 亮 盔 甲 的 笨 蛋 ， {s11}， 居 然 有 胆 当 面 告 诉 我 他 讨 厌 我 和 我 的 口 音 以 及 蛇 教 背 景 。 现 在 我 还 有 点 多 余 的 蛇 毒 ， 如 能 放 进 他 的 麦 酒 里 我 会 很 开 心 ！ 
-str_npc_roland_personalityclash2_speech|队 长 {reg63?大 人 :女 士 }， 你 的 那 个 蛇 教 宠 物 ， {s11}， 应 该 把 她 的 头 切 掉 ！ 她 在 队 伍 里 的 影 响 很 坏 ， 大 家 都 不 喜 欢 她 。 我 们 的 任 务 是 消 灭 蛇 教 ， 而 不 是 细 心 呵 护 浇 花 施 肥 。 
+str_npc_roland_personalityclash2_speech|队 长 {reg63?大 人 :女 士 }， 您 那 条 宠 物 蛇 ， {s11}， 该 被 砍 头 了 ！ 她 在 队 伍 里 的 影 响 很 坏 ， 大 家 都 不 喜 欢 她 。 我 们 的 任 务 是 消 灭 蛇 教 ， 而 不 是 细 心 呵 护 浇 花 施 肥 。 
 str_npc_kaverra_personalityclash2_speech|队 长 ， 那 个 低 能 的 辛 加 尔 人 ， {s11}， 是 个 讨 厌 的 混 蛋 。 我 觉 得 你 应 该 告 诉 他 ， 除 了 他 自 己 以 外 没 人 会 关 心 他 对 女 人 的 看 法 是 什 么 ！ 
-str_npc_sigismund_personalityclash2_speech|指 挥 官 ， {s11}那 家 伙 真 的 是 在 自 己 找 死 了 ， 如 果 他 以 后 在 战 斗 中 给 我 下 命 令 的 话 。 他 根 本 不 懂 指 挥 ， 无 论 怎 样 我 只 接 受 你 的 命 令 。 
-str_npc_boadice_personalityclash2_speech|我 能 理 解 你 会 在 有 可 能 的 情 况 下 尽 量 招 收 骑 士 ， 但 你 真 的 应 该 把 {s11}打 发 走 ！ 他 自 负 而 傲 慢 ， 是 一 个 十 足 的 待 子 ！ 
+str_npc_sigismund_personalityclash2_speech|指 挥 官 ， 要 是 {s11}那 家 伙 还 敢 在 战 斗 中 给 我 下 命 令 ， 他 的 脑 袋 就 要 被 劈 成 两 半 了 。 他 根 本 不 懂 指 挥 ， 无 论 怎 样 我 只 接 受 你 的 命 令 。 
+str_npc_boadice_personalityclash2_speech|我 能 理 解 你 会 在 有 可 能 的 情 况 下 尽 量 招 收 骑 士 ， 但 你 真 的 应 该 把 {s11}打 发 走 ！ 他 自 命 不 凡 、 对 我 无 礼 ， 而 且 完 全 是 个 蠢 货 ！ 
 str_npc_adonja_personalityclash2_speech_b|他 也 哗 众 取 宠 地 给 过 我 一 些 如 何 处 理 伤 亡 者 的 建 议 。 我 这 样 告 诉 他 :‘他 们 都 已 经 死 得 不 能 再 死 了 ， 打 扫 战 场 也 是 一 种 尊 重 ， 所 以 走 远 点 ， 偷 猎 者 ， 不 然 我 就 割 破 你 的 喉 咙 ！ ’ 。 
 str_npc_leslie_personalityclash2_speech_b|他 威 胁 说 下 次 到 了 德 夏 境 内 ， 就 把 我 卖 给 他 认 识 的 一 个 未 开 化 部 落 。 队 长 ， 别 让 他 继 续 待 在 这 个 队 伍 里 了 ！ 
 str_npc_ansen_personalityclash2_speech_b|{reg63?大 人 :女 士 }， 他 经 常 贬 低 我 的 战 斗 技 能 ， 还 一 直 嘲 笑 我 不 会 成 为 骑 士 。 请 你 务 必 让 他 停 止 诬 蔑 ， 要 不 我 不 得 不 让 他 尝 一 下 我 的 剑 技 ！ 
@@ -874,10 +874,10 @@ str_npc_sara_personalityclash2_speech_b|她 不 但 长 得 难 看 而 且 不 
 str_npc_donavan_personalityclash2_speech_b|指 挥 官 ， 这 种 毫 无 纪 律 的 行 为 只 会 让 部 下 白 白 送 死 。 不 但 他 自 己 身 处 险 地 ， 而 且 周 围 的 士 兵 也 一 同 犯 险 。 无 视 权 威 在 任 何 一 支 部 队 里 都 是 有 腐 蚀 作 用 的 ， 尤 其 在 这 个 团 队 里 ， 因 为 成 员 的 背 景 如 此 不 同 。 我 会 用 鞭 子 抽 他 ， 如 果 再 无 视 我 的 命 令 的 话 。 
 str_npc_diev_personalityclash2_speech_b|我 们 又 不 是 小 猪 需 要 吃 奶 ， 再 也 没 必 要 留 着 那 个 迷 雾 山 劫 匪 了 。 你 看 到 过 他 在 死 人 身 上 划 刀 子 吗 ？ 恶 心 ！ 我 跟 她 说 过 这 个 ， 她 威 胁 我 说 要 割 破 我 的 喉 咙 ， 真 是 野 蛮 人 ！ 
 str_npc_alyssa_personalityclash2_speech_b|我 保 证 就 下 一 点 毒 ， 嘶 嘶 ， 只 是 给 他 一 个 教 训 。 求 求 你 了 ， 不 会 怎 么 伤 害 他 的 ， 就 是 吐 一 晚 上 而 已 ！ 
-str_npc_roland_personalityclash2_speech_b|听 到 她 一 直 用 蛇 教 方 式 说 话 让 我 头 晕 目 眩 ， 我 已 经 快 忍 不 住 要 杀 她 的 冲 动 了 ！ 我 能 忍 到 现 在 只 是 出 于 对 你 的 尊 重 ， 但 尊 重 也 是 有 限 度 的 。 
+str_npc_roland_personalityclash2_speech_b|听 她 那 种 嘶 嘶 作 态 的 说 话 方 式 让 我 感 到 生 理 上 的 恶 心 。 我 已 经 快 忍 不 住 要 杀 她 的 冲 动 了 ！ 我 能 忍 到 现 在 只 是 出 于 对 你 的 尊 重 ， 但 尊 重 也 是 有 限 度 的 。 
 str_npc_kaverra_personalityclash2_speech_b|他 告 诉 我 他 不 会 跟 农 妇 有 任 何 联 系 ， 在 部 落 里 农 妇 永 远 也 不 能 称 为 女 战 士 。 他 说 辛 加 尔 人 把 女 人 分 为 3种 :佣 人 ， 老 婆 和 战 士 ， 而 且 一 旦 确 定 永 不 改 变 。 
 str_npc_sigismund_personalityclash2_speech_b|下 次 他 当 面 说 要 鞭 打 我 ， 他 就 会 尝 到 被 鞭 打 的 后 果 。 我 会 用 他 那 该 死 的 鞭 子 把 他 抽 得 跟 斑 马 一 样 ， 然 后 把 鞭 子 扔 到 世 界 的 尽 头 ！ 
-str_npc_boadice_personalityclash2_speech_b|当 上 帝 为 了 滑 稽 慈 善 义 演 创 造 出 小 丑 ， 那 么 他 一 定 是 原 型 ！ 如 果 不 是 那 么 面 目 可 憎 的 话 ， 他 一 定 会 很 搞 笑 。 不 幸 的 是 ， 丑 陋 超 过 了 滑 稽 ， 他 应 该 被 阉 掉 后 才 会 安 静 下 来 。 
+str_npc_boadice_personalityclash2_speech_b|当 众 神 为 了 给 人 间 带 来 笑 料 而 创 造 白 痴 时 ， 他 一 定 是 个 原 型 ！ 要 不 是 他 那 么 讨 厌 ， 他 本 来 还 能 让 人 觉 得 好 笑 。 可 惜 ， 他 的 惹 人 厌 远 远 超 过 了 他 的 可 笑 。 他 需 要 被 阉 掉 才 能 安 分 一 点 。 
 str_npc_adonja_personalitymatch_speech|头 目 ， 呃 ， 队 长 ， 我 任 何 时 候 跟 {s11}一 起 参 加 劫 掠 都 很 愉 快 ， 虽 然 他 有 时 有 点 书 呆 子 气 。 他 的 害 羞 也 很 吸 引 人 ， 我 觉 得 他 也 对 我 有 点 意 思 。 
 str_npc_leslie_personalitymatch_speech|你 知 道 吗 ， {reg63?先 生 :夫 人 }， {s11}是 个 有 趣 的 人 。 我 们 有 时 会 有 交 流 ， 我 对 他 了 解 地 越 多 ， 就 越 喜 欢 他 。 他 真 的 关 心 那 些 命 运 坎 坷 的 人 。 
 str_npc_ansen_personalitymatch_speech|{reg63?大 人 :女 士 }， {s11}在 战 斗 中 英 勇 无 畏 ， 而 且 人 也 漂 亮 。 你 觉 得 她 是 否 会 看 上 像 我 这 样 的 ？ 我 想 多 跟 她 交 流 ， 但 总 有 种 感 觉 她 在 嘲 笑 我 。 
@@ -1013,7 +1013,7 @@ str_npc_ediz_home_description_2|真 想 念 干 牛 粪 火 堆 上 烧 烤 肉 
 str_npc_sara_home_description_2|当 我 杀 完 之 后 ， 女 士 们 正 处 于 歇 斯 底 里 中 ， 小 伙 们 都 已 受 伤 。 我 编 出 了 一 个 小 伙 们 的 英 勇 无 敌 救 淑 女 于 危 难 的 故 事 ， 他 们 知 道 谁 是 真 正 的 英 雄 ， 但 羞 于 承 认 我 救 了 大 家 的 命 。 剩 下 的 整 个 夏 天 ， 他 们 都 在 担 心 我 会 说 出 真 相 。 我 的 确 想 过 写 一 首 那 次 历 险 的 歌 谣 ， 但 最 后 发 了 善 心 ， 还 是 放 过 了 他 们 。 
 str_npc_donavan_home_description_2|如 果 有 人 统 一 了 潘 德 ， 我 会 跟 随 他 ， 不 要 报 酬 。 我 会 坐 船 去 巴 克 利 ， 雇 一 队 同 伴 然 后 回 到 这 里 。 巴 克 利 在 战 争 水 平 方 面 比 潘 德 更 先 进 ， 一 队 巴 克 利 步 兵 和 两 队 巴 克 利 枪 骑 兵 能 让 国 王 所 向 披 靡 。 
 str_npc_diev_home_description_2|可 能 有 一 天 我 会 回 到 长 歌 港 ， 看 望 养 父 母 过 得 如 何 。 他 们 有 一 栋 不 错 的 房 子 ， 生 活 也 很 舒 适 ， 大 概 到 时 我 会 比 少 年 时 代 过 得 更 有 味 道 。 
-str_npc_alyssa_home_description_2|我 受 够 了 光 吃 物 资 ， 卷 心 菜 和 苹 果 的 日 子 ！ 潘 德 人 都 不 种 蔬 菜 的 吗 ？ 
+str_npc_alyssa_home_description_2|我 受 够 了 光 吃 面 包 、 卷 心 菜 和 苹 果 的 日 子 ！ 潘 德 人 都 不 种 蔬 菜 的 吗 ？ 
 str_npc_roland_home_description_2|现 在 帝 国 人 已 不 再 欢 庆 节 日 了 ， 因 为 那 些 肮 脏 的 拜 蛇 教 徒 无 处 不 在 。 我 们 必 须 去 杀 更 多 的 邪 教 徒 ， 队 长 ， 他 们 弄 脏 了 整 个 潘 德 ， 而 不 光 是 帝 国 。 虽 然 我 现 在 还 是 效 忠 于 骑 士 团 ， 但 不 得 不 为 帝 国 的 现 状 而 哀 悼 。 
 str_npc_kaverra_home_description_2|我 们 那 里 的 渔 夫 经 常 能 找 到 大 群 的 鱼 ， 他 们 有 种 叫 作‘指 南 针’的 东 西 ， 能 找 出 方 向 和 位 置 ， 我 爷 爷 从 凛 鸦 城 商 人 那 里 得 到 的 。 我 们 那 里 的 土 地 也 很 好 ， 播 种 女 神 每 年 春 天 都 从 田 野 里 走 过 ， 我 的 叔 叔 见 到 过 一 次 。 
 str_npc_sigismund_home_description_2|我 过 去 一 直 希 望 能 看 见 春 天 女 神 ， 在 早 晨 走 过 我 的 土 地 ， 想 着 她 能 给 我 一 支 鲜 花 。 她 的 鲜 花 如 果 给 了 农 夫 ， 就 能 让 种 子 更 快 发 芽 ， 收 成 更 加 丰 盛 。 
@@ -1077,7 +1077,7 @@ str_npc_alyssa_kingsupport_1|好 ， 你 对 我 表 示 了 尊 重 ， 虽 然
 str_npc_roland_kingsupport_1|你 对 正 义 女 神 以 及 潘 德 诸 神 保 持 了 敬 仰 ， 而 且 英 明 地 带 领 队 伍 取 得 无 数 胜 利 。 我 也 注 意 到 了 你 的 个 人 节 操 ， 所 以 你 赢 得 了 我 的 敬 意 ， 相 信 你 能 成 为 一 个 好 {reg63?国 王 :女 王 }。 
 str_npc_kaverra_kingsupport_1|靠 ， 队 长 ， 为 什 么 不 ？ 有 你 在 位 ， 那 些 凡 斯 凯 瑞 海 贼 再 也 不 敢 去 菲 尔 兹 威 村 庄 洗 劫 了 。 以 后 你 让 我 带 队 巡 逻 ， 那 些 混 蛋 会 后 悔 踏 上 潘 德 的 。 不 过 我 想 “ 铁 剑 ” 库 丹 出 钱 的 话 ， 我 大 概 会 放 过 这 家 伙 。 
 str_npc_sigismund_kingsupport_1|你 不 是 一 个 太 坏 的 指 挥 官 ， 队 长 。 如 果 潘 德 能 够 统 一 ， 人 们 就 可 以 太 平 地 种 庄 稼 ， 不 用 害 怕 收 成 会 被 外 来 领 主 和 强 盗 糟 蹋 。 对 于 支 持 你 坐 上 王 位 我 没 有 任 何 问 题 。 
-str_npc_boadice_kingsupport_1|为 什 么 不 ？ 我 会 很 乐 意 为 你 不 完 全 了 解 的 事 情 提 供 建 议 ， 因 为 你 不 是 世 袭 王 位 所 以 缺 乏 传 统 经 验 。 成 为 {reg63?国 王 :女 王 }后 你 就 是 人 民 的 奴 仆 ， 而 不 是 相 反 ， 所 以 这 是 一 个 很 大 的 责 任 。 我 觉 得 你 可 以 搞 定 的 。 
+str_npc_boadice_kingsupport_1|为 什 么 不 ？ 我 很 乐 意 就 一 些 你 或 许 并 不 完 全 理 解 的 事 务 向 你 提 供 建 议 ， 毕 竟 你 不 是 世 袭 的 {reg63?国 王 :女 王 }。 成 为 {reg63?国 王 :女 王 } 意 味 着 成 为 人 民 的 奴 仆 ， 而 不 是 相 反 ， 所 以 这 是 一 项 很 大 的 责 任 。 我 觉 得 你 可 以 搞 定 的 。 
 str_npc_adonja_kingsupport_2|一 个 {reg63?国 王 :女 王 }如 果 对 迷 雾 山 表 现 出 一 定 的 善 意 ， 让 我 们 在 凛 鸦 境 出 售 皮 毛 等 物 品 ， 或 者 让 我 们 建 一 两 个 村 庄 定 居 ， 就 不 用 太 担 心 劫 掠 问 题 了 。 或 许 有 些 人 会 按 照 部 落 的 传 统 来 过 ， 但 我 知 道 如 何 对 付 他 们 。 
 str_npc_leslie_kingsupport_2|一 个 聪 明 的 {reg63?国 王 :女 王 }知 道 如 何 照 看 王 国 的 商 业 利 益 ， 确 保 贸 易 路 线 安 全 畅 通 ， 老 百 姓 最 看 的 是 重 稳 定 和 繁 荣 。 
 str_npc_ansen_kingsupport_2|我 有 一 本 关 于 潘 德 历 史 的 书 ， {reg63?大 人 :女 士 }， 书 里 详 细 描 述 了 以 前 的 国 王 们 是 如 何 召 集 领 主 和 公 会 代 表 们 成 立 参 议 会 的 。 那 个 参 议 会 有 权 驳 回 过 于 沉 重 的 税 赋 以 及 对 公 民 的 不 公 正 对 待 。 如 果 你 再 次 成 立 这 样 一 个 机 构 的 话 ， 会 得 到 大 家 赞 扬 的 。 
@@ -1097,7 +1097,7 @@ str_npc_alyssa_kingsupport_2|确 实 ， 我 开 始 接 受 你 统 治 潘 德
 str_npc_roland_kingsupport_2|在 正 义 女 神 的 指 引 下 ， 只 要 你 对 潘 德 子 民 保 持 正 义 和 仁 慈 ， 我 会 是 你 的 左 膀 右 臂 ， 大 人 。 然 而 ， 如 果 权 力 腐 蚀 了 你 ， 我 会 直 指 你 的 罪 行 ， 以 阿 丝 塔 莉 娅 的 名 义 制 裁 你 ！ 
 str_npc_kaverra_kingsupport_2|没 问 题 ， 队 长 。 如 果 你 能 做 到 女 性 在 这 片 土 地 上 旅 行 时 不 用 担 心 会 被 侮 辱 绑 架 或 杀 害 ， 把 那 些 凡 斯 凯 瑞 海 贼 赶 回 极 北 苦 寒 老 家 的 话 ， 我 会 为 你 的 大 业 奉 献 生 命 ！ 
 str_npc_sigismund_kingsupport_2|好 的 ， 队 长 ， 我 要 为 此 喝 一 杯 ！ 如 果 你 能 让 村 民 们 平 安 生 活 ， 我 就 会 永 远 成 为 你 手 中 利 剑 ！ 
-str_npc_boadice_kingsupport_2|这 样 的 话 ， 队 长 ， 我 要 开 始 在 我 的 封 地 里 训 练 部 队 了 ， 为 了 我 们 更 伟 大 的 荣 光 ， 为 了 以 后 我 能 回 家 夺 回 王 位 的 那 一 天 ！ 
+str_npc_boadice_kingsupport_2|那 么 ， 队 长 ， 我 要 开 始 在 我 的 封 地 里 训 练 部 队 了 ， 为 了 我 们 更 伟 大 的 荣 光 ， 为 了 以 后 我 能 回 家 夺 回 王 位 的 那 一 天 ！ 
 str_npc_adonja_kingsupport_2a|很 有 趣 ， 我 在 想 迷 雾 山 部 落 是 否 会 合 作 。 
 str_npc_leslie_kingsupport_2a|你 所 提 出 的 建 议 非 常 有 理 也 完 全 可 行 。 
 str_npc_ansen_kingsupport_2a|请 多 告 诉 我 一 些 ， 你 的 见 识 很 有 价 值 。 
@@ -1177,7 +1177,7 @@ str_npc_alyssa_kingsupport_objection|派 莎 拉 那 样 的 淫 妇 去 传 播
 str_npc_roland_kingsupport_objection|队 长 大 人 ， 对 于 派 一 个 像 阿 利 斯 泰 那 样 罪 孽 深 重 的 半 吊 子 骑 士 当 信 使 我 深 感 震 惊 ， 恐 怕 那 会 带 来 非 常 负 面 的 效 果 ！ 
 str_npc_kaverra_kingsupport_objection|我 必 须 告 诉 你 ， 队 长 ， 让 那 个 部 落 蠢 猪 卡 西 姆 去 异 教 徒 那 里 为 你 的 大 业 赢 得 民 心 是 个 大 错 。 你 知 道 他 们 是 怎 样 的 ， 他 们 会 左 右 逢 源 ， 最 后 背 叛 所 有 与 之 达 成 交 易 的 人 ！ 你 要 寻 求 德 夏 的 支 持 作 什 么 ？ 他 们 绝 不 会 接 受 你 成 为 大 汗 的 ！ 
 str_npc_sigismund_kingsupport_objection|让 迷 雾 山 野 蛮 人 代 表 你 出 行 ， 你 到 底 在 想 什 么 ？ 跟 商 人 谈 完 以 后 ， 她 会 在 他 们 的 背 后 下 刀 并 且 抢 光 货 物 ， 那 种 行 为 能 代 表 你 ？ 我 从 没 把 你 当 作 傻 瓜 ， 队 长 ， 我 希 望 当 时 你 做 决 定 时 正 好 喝 高 了 ， 这 样 我 才 能 理 解 。 
-str_npc_boadice_kingsupport_objection|队 长 ， 让 那 个 书 生 气 十 足 的 小 屁 孩 安 森 代 表 你 去 执 行 外 交 任 务 ， 就 跟 肉 包 子 打 狗 一 样 悲 剧 。 他 除 了 书 本 以 外 什 么 都 不 懂 ， 你 应 该 派 个 知 道 如 何 管 理 的 聪 明 人 去 ， 而 不 是 把 自 己 幻 想 成 医 生 的 书 虫 。 
+str_npc_boadice_kingsupport_objection|队 长 ， 让 那 个 书 生 气 十 足 的 小 屁 孩 安 森 代 表 你 去 执 行 外 交 任 务 ， 就 跟 肉 包 子 打 狗 一 样 悲 剧 。 他 除 了 书 本 以 外 什 么 都 不 懂 ， 你 应 该 派 一 个 真 正 懂 得 治 国 之 道 的 人 ， 而 不 是 一 个 自 以 为 是 医 生 的 书 虫 。 
 str_npc_adonja_intel_mission|我 在 凛 鸦 境 商 人 里 面 有 些 联 系 ， 那 些 人 不 会 趾 高 气 扬 地 拒 绝 和 迷 雾 山 部 落 贸 易 。 他 们 在 旅 行 时 会 听 到 很 多 传 闻 ， 我 可 以 拜 访 几 个 商 人 ， 帮 你 找 出 最 新 的 传 闻 ， 如 果 你 需 要 的 话 。 
 str_npc_leslie_intel_mission|{reg63?先 生 :女 士 }， 如 果 你 对 目 前 的 政 治 风 向 有 兴 趣 ， 我 可 以 在 {s17}熟 悉 的 商 人 里 面 找 一 些 眼 线 。 他 们 了 解 潘 德 的 大 小 政 治 细 节 ， 知 道 在 哪 里 投 资 和 买 卖 最 能 获 益 。 
 str_npc_ansen_intel_mission|{reg63?大 人 :女 士 }， 虽 然 父 亲 拒 绝 跟 我 联 系 ， 但 姐 姐 和 我 一 直 还 有 通 信 。 她 会 听 到 很 多 正 在 发 生 的 事 情 ， 因 为 我 姐 夫 也 是 另 一 个 商 业 大 家 族 的 儿 子 。 我 知 道 姐 姐 很 乐 意 见 到 我 ， 并 且 她 会 告 诉 我 任 何 商 人 圈 子 里 流 传 的 事 情 。 
@@ -1193,7 +1193,7 @@ str_npc_ediz_intel_mission|队 长 ， 我 听 说 几 个 表 兄 弟 最 近 �
 str_npc_sara_intel_mission|噢 ， 无 畏 的 人 ， 如 你 允 许 ， 我 可 能 会 跑 一 趟 萨 瓦 多 尔 城 堡 。 我 一 般 不 会 重 返 以 前 待 过 的 地 方 ， 但 我 和 那 里 的 一 个 骑 士 有 过 一 段 美 好 的 回 忆 ， 可 能 为 你 了 解 到 他 的 领 主 的 政 治 态 度 。 
 str_npc_donavan_intel_mission|队 长 ， 你 还 记 得 我 在 {s17}要 塞 训 练 过 部 队 吧 ？ 一 个 老 部 下 最 近 跟 我 有 了 联 系 ， 说 如 果 我 过 去 走 访 ， 他 就 会 传 递 关 于 {s18}内 部 最 近 发 生 的 事 情 。 我 很 愿 意 着 手 此 事 ， 如 果 你 允 许 的 话 。 做 间 谍 是 不 名 誉 的 事 情 ， 但 用 间 对 我 倒 没 有 问 题 。 
 str_npc_diev_intel_mission|队 长 ， 我 的 养 父 母 年 事 已 高 ， 我 打 算 去 探 望 他 们 。 无 疑 父 亲 在 经 商 时 会 听 到 大 量 传 闻 ， 我 愿 意 为 你 去 那 里 收 集 一 些 有 用 的 讯 息 。 
-str_npc_alyssa_intel_mission|在 {s17}那 里 我 还 是 有 些 好 朋 友 ， 队 长 ， 对 我 离 开 蛇 教 的 事 情 并 不 在 意 。 嘶 嘶 ， 要 不 要 我 去 那 里 帮 你 打 探 一 点 消 息 ？ 
+str_npc_alyssa_intel_mission|队 长 ， 我 在 {s17}还 有 一 些 好 朋 友 ， 他 们 并 没 有 因 为 我 离 开 蛇 教 而 责 怪 我 。 嘶 嘶 要 不 要 我 去 那 里 帮 你 打 探 一 下 关 于 {s17}的 消 息 ？ 
 str_npc_roland_intel_mission|我 的 队 长 ， 最 近 收 到 来 自 黎 明 骑 士 团 老 队 友 的 一 封 信 ， 看 上 去 巴 克 利 总 部 已 经 派 出 一 支 小 分 队 来 潘 德 支 援 与 蛇 教 的 战 斗 。 他 们 刚 在 {s17}登 陆 ， 我 很 愿 意 去 以 前 的 骑 士 团 里 面 走 动 一 下 ， 也 相 信 一 定 会 探 听 到 一 些 你 感 兴 趣 的 事 情 。 
 str_npc_kaverra_intel_mission|队 长 ， 刚 收 到 消 息 我 的 爷 爷 病 重 想 再 看 我 一 眼 。 很 想 去 见 他 最 后 一 面 ， 如 果 你 允 许 的 话 。 到 了 雅 耶 克 以 后 ， 我 可 以 听 听 渔 民 们 的 想 法 ， 顺 便 去 {s17}拜 访 一 下 老 主 人 ， 他 很 可 能 会 提 供 一 些 有 用 的 传 闻 。 
 str_npc_sigismund_intel_mission|队 长 ， 我 有 个 想 法 ， 就 是 回 以 前 的 村 子 里 去 跟 老 伙 计 们 喝 几 杯 。 这 样 就 能 掌 握 最 近 {s18}的 动 态 ， 比 如 发 生 过 多 少 劫 掠 事 件 ， 顺 道 去 看 看 克 莱 尔 的 妹 妹 。 如 果 我 能 暂 别 几 日 ， 我 相 信 能 发 现 一 些 对 我 们 有 用 的 东 西 。 
@@ -1463,7 +1463,7 @@ str_comment_sadistic_rav_map|我 想 你 是 循 着 那 些 点 燃 的 村 落
 str_comment_pitiless_fierds_hall|所 以 啦 ！ 你 就 是 那 个 在 野 外 流 浪 的 混 混 ？ 呃 ， 你 会 说 话 吗 ？ 
 str_comment_pitiless_fierds_map|我 听 说 过 你 最 近 的 战 事 ， 我 觉 得 现 在 你 还 可 以 自 行 站 立 真 是 一 个 奇 迹 。 
 str_comment_pitiless_sar_hall|马 棚 就 在 那 ， 到 了 那 边 之 后 ， 切 记 顺 便 将 茅 房 清 理 一 下 。 
-str_comment_pitiless_sar_map|我 的 时 间 很 宝 贵 。 当 你 今 早 还 没 睡 醒 时 ， 我 已 经 吃 了 一 个 丰 富 的 早 餐 ， 还 抽 空 将 士 兵 们 操 练 完 毕 ， 所 以 长 话 短 说 吧 。 
+str_comment_pitiless_sar_map|我 的 时 间 很 宝 贵 。 当 你 今 早 还 没 睡 醒 时 ， 我 已 经 吃 了 一 顿 丰 富 的 早 餐 ， 还 抽 空 将 士 兵 们 操 练 完 毕 ， 所 以 长 话 短 说 吧 。 
 str_comment_pitiless_empire_hall|如 果 你 在 帝 国 境 内 生 事 的 话 ， 我 保 证 我 们 的 军 团 步 兵 会 很 快 追 上 你 并 将 你 修 理 一 顿 。 
 str_comment_pitiless_empire_map|你 现 在 看 上 去 好 像 胆 子 很 大 啊 ， 但 我 期 待 看 你 对 上 拜 蛇 教 或 诺 多 精 灵 后 会 变 成 怎 么 样 。 
 str_comment_pitiless_dshar_hall|你 是 谁 ？ 竟 然 在 没 有 被 邀 请 之 下 就 进 入 我 的 大 厅 ？ 
@@ -1597,7 +1597,7 @@ str_comment_you_captured_my_castle_enemy_chivalrous|恭 喜 你 攻 下 了 我 
 str_comment_you_captured_my_castle_enemy|我 听 说 你 攻 陷 了 {s51}， 我 希 望 你 能 喜 欢 地 牢 ， 将 来 你 会 在 那 里 待 上 许 多 年 。 
 str_comment_we_defeated_a_lord_unfriendly_spiteful|我 想 你 会 为 我 们 对 {s54}的 胜 利 干 一 杯 ， 不 过 还 是 省 省 吧 ， 再 多 的 胜 利 美 酒 都 洗 不 尽 你 之 前 的 耻 辱 。 如 果 不 是 国 家 利 益 远 大 于 我 的 私 人 恩 怨 ， 我 早 就 加 入 敌 人 那 边 来 狠 狠 修 理 你 了 ！ 
 str_comment_we_defeated_a_lord_unfriendly|我 不 会 忘 记 当 初 我 们 如 何 并 肩 作 战 ， 对 抗 {s54}， 但 我 也 不 会 忘 记 那 些 横 在 我 们 之 间 的 过 节 。 
-str_comment_we_defeated_a_lord_cruel|那 真 是 场 对 {s54}的 伟 大 胜 利 ， 对 吧 ？ 我 们 把 他 的 军 队 变成 了 乌 鸦 的 盛 宴 ！ 哈 ! 他 下 次 再 想 对 我 们 出 兵 时 可 得 三 思 了 。 
+str_comment_we_defeated_a_lord_cruel|那 真 是 场 对 {s54}的 伟 大 胜 利 ， 对 吧 ？ 我 们 把 他 的 军 队 变 成 了 乌 鸦 的 盛 宴 ！ 哈 ! 他 下 次 再 想 对 我 们 出 兵 时 可 得 三 思 了 。 
 str_comment_we_defeated_a_lord_quarrelsome|我 不 会 忘 记 我 们 是 如 何 攻 破 {s54}的 ， 那 真 是 太 过 瘾 啦 ！ 这 次 就 让 他 们 先 吃 点 苦 头 ， 下 次 要 把 他 们 全 杀 了 ！ 
 str_comment_we_defeated_a_lord_upstanding|诸 神 会 为 这 次 对 {s54}的 胜 利 感 到 骄 傲 的 ！ 让 我 们 再 次 感 谢 诸 神 、 祈 祷 我 们 不 会 变 得 太 骄 傲 ， 并 且 希 望 神 能 继 续 庇 荫 着 我 们 。 
 str_comment_we_defeated_a_lord_default|那 是 一 个 伟 大 的 胜 利 ， 不 是 吗 ？ 和 你 一 起 战 斗 我 感 到 很 荣 耀 。 
@@ -1750,7 +1750,7 @@ str_surrender_offer_pitiless|我 投 降 ！ 你 赢 了 ， 今 天 见 鬼 了
 str_surrender_offer_cunning|我 投 降 ！ 我 向 你 投 降 ！ 
 str_surrender_offer_sadistic|我 投 降 ！ 我 投 降 ！ 叫 你 的 走 狗 停 手 吧 ！ 
 str_surrender_offer_goodnatured|祝 贺 你 ， 你 赢 了 ， {reg63?先 生 :夫 人 }！ 我 投 降 ！ 
-str_surrender_offer_upstanding|我 投 降 ！ 保 证 我 军 人 的 荣 誉 ， 也 请 你 遵 守 信 用 ！ 
+str_surrender_offer_upstanding|我 投 降 ！ 请 你 表 现 出 风 度 ， 按 我 的 身 份 给 予 我 战 俘 应 有 的 荣 誉 ！ 
 str_lord_declines_negotiation_offer_default|也 许 吧 ， 不 过 我 想 跟 你 打 。 
 str_lord_declines_negotiation_offer_martial|也 许 吧 ， 不 过 我 有 义 务 跟 你 打 一 仗 。 
 str_lord_declines_negotiation_offer_quarrelsome|嘿 ！ 我 要 和 你 打 ！ 
@@ -1774,7 +1774,7 @@ str_enemy_meet_pitiless|你 是 谁 ？ 快 说 ， 好 让 我 知 道 我 杀 
 str_enemy_meet_cunning|告 诉 我 你 的 名 字 ， 了 解 敌 人 的 名 字 总 是 有 好 处 的 。 
 str_enemy_meet_sadistic|你 是 谁 ？ 趁 我 还 没 有 割 掉 你 的 舌 头 之 前 快 点 说 。 
 str_enemy_meet_goodnatured|你 叫 什 么 名 字 {reg63?先 生 :夫 人 }？ 如 果 我 们 开 战 了 ， 我 要 知 道 我 是 和 谁 在 打 仗 。 
-str_enemy_meet_upstanding|你 是 谁 ？ 我 想 知 道 是 谁 想 用 武 力 阻 止 我 们 正 义 的 事 业 。 
+str_enemy_meet_upstanding|所 以 ， 你 是 何 人 ， 是 谁 带 兵 来 与 我 为 敌 ？ 
 str_battle_won_default|今 天 ， 你 证 明 了 你 自 己 是 一 个 可 靠 的 盟 友 。 
 str_battle_won_martial|没 有 什 么 比 在 战 场 上 展 现 个 人 的 勇 武 更 加 有 成 就 感 ！ 
 str_battle_won_quarrelsome|啊 哈 ， 我 们 好 好 教 训 了 这 些 混 蛋 了 ， 是 吧 ？ 
@@ -1890,7 +1890,7 @@ str_rebellion_dilemma_2_upstanding|我 觉 得 我 必 须 为 了 领 地 尽 �
 str_political_philosophy_martial|我 的 剑 只 为 合 法 的 国 王 而 挥 ， 前 提 是 他 保 证 尽 到 对 我 的 义 务 。 
 str_political_philosophy_quarrelsome|呸 ， 他 们 是 一 群 混 蛋 ， 我 会 让 干 我 坏 事 的 人 觉 得 后 悔 的 。 
 str_political_philosophy_pitiless|人 们 总 是 试 图 骗 取 别 人 应 得 的 东 西 ， 在 这 个 毫 无 诚 信 可 言 的 世 界 上 ， 每 个 人 都 要 警 惕 的 看 管 好 属 于 自 己 的 权 利 。 
-str_political_philosophy_cunning|好 吧 ， 这 个 世 界 是 残 酷 的 ， 面 对 残 酷 的 选 择 是 我 们 的 宿 命 ， 有 时 候 一 个 人 需 要 侍 奉 暴 君 以 维 护 和 平 ， 而 有 时 候 一 点 儿 必 要 的 叛 乱 才 能 让 君 王 保 持 公 正 ， 总 之 ， 时 势 就 是 一 切
+str_political_philosophy_cunning|好 吧 ， 这 个 世 界 是 残 酷 的 ， 面 对 残 酷 的 选 择 是 我 们 的 宿 命 ， 有 时 候 一 个 人 需 要 侍 奉 暴 君 以 维 护 和 平 ， 而 有 时 候 一 点 儿 必 要 的 叛 乱 才 能 让 君 王 保 持 公 正 ， 总 之 ， 时 势 就 是 一 切 
 str_political_philosophy_sadistic|我 的 哲 学 很 简 单 :做 狼 好 过 做 羊 。 
 str_political_philosophy_goodnatured|好 吧 ， 你 必 须 用 承 诺 来 坚 定 信 仰 ， 并 且 避 免 待 人 不 公 ， 有 时 候 ， 要 想 平 衡 各 方 确 实 很 难 ， 我 觉 得 ， 跟 你 信 任 的 人 站 在 一 边 ， 这 就 不 至 于 错 得 太 离 谱 。 
 str_political_philosophy_upstanding|国 王 和 贵 族 的 权 力 应 该 被 用 来 维 护 和 平 ， 避 免 所 有 人 相 互 对 抗 ， 然 而 又 不 能 蒙 蔽 人 民 ， 让 他 们 看 不 到 不 公 正 的 地 方 。 
@@ -2868,7 +2868,7 @@ str_player_ask_scor_1|德 夏 的 勇 士 们 ， 可 以 告 诉 我 一 些 �
 str_player_ask_krak_1|令 人 生 畏 的 家 伙 ， 关 于 你 们 骑 士 团 的 历 史 你 有 什 么 可 以 跟 我 说 的 吗 ？ 
 str_drag_response_1|我 可 以 满 足 泥 ~ 只 要 你 给 我 一 点 你 贮 存 的 美 酒 。-大 口 喝 下 捐 给 的 麦 芽 酒 - 让 我 想 想 … … 啊 ！ 我 想 起 来 了 ， 这 是 潘 德 建 立 的 第 199个 年 头 ， 也 可 能 是 200… … 管 他 的 ， 光 荣 的 克 洛 维 斯 伯 爵 ， 长 歌 港 的 守 护 人 ， 成 为 了 骑 士 团 的 初 创 大 团 长 。 不 过 我 不 太 记 得 -为 啥 -骑 士 团 被 建 立 了 ， 我 相 信 晓 炉 城 的 抄 写 员 们 声 明 了 这 跟 王 室 死 绝 前 不 久 的 长 歌 港 攻 城 战 有 一 定 关 系 。 
 str_lion_response_1|哼 ， 我 觉 得 我 可 以 满 足 你 。 至 少 比 听 下 贱 农 民 的 胡 扯 靠 谱 。 我 隶 属 于 潘 德 最 古 老 的 骑 士 团 ， 或 至 少 也 是 最 古 老 的 其 中 之 一 ， 如 果 。 骑 士 团 在 潘 德 建 国 90年 前 就 被 创 建 了 ， 准 确 说 是 潘 德 建 国 82年 。 英 勇 的 骑 士 ， 血 红 的 罗 德 里 克 爵 士 ， “ 狮 鬓 ” 本 人 ， 是 我 们 的 初 创 人 。 你 有 空 可 以 看 看 他 的 相 关 事 迹 。 
-str_immo_response_1|你 是 第 一 个 斗 胆 接 触 我 并 询 问 的 ， 所 以 我 会 满 足 你 。 不 朽 者 们 在 当 今 霸 主 或 者 马 略 一 世 的 直 接 指 导 下 为 帝 国 服 务 。 毕 竟 是 马 略 建 立 了 骑 士 团 。 骑 士 团 本 身 还 十 分 年 轻 所 以 我 们 并 没 有 太 多 历 史 。 但 我 能 告 诉 你 我 们 是 帝 国 能 提 供 的 最 强 壮 的 死 士 。 
+str_immo_response_1|你 是 第 一 个 敢 主 动 靠 近 我 并 提 出 问 题 的 人 ， 所 以 我 就 满 足 你 的 好 奇 心 吧 。 不 朽 者 最 初 其 实 更 像 是 … … 直 属 现 任 君 主 ， 皇 帝 马 略 一 世 的 秘 密 部 门 。 这 是 根 据 我 们 的 创 始 章 程 — — 由 马 略 签 署 的 《 瓦 利 德 斯 宪 章 》 — — 所 规 定 的 。 我 们 这 个 骑 士 团 成 立 时 间 并 不 长 ， 历 史 也 不 算 丰 富 。 但 我 可 以 告 诉 你 ， 我 们 是 帝 国 里 最 强 悍 的 家 伙 。 
 str_wind_response_1|你 好 ， 或 许 我 们 的 相 遇 是 风 之 使 然 ？ - 轻 笑 - 我 确 实 是 一 名 御 风 者 ， 代 表 了 德 夏 贵 族 们 的 最 高 战 力 。 我 们 的 战 马 在 广 袤 的 沙 漠 中 经 受 良 久 训 练 ， 以 至 于 能 够 在 沙 丘 中 随 意 应 付 所 有 的 敌 人 。 说 出 来 你 可 能 不 信 ， 我 们 曾 经 是 一 个 如 天 蝎 刺 客 兄 弟 会 一 样 的 刺 客 团 的 分 支 宗 派 。 然 而 代 代 相 传 ， 我 们 变 得 越 发 像 与 我 们 战 斗 的 强 大 的 敌 人 们 ， 用 战 马， 铠 甲 和 钢 铁 应 战 。 
 str_valk_response_1|你 好 。 你 猜 的 没 错 ， 我 确 实 是 女 武 神 姐 妹 团 的 一 员 。 我 们 的 血 统 融 合 了 菲 尔 兹 威 的 高 贵 与 凡 斯 凯 瑞 的 狂 热 。 我 们 的 组 织 起 源 于 随 同 凡 斯 凯 瑞 掠 夺 者 前 来 的 女 人 们 。 在 各 种 意 义 上 我 们 都 曾 经 被 视 为 盾 女 和 肉 盾 。 
 str_grif_response_1|你 好 。 我 很 高 兴 你 注 意 到 了 我 们 骑 士 团 的 古 老 标 志 ， 狮 鹫 。 在 重 重 困 阻 下 我 们 终 获 新 生 ， 我 们 已 经 启 程 去 聆 听 潘 德 人 民 的 声 音 ， 并 为 我 们 共 存 的 土 地 带 来 和 平 与 秩 序 。
@@ -2906,7 +2906,7 @@ str_player_ask_scor_2|知 道 这 个 很 受 用 ， 你 们 的 组 织 都 �
 str_player_ask_krak_2|这 很 … … 见 不 得 人 ？ 但 为 什 么 你 们 的 组 织 被 当 做 教 会 ？ 
 str_drag_response_2|- 喝 了 一 杯 酒 - 啊 呀 ！ 老 子 想 起 来 了 ！ 长 歌 港 攻 城 战 导 致 了 北 方 领 主 们 脱 离 古 潘 德 而 自 立 为 凛 鸦 王 国 ， 以 首 都 凛 鸦 城 命 名 。 北 方 的 领 主 们 聚 集 在 一 起 并 且 签 订 了 臭 名 昭 着 的 瓦 利 德 斯 宪 章 ， 传 言 说 这 个 给 了 我 们 骑 士 团 作 为 官 方 贵 族 组 织 的 影 响 力 。 
 str_lion_response_2|我 们 通 过 在 战 场 和 法 院 上 始 终 如 一 的 对 骑 士 精 神 和 荣 誉 的 践 行 来 报 效 我 们 的 光 荣 存 在 ， 大 约 在 古 王 国 还 在 统 治 的 200年 ， 王 室 家 族 突 然 被 疫 病 击 溃 ， 这 迅 速 导 致 了 混 乱 。 我 们 的 姐 妹 骑 士 团 ， 狮 鹫 骑 士 团 ， 作 为 王 室 的 家 族 守 卫 ， 被 投 入 到 了 维 稳 中 ， 当 然 狮 骑 士 们 也 加 入 了 维 稳 。 突 发 的 权 力 真 空 使 得 领 主 们 相 互 对 抗 ， 并 进 一 步 引 发 争 端 。 
-str_immo_response_2|任 何 ， 一 切 有 关 蛇 教 的 事 。 他 们 早 已 娴 熟 地 渗 透 到 了 贵 族 群 体 和 我 们 帝 国 的 心 腹 ， 以 至 于 很 多 “ 纯 正 ” 的 帝 国 领 主 们 请 求 马 略 进 行 改 革 。 不 朽 者 团 由 此 规 定 选 拔 全 体 一 致 的 人 ， 并 毫 无 疑 问 地 对 秘 密 邪 教 聚 会 和 活 动 进 行 追 捕 。 每 一 次 结 果 都 十 分 血 腥 。 
+str_immo_response_2|只 要 是 和 蛇 教 有 关 的 事 ， 我 们 全 都 管 。 他 们 已 经 巧 妙 地 渗 透 进 了 帝 国 的 贵 族 阶 层 和 核 心 ， 很 多 帝 国 领 主 都 请 求 马 略 进 行 改 革 和 采 取 行 动 。 《 不 朽 者 律 令 章 程 》 明 确 规 定 ， 指 定 成 员 必 须 无 条 件 追 查 、 剿 灭 秘 密 教 派 和 邪 教 集 会 。 此 外 ， 还 要 彻 底 清 除 一 切 邪 教 活 动 和 相 关 人 员 。 每 次 行 动 都 免 不 了 血 腥 。 
 str_wind_response_2|当 天 蝎 刺 客 们 在 王 室 死 亡 后 成 为 一 个 部 落 首 领 的 私 人 守 卫 后 ， 我 们 的 组 织 就 开 始 初 步 成 立 了 。 哈 里 发 伊 特 萨 夫 瑟 (Itsaf Xer)担 心 他 会 被 野 心 家 和 未 来 的 可 汗 刺 杀 。 我 们 的 组 织 曾 是 对 天 蝎 刺 客 们 数 不 清 的 刺 杀 的 反 击 措 施 。 他 们 多 次 尝 试 刺 杀 哈 里 发 和 他 的 家 人 们 。 但 不 同 于 公 开 作 为 家 族 守 卫 ， 我 们 的 组 织 曾 经 是 多 元 化 的 ， 这 让 他 们 害 怕 ， 就 如 沙 漠 之 风 一 般 。 哈 里 发 持 续 用 他 的 组 织 来 终 结 对 他 的 刺 杀 以 宣 布 他 有 能 力 进 行 反 击 。 而 有 一 天 御 风 者 们 终 于 成 功 踏 足 于 现 在 强 大 的 属 于 天 蝎 刺 客 们 的 城 镇 营 地 。 他 们 不 曾 想 过 有 人 会 愚 蠢 到 尝 试 这 个 ， 也 确 实 不 曾 有 人 考 虑 过 。 
 str_valk_response_2|“ 暮 熊 ” 戈 多 首 领 曾 经 是 一 个 令 人 生 畏 的 凡 斯 凯 瑞 首 领 。 他 带 来 了 很 多 我 们 组 织 的 祖 先 和 他 一 起 探 索 潘 德 的 腹 地 。 经 过 一 次 又 一 次 的 掠 夺 ， 以 及 数 不 清 的 被 虐 待 和 被 这 些 男 人 们 在 战 场 和 床 上 占 有 ， 女 人 们 自 己 也 形 成 了 一 股 强 大 的 力 量 。 这 些 盾 女 们 发 誓 决 不 再 被 当 做 消 耗 品 和 他 人 的 性 奴 隶 。 那 一 夜 她 们 作 为 下 贱 的 女 人 侍 奉 劳 累 的 首 领 ， 而 当 时 机 成 熟 ， 她 们 杀 掉 了 整 个 领 导 层 。 她 们 敲 响 了 警 钟 并 大 多 数 逃 入 了 山 区 。
 str_grif_response_2|我 们 打 算 支 持 我 们 全 新 王 国 的 领 导 人 。 在 他 的 领 导 下 ， 狮 鹫 骑 士 们 将 为 和 平 繁 荣 的 新 时 代 奠 基 。 血 色 瘟 疫 和 王 室 的 灭 绝 让 骑 士 团 陷 入 混 乱 ， 我 们 的 骑 士 团 在 狮 骑 士 团 和 其 伪 王 在 权 力 游 戏 的 胜 利 中 被 撕 碎 ， 并 失 去 了 一 切 威 信 。 骑 士 团 的 大 多 成 员 们 开 始 隐 退 ， 或 从 事 佣 兵 工 作 ， 或 开 始 一 些 其 他 的 交 易 ， 其 他 的 尽 遭 杀 戮 。 而 我 们 的 记 录 ， 除 了 一 些 前 骑 士 携 带 的 文 件 外 ， 皆 被 销 毁 。 但 我 们 的 初 衷 从 未 动 摇 ， 我 们 旨 在 新 的 领 导 下 将 潘 德 从 无 尽 的 内 战 中 解 脱 。 骑 士 团 古 老 成 员 的 后 裔 们 陆 续 前 来 ， 准 备 好 用 我 们 的 钢 铁 来 迎 接 挑 战 ， 来 完 成 先 祖 未 竟 的 大 业 。 
@@ -3969,7 +3969,7 @@ str_em_ill_stay_out_of_this|呃 … … 我 不 参 与 这 个 。
 str_the_s12_is_a_labyrinth_of_rivalries_and_grudges_lords_ignore_their_lieges_summons_and_many_are_ripe_to_defect|{s12}是 一 个 充 满 了 恶 意 和 争 夺 的 迷 宫 ， 领 主 们 将 君 主 的 召 唤 置 之 不 理 ， 并 且 做 好 了 随 时 改 换 门 庭 的 准 备 。 
 str_the_s12_is_shaky_many_lords_do_not_cooperate_with_each_other_and_some_might_be_tempted_to_defect_to_a_liege_that_they_consider_more_worthy|{s12}十 分 脆 弱 ， 大 多 数 领 主 之 间 毫 无 团 结 可 言 ， 还 有 一 些 人 很 可 能 会 因 为 诱 惑 而 转 投 向 他 们 认 为 更 值 得 效 忠 的 君 主 。 
 str_the_s12_is_fairly_solid_some_lords_bear_enmities_for_each_other_but_they_tend_to_stand_together_against_outside_enemies|{s12}非 常 稳 固 ， 一 些 领 主 间 可 能 互 相 怀 有 敌 意 ， 但 是 一 旦 有 外 敌 入 侵 ， 他 们 总 是 会 团 结 起 来 一 致 对 外 。 
-str_the_s12_is_a_rock_of_stability_politically_speaking_whatever_the_lords_may_think_of_each_other_they_fight_as_one_against_the_common_foe|按 照 官 方 的 说 法 ， {s12}稳 如 磐 石 。 领 主 们 可 能 会 对 其 他 人 略 有 不 满 ， 但 是 在 共 同 的 敌 人 面 前 他 们 彼 此 团 结 的 紧 密 无 间 。 
+str_the_s12_is_a_rock_of_stability_politically_speaking_whatever_the_lords_may_think_of_each_other_they_fight_as_one_against_the_common_foe|从 政 治 角 度 来 说 ， {s12}稳 如 磐 石 。 无 论 领 主 们 彼 此 怎 么 看 待 ， 他 们 都 会 团 结 一 致 对 抗 共 同 的 敌 人 。 
 str_tribune_s12|护 民 官 {s12}
 str_lady_s12|{s12}女 士 
 str_lord_s12|{s12}领 主 
@@ -4095,7 +4095,7 @@ str_you_are_challenging_me_to_a_duel_how_droll_as_you_wish_playername_it_will_be
 str_call_me_coward_very_well_you_leave_me_no_choice|说 我 是 懦 夫 ？ 很 好 ， 你 让 我 别 无 选 择 。 
 str_reg3_hours|{reg3}小 时 ， 
 str_hour|小 时 ， 
-str_however_circumstances_have_changed_since_we_made_that_decision_and_i_may_reconsider_shortly_s16|然 而 ， 此 一 时 ， 彼 一 时 ， 我 也 许 会 重 新 考 虑 一 下 ， {s16}。 
+str_however_circumstances_have_changed_since_we_made_that_decision_and_i_may_reconsider_shortly_s16|然 而 ， 此 一 时 ， 彼 一 时 ， 我 也 许 会 重 新 考 虑 一 下 ， {s16}
 str_i_wish_to_marry_your_s11_s10_i_ask_for_your_blessing|我 希 望 能 与 你 的 {s11}成 婚 ， {s10}， 我 期 盼 你 的 祝 福 。 
 str_i_wish_to_marry_your_s11_s10_i_ask_for_your_help|我 希 望 能 与 你 的 {s11}成 婚 ， {s10}， 我 希 望 得 到 你 的 帮 助 。 
 str_you_plan_to_marry_s3_at_a_feast_hosted_by_s4_in_s5_you_should_be_notifed_of_the_feast_as_soon_as_it_is_held|你 计 划 在 {s5}由 {s4}主 办 的 宴 会 上 与 {s3}结 婚 ， 宴 会 举 办 前 会 通 知 你 。 
@@ -4321,7 +4321,7 @@ str_army_composition|部 队 成 分
 str_army_size|部 队 规 模 
 str_reg0_men|{reg0}人 
 str_start|开 始 
-str_i_need_to_raise_some_men_before_attempting_anything_else|我 在 试 图 干 任 何 事 情 之 前 最 好 先 召 集 一 些 人 
+str_i_need_to_raise_some_men_before_attempting_anything_else|我 在 试 图 干 任 何 事 情 之 前 最 好 先 召 集 一 些 人 。 
 str_we_are_currently_at_peace|我 们 现 在 保 持 和 平 
 str_the_marshalship|元 帅 
 str_you|你 
@@ -4617,7 +4617,7 @@ str_renegade_zelshai_spawn|扎 夏 部 落 已 被 从 德 夏 境 内 驱 逐 �
 str_renegade_barclay_spawn|一 个 小 型 的 巴 克 利 非 法 贵 族 团 体 在 风 屿 港 附 近 登 陆 ， 他 们 掠 夺 了 附 近 的 村 庄 。 
 str_renegade_vecavian_spawn|叛 变 的 菲 卡 维 亚 奴 隶 贩 子 在 光 啸 湾 附 近 登 陆 ， 他 们 带 走 了 能 找 到 的 所 有 男 丁 。 
 str_renegade_first_blood_spawn|新 成 员 的 涌 入 给 猎 命 杀 手 团 带 来 不 良 后 果 。 现 在 ， 一 群 嗜 血 的 狂 战 士 摧 毁 了 雾 笼 城 附 近 的 村 庄 。 至 今 为 止 的 伤 亡 包 括 :不 少 农 民 ， 两 支 民 兵 巡 逻 队 ， 一 群 牛 。 
-str_renegade_svargeon_spawn|菲 尔 兹 威 已 经 驱 逐 了 贵 族 斯 瓦 根 家 族 的 所 有 成 员 。 他 们 被 发 现 勾 结 异 端 和 献 祭 人 类 的 罪 状 。 
+str_renegade_svargeon_spawn|菲 尔 兹 威 已 经 驱 逐 了 贵 族 斯 瓦 根 家 族 的 所 有 成 员 。 因 他 们 被 查 明 犯 有 人 祭 和 与 异 端 勾 结 之 罪 。 
 str_renegade_iceguard_spawn|寒 冰 卫 士 游 侠 已 经 放 弃 效 忠 凛 鸦 境 ， 他 们 绑 架 了 一 位 贵 族 仕 女 为 人 质 ， 正 在 为 脱 离 凛 鸦 境 而 战 。 
 str_renegade_halfbreed_spawn|在 凛 鸦 境 ， 整 个 贵 族 家 族 因 被 发 现 具 有 迷 雾 山 血 统 被 王 国 放 逐 ， 他 们 加 入 了 那 些 处 境 相 同 的 混 血 骑 士 们 ， 在 凛 鸦 境 内 肆 虐 。 
 str_renegade_falcon_spawn|一 群 猎 鹰 骑 士 穿 上 自 己 骑 士 团 的 装 备 以 表 达 对 凛 鸦 境 律 法 的 藐 视 。 他 们 在 使 坠 湾 附 近 以 武 力 盘 查 路 过 的 所 有 人 。 

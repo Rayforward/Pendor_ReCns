@@ -393,8 +393,8 @@ qstr_You_lose_honor.|你 失 去 荣 誉 ！
 qstr_The_{s1}_declared_wa|{s1}对 {s2}宣 战 。 
 qstr_The_{s1}_and_the_{s2|{s1}与 {s2}达 成 和 平 协 议 。 
 qstr_{s2}_{reg3?was:is_cu|{s2}{reg3?曾 :正 }在 {s3}。 
-qstr_{s2}_{reg3?was:is}_t|{s2}{reg3?已 经 :正 在 }赶 去 {s3}， 而 {reg4?她 :他 }{reg3? 之 前 :也 许 }在 {s4}{reg3? :附 近 }。 
-qstr_{s2}_{reg3?was:is}_i|{s2}{reg3? :正 }在 野 外 某 地 ， 而 {reg4?她 :他 }{reg3?之 前 :也 许 }在 {s3}{reg3? :附 近 }。 
+qstr_{s2}_{reg3?was:is}_t|{s2}{reg3?已 经 :正 在 }赶 去 {s3}， {reg4?她 :他 }{reg3?曾 经 :应 该 }在 {s4}附 近 。 
+qstr_{s2}_{reg3?was:is}_i|{s2}{reg3?:正 }在 野 外 某 处 ， {reg4?她 :他 }{reg3?曾 经 :应 该 }在 {s3}附 近 。 
 qstr_{s2}_{reg3?was:is}_b|{s2}{reg3?曾 :正 }被 囚 禁 在 {s3}。 
 qstr_{s2}_{reg3?was:has_b|{s2}被 敌 人 俘 虏 。 
 qstr_{reg3?{s2}_s_locatio|{reg3?{s2}的 位 置 不 明 确 :我 不 知 道 {s2}在 哪 里 }。 
@@ -1151,7 +1151,7 @@ qstr__Aye.._that_I_have.|唉 ， 确 实 。
 qstr__You_are_in_luck.|你 很 走 运 。 
 qstr__Yes_my_{reg63?Lord:|是 的 ， {reg63?大 人 :女 士 }， 确 实 。 
 qstr__Please_keep_your_voi|请 小 声 点 ， 我 的 朋 友 ！ 
-qstr__Aye_I_have_an_ear_a|是 呀 ， 我 有 一 个 故 事 ， 告 诉 你 。 
+qstr__Aye_I_have_an_ear_a|嗯 ， 我 愿 意 倾 听 ， 也 有 故 事 可 讲 。 
 qstr__My_{reg63?lord:Lady}|请 小 声 点 ， {reg63?大 人 :女 士 }， 你 和 我 都 还 不 想 死 对 吧 ？ 
 qstr__Well_met_my_{reg63?l|幸 会 ， {playername}{reg63?大 人 :女 士 }。 如 果 被 兄 弟 会 发 现 我 在 出 售 这 些 绝 密 讯 息 ， 他 们 会 杀 了 我 俩 的 ！ 
 qstr__{reg63?Lord:Lady}_{p|{playername}{reg63?大 人 :女 士 }， 你 真 走 运 。 
@@ -1276,8 +1276,8 @@ qstr_riding_along_the_roa|正 沿 道 路 骑 着 马 时
 qstr_a_merchant_named_{s1|一 位 叫 做 {s12}的 商 人 
 qstr_looking_for_his_appr|正 寻 找 着 他 的 同 伴 时 
 qstr_meeting_a_money_lend|正 在 会 见 债 主 时 
-qstr_waiting_for_a_custom|正 在 等 待 顾 客 时
-qstr_making_camp|正 在 整 理 帐 篷 时
+qstr_waiting_for_a_custom|正 在 等 待 顾 客 时 
+qstr_making_camp|正 在 整 理 帐 篷 时 
 qstr_a_wandering_Knight_o|一 个 正 在 漫 游 的 黎 明 骑 士 
 qstr_looking_for_his_squi|正 寻 找 他 的 乡 绅 时 
 qstr_tending_to_his_horse|正 在 照 看 着 他 的 马 时 
@@ -1365,7 +1365,7 @@ qstr_in_the_castle_courty|在 城 堡 大 厅 里
 qstr_noon_yesterday|昨 日 中 午 
 qstr_recently|不 久 
 qstr_I_heard_{s9}_from_{s|我 从 {s11}听 到 {s9}， 
-qstr_I_was_told_{s13}_of_|我 从 {s11}那 里 听 说 {s13}的 {s9}， 
+qstr_I_was_told_{s13}_of_|我 从 {s11}那 里 听 到 了 {s13}的 {s9}， 
 qstr_Hmm_{s13}_I_heard_{s|嗯 ， {s13}我 从 {s11}听 到 {s9}， 
 qstr_I_heard_{s9}_from_{s1|我 从 {s11}， {s13}听 到 {s9}， 
 qstr_I_met_{s11}_{s13}_wh|我 会 见 {s11}， {s13}告 诉 我 {s9}， 
@@ -2704,7 +2704,7 @@ qstr_Well_done_{reg63?sir|干 得 好 ， {reg63?先 生 :夫 人 }。 继 续 �
 qstr_We_are_at_your_servi|我 们 听 命 于 你 ， {reg63?先 生 :夫 人 }。 你 所 要 做 的 ， 仅 仅 是 为 我 们 指 明 攻 击 对 象 。 
 qstr_current_relations_wi|目 前 与 城 市 的 关 系 :{reg40}
 qstr_The_Guildmaster_of_{|{s13}的 市 长 要 你 解 决 附 近 郊 区 的 劫 匪 ， 并 把 夺 回 的 货 物 全 部 带 去 给 他 。 
-qstr_{s9}_of_{s3}_asked_y|{s3}的 {s9}请 你 在 7天 内 带 {reg5}单 位 的 {s6}到 {s4}的 酒 馆 。 
+qstr_{s9}_of_{s3}_asked_y|{s3}的 {s9} 请 你 在 7天 内 带 {reg5}单 位 的 {s6}去 {s4}的 酒 馆 。 
 qstr_Escort_the_merchant_|护 送 商 人 的 商 队 去 {s8}。 
 qstr_Merchant_{s9}_of_{s4|{s4}的 {s9}要 你 消 灭 在 城 市 附 近 的 棘 手 的 强 盗 。 
 qstr_Guildmaster_of_{s4}_|{s4}的 市 长 给 你 {reg12}第 纳 尔 ， 作 为 女 孩 的 赎 金 。 你 要 在 {s3}附 近 和 强 盗 会 面 ， 赎 回 女 孩 并 带 回 {s4}。 
@@ -3165,7 +3165,7 @@ qstr_the_agreement_with_merc_group_has_expired|你 与 佣 兵 团 的 协 议 �
 qstr_ally_morale_inc_1|你 斩 杀 了 战 场 上 的 逃 兵 ， 部 队 士 气 提 升 了 ， 但 你 的 威 望 受 到 了 影 响 。 
 qstr_ally_morale_inc_2|你 斩 杀 了 战 场 上 的 逃 兵 ， 部 队 士 气 提 升 了 ！ 
 qstr_start_to_train_sergeant|有 {reg1}名 {s1} 离 开 了 你 的 队 伍 去 参 加 骑 士 团 骑 士 考 核 。 
-qstr_sergeant_training_note|骑 士 团 考 核 已 结 束 ， 你 提 名 的 人 选 里 共 有 {reg1}名 {s2} 通 过 考 核 ， 现 在 他 们 作 为 {s1} 回 到 了 你 的 部 队 。 
+qstr_sergeant_training_note|骑 士 团 考 核 已 结 束 ， 你 提 名 的 人 选 里 共 有 {reg1}名 {s2}通 过 考 核 ， 现 在 他 们 作 为 {s1}回 到 了 你 的 部 队 。 
 qstr_party_speed|敌 境 减 速 
 qstr_party_speed_1|一 、 当 大 地 图 上 的 部 队 靠 近 敌 对 势 力 的 聚 落 时 ， 行 军 速 度 将 会 下 降 ；^^二 、 部 队 距 离 聚 落 越 近 ， 行 军 速 度 下 降 幅 度 越 大 ；^^三 、 聚 落 类 型 对 部 队 行 军 速 度 影 响 程 度 从 大 到 小 依 次 为 :城 镇 ＞ 城 堡 ＞ 村 庄 。^^预 设 为 禁 用 。
 qstr_prisoner_escape_from_party|俘 虏 逃 跑 成 为 乱 军 
@@ -3239,7 +3239,7 @@ qstr_hb_item_r|右 手 武 器
 qstr_shooter_ai|步 射 AI
 qstr_shooter_ai_1|一 、 对 除 玩 家 以 外 的 所 有 步 射 单 位 有 效 ， 包 括 弓 、 弩 、 投 掷 、 火 枪 、 手 枪 ， 步 射 单 位 处 于 站 定 或 冲 锋 状 态 时 触 发 。^^二 、 步 射 单 位 将 具 有 更 高 的 攻 击 积 极 性 。^^三 、 移 动 中 的 步 射 单 位 在 射 击 时 将 减 速 以 确 保 命 中 率 。^^四 、 有 效 射 程 将 由 步 射 单 位 的 武 器 熟 练 度 、 强 弓 等 级 （ 如 武 器 为 弓 ） ， 以 及 武 器 的 弹 速 、 精 度 、 难 度 (如 武 器 为 弓 ， 影 响 强 弓 加 成 上 限 )、 前 缀 (如 为 英 雄 单 位 )共 同 决 定 。^^五 、 当 敌 人 靠 近 步 射 单 位 30米 时 ， 步 射 单 位 将 后 退 与 敌 人 保 持 距 离 。^^六 、 当 敌 人 距 离 过 远 时 ， 步 射 单 位 将 在 精 确 瞄 准 后 射 击 ； 当 敌 人 靠 近 33米 内 时 ， 步 射 单 位 将 减 少 精 确 瞄 准 时 间 ； 当 敌 人 靠 近 7米 内 时 ， 步 射 单 位 将 不 再 精 确 瞄 准 。^^七 、 当 步 射 单 位 3米 内 有 以 其 为 攻 击 对 象 的 敌 人 靠 近 时 ， 他 将 停 止 射 击 并 切 换 近 战 武 器 进 行 白 刃 战 。^^预 设 为 禁 用 。
 qstr_{s2}^The_{s4}:_{reg1_recognition:_{reg2|{s2}^{s4}:{reg1}({s33}) ， 认 可 度 :{reg2}
-qstr_old_ruins_fix|你 在 {s1}的 {s2}已 经 整 装 待 发 。 
+qstr_old_ruins_fix|你 在 {s1}的 {s2}已 经 修 复 完 成 。 
 qstr_old_ruins_fix_|你 在 {s1}的 {s2}已 经 重 获 健 康 。 
 qstr_world_map_event|大 地 图 事 件 
 qstr_world_map_event_1|开 启 后 ， 在 满 足 某 些 条 件 时 ， 会 发 生 一 些 与 潘 德 世 界 观 有 一 定 关 联 的 事 件 供 玩 家 参 与 。^^预 设 为 禁 用 。
@@ -3402,7 +3402,7 @@ qstr_{s2}The_claimed_lord_is_{s13}_of_the_{s14}|{s2}这 片 土 地 的 法 理 
 qstr_{s1}claimed_lord:_{s16}_of_the_{s17}|{s1} (法 理 领 主 :{s17}的 {s16}) 
 qstr_{s11}claimed_lord:_{s16}_of_the_{s17}|{s11} (法 理 领 主 :{s17}的 {s16}) 
 qstr_{s13}claimed_lord:_{s16}_of_the_{s17}|{s13} (法 理 领 主 :{s17}的 {s16}) 
-qstr_{s5}_get_the_claim_of_{s6}|{s5} 获 得 了 对 {s6} 的 宣 称 。 
+qstr_{s5}_get_the_claim_of_{s6}|{s5}获 得 了 对 {s6}的 宣 称 。 
 qstr_rose_knight_grandmaster|大 团 长 ， 请 接 受 这 套 盔 甲 。 这 套 盔 甲 是 历 代 的 大 团 长 传 下 来 的 ， 他 们 都 曾 经 为 我 们 骄 傲 的 骑 士 团 服 务 过 。 穿 上 这 套 盔 甲 ， 向 其 他 骑 士 团 表 示 :我 们 玫 瑰 骑 士 团 已 经 再 次 盛 放 。 我 们 曾 荣 戴 桂 冠 ， 也 曾 走 遍 荆 棘 ； 我 们 曾 坚 守 教 谕 ， 也 曾 踏 入 虚 妄 ； 我 们 已 洗 刷 罪 孽 ， 也 已 寻 到 救 赎 ； 我 们 将 直 面 命 运 ， 也 将 继 续 抗 争 ； 我 们 已 拥 抱 毁 灭 ， 我 们 将 得 到 新 生 ！^^现 在 这 套 盔 甲 的 状 况 的 确 因 为 年 久 失 修 ， 状 况 并 不 理 想 。 一 名 熟 练 的 铁 匠 应 该 有 能 力 让 其 重 现 往 日 的 光 荣 的 。 正 如 大 团 长 你 让 我 们 骑 士 团 重 拾 信 仰 一 般 ， 流 风 终 散 尽 ， 玫 瑰 永 不 息 ！ 
 qstr_ebony_gauntlet_grandmaster|大 团 长 ， 请 接 受 这 套 盔 甲 。 这 套 盔 甲 是 历 代 的 大 团 长 传 下 来 的 ， 他 们 都 曾 经 为 我 们 骄 傲 的 骑 士 团 服 务 过 。 穿 上 这 套 盔 甲 ， 向 其 他 骑 士 团 表 示 :我 们 乌 木 护 手 骑 士 团 会 继 续 以 铲 除 危 害 人 类 的 邪 恶 诺 多 为 骑 士 团 的 宗 旨 和 目 标 ， 用 诺 多 的 绝 种 ， 来 偿 还 古 老 的 血 债 ！^^现 在 这 套 盔 甲 的 状 况 的 确 因 为 年 久 失 修 ， 状 况 并 不 理 想 。 一 名 熟 练 的 铁 匠 应 该 有 能 力 让 其 重 现 往 日 的 光 荣 的 。 正 如 大 团 长 你 选 择 支 持 我 们 的 事 业 一 般 ， 诺 多 ， 终 被 放 逐 ！ 
 qstr_{s11}_no_claimed_lord|{s11}^^这 片 土 地 没 有 法 理 领 主 。 
